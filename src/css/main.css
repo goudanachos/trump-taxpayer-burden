@@ -1,0 +1,397 @@
+@import "tailwindcss";
+
+/* TECHNO-FASCIST USA COMPETENCY DESIGN SYSTEM */
+@theme {
+  /* Federal Authority Color System - Maximum Impact */
+  --color-authority-black: #000000;   /* Absolute black - maximum authority */
+  --color-authority-white: #FFFFFF;   /* Pure white - stark contrast */
+  --color-crimson-alert: #DC143C;     /* Crimson red - cost alerts, danger */
+  --color-glory-blue: #002868;        /* Old Glory Blue - actions, links */
+  --color-steel-gray: #6C757D;        /* Muted gray - secondary elements */
+  
+  /* Background System */
+  --color-bg-primary: #FFFFFF;        /* Pure white primary */
+  --color-bg-command: #000000;        /* Black command areas */
+  --color-bg-secondary: #F8F9FA;      /* Near white secondary */
+  
+  /* Text Hierarchy - Maximum Contrast */
+  --color-text-primary: #000000;      /* Absolute black primary text */
+  --color-text-secondary: #6C757D;    /* Steel gray secondary text */
+  --color-text-inverse: #FFFFFF;      /* White text on black */
+  --color-text-alert: #DC143C;        /* Crimson for costs/alerts */
+  
+  /* Geometric System */
+  --border-authority: 2px solid #000000;    /* Thick black borders */
+  --border-classification: 4px solid #DC143C; /* Red classification bars */
+  --border-light: 1px solid #DEE2E6;        /* Subtle dividers */
+  
+  /* Focus & Interaction */
+  --color-focus: #DC143C;             /* Red focus - commanding attention */
+}
+
+/* EDITORIAL POLISH - Mathematical White Space Progression */
+:root {
+  /* 1.5x Geometric Progression for Harmonious Spacing */
+  --space-unit: 8px;           /* Base atomic unit */
+  --space-xs: 8px;             /* 1x base */
+  --space-sm: 12px;            /* 1.5x base */
+  --space-md: 18px;            /* 2.25x base (1.5²) */
+  --space-lg: 27px;            /* 3.375x base (1.5³) */
+  --space-xl: 40.5px;          /* 5.0625x base (1.5⁴) */
+  --space-xxl: 60.75px;        /* 7.59375x base (1.5⁵) */
+  
+  /* Typography Scale - Optically Balanced */
+  --text-classification: 3rem;     /* 48px - Maximum impact */
+  --text-command: 1.5rem;          /* 24px - Clear hierarchy */
+  --text-standard: 1rem;           /* 16px - Optimal reading */
+  --text-detail: 0.75rem;          /* 12px - Supporting info */
+  --text-caption: 0.6875rem;       /* 11px - Fine print */
+  
+  /* Content Width Optimization - Based on Reading Research */
+  --content-width-optimal: 65ch;   /* 45-75 characters per line */
+  --content-width-narrow: 45ch;    /* Focused reading */
+  --content-width-wide: 80ch;      /* Data-heavy content */
+  
+  /* Baseline Grid System */
+  --baseline-unit: 4px;            /* All text aligns to 4px grid */
+  
+  /* Geometric Precision */
+  --border-width-hair: 0.5px;      /* Ultra-fine details */
+  --border-width-thin: 1px;        /* Subtle divisions */
+  --border-width-standard: 2px;    /* Authority borders */
+  --border-width-bold: 4px;        /* Classification bars */
+  --radius-none: 0;                /* Pure geometric forms */
+}
+
+/* BREATHING TYPOGRAPHY SYSTEM - Professional Grade Optical Adjustments */
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700;900&display=swap');
+
+/* Typography with Optical Sizing and Baseline Grid Precision */
+.authority-font {
+  font-family: 'Public Sans', system-ui, sans-serif;
+  font-weight: 700;
+  /* Optical adjustment: tighter spacing at larger sizes */
+  letter-spacing: clamp(0.015em, 0.025em - 0.002vw, 0.025em);
+  text-transform: uppercase;
+  /* Baseline grid alignment */
+  line-height: 1.25; /* Exact 4px baseline alignment */
+}
+
+.command-font {
+  font-family: 'Source Sans Pro', system-ui, sans-serif;
+  font-weight: 600;
+  /* Natural optical spacing that tightens as size increases */
+  letter-spacing: clamp(-0.02em, -0.01em + 0.001vw, -0.005em);
+  /* Perfect baseline grid */
+  line-height: 1.333; /* 4px baseline aligned */
+}
+
+.standard-font {
+  font-family: 'Public Sans', system-ui, sans-serif;
+  font-weight: 400;
+  letter-spacing: 0;
+  /* Optimal reading line-height */
+  line-height: 1.5; /* Exactly 24px on 16px text */
+}
+
+.classification-font {
+  font-family: 'SF Mono', 'Monaco', 'Menlo', monospace;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  /* Professional financial formatting */
+  font-variant-numeric: tabular-nums lining-nums;
+  font-feature-settings: "tnum" 1, "lnum" 1;
+  /* Monospace baseline precision */
+  line-height: 1.375;
+}
+
+/* Currency formatting with proper spacing */
+.currency-format {
+  /* Use thin space (U+2009) for thousands separator in CSS content */
+  white-space: nowrap;
+}
+
+/* Icon precision - align to 0.5px boundaries */
+svg {
+  shape-rendering: geometricPrecision;
+  vector-effect: non-scaling-stroke;
+}
+
+/* PHYSICS-INFORMED INTERACTION SYSTEM */
+:root {
+  /* Natural easing curves that mirror real-world physics */
+  --ease-natural: cubic-bezier(0.4, 0.0, 0.2, 1);      /* Material design precision */
+  --ease-anticipation: cubic-bezier(0.68, -0.55, 0.265, 1.55); /* Subtle bounce */
+  --ease-decelerate: cubic-bezier(0.0, 0.0, 0.2, 1);   /* Natural slowdown */
+  --ease-accelerate: cubic-bezier(0.4, 0.0, 1, 1);     /* Natural speedup */
+  
+  /* Timing that feels instant but allows perception */
+  --duration-snap: 150ms;      /* Immediate feedback */
+  --duration-natural: 250ms;   /* Comfortable transition */
+  --duration-considered: 400ms; /* Deliberate animation */
+}
+
+/* Universal transition system */
+* {
+  transition: all var(--duration-snap) var(--ease-natural);
+}
+
+/* Hover anticipation - elements respond before cursor arrival */
+a, button, [tabindex], .expenditure-card {
+  transition: all var(--duration-snap) var(--ease-anticipation);
+}
+
+/* Focus states feel instantaneous */
+:focus-visible {
+  transition: all 50ms var(--ease-natural);
+  outline: 2px solid var(--color-focus);
+  outline-offset: 2px;
+}
+
+/* CONTEXTUAL AWARENESS - Progressive Enhancement */
+
+/* Respect user motion preferences */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* High contrast mode support */
+@media (prefers-contrast: high) {
+  :root {
+    --color-text-primary: #000000;
+    --color-bg-primary: #FFFFFF;
+    --color-text-alert: #CC0000;
+  }
+}
+
+/* Dark mode accommodation (subtle) */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-bg-primary: #FAFAFA; /* Keep light theme but acknowledge preference */
+    --color-text-primary: #0A0A0A; /* Slightly softer black */
+  }
+}
+
+/* Touch device optimizations */
+@media (pointer: coarse) {
+  /* Larger touch targets */
+  a, button, [tabindex] {
+    min-height: 44px;
+    min-width: 44px;
+    padding: max(var(--space-sm), 11px);
+  }
+}
+
+/* Print optimization (most developers never think of this) */
+@media print {
+  * {
+    color: black !important;
+    background: white !important;
+    box-shadow: none !important;
+  }
+  
+  .classification-font {
+    font-family: 'Courier New', monospace;
+  }
+  
+  header, footer {
+    break-inside: avoid;
+  }
+}
+
+/* Body defaults - Federal Authority Theme */
+body {
+  background-color: var(--color-bg-primary);
+  color: var(--color-text-primary);
+  font-family: 'Public Sans', system-ui, sans-serif;
+  font-size: var(--text-standard);
+  line-height: 1.5;
+  font-weight: 400;
+  /* Smooth scroll with momentum */
+  scroll-behavior: smooth;
+}
+
+/* Removed ornate hero styles - replaced with inline minimal styles */
+
+/* Removed complex metrics banner styles - minimalist approach */
+
+/* Removed ornate section heading styles */
+
+/* Removed complex skeleton loading system - not needed for minimalist design */
+
+/* Removed ornate currency styling */
+
+/* Card interactions - 8px grid based */
+.expenditure-card {
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.9) 0%, rgba(248, 250, 252, 0.9) 100%);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(226, 232, 240, 0.8);
+  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.expenditure-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.expenditure-card:focus-within {
+  outline: 2px solid var(--color-focus-blue);
+  outline-offset: 2px;
+}
+
+/* Keyboard focus for card links */
+.expenditure-card a:focus {
+  outline: 2px solid var(--color-focus-blue);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+/* Button styles */
+.btn-patriot {
+  background: linear-gradient(135deg, #DC2626 0%, #B91C1C 100%);
+  color: white;
+  font-weight: 600;
+  padding: 0.75rem 1.5rem;
+  border-radius: 0.5rem;
+  transition: all 0.2s ease;
+  border: none;
+  cursor: pointer;
+}
+
+.btn-patriot:hover {
+  background: linear-gradient(135deg, #B91C1C 0%, #991B1B 100%);
+  transform: translateY(-1px);
+  box-shadow: 0 10px 20px -5px rgba(220, 38, 38, 0.4);
+}
+
+/* Social share buttons - Outline style */
+.social-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 1rem;
+  border-radius: 0.375rem;
+  font-weight: 500;
+  transition: all 0.2s ease;
+  text-decoration: none;
+  border: 1px solid var(--color-accent-gold-dark);
+  color: var(--color-accent-gold-dark);
+  background: transparent;
+}
+
+.social-btn:hover {
+  background: var(--color-accent-gold-dark);
+  color: var(--color-bg-deep-navy);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.social-twitter,
+.social-facebook,
+.social-copy {
+  /* Unified outline styling */
+  border: 1px solid var(--color-accent-gold-dark);
+  color: var(--color-accent-gold-dark);
+  background: transparent;
+}
+
+/* Fluid grid system - 8px base */
+.grid-expenditures {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: var(--space-l);  /* 32px */
+  margin-bottom: var(--space-3xl);  /* 64px */
+}
+
+/* Card spacing system */
+.expenditure-card {
+  --space-card-padding: var(--space-m);  /* 24px */
+  --space-card-gap: var(--space-s);      /* 16px */
+}
+
+.expenditure-card .p-6 {
+  padding: var(--space-card-padding);
+}
+
+.expenditure-card .mb-6 {
+  margin-bottom: var(--space-card-padding);
+}
+
+.expenditure-card .mb-4 {
+  margin-bottom: var(--space-card-gap);
+}
+
+/* Responsive breakpoints - Mobile first approach */
+@media (max-width: 768px) {
+  /* Hero mobile fixes - Item 20 */
+  .hero {
+    min-height: min(50vh, 280px);
+    max-height: min(50vh, 280px);
+  }
+  
+  .hero-title {
+    font-size: var(--text-hero-mobile);  /* 28px */
+    padding: 0 var(--space-s);  /* 16px */
+    line-height: 1.2;
+  }
+  
+  /* Metrics banner mobile */
+  .metrics-banner {
+    margin: var(--space-m) auto 0;  /* 24px gap on mobile */
+    padding: var(--space-xl) var(--space-s);  /* 40px vertical, 16px horizontal */
+  }
+  
+  .metrics-banner .flex {
+    flex-direction: column;
+    gap: var(--space-l);  /* 32px gap between metrics */
+  }
+  
+  .metrics-banner .flex > div::after {
+    display: none;  /* Remove vertical dividers on mobile */
+  }
+  
+  /* Teaser bar mobile */
+  .bg-teaser-bg {
+    margin: 0 var(--space-s);  /* 16px side margins */
+    text-align: left;
+  }
+  
+  /* Grid mobile */
+  .grid-expenditures {
+    grid-template-columns: 1fr;
+    gap: var(--space-m);  /* 24px */
+    margin-bottom: var(--space-2xl);  /* 48px */
+  }
+  
+  .currency-large {
+    font-size: 2rem;
+  }
+  
+  /* Footer mobile */
+  footer .grid {
+    grid-template-columns: 1fr;
+    gap: var(--space-l);  /* 32px */
+  }
+}
+
+@media (max-width: 480px) {
+  /* Extra small mobile devices */
+  .hero-title {
+    font-size: 1.5rem;  /* 24px */
+  }
+  
+  .metric-number {
+    font-size: 2rem;  /* 32px instead of 40px */
+  }
+  
+  .expenditure-card {
+    --space-card-padding: var(--space-s);  /* 16px on mobile */
+  }
+}

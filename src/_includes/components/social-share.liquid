@@ -1,0 +1,16 @@
+<div class="social-share flex flex-wrap gap-2">
+    <button onclick="shareToTwitter('{{ expenditure.date }}', '{{ expenditure.total_cost | currency }}', '{{ expenditure.location }}')" 
+            class="social-btn social-twitter text-sm">
+        🐦 Share on Twitter
+    </button>
+    
+    <button onclick="shareToFacebook('{{ expenditure.date }}', '{{ expenditure.total_cost | currency }}')" 
+            class="social-btn social-facebook text-sm">
+        📘 Share on Facebook
+    </button>
+    
+    <button onclick="copyToClipboard('{{ expenditure.social_description | escape }}')" 
+            class="social-btn social-copy text-sm">
+        📋 Copy Link
+    </button>
+</div>

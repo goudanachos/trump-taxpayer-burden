@@ -1,0 +1,92 @@
+---
+layout: layouts/base.liquid
+title: Trump Taxpayer Burden
+description: Track daily recreational and leisure costs for Donald J. Trump, paid for by American taxpayers
+---
+
+<!-- ALERT STATUS DISPLAY - Federal Command Center -->
+<section style="background: var(--color-bg-command); border-bottom: var(--border-authority); padding: var(--space-xxl) var(--space-lg); position: relative; overflow: hidden;">
+    <!-- Subtle Star Pattern Background -->
+    <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; opacity: 0.03; background-image: url('data:image/svg+xml,<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><polygon fill=\"white\" points=\"10,1 13,7 20,7 15,12 17,19 10,15 3,19 5,12 0,7 7,7\"/></svg>'); background-repeat: repeat; background-size: 40px 40px;"></div>
+    
+    <div class="max-w-4xl mx-auto text-center" style="position: relative; z-index: 1;">
+        <!-- Classification Header -->
+        <div class="authority-font" style="color: var(--color-text-inverse); font-size: var(--text-detail); margin-bottom: var(--space-sm); opacity: 0.8; letter-spacing: 0.1em;">
+            /// CLASSIFIED: TAXPAYER EXPENDITURE MONITORING ///
+        </div>
+        
+        <!-- Alert Status -->
+        <h1 class="command-font" style="color: var(--color-text-inverse); font-size: var(--text-command); margin-bottom: var(--space-lg); text-transform: uppercase; letter-spacing: 0.05em;">
+            DAILY FINANCIAL BURDEN STATUS
+        </h1>
+        
+        <!-- Cost Display - Maximum Visual Impact -->
+        <div style="background: var(--color-bg-primary); border: var(--border-classification); padding: var(--space-xl); margin: var(--space-lg) auto; max-width: 600px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
+            <!-- Alert Indicator -->
+            <div class="standard-font" style="color: var(--color-text-secondary); font-size: var(--text-detail); margin-bottom: var(--space-sm); text-transform: uppercase; letter-spacing: 0.05em;">
+                CURRENT EXPENDITURE TOTAL
+            </div>
+            
+            <!-- The Money Shot -->
+            <div class="classification-font" style="color: var(--color-text-alert); font-size: var(--text-classification); font-weight: 700; line-height: 1; text-shadow: 2px 2px 4px rgba(220,20,60,0.3);">
+                $31,600.00
+            </div>
+            
+            <!-- Fiscal Intelligence Context -->
+            <div class="standard-font" style="color: var(--color-text-secondary); font-size: var(--text-detail); margin-top: var(--space-sm); opacity: 0.8;">
+                0.0000006% of daily federal spending
+            </div>
+            
+            <!-- Sub-indicators -->
+            <div style="display: flex; justify-content: space-between; margin-top: var(--space-md); padding-top: var(--space-md); border-top: var(--border-light);">
+                <div class="standard-font" style="color: var(--color-text-secondary); font-size: var(--text-detail);">
+                    <div style="color: var(--color-text-primary); font-weight: 600;">TODAY</div>
+                    <div>2025-01-31</div>
+                </div>
+                <div class="standard-font" style="color: var(--color-text-secondary); font-size: var(--text-detail); text-align: right;">
+                    <div style="color: var(--color-text-primary); font-weight: 600;">STATUS</div>
+                    <div style="color: var(--color-text-alert);">ACTIVE</div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Authority Stamp -->
+        <div class="standard-font" style="color: var(--color-text-inverse); font-size: var(--text-detail); margin-top: var(--space-lg); opacity: 0.6; text-transform: uppercase; letter-spacing: 0.1em;">
+            AUTHORIZED PERSONNEL ONLY // FOR OFFICIAL USE
+        </div>
+    </div>
+</section>
+
+<!-- Removed complex metrics banner - ADHD-friendly minimalism -->
+
+<!-- CLASSIFICATION FILES ARCHIVE -->
+<div class="max-w-4xl mx-auto px-4" style="padding: var(--space-xxl) 0;">
+    <!-- Archive Header -->
+    <div style="text-align: center; margin-bottom: var(--space-xxl); padding-bottom: var(--space-lg); border-bottom: var(--border-authority);">
+        <div class="authority-font" style="color: var(--color-text-primary); font-size: var(--text-command); margin-bottom: var(--space-sm);">
+            EXPENDITURE FILES ARCHIVE
+        </div>
+        <div class="standard-font" style="color: var(--color-text-secondary); font-size: var(--text-detail); text-transform: uppercase; letter-spacing: 0.05em;">
+            Classified Financial Activities /// Authorized Personnel Only
+        </div>
+    </div>
+    
+    <!-- Classification Files -->
+    <section>
+        {% for expenditure_data in collections.expenditures limit: 10 %}
+            {% assign expenditure = expenditure_data.data %}
+            {% include "components/expenditure-card.liquid", expenditure: expenditure %}
+        {% endfor %}
+        
+        {% if collections.expenditures.size > 10 %}
+            <div style="text-align: center; padding: var(--space-xxl) 0; border-top: var(--border-authority); margin-top: var(--space-lg);">
+                <a href="/archive" class="standard-font" style="color: var(--color-text-primary); font-size: var(--text-standard); text-decoration: none; padding: var(--space-md) var(--space-xl); border: var(--border-authority); background: var(--color-bg-secondary); text-transform: uppercase; letter-spacing: 0.05em; font-weight: 600; transition: all 0.2s ease;"
+                   onmouseover="this.style.backgroundColor='var(--color-text-primary)'; this.style.color='var(--color-text-inverse)';"
+                   onmouseout="this.style.backgroundColor='var(--color-bg-secondary)'; this.style.color='var(--color-text-primary)';">
+                    ACCESS FULL ARCHIVE ({{ collections.expenditures.size }} FILES)
+                </a>
+            </div>
+        {% endif %}
+    </section>
+
+</div>

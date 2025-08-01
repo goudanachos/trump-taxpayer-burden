@@ -1,0 +1,228 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://trumptaxpayerburden.com/schemas/daily-expenditure.json",
+  "title": "Trump Taxpayer Expenditure Record",
+  "description": "Schema for daily recreational and leisure expenditure records funded by taxpayers",
+  "type": "object",
+  "required": [
+    "date",
+    "location", 
+    "activities",
+    "total_cost",
+    "social_description"
+  ],
+  "properties": {
+    "date": {
+      "type": "string",
+      "format": "date",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+      "description": "Date of expenditures in ISO 8601 format (YYYY-MM-DD)",
+      "examples": ["2025-01-31", "2024-01-13"]
+    },
+    "location": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 200,
+      "description": "Primary location or venue where expenditures occurred",
+      "examples": [
+        "Mar-a-Lago, FL",
+        "Trump International Hotel, Washington DC",
+        "Bedminster Golf Club, NJ",
+        "Trump Tower, New York"
+      ]
+    },
+    "activities": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 20,
+      "description": "Array of individual expenditure activities",
+      "items": {
+        "type": "object",
+        "required": ["name", "cost", "description"],
+        "properties": {
+          "name": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 150,
+            "description": "Brief name/title of the expenditure activity",
+            "examples": [
+              "Golf outing with Secret Service protection",
+              "Private dining experience",
+              "Transportation costs",
+              "Executive spa services"
+            ]
+          },
+          "cost": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 10000000,
+            "description": "Cost of the activity in US dollars (integer, no cents)",
+            "examples": [18500, 4200, 8900, 2800]
+          },
+          "category": {
+            "type": "string",
+            "enum": [
+              "recreation",
+              "leisure", 
+              "logistics",
+              "security",
+              "accommodation",
+              "dining",
+              "entertainment",
+              "transportation",
+              "services",
+              "utilities",
+              "maintenance",
+              "consultation",
+              "other"
+            ],
+            "description": "Category classification for the expenditure type"
+          },
+          "description": {
+            "type": "string",
+            "minLength": 10,
+            "maxLength": 500,
+            "description": "Detailed description of what the expenditure covered",
+            "examples": [
+              "6-hour golf session requiring full Secret Service detail, cart rentals, and course security",
+              "Private dinner for 15 guests with staff overtime and enhanced security",
+              "Air Force One operational costs for leisure trip"
+            ]
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "total_cost": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 10000000,
+      "description": "Total sum of all activity costs in US dollars (should equal sum of activities[].cost)",
+      "examples": [31600, 18300, 48500, 20500]
+    },
+    "social_description": {
+      "type": "string",
+      "minLength": 10,
+      "maxLength": 280,
+      "description": "Tweet-ready summary description for social media sharing",
+      "examples": [
+        "Your tax dollars at work: $31,600 spent on recreation and leisure at Mar-a-Lago today",
+        "Today's taxpayer expense: $18,300 for spa services and entertainment upgrades in DC"
+      ]
+    },
+    "tags": {
+      "type": "array",
+      "uniqueItems": true,
+      "minItems": 0,
+      "maxItems": 10,
+      "description": "Optional array of tags for categorization and filtering",
+      "items": {
+        "type": "string",
+        "pattern": "^[a-z0-9-]+$",
+        "minLength": 1,
+        "maxLength": 30,
+        "description": "Lowercase tag with hyphens allowed, no spaces"
+      },
+      "examples": [
+        ["mar-a-lago", "golf", "dining", "security"],
+        ["washington-dc", "spa", "dining", "entertainment"],
+        ["bedminster", "golf", "tournament", "helicopter"]
+      ]
+    },
+    "fiscal_context": {
+      "type": "object",
+      "description": "Optional fiscal context and comparative data",
+      "properties": {
+        "daily_federal_spending": {
+          "type": "integer",
+          "minimum": 1000000000,
+          "description": "Total daily federal spending in dollars for percentage calculations"
+        },
+        "percentage_of_federal_spending": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1,
+          "description": "Decimal percentage of daily federal spending this represents"
+        },
+        "equivalent_services": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "description": "Examples of public services this cost could have funded"
+          },
+          "examples": [
+            ["Teacher salaries for 5 teachers for one month", "School lunch programs for 1,200 students for one week"]
+          ]
+        }
+      },
+      "additionalProperties": false
+    },
+    "verification": {
+      "type": "object",
+      "description": "Optional data verification and source information",
+      "properties": {
+        "sources": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "format": "uri",
+            "description": "URLs to source documents or reports"
+          }
+        },
+        "verified_by": {
+          "type": "string",
+          "description": "Entity or person who verified this data"
+        },
+        "verification_date": {
+          "type": "string",
+          "format": "date",
+          "description": "Date when verification was completed"
+        },
+        "confidence_level": {
+          "type": "string",
+          "enum": ["high", "medium", "low"],
+          "description": "Confidence level of the data accuracy"
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false,
+  "examples": [
+    {
+      "date": "2025-01-31",
+      "location": "Mar-a-Lago, FL",
+      "activities": [
+        {
+          "name": "Golf outing with Secret Service protection",
+          "cost": 18500,
+          "category": "recreation",
+          "description": "6-hour golf session requiring full Secret Service detail, cart rentals, and course security"
+        },
+        {
+          "name": "Private dining experience", 
+          "cost": 4200,
+          "category": "leisure",
+          "description": "Private dinner for 15 guests with staff overtime and enhanced security"
+        },
+        {
+          "name": "Transportation costs",
+          "cost": 8900,
+          "category": "logistics", 
+          "description": "Air Force One operational costs for leisure trip"
+        }
+      ],
+      "total_cost": 31600,
+      "social_description": "Your tax dollars at work: $31,600 spent on recreation and leisure at Mar-a-Lago today",
+      "tags": ["mar-a-lago", "golf", "dining", "security"],
+      "fiscal_context": {
+        "daily_federal_spending": 15000000000,
+        "percentage_of_federal_spending": 0.0000021,
+        "equivalent_services": [
+          "Teacher salaries for 5 teachers for one month",
+          "School lunch programs for 1,200 students for one week"
+        ]
+      }
+    }
+  ]
+}

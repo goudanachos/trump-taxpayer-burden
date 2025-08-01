@@ -1,0 +1,20 @@
+{
+  "title": "TrumpTaxBurden.com",
+  "description": "Tracking daily recreational and leisure costs for Donald J. Trump, paid for by American taxpayers",
+  "url": "https://trumptaxburden.com",
+  "author": "Government Accountability Project",
+  "language": "en",
+  "favicon": "/images/favicon.ico",
+  "social": {
+    "twitter": "@TaxpayerBurden",
+    "facebook": "TrumpTaxpayerBurden"
+  },
+  "analytics": {
+    "enabled": false,
+    "privacy_friendly": true
+  },
+  "build": {
+    "timestamp": "2025-08-01T00:00:00.000Z",
+    "environment": "production"
+  }
+}

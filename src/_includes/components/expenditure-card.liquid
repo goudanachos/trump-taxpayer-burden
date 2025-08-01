@@ -1,0 +1,76 @@
+<!-- CLASSIFICATION FILE - Government Document Format -->
+<article style="background: var(--color-bg-primary); border: var(--border-authority); margin-bottom: var(--space-lg); box-shadow: 0 4px 16px rgba(0,0,0,0.1); position: relative;">
+    <!-- Classification Bar -->
+    <div style="background: var(--color-text-alert); height: var(--border-width-classification); width: 100%;"></div>
+    
+    <div style="padding: var(--space-lg);">
+        <!-- Document Header -->
+        <div style="display: flex; justify-content: between; align-items: flex-start; margin-bottom: var(--space-md); border-bottom: var(--border-light); padding-bottom: var(--space-md);">
+            <div style="flex: 1;">
+                <!-- Classification Stamp -->
+                <div style="display: inline-block; background: var(--color-bg-secondary); border: var(--border-width-thin) solid var(--color-text-secondary); padding: var(--space-xs) var(--space-sm); margin-bottom: var(--space-sm);">
+                    <div class="classification-font" style="color: var(--color-text-secondary); font-size: 10px; letter-spacing: 0.1em;">
+                        UNCLASSIFIED
+                    </div>
+                </div>
+                
+                <!-- Date Stamp -->
+                <div class="classification-font" style="color: var(--color-text-secondary); font-size: var(--text-detail); margin-bottom: var(--space-xs); text-transform: uppercase;">
+                    DATE: {{ expenditure.date }}
+                </div>
+                
+                <!-- Location - Primary Identifier -->
+                <h2 class="command-font" style="color: var(--color-text-primary); font-size: var(--text-command); margin: 0; text-transform: uppercase; letter-spacing: 0.02em;">
+                    {{ expenditure.location }}
+                </h2>
+            </div>
+            
+            <!-- Cost Alert Panel -->
+            <div style="background: var(--color-bg-secondary); border: var(--border-width-standard) solid var(--color-text-alert); padding: var(--space-md); min-width: 200px; text-align: center;">
+                <div class="standard-font" style="color: var(--color-text-secondary); font-size: var(--text-detail); margin-bottom: var(--space-xs); text-transform: uppercase; letter-spacing: 0.05em;">
+                    TOTAL EXPENDITURE
+                </div>
+                <div class="classification-font" style="color: var(--color-text-alert); font-size: var(--text-command); font-weight: 700; line-height: 1;">
+                    {{ expenditure.total_cost | currency }}
+                </div>
+            </div>
+        </div>
+
+        <!-- Activity Breakdown - Government List Format -->
+        <div style="margin-bottom: var(--space-md);">
+            <div class="standard-font" style="color: var(--color-text-primary); font-size: var(--text-detail); margin-bottom: var(--space-sm); text-transform: uppercase; letter-spacing: 0.05em; font-weight: 600;">
+                ITEMIZED BREAKDOWN:
+            </div>
+            
+            {% for activity in expenditure.activities %}
+                <div style="display: flex; justify-content: space-between; align-items: flex-start; padding: var(--space-sm) 0; border-bottom: var(--border-width-thin) solid var(--color-bg-secondary);">
+                    <div style="flex: 1; padding-right: var(--space-md);">
+                        <div class="standard-font" style="color: var(--color-text-primary); font-size: var(--text-standard); font-weight: 500; margin-bottom: var(--space-xs);">
+                            {{ activity.name | upcase }}
+                        </div>
+                        <div class="standard-font" style="color: var(--color-text-secondary); font-size: var(--text-detail); line-height: 1.4;">
+                            {{ activity.description }}
+                        </div>
+                    </div>
+                    <div style="min-width: 120px; text-align: right;">
+                        <div class="classification-font" style="color: var(--color-text-alert); font-size: var(--text-standard); font-weight: 600;">
+                            {{ activity.cost | currency }}
+                        </div>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+        
+        <!-- Authority Footer -->
+        <div style="display: flex; justify-content: space-between; align-items: center; padding-top: var(--space-md); border-top: var(--border-light);">
+            <div class="standard-font" style="color: var(--color-text-secondary); font-size: var(--text-detail); text-transform: uppercase; letter-spacing: 0.05em;">
+                /// TAXPAYER FUNDED ACTIVITY ///
+            </div>
+            <div style="display: inline-block; background: var(--color-bg-secondary); border: var(--border-width-thin) solid var(--color-text-secondary); padding: var(--space-xs) var(--space-sm);">
+                <div class="classification-font" style="color: var(--color-text-secondary); font-size: 10px; letter-spacing: 0.1em;">
+                    FOR OFFICIAL USE ONLY
+                </div>
+            </div>
+        </div>
+    </div>
+</article>
