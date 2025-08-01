@@ -1,0 +1,70 @@
+---
+eleventyExcludeFromCollections: true
+permalink: /rss.xml
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>{{ site.title }}</title>
+    <link>{{ site.url }}</link>
+    <description>{{ site.description }}</description>
+    <language>{{ site.language }}</language>
+    <lastBuildDate>{{ "now" | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
+    <atom:link href="{{ site.url }}/rss.xml" rel="self" type="application/rss+xml" />
+    <generator>Eleventy v3.1.2</generator>
+    <managingEditor>noreply@trumptaxburden.com ({{ site.author }})</managingEditor>
+    <webMaster>noreply@trumptaxburden.com ({{ site.author }})</webMaster>
+    <copyright>Public Domain - Government Accountability Data</copyright>
+    <category>Government</category>
+    <category>Politics</category>
+    <category>Taxpayer Information</category>
+    <ttl>720</ttl>
+    
+    {% assign sorted_expenditures = collections.expenditures | reverse %}
+    {% for expenditure_data in sorted_expenditures limit: 30 %}
+      {% assign expenditure = expenditure_data.data %}
+    <item>
+      <title>{{ expenditure.date | date: "%B %-d, %Y" }} - {{ expenditure.location | xml_escape }}</title>
+      <link>{{ site.url }}/#{{ expenditure.date }}</link>
+      <guid isPermaLink="false">{{ site.url }}/expenditure/{{ expenditure.date }}</guid>
+      <pubDate>{{ expenditure.date | date: "%a, %d %b %Y 12:00:00 +0000" }}</pubDate>
+      <description><![CDATA[
+        <h2>Total Cost: {{ expenditure.total_cost | currency }}</h2>
+        <p><strong>Location:</strong> {{ expenditure.location }}</p>
+        {% if expenditure.social_description %}
+        <p>{{ expenditure.social_description }}</p>
+        {% endif %}
+        
+        <h3>Activities:</h3>
+        <ul>
+        {% for activity in expenditure.activities %}
+          <li><strong>{{ activity.name }}</strong> - {{ activity.cost | currency }}
+            {% if activity.description %}<br><em>{{ activity.description }}</em>{% endif %}
+          </li>
+        {% endfor %}
+        </ul>
+        
+        {% if expenditure.verification and expenditure.verification.sources %}
+        <h3>Sources:</h3>
+        <ul>
+        {% for source in expenditure.verification.sources %}
+          <li><a href="{{ source }}">{{ source }}</a></li>
+        {% endfor %}
+        </ul>
+        {% endif %}
+        
+        <p><em>All amounts are estimates based on public information. Confidence level: {{ expenditure.verification.confidence_level | default: "medium" }}</em></p>
+      ]]></description>
+      <category>{{ expenditure.location | xml_escape }}</category>
+      {% for tag in expenditure.tags %}
+      <category>{{ tag }}</category>
+      {% endfor %}
+      {% if expenditure.total_cost > 0 %}
+      <category>Taxpayer Cost</category>
+      {% else %}
+      <category>No Cost</category>
+      {% endif %}
+    </item>
+    {% endfor %}
+  </channel>
+</rss>

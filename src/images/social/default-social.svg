@@ -1,0 +1,35 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1200" height="630" fill="#000000"/>
+  
+  <!-- Star Pattern Background -->
+  <defs>
+    <pattern id="stars" x="0" y="0" width="40" height="40" patternUnits="userSpaceOnUse">
+      <polygon points="20,4 24,14 35,14 26.5,22 30,32 20,26 10,32 13.5,22 5,14 16,14" fill="#FFFFFF" opacity="0.03"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="630" fill="url(#stars)"/>
+  
+  <!-- Main Content Area -->
+  <rect x="60" y="60" width="1080" height="510" fill="#FFFFFF" stroke="#DC143C" stroke-width="4"/>
+  
+  <!-- Header -->
+  <rect x="80" y="80" width="1040" height="80" fill="#000000"/>
+  <text x="600" y="130" text-anchor="middle" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="36" font-weight="bold" letter-spacing="2px">TRUMP TAXPAYER BURDEN</text>
+  
+  <!-- Classification Banner -->
+  <rect x="80" y="180" width="1040" height="40" fill="#DC143C"/>
+  <text x="600" y="205" text-anchor="middle" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="16" font-weight="bold" letter-spacing="1px">/// CLASSIFIED: EXPENDITURE MONITORING ///</text>
+  
+  <!-- Main Title Area -->
+  <text x="600" y="280" text-anchor="middle" fill="#000000" font-family="Arial, sans-serif" font-size="48" font-weight="bold">[PAGE TITLE]</text>
+  
+  <!-- Cost Display -->
+  <rect x="400" y="320" width="400" height="120" fill="#F8F9FA" stroke="#000000" stroke-width="2"/>
+  <text x="600" y="355" text-anchor="middle" fill="#6C757D" font-family="Arial, sans-serif" font-size="16" font-weight="bold">TAXPAYER COST</text>
+  <text x="600" y="405" text-anchor="middle" fill="#DC143C" font-family="monospace" font-size="42" font-weight="bold">[COST AMOUNT]</text>
+  
+  <!-- Footer -->
+  <text x="600" y="480" text-anchor="middle" fill="#6C757D" font-family="Arial, sans-serif" font-size="18">All amounts are estimates based on public information</text>
+  <text x="600" y="520" text-anchor="middle" fill="#000000" font-family="Arial, sans-serif" font-size="24" font-weight="bold">TRUMPTAXBURDEN.COM</text>
+</svg>

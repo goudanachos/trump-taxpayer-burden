@@ -46,10 +46,18 @@
                 <div style="display: flex; justify-content: space-between; align-items: flex-start; padding: var(--space-sm) 0; border-bottom: var(--border-width-thin) solid var(--color-bg-secondary);">
                     <div style="flex: 1; padding-right: var(--space-md);">
                         <div class="standard-font" style="color: var(--color-text-primary); font-size: var(--text-standard); font-weight: 500; margin-bottom: var(--space-xs);">
-                            {{ activity.name | upcase }}
+                            {% if activity.name contains 'No leisure' or activity.name contains 'NO LEISURE' %}
+                                NO TAXPAYER-FUNDED LEISURE ACTIVITIES
+                            {% else %}
+                                {{ activity.name | upcase }}
+                            {% endif %}
                         </div>
                         <div class="standard-font" style="color: var(--color-text-secondary); font-size: var(--text-detail); line-height: 1.4;">
-                            {{ activity.description }}
+                            {% if activity.name contains 'No leisure' or activity.name contains 'NO LEISURE' %}
+                                All reported activities were official government business. No personal travel, golf, or recreational activities at private properties incurred taxpayer costs.
+                            {% else %}
+                                {{ activity.description }}
+                            {% endif %}
                         </div>
                     </div>
                     <div style="min-width: 120px; text-align: right;">
@@ -63,12 +71,98 @@
         
         <!-- Authority Footer -->
         <div style="display: flex; justify-content: space-between; align-items: center; padding-top: var(--space-md); border-top: var(--border-light);">
-            <div class="standard-font" style="color: var(--color-text-secondary); font-size: var(--text-detail); text-transform: uppercase; letter-spacing: 0.05em;">
-                /// TAXPAYER FUNDED ACTIVITY ///
+            <div style="display: flex; align-items: center; gap: var(--space-md);">
+                <div class="standard-font" style="color: var(--color-text-secondary); font-size: var(--text-detail); text-transform: uppercase; letter-spacing: 0.05em;">
+                    /// TAXPAYER FUNDED ACTIVITY ///
+                </div>
+                
+                <!-- Citations -->
+                {% if expenditure.verification.sources %}
+                    <div style="display: flex; align-items: center; gap: var(--space-xs);">
+                        <div class="standard-font" style="color: var(--color-text-secondary); font-size: 10px; opacity: 0.7; text-transform: uppercase;">
+                            SOURCES:
+                        </div>
+                        {% for source in expenditure.verification.sources %}
+                            {% assign domain = source | replace: 'https://', '' | replace: 'http://', '' | split: '/' | first %}
+                            <a href="{{ source }}" target="_blank" rel="noopener" 
+                               style="color: var(--color-text-secondary); text-decoration: none; opacity: 0.6; transition: opacity 0.2s ease;"
+                               onmouseover="this.style.opacity='1';" onmouseout="this.style.opacity='0.6';"
+                               title="{{ domain }}">
+                               {% if domain contains 'nytimes.com' %}
+                                   {% render 'icons/nytimes' %}
+                               {% elsif domain contains 'cnn.com' %}
+                                   {% render 'icons/cnn' %}
+                               {% elsif domain contains 'foxnews.com' %}
+                                   {% render 'icons/foxnews' %}
+                               {% elsif domain contains 'reuters.com' %}
+                                   {% render 'icons/reuters' %}
+                               {% elsif domain contains 'apnews.com' %}
+                                   {% render 'icons/apnews' %}
+                               {% elsif domain contains 'cnbc.com' %}
+                                   {% render 'icons/cnbc' %}
+                               {% else %}
+                                   {% render 'icons/generic-news' %}
+                               {% endif %}
+                            </a>
+                        {% endfor %}
+                    </div>
+                {% endif %}
             </div>
-            <div style="display: inline-block; background: var(--color-bg-secondary); border: var(--border-width-thin) solid var(--color-text-secondary); padding: var(--space-xs) var(--space-sm);">
-                <div class="classification-font" style="color: var(--color-text-secondary); font-size: 10px; letter-spacing: 0.1em;">
-                    FOR OFFICIAL USE ONLY
+            
+            <!-- Share Actions & Classification -->
+            <div style="display: flex; align-items: center; gap: var(--space-md);">
+                <!-- Share Button Section -->
+                <div style="display: flex; align-items: center; gap: var(--space-xs);" 
+                     data-share-url="https://trumptaxburden.com/day/{{ expenditure.date | date: '%Y/%m/%d' }}/"
+                     data-share-title="{{ expenditure.date | date: '%B %-d, %Y' }} - Trump Cost {{ expenditure.total_cost | currency }}"
+                     data-share-text="On {{ expenditure.date | date: '%B %-d, %Y' }}, Trump's activities at {{ expenditure.location }} cost taxpayers {{ expenditure.total_cost | currency }}. See the breakdown at"
+                     data-share-hashtags="TrumpTaxBurden,TaxpayerMoney">
+                    
+                    <!-- Primary Share Button (Web Share API) -->
+                    <button onclick="shareExpenditure(this)" 
+                            class="share-btn-primary standard-font" 
+                            style="color: var(--color-text-primary); background: var(--color-bg-secondary); font-size: var(--text-detail); padding: var(--space-xs) var(--space-sm); border: var(--border-width-thin) solid var(--color-text-secondary); text-transform: uppercase; letter-spacing: 0.05em; font-weight: 500; cursor: pointer; transition: all 0.2s ease; display: none;"
+                            onmouseover="this.style.backgroundColor='var(--color-text-primary)'; this.style.color='var(--color-text-inverse)'; this.style.borderColor='var(--color-text-primary)';"
+                            onmouseout="this.style.backgroundColor='var(--color-bg-secondary)'; this.style.color='var(--color-text-primary)'; this.style.borderColor='var(--color-text-secondary)';"
+                            title="Share this expenditure record">
+                        <svg width="10" height="10" viewBox="0 0 24 24" fill="currentColor" style="margin-right: var(--space-xs);">
+                            <path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81 1.66 0 3-1.34 3-3s-1.34-3-3-3-3 1.34-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9c-1.66 0-3 1.34-3 3s1.34 3 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.16c-.05.21-.08.43-.08.65 0 1.61 1.31 2.92 2.92 2.92s2.92-1.31 2.92-2.92-1.31-2.92-2.92-2.92z"/>
+                        </svg>
+                        SHARE
+                    </button>
+                    
+                    <!-- Fallback Share Buttons -->
+                    <div class="fallback-share-buttons" style="display: none; gap: var(--space-xs);">
+                        <button onclick="copyShareLink(this)" 
+                                class="share-btn-fallback standard-font" 
+                                style="color: var(--color-text-primary); background: var(--color-bg-secondary); font-size: var(--text-detail); padding: var(--space-xs) var(--space-sm); border: var(--border-width-thin) solid var(--color-text-secondary); text-transform: uppercase; letter-spacing: 0.05em; font-weight: 500; cursor: pointer; transition: all 0.2s ease;"
+                                onmouseover="this.style.backgroundColor='var(--color-text-primary)'; this.style.color='var(--color-text-inverse)'; this.style.borderColor='var(--color-text-primary)';"
+                                onmouseout="this.style.backgroundColor='var(--color-bg-secondary)'; this.style.color='var(--color-text-primary)'; this.style.borderColor='var(--color-text-secondary)';"
+                                title="Copy link to clipboard">
+                            <svg width="9" height="9" viewBox="0 0 24 24" fill="currentColor" style="margin-right: var(--space-xs);">
+                                <path d="M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2zm0 16H8V7h11v14z"/>
+                            </svg>
+                            COPY
+                        </button>
+                        
+                        <button onclick="shareToTwitter(this)" 
+                                class="share-btn-fallback standard-font" 
+                                style="color: var(--color-text-primary); background: var(--color-bg-secondary); font-size: var(--text-detail); padding: var(--space-xs) var(--space-sm); border: var(--border-width-thin) solid var(--color-text-secondary); text-transform: uppercase; letter-spacing: 0.05em; font-weight: 500; cursor: pointer; transition: all 0.2s ease;"
+                                onmouseover="this.style.backgroundColor='var(--color-text-primary)'; this.style.color='var(--color-text-inverse)'; this.style.borderColor='var(--color-text-primary)';"
+                                onmouseout="this.style.backgroundColor='var(--color-bg-secondary)'; this.style.color='var(--color-text-primary)'; this.style.borderColor='var(--color-text-secondary)';"
+                                title="Share on X/Twitter">
+                            <svg width="9" height="9" viewBox="0 0 24 24" fill="currentColor" style="margin-right: var(--space-xs);">
+                                <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>
+                            </svg>
+                            X
+                        </button>
+                    </div>
+                </div>
+                
+                <div style="display: inline-block; background: var(--color-bg-secondary); border: var(--border-width-thin) solid var(--color-text-secondary); padding: var(--space-xs) var(--space-sm);">
+                    <div class="classification-font" style="color: var(--color-text-secondary); font-size: 10px; letter-spacing: 0.1em;">
+                        FOR OFFICIAL USE ONLY
+                    </div>
                 </div>
             </div>
         </div>

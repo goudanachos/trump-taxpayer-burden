@@ -1,0 +1,326 @@
+---
+pagination:
+  data: collections.weeklySummaries
+  size: 1
+  alias: week
+permalink: "/week/{{ week.data.year }}/{{ week.data.weekNumber | padZeros: 2 }}/"
+---
+{% assign w = week.data %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- SEO Meta Tags -->
+    <title>Week {{ w.weekNumber }}, {{ w.year }} - Trump Taxpayer Burden | {{ w.totalCost | currency }} Weekly Cost</title>
+    <meta name="description" content="Week {{ w.weekNumber }} of {{ w.year }}: Trump's activities cost taxpayers {{ w.totalCost | currency }}. {{ w.expenditures.size }} days tracked with {{ w.activityCount }} total activities across {{ w.locations.size }} locations.">
+    <meta name="keywords" content="Trump, taxpayer cost, week {{ w.weekNumber }} {{ w.year }}, presidential expenses, weekly summary, {% for tag in w.tags %}{{ tag }}, {% endfor %}government spending">
+    <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+    
+    <!-- Performance Optimizations -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="dns-prefetch" href="//fonts.googleapis.com">
+    
+    <!-- CSS -->
+    <link rel="stylesheet" href="/css/main.css" media="all">
+    <link rel="preload" href="/css/main.css" as="style">
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="/images/favicon.svg">
+    <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+    <link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+    
+    <!-- RSS Feed -->
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }} RSS Feed" href="{{ site.url }}/rss.xml">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+    <meta property="og:title" content="Week {{ w.weekNumber }}, {{ w.year }} - Trump Cost {{ w.totalCost | currency }}">
+    <meta property="og:description" content="Weekly breakdown: {{ w.expenditures.size }} days tracked, {{ w.activityCount }} activities, {{ w.totalCost | currency }} in taxpayer costs. Locations: {% for location in w.locations limit: 3 %}{{ location }}{% unless forloop.last %}, {% endunless %}{% endfor %}{% if w.locations.size > 3 %} and {{ w.locations.size | minus: 3 }} more{% endif %}.">
+    <meta property="og:image" content="https://trumptaxburden.com/images/social/week-{{ w.year }}-{{ w.weekNumber | padZeros: 2 }}.svg">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:site_name" content="Trump Taxpayer Burden">
+    <meta property="article:published_time" content="{{ w.weekStart }}T12:00:00Z">
+    <meta property="article:section" content="Government Spending">
+    {% for tag in w.tags %}
+    <meta property="article:tag" content="{{ tag }}">
+    {% endfor %}
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="{{ site.url }}{{ page.url }}">
+    <meta property="twitter:title" content="Week {{ w.weekNumber }}, {{ w.year }} - Trump Cost {{ w.totalCost | currency }}">
+    <meta property="twitter:description" content="Weekly breakdown: {{ w.expenditures.size }} days, {{ w.activityCount }} activities, {{ w.totalCost | currency }} taxpayer cost. #TrumpTaxBurden">
+    <meta property="twitter:image" content="https://trumptaxburden.com/images/social/week-{{ w.year }}-{{ w.weekNumber | padZeros: 2 }}.svg">
+    <meta property="twitter:site" content="@TaxpayerBurden">
+    
+    <!-- Structured Data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Week {{ w.weekNumber }}, {{ w.year }} - Trump Taxpayer Burden: {{ w.totalCost | currency }}",
+      "description": "Weekly summary of Trump's taxpayer-funded activities: {{ w.expenditures.size }} days tracked, {{ w.activityCount }} activities, total cost {{ w.totalCost | currency }}.",
+      "image": "https://trumptaxburden.com/images/social/week-{{ w.year }}-{{ w.weekNumber | padZeros: 2 }}.svg",
+      "datePublished": "{{ w.weekStart }}T12:00:00Z",
+      "dateModified": "{{ 'now' | date: '%Y-%m-%d' }}T12:00:00Z",
+      "author": {
+        "@type": "Organization",
+        "name": "{{ site.author }}"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "{{ site.title }}",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "{{ site.url }}/images/favicon.svg"
+        }
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "{{ site.url }}{{ page.url }}"
+      },
+      "about": {
+        "@type": "GovernmentService",
+        "name": "Presidential Expenses Tracking"
+      }
+    }
+    </script>
+    
+    <!-- PWA -->
+    <meta name="theme-color" content="#000000">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+</head>
+<body class="min-h-screen">
+    {% include "components/header.liquid" %}
+    
+    <main>
+        <!-- WEEKLY SUMMARY HEADER -->
+        <section style="background: var(--color-bg-command); border-bottom: var(--border-authority); padding: var(--space-xl) var(--space-lg);">
+            <div class="max-w-4xl mx-auto">
+                <!-- Breadcrumb Navigation -->
+                <nav style="margin-bottom: var(--space-lg);" aria-label="Breadcrumb">
+                    <div class="standard-font" style="color: var(--color-text-inverse); font-size: var(--text-small); opacity: 0.7;">
+                        <a href="/" style="color: inherit; text-decoration: none;">HOME</a>
+                        <span style="margin: 0 var(--space-xs);">›</span>
+                        <a href="/archive" style="color: inherit; text-decoration: none;">ARCHIVE</a>
+                        <span style="margin: 0 var(--space-xs);">›</span>
+                        <span>{{ w.year }}</span>
+                        <span style="margin: 0 var(--space-xs);">›</span>
+                        <span>WEEK {{ w.weekNumber }}</span>
+                    </div>
+                </nav>
+                
+                <!-- Week Header -->
+                <div style="text-align: center;">
+                    <div class="authority-font" style="color: var(--color-text-inverse); font-size: var(--text-detail); margin-bottom: var(--space-sm); opacity: 0.8; letter-spacing: 0.1em;">
+                        /// CLASSIFIED: WEEKLY EXPENDITURE SUMMARY ///
+                    </div>
+                    
+                    <h1 class="command-font" style="color: var(--color-text-inverse); font-size: var(--text-command); margin-bottom: var(--space-md); text-transform: uppercase; letter-spacing: 0.05em;">
+                        WEEK {{ w.weekNumber }}, {{ w.year }}
+                    </h1>
+                    
+                    <div class="standard-font" style="color: var(--color-text-inverse); font-size: var(--text-standard); margin-bottom: var(--space-lg); opacity: 0.9;">
+                        <strong>PERIOD:</strong> {{ w.weekStart | date: "%B %-d" }} - {{ w.weekEnd | date: "%B %-d, %Y" }}
+                    </div>
+                    
+                    <!-- Cost Display -->
+                    <div style="background: var(--color-bg-primary); border: var(--border-classification); padding: var(--space-xl); margin: var(--space-lg) auto; max-width: 500px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
+                        <div class="standard-font" style="color: var(--color-text-secondary); font-size: var(--text-detail); margin-bottom: var(--space-sm); text-transform: uppercase; letter-spacing: 0.05em;">
+                            TOTAL WEEKLY TAXPAYER COST
+                        </div>
+                        <div class="classification-font" style="color: var(--color-text-alert); font-size: var(--text-classification); font-weight: 700; line-height: 1; text-shadow: 2px 2px 4px rgba(220,20,60,0.3);">
+                            {{ w.totalCost | currency }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- WEEKLY METRICS -->
+        <div class="max-w-4xl mx-auto px-4" style="padding: var(--space-xxl) 0;">
+            <!-- Summary Statistics -->
+            <section style="margin-bottom: var(--space-xxl);">
+                <h2 class="authority-font" style="color: var(--color-text-primary); font-size: var(--text-command); margin-bottom: var(--space-lg); text-transform: uppercase; letter-spacing: 0.05em; text-align: center;">
+                    WEEKLY INTELLIGENCE SUMMARY
+                </h2>
+                
+                <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: var(--space-lg); margin-bottom: var(--space-xxl);">
+                    <!-- Days Tracked -->
+                    <div style="background: var(--color-bg-secondary); border: var(--border-light); padding: var(--space-xl); text-align: center;">
+                        <div class="classification-font" style="color: var(--color-text-alert); font-size: var(--text-large); font-weight: 700; margin-bottom: var(--space-sm);">
+                            {{ w.expenditures.size }}
+                        </div>
+                        <div class="standard-font" style="color: var(--color-text-secondary); font-size: var(--text-detail); text-transform: uppercase; letter-spacing: 0.05em;">
+                            DAYS TRACKED
+                        </div>
+                    </div>
+                    
+                    <!-- Total Activities -->
+                    <div style="background: var(--color-bg-secondary); border: var(--border-light); padding: var(--space-xl); text-align: center;">
+                        <div class="classification-font" style="color: var(--color-text-alert); font-size: var(--text-large); font-weight: 700; margin-bottom: var(--space-sm);">
+                            {{ w.activityCount }}
+                        </div>
+                        <div class="standard-font" style="color: var(--color-text-secondary); font-size: var(--text-detail); text-transform: uppercase; letter-spacing: 0.05em;">
+                            TOTAL ACTIVITIES
+                        </div>
+                    </div>
+                    
+                    <!-- Locations -->
+                    <div style="background: var(--color-bg-secondary); border: var(--border-light); padding: var(--space-xl); text-align: center;">
+                        <div class="classification-font" style="color: var(--color-text-alert); font-size: var(--text-large); font-weight: 700; margin-bottom: var(--space-sm);">
+                            {{ w.locations.size }}
+                        </div>
+                        <div class="standard-font" style="color: var(--color-text-secondary); font-size: var(--text-detail); text-transform: uppercase; letter-spacing: 0.05em;">
+                            LOCATIONS
+                        </div>
+                    </div>
+                    
+                    <!-- Average per Day -->
+                    <div style="background: var(--color-bg-secondary); border: var(--border-light); padding: var(--space-xl); text-align: center;">
+                        <div class="classification-font" style="color: var(--color-text-alert); font-size: var(--text-large); font-weight: 700; margin-bottom: var(--space-sm);">
+                            {% if w.expenditures.size > 0 %}{{ w.totalCost | divided_by: w.expenditures.size | currency }}{% else %}$0.00{% endif %}
+                        </div>
+                        <div class="standard-font" style="color: var(--color-text-secondary); font-size: var(--text-detail); text-transform: uppercase; letter-spacing: 0.05em;">
+                            AVERAGE PER DAY
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Daily Breakdown -->
+            <section style="margin-bottom: var(--space-xxl);">
+                <h2 class="authority-font" style="color: var(--color-text-primary); font-size: var(--text-command); margin-bottom: var(--space-lg); text-transform: uppercase; letter-spacing: 0.05em;">
+                    DAILY EXPENDITURE BREAKDOWN
+                </h2>
+                
+                <div style="display: grid; gap: var(--space-lg);">
+                    {% assign sorted_expenditures = w.expenditures | sort: 'date' | reverse %}
+                    {% for expenditure in sorted_expenditures %}
+                    <div style="background: var(--color-bg-primary); border: var(--border-authority); padding: var(--space-xl);">
+                        <div style="display: flex; justify-content: space-between; align-items: start; margin-bottom: var(--space-md);">
+                            <div>
+                                <h3 class="command-font" style="color: var(--color-text-primary); font-size: var(--text-standard); margin-bottom: var(--space-xs);">
+                                    <a href="/day/{{ expenditure.date | date: '%Y/%m/%d' }}/" style="color: inherit; text-decoration: none; transition: color 0.2s ease;"
+                                       onmouseover="this.style.color='var(--color-text-alert)';"
+                                       onmouseout="this.style.color='var(--color-text-primary)';">
+                                        {{ expenditure.date | date: "%A, %B %-d, %Y" }}
+                                    </a>
+                                </h3>
+                                <div class="standard-font" style="color: var(--color-text-secondary); font-size: var(--text-detail);">
+                                    {{ expenditure.location }}
+                                </div>
+                            </div>
+                            <div class="classification-font" style="color: var(--color-text-alert); font-size: var(--text-large); font-weight: 700;">
+                                {{ expenditure.total_cost | currency }}
+                            </div>
+                        </div>
+                        
+                        {% if expenditure.social_description %}
+                        <p class="standard-font" style="color: var(--color-text-primary); font-size: var(--text-standard); line-height: 1.6; margin-bottom: var(--space-md);">
+                            {{ expenditure.social_description }}
+                        </p>
+                        {% endif %}
+                        
+                        <!-- Activity Summary -->
+                        {% if expenditure.activities.size > 1 %}
+                        <div class="standard-font" style="color: var(--color-text-secondary); font-size: var(--text-detail);">
+                            {{ expenditure.activities.size }} activities tracked
+                        </div>
+                        {% endif %}
+                    </div>
+                    {% endfor %}
+                </div>
+            </section>
+
+            <!-- Locations Summary -->
+            {% if w.locations.size > 0 %}
+            <section style="margin-bottom: var(--space-xxl);">
+                <h2 class="authority-font" style="color: var(--color-text-primary); font-size: var(--text-command); margin-bottom: var(--space-lg); text-transform: uppercase; letter-spacing: 0.05em;">
+                    LOCATIONS VISITED
+                </h2>
+                
+                <div style="display: flex; flex-wrap: wrap; gap: var(--space-sm);">
+                    {% for location in w.locations %}
+                    <span class="standard-font" style="color: var(--color-text-primary); background: var(--color-bg-secondary); font-size: var(--text-standard); padding: var(--space-sm) var(--space-md); border: var(--border-light); font-weight: 600;">
+                        {{ location }}
+                    </span>
+                    {% endfor %}
+                </div>
+            </section>
+            {% endif %}
+
+            <!-- Tags -->
+            {% if w.tags.size > 0 %}
+            <section style="margin-bottom: var(--space-xxl);">
+                <h2 class="authority-font" style="color: var(--color-text-primary); font-size: var(--text-command); margin-bottom: var(--space-lg); text-transform: uppercase; letter-spacing: 0.05em;">
+                    CLASSIFICATION TAGS
+                </h2>
+                
+                <div style="display: flex; flex-wrap: wrap; gap: var(--space-sm);">
+                    {% for tag in w.tags %}
+                    <span class="standard-font" style="color: var(--color-text-inverse); background: var(--color-bg-command); font-size: var(--text-small); padding: var(--space-xs) var(--space-sm); text-transform: uppercase; letter-spacing: 0.05em; border: var(--border-width-thin) solid var(--color-bg-command);">
+                        {{ tag }}
+                    </span>
+                    {% endfor %}
+                </div>
+            </section>
+            {% endif %}
+
+            <!-- Navigation -->
+            <section style="border-top: var(--border-authority); padding-top: var(--space-lg);">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <a href="/archive" class="standard-font" style="color: var(--color-text-primary); font-size: var(--text-standard); text-decoration: none; padding: var(--space-sm) var(--space-lg); border: var(--border-authority); background: var(--color-bg-secondary); text-transform: uppercase; letter-spacing: 0.05em; font-weight: 600; transition: all 0.2s ease;"
+                       onmouseover="this.style.backgroundColor='var(--color-text-primary)'; this.style.color='var(--color-text-inverse)';"
+                       onmouseout="this.style.backgroundColor='var(--color-bg-secondary)'; this.style.color='var(--color-text-primary)';">
+                        ← VIEW ALL RECORDS
+                    </a>
+                    
+                    <div style="display: flex; gap: var(--space-sm);">
+                        <!-- Social Share Buttons -->
+                        <button onclick="shareOnTwitter()" class="standard-font" style="color: var(--color-text-inverse); background: #1DA1F2; font-size: var(--text-small); padding: var(--space-xs) var(--space-sm); border: none; text-transform: uppercase; letter-spacing: 0.05em; font-weight: 600; cursor: pointer; transition: opacity 0.2s ease;"
+                                onmouseover="this.style.opacity='0.8';"
+                                onmouseout="this.style.opacity='1';">
+                            SHARE ON X
+                        </button>
+                        
+                        <button onclick="copyLink()" class="standard-font" style="color: var(--color-text-primary); background: var(--color-bg-secondary); font-size: var(--text-small); padding: var(--space-xs) var(--space-sm); border: var(--border-authority); text-transform: uppercase; letter-spacing: 0.05em; font-weight: 600; cursor: pointer; transition: all 0.2s ease;"
+                                onmouseover="this.style.backgroundColor='var(--color-text-primary)'; this.style.color='var(--color-text-inverse)';"
+                                onmouseout="this.style.backgroundColor='var(--color-bg-secondary)'; this.style.color='var(--color-text-primary)';">
+                            COPY LINK
+                        </button>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+    
+    {% include "components/footer.liquid" %}
+    
+    <script>
+        function shareOnTwitter() {
+            const text = "Week {{ w.weekNumber }}, {{ w.year }} - Trump cost taxpayers {{ w.totalCost | currency }} across {{ w.expenditures.size }} days and {{ w.activityCount }} activities";
+            const url = "{{ site.url }}{{ page.url }}";
+            const twitterUrl = `https://twitter.com/intent/tweet?text=${encodeURIComponent(text)}&url=${encodeURIComponent(url)}&hashtags=TrumpTaxBurden,TaxpayerMoney,Week{{ w.weekNumber }}`;
+            window.open(twitterUrl, '_blank', 'width=550,height=420');
+        }
+        
+        function copyLink() {
+            navigator.clipboard.writeText("{{ site.url }}{{ page.url }}").then(() => {
+                const button = event.target;
+                const originalText = button.textContent;
+                button.textContent = 'COPIED!';
+                setTimeout(() => {
+                    button.textContent = originalText;
+                }, 2000);
+            });
+        }
+    </script>
+</body>
+</html>

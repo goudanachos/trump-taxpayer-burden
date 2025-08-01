@@ -17,31 +17,37 @@ description: Track daily recreational and leisure costs for Donald J. Trump, pai
         
         <!-- Alert Status -->
         <h1 class="command-font" style="color: var(--color-text-inverse); font-size: var(--text-command); margin-bottom: var(--space-lg); text-transform: uppercase; letter-spacing: 0.05em;">
-            DAILY FINANCIAL BURDEN STATUS
+            30-DAY TAXPAYER BURDEN STATUS
         </h1>
         
         <!-- Cost Display - Maximum Visual Impact -->
         <div style="background: var(--color-bg-primary); border: var(--border-classification); padding: var(--space-xl); margin: var(--space-lg) auto; max-width: 600px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
             <!-- Alert Indicator -->
             <div class="standard-font" style="color: var(--color-text-secondary); font-size: var(--text-detail); margin-bottom: var(--space-sm); text-transform: uppercase; letter-spacing: 0.05em;">
-                CURRENT EXPENDITURE TOTAL
+                30-DAY EXPENDITURE TOTAL
             </div>
             
             <!-- The Money Shot -->
             <div class="classification-font" style="color: var(--color-text-alert); font-size: var(--text-classification); font-weight: 700; line-height: 1; text-shadow: 2px 2px 4px rgba(220,20,60,0.3);">
-                $31,600.00
+                {% assign thirty_day_total = 0 %}
+                {% assign current_date = "now" | date: "%s" | plus: 0 %}
+                {% assign thirty_days_ago = current_date | minus: 2592000 %}
+                {% for expenditure_data in collections.expenditures %}
+                    {% assign expenditure = expenditure_data.data %}
+                    {% assign expenditure_date = expenditure.date | date: "%s" | plus: 0 %}
+                    {% if expenditure_date >= thirty_days_ago %}
+                        {% assign thirty_day_total = thirty_day_total | plus: expenditure.total_cost %}
+                    {% endif %}
+                {% endfor %}
+                {{ thirty_day_total | currency }}
             </div>
             
-            <!-- Fiscal Intelligence Context -->
-            <div class="standard-font" style="color: var(--color-text-secondary); font-size: var(--text-detail); margin-top: var(--space-sm); opacity: 0.8;">
-                0.0000006% of daily federal spending
-            </div>
             
             <!-- Sub-indicators -->
             <div style="display: flex; justify-content: space-between; margin-top: var(--space-md); padding-top: var(--space-md); border-top: var(--border-light);">
                 <div class="standard-font" style="color: var(--color-text-secondary); font-size: var(--text-detail);">
-                    <div style="color: var(--color-text-primary); font-weight: 600;">TODAY</div>
-                    <div>2025-01-31</div>
+                    <div style="color: var(--color-text-primary); font-weight: 600;">PERIOD</div>
+                    <div>{{ thirty_days_ago | date: "%Y-%m-%d" }} to {{ "now" | date: "%Y-%m-%d" }}</div>
                 </div>
                 <div class="standard-font" style="color: var(--color-text-secondary); font-size: var(--text-detail); text-align: right;">
                     <div style="color: var(--color-text-primary); font-weight: 600;">STATUS</div>
@@ -54,6 +60,11 @@ description: Track daily recreational and leisure costs for Donald J. Trump, pai
         <div class="standard-font" style="color: var(--color-text-inverse); font-size: var(--text-detail); margin-top: var(--space-lg); opacity: 0.6; text-transform: uppercase; letter-spacing: 0.1em;">
             AUTHORIZED PERSONNEL ONLY // FOR OFFICIAL USE
         </div>
+        
+        <!-- Estimates Disclaimer -->
+        <div class="standard-font" style="color: var(--color-text-inverse); font-size: var(--text-small); margin-top: var(--space-sm); opacity: 0.5; font-style: italic;">
+            All amounts are estimates based on public information
+        </div>
     </div>
 </section>
 
@@ -64,29 +75,41 @@ description: Track daily recreational and leisure costs for Donald J. Trump, pai
     <!-- Archive Header -->
     <div style="text-align: center; margin-bottom: var(--space-xxl); padding-bottom: var(--space-lg); border-bottom: var(--border-authority);">
         <div class="authority-font" style="color: var(--color-text-primary); font-size: var(--text-command); margin-bottom: var(--space-sm);">
-            EXPENDITURE FILES ARCHIVE
+            TAXPAYER-FUNDED LEISURE ACTIVITY ARCHIVE
         </div>
         <div class="standard-font" style="color: var(--color-text-secondary); font-size: var(--text-detail); text-transform: uppercase; letter-spacing: 0.05em;">
-            Classified Financial Activities /// Authorized Personnel Only
+            Presidential Recreation & Personal Travel Costs /// Public Disclosure
         </div>
     </div>
     
     <!-- Classification Files -->
     <section>
-        {% for expenditure_data in collections.expenditures limit: 10 %}
+        {% assign current_date = "now" | date: "%s" | plus: 0 %}
+        {% assign thirty_days_ago = current_date | minus: 2592000 %}
+        {% assign thirty_day_count = 0 %}
+        {% for expenditure_data in collections.expenditures %}
             {% assign expenditure = expenditure_data.data %}
-            {% include "components/expenditure-card.liquid", expenditure: expenditure %}
+            {% assign expenditure_date = expenditure.date | date: "%s" | plus: 0 %}
+            {% if expenditure_date >= thirty_days_ago %}
+                {% include "components/expenditure-card.liquid", expenditure: expenditure %}
+                {% assign thirty_day_count = thirty_day_count | plus: 1 %}
+            {% endif %}
         {% endfor %}
         
-        {% if collections.expenditures.size > 10 %}
-            <div style="text-align: center; padding: var(--space-xxl) 0; border-top: var(--border-authority); margin-top: var(--space-lg);">
-                <a href="/archive" class="standard-font" style="color: var(--color-text-primary); font-size: var(--text-standard); text-decoration: none; padding: var(--space-md) var(--space-xl); border: var(--border-authority); background: var(--color-bg-secondary); text-transform: uppercase; letter-spacing: 0.05em; font-weight: 600; transition: all 0.2s ease;"
-                   onmouseover="this.style.backgroundColor='var(--color-text-primary)'; this.style.color='var(--color-text-inverse)';"
-                   onmouseout="this.style.backgroundColor='var(--color-bg-secondary)'; this.style.color='var(--color-text-primary)';">
-                    ACCESS FULL ARCHIVE ({{ collections.expenditures.size }} FILES)
-                </a>
+        <div style="text-align: center; padding: var(--space-xxl) 0; border-top: var(--border-authority); margin-top: var(--space-lg);">
+            <div class="standard-font" style="color: var(--color-text-secondary); font-size: var(--text-detail); text-transform: uppercase; letter-spacing: 0.05em;">
+                SHOWING {{ thirty_day_count }} ENTRIES FROM LAST 30 DAYS
             </div>
-        {% endif %}
+            {% if collections.expenditures.size > thirty_day_count %}
+                <div style="margin-top: var(--space-md);">
+                    <a href="/archive" class="standard-font" style="color: var(--color-text-primary); font-size: var(--text-standard); text-decoration: none; padding: var(--space-md) var(--space-xl); border: var(--border-authority); background: var(--color-bg-secondary); text-transform: uppercase; letter-spacing: 0.05em; font-weight: 600; transition: all 0.2s ease;"
+                       onmouseover="this.style.backgroundColor='var(--color-text-primary)'; this.style.color='var(--color-text-inverse)';"
+                       onmouseout="this.style.backgroundColor='var(--color-bg-secondary)'; this.style.color='var(--color-text-primary)';">
+                        VIEW HISTORICAL ARCHIVE ({{ collections.expenditures.size | minus: thirty_day_count }} OLDER FILES)
+                    </a>
+                </div>
+            {% endif %}
+        </div>
     </section>
 
 </div>
