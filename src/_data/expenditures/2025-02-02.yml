@@ -1,0 +1,30 @@
+{
+  "location": "Mar-a-Lago and Trump International Golf Club West Palm Beach",
+  "activities": [
+    {
+      "name": "Golf at Trump International Golf Club West Palm Beach",
+      "cost": 350000,
+      "category": "recreational",
+      "description": "President Trump's golf outing on 2025-02-02 involving travel between Mar-a-Lago and the golf club, including local motorcade and Secret Service costs."
+    },
+    {
+      "name": "Travel by motorcade and aircraft",
+      "cost": 104000,
+      "category": "transportation",
+      "description": "Travel from Mar-a-Lago to Palm Beach International Airport, flight to Joint Base Andrews, and travel to The White House, including estimated flight hours and motorcade costs."
+    }
+  ],
+  "total_cost": 454000,
+  "social_description": "On Feb 2, 2025, President Trump spent the day golfing at Trump International Golf Club West Palm Beach with travel between Mar-a-Lago, the golf club, Palm Beach International Airport, Joint Base Andrews, and the White House. Estimated total taxpayer cost: $454,000.",
+  "tags": "Trump,golf,Mar-a-Lago,Trump International Golf Club,travel,transport,Secret Service",
+  "confidence_level": "medium",
+  "model_confidence": 0.95,
+  "model_check": "Cost estimates based on standard motorcade trips and typical flight durations between noted locations. No direct flight hour data found, so estimation relies on known intervals and rates. Multiple credible news sources confirm golf travel and locations.",
+  "source_urls": [
+    "https://meidasnews.com/news/white-house-announces-another-trump-golf-club-weekend",
+    "https://bozemandailychronicle.com/ap_news/business/its-trumps-economy-now-the-latest-financial-numbers-offer-some-warning-signs/article_e1ace929-6e18-5528-bdff-60aa49814634.html",
+    "https://foxnews.com/video/6376464452112",
+    "https://trump.news-pravda.com/world/2025/08/03/184095.html",
+    "https://rollingstone.com/politics/politics-news/trump-hide-cost-renovate-air-force-one-qatar-1235394763"
+  ]
+}
