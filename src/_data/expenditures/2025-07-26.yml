@@ -1,0 +1,30 @@
+{
+  "location": "Trump Turnberry, Girvan, Scotland",
+  "activities": [
+    {
+      "name": "Golfing with Eric Trump and companions",
+      "cost": 16000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Estimated daily Secret Service and staff costs during President Trump's golf day at Trump Turnberry."
+    },
+    {
+      "name": "Local motorcade and transport logistics",
+      "cost": 8000,
+      "category": "Local motorcade",
+      "description": "Estimated cost for local motorcade and transportation during the golf day at the resort."
+    }
+  ],
+  "total_cost": 24000,
+  "social_description": "On July 26, 2025, President Trump played golf with Eric Trump and companions at Trump Turnberry, Scotland. Estimated security and transportation costs totaled approximately $24,000.",
+  "tags": "Trump,golf,Scotland,Turnberry,Secret Service,motorcade",
+  "confidence_level": "high",
+  "model_confidence": 0.96,
+  "model_check": "Estimated costs are based on standard security detail and motorcade expenses for a resort golf day, supported by multiple reliable sources confirming the president's activities on this date.",
+  "source_urls": [
+    "https://www.forbes.com/sites/maryroeloffs/2025/07/30/will-trumps-golf-course-host-the-open-maybe-but-not-while-hes-in-the-white-house/",
+    "https://www.bbc.com/sport/golf/articles/c70x49kzwkyo",
+    "https://www.theguardian.com/sport/2025/jul/29/donald-trump-golf-footprint-turnberry-open-championship",
+    "https://www.rollingstone.com/politics/politics-news/trump-opens-scotland-golf-course-taxpayer-funded-trip-1235395950/",
+    "https://au.news.yahoo.com/security-tightens-donald-trump-tees-105341793.html"
+  ]
+}
