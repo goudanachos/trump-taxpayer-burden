@@ -1,0 +1,26 @@
+{
+  "location": "Florida: Mar-a-Lago and Trump International Golf Club West Palm Beach",
+  "activities": [
+    {
+      "name": "Local Motorcade Trips",
+      "cost": 40000,
+      "category": "Motorcade",
+      "description": "Estimated 4 short local motorcade trips between Mar-a-Lago and golf club, at $10,000 per trip."
+    },
+    {
+      "name": "Secret Service & Staff (Mar-a-Lago resort)",
+      "cost": 75000,
+      "category": "Security",
+      "description": "Estimated daily cost for Secret Service & staff protection at Mar-a-Lago resort rate."
+    }
+  ],
+  "total_cost": 115000,
+  "social_description": "On Feb 17, 2025, Trump visited Mar-a-Lago and played golf at Trump International Golf Club West Palm Beach with estimated motorcade and Secret Service costs totaling $115,000.",
+  "tags": "Trump,golf,Mar-a-Lago,motorcade,Secret Service,2025",
+  "confidence_level": "medium",
+  "model_confidence": 0.95,
+  "model_check": "Cost estimates based on typical local motorcade trips and resort-rate Secret Service daily charge; no direct expenditure data was found in sources.",
+  "source_urls": [
+    "https://helsinkitimes.fi/world-int/27567-trump-s-golf-habits-cost-taxpayers-over-60-million.html"
+  ]
+}
