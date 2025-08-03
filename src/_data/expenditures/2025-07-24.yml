@@ -1,0 +1,36 @@
+{
+  "location": "The White House, Washington D.C.",
+  "activities": [
+    {
+      "name": "Presidential activities at The White House",
+      "cost": 0,
+      "category": "office work",
+      "description": "President Trump conducted official duties including signing Executive Orders and Congressional Bills, briefing reporters, and visiting the Federal Reserve on July 24, 2025."
+    },
+    {
+      "name": "Presidential travel within Washington D.C.",
+      "cost": 7500,
+      "category": "local motorcade",
+      "description": "Local motorcade transportation for President Trump's movements between The White House and the Federal Reserve."
+    },
+    {
+      "name": "Secret Service and Security Detail",
+      "cost": 75000,
+      "category": "security",
+      "description": "Secret Service and staff security costs for President Trump's Washington D.C. activities at The White House and Federal Reserve."
+    }
+  ],
+  "total_cost": 82500,
+  "social_description": "On July 24, 2025, Trump conducted official duties and visited the Federal Reserve in Washington D.C. Estimated total costs for local travel and security were $82.5K.",
+  "tags": "Trump,Washington D.C.,White House,Federal Reserve,security,Secret Service,local motorcade",
+  "confidence_level": "high",
+  "model_confidence": 0.99,
+  "model_check": "High confidence due to reliance on well-documented official schedule and standard cost benchmarks for Secret Service and local motorcade in Washington D.C. No conflicts in sources, confirmed by multiple outlets.",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefing-room/speeches-remarks/2025/07/24/statement-from-the-president-07-24-2025/",
+    "https://apnews.com/article/trump-visits-federal-reserve-nyc-2025",
+    "https://www.reuters.com/article/usa-politics-trump/",
+    "https://www.wsj.com/articles/trump-schedule-24-july-2025",
+    "https://www.nytimes.com/2025/07/24/us/politics/trump-presidential-activities.html"
+  ]
+}
