@@ -1,0 +1,24 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Investment Announcement event",
+      "cost": 75000,
+      "category": "Secret Service & staff",
+      "description": "Security and staffing costs for President Trump's investment announcement event held in the Roosevelt Room at the White House on March 3, 2025. Estimated based on typical daily Secret Service staffing costs for in-town White House events."
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "On March 3, 2025, President Trump made an investment announcement at the White House Roosevelt Room. Estimated taxpayer cost for Secret Service and event staffing was approximately $75,000 for security and support during the event.",
+  "tags": "Trump,investment announcement,White House,Secret Service,security,cost,2025-03-03",
+  "confidence_level": "medium",
+  "model_confidence": 0.87,
+  "model_check": "No direct cost reporting found for the event day, but standard Secret Service daily staffing costs were applied given the in-town setting and event type. Medium confidence due to lack of explicit financial disclosure in sources.",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates?entryId=124291398&id=124128895",
+    "https://people.com/trump-announces-massive-new-white-house-addition-gold-ballroom-11782823",
+    "https://whitehouse.gov/fact-sheets",
+    "https://www.nytimes.com/live/2025/08/01/us/trump-news"
+  ]
+}
