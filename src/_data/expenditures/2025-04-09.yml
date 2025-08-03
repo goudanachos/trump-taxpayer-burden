@@ -1,0 +1,20 @@
+{
+  "location": "The White House, Washington D.C.",
+  "activities": [
+    {
+      "name": "In-Town and On-Premises Activities",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Estimated cost for Secret Service and staff providing security and support during Trump's in-town pool call, photo opportunity, executive order signing, and other on-site activities at the White House on April 9, 2025."
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "On April 9, 2025, Trump remained at the White House with routine security presence estimated at $75,000 for the day, covering secret service and staff costs during his scheduled events.",
+  "tags": "White House,Secret Service,Security,April 9 2025,Leisure",
+  "confidence_level": "low",
+  "model_confidence": 0.6,
+  "model_check": "Due to lack of direct evidence of specific leisure or travel expenditures on April 9, 2025, the cost estimate is based on typical minimum daily Secret Service staffing expenses for in-town presence. No flights or motorcades were documented. Limited sources and out-of-window data prevent precise cost capture, leading to a low confidence rating.",
+  "source_urls": [
+    "https://www.mcall.com/2025/08/01/air-force-one-allentown-airport-lvia/"
+  ]
+}
