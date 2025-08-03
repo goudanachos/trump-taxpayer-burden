@@ -1,0 +1,30 @@
+{
+  "location": "Villa Taverna and Vatican City, Rome, Italy",
+  "activities": [
+    {
+      "name": "Air Force One flight hours",
+      "cost": 177843,
+      "category": "VC-25A (Air Force One)",
+      "description": "Estimated 1 flight hour of Air Force One travel from Joint Base Andrews to Rome (Leonardo da Vinci International Airport) on April 25, 2025, at $177,843 per flight hour."
+    },
+    {
+      "name": "Local motorcade and security",
+      "cost": 10000,
+      "category": "Local motorcade",
+      "description": "Estimated local motorcade security and transportation costs for movements within Rome and Villa Taverna, at $10,000."
+    },
+    {
+      "name": "Secret Service and staff protection",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Full-day Secret Service and staff protection for international travel activities, estimated at $75,000 per day."
+    }
+  ],
+  "total_cost": 262843,
+  "social_description": "On April 25, 2025, President Trump traveled from the White House to Rome, Italy, attending official activities including arrival and securing Villa Taverna. Estimated travel, security, and motorcade costs total approximately $262,843.",
+  "tags": "Trump,international travel,Rome,Vatican,Villa Taverna,Secret Service,Air Force One,April 25 2025",
+  "confidence_level": "medium",
+  "model_confidence": 0.9,
+  "model_check": "Cost estimates are based on known Air Force One rates, typical daily Secret Service staff costs, and standard local motorcade fees. Lack of direct sourcing from news for this date lowers confidence to medium.",
+  "source_urls": []
+}
