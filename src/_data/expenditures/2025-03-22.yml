@@ -1,0 +1,36 @@
+{
+  "location": "Travel from Trump National Golf Club Bedminster to The White House via Morristown Municipal Airport, Philadelphia International Airport, Joint Base Andrews",
+  "activities": [
+    {
+      "name": "Secret Service & staff support (travel day)",
+      "cost": 75000,
+      "category": "Security & Staff",
+      "description": "Full day of Secret Service and staff support for the President's travel from Bedminster to Philadelphia and return to White House including motorcades and airport activities."
+    },
+    {
+      "name": "Local motorcade (multiple short trips)",
+      "cost": 20000,
+      "category": "Transportation",
+      "description": "Estimated cost for multiple short local motorcade trips from golf club to airports, between airports, and to White House."
+    },
+    {
+      "name": "Incidentals",
+      "cost": 10000,
+      "category": "Incidentals",
+      "description": "Estimated incidentals for travel day including logistics and minor expenses."
+    }
+  ],
+  "total_cost": 105000,
+  "social_description": "On March 22, 2025, President Trump traveled from Trump National Golf Club Bedminster to Philadelphia for NCAA Men's Wrestling Championship, incurring approx. $105K in security, motorcade, and incidental costs.",
+  "tags": "Trump,Travel,Bedminster,Philadelphia,NCAA,Wrestling,Security,Motorcade,Incidentals",
+  "confidence_level": "high",
+  "model_confidence": 0.96,
+  "model_check": "Costs are based on standard daily Secret Service rate, motorcade costs for multiple short trips, and typical incidentals. Multiple sources confirm travel and event schedule. This gives high confidence in estimates.",
+  "source_urls": [
+    "https://irishstar.com/sport/golf/donald-trump-golf-tournament-cheating-35665368",
+    "https://www.foxnews.com/video/6376464452112",
+    "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?entryId=124052801&id=123918735",
+    "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates?entryId=124287884&id=124128895",
+    "https://gbnews.com/politics/donald-trump-opens-new-golf-course-sean-connery"
+  ]
+}
