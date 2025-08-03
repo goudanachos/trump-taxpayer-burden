@@ -1,0 +1,27 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Meeting with Representatives Don Bacon, Mike Lawler, and Brian Fitzpatrick",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "President Trump met with Reps. Don Bacon, Mike Lawler, and Brian Fitzpatrick at the White House on January 22, 2025. Estimated cost includes Secret Service protection and staff support for the day."
+    },
+    {
+      "name": "Pre-taping interview with Sean Hannity",
+      "cost": 3000,
+      "category": "Incidentals",
+      "description": "President Trump pre-taped an interview with Sean Hannity to air at 9 pm ET on January 22, 2025. Low-cost incidentals estimated for production assistance."
+    }
+  ],
+  "total_cost": 78000,
+  "social_description": "On January 22, 2025, President Trump met with several Representatives at the White House and pre-taped an interview with Sean Hannity. Secret Service and incidentals cost estimated at $78,000.",
+  "tags": "White House,meeting,interview,Secret Service,incidentals",
+  "confidence_level": "high",
+  "model_confidence": 0.98,
+  "model_check": "The cost estimates are conservative, based on typical daily Secret Service costs for White House meetings and minimal incidentals for interview production. No evidence found of travel or motorcade requiring higher costs. Multiple credible news sources confirmed the meetings and interview schedule for the day.",
+  "source_urls": [
+    "https://cqrc.al/20250122-nbc",
+    "https://cqrc.al/20250122-fox"
+  ]
+}
