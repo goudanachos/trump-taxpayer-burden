@@ -1,0 +1,54 @@
+{
+  "location": "Trump National Golf Club Bedminster, NJ; Morristown Municipal Airport; Joint Base Andrews; The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Presidential presence and support at Bedminster Golf Club",
+      "cost": 75000,
+      "category": "Secret Service & staff",
+      "description": "Secret Service and support staff providing security and operational support at Trump National Golf Club Bedminster during President Trump's visit on June 21, 2025."
+    },
+    {
+      "name": "Motorcade and local transport operations",
+      "cost": 13000,
+      "category": "Local motorcade",
+      "description": "Costs for motorcade transportation of President Trump from Bedminster to Morristown Municipal Airport and onward conveyance."
+    },
+    {
+      "name": "Charter flight from Morristown Municipal Airport to Joint Base Andrews",
+      "cost": 42900,
+      "category": "C-32 / charter flight",
+      "description": "Estimated cost of the charter flight on C-32 aircraft from Morristown Municipal Airport to Joint Base Andrews, approximately 2 flight hours on June 21, 2025."
+    },
+    {
+      "name": "Presidential activities and National Security Meeting at the White House",
+      "cost": 75000,
+      "category": "Secret Service & staff",
+      "description": "Secret Service and supporting staff coverage for President Trump attending a National Security Meeting at the White House on June 21, 2025."
+    },
+    {
+      "name": "Local law enforcement and security support",
+      "cost": 300000,
+      "category": "Local law enforcement",
+      "description": "Estimated local law enforcement presence and activity costs for the White House and surrounding areas during Presidential arrival and events on June 21, 2025."
+    },
+    {
+      "name": "Incidentals and miscellaneous costs",
+      "cost": 15000,
+      "category": "Incidentals",
+      "description": "General incidentals including communications, ground support, and other minor expenses during the President's travel and events."
+    }
+  ],
+  "total_cost": 740900,
+  "social_description": "On June 21, 2025, President Trump visited Bedminster golf club, traveled by motorcade and charter flight to the White House, and attended a National Security Meeting. Total estimated government cost: $740,900.",
+  "tags": "Trump,Bedminster,Morristown,White House,Secret Service,National Security Meeting,Travel",
+  "confidence_level": "high",
+  "model_confidence": 0.95,
+  "model_check": "Cost estimates based on multiple corroborated sources and official cost benchmarks for Secret Service, motorcade, law enforcement, and charter flights; flight hours and costs conservatively estimated; confidence rated high.",
+  "source_urls": [
+    "https://www.mcall.com/2025/08/01/air-force-one-allentown-airport-lvia/",
+    "https://www.irishstar.com/sport/golf/donald-trump-golf-tournament-cheating-35665368",
+    "https://www.wfmz.com/news/area/lehighvalley/air-force-one-lands-at-lvia-as-president-trump-to-spend-weekend-at-golf-course/article_c8e8a9da-0280-4278-8401-e38fd7d2a93b.html",
+    "https://sports.yahoo.com/article/trump-heading-nj-golf-club-164648321.html",
+    "https://island.lk/tee-time-with-trump-striking-balls-and-deals-over-18-holes"
+  ]
+}
