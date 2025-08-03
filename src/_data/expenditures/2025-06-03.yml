@@ -1,0 +1,28 @@
+{
+  "location": "Bedminster, New Jersey; White House, Washington D.C.",
+  "activities": [
+    {
+      "name": "Golf tournament at Bedminster golf course",
+      "cost": 10000,
+      "category": "Local motorcade and golf course use",
+      "description": "President Donald Trump won the 2025 Men's Senior Golf Club Championship at his golf course in Bedminster, NJ, on June 3, 2025. Estimated cost includes local motorcade and course use."
+    },
+    {
+      "name": "Construction of new ballroom at White House",
+      "cost": 200000000,
+      "category": "Property development",
+      "description": "Announcement of a $200 million construction of a new 90,000-square-foot ballroom at the White House, planned to begin September 2025 with funding from Trump and private donors."
+    }
+  ],
+  "total_cost": 200010000,
+  "social_description": "On June 3, 2025, President Trump won a golf tournament at his Bedminster golf course and announced plans for a $200 million White House ballroom construction.",
+  "tags": "Trump,golf,Bedminster,White House,ballroom,construction,property",
+  "confidence_level": "medium",
+  "model_confidence": 0.95,
+  "model_check": "Costs estimated from local motorcade and golf course use benchmarks; ballroom cost from multiple news reports confirming $200 million project. Moderate confidence due to limited direct cost specifics.",
+  "source_urls": [
+    "https://www.irishstar.com/sport/golf/donald-trump-golf-tournament-cheating-35665368",
+    "https://www.mcall.com/2025/08/01/air-force-one-allentown-airport-lvia/",
+    "https://yahoo.com/news/articles/white-house-announces-construction-200-201904577.html"
+  ]
+}
