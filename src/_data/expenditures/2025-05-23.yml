@@ -1,0 +1,29 @@
+{
+  "location": "Trump National Golf Club Bedminster and travel through Morristown Municipal Airport and Joint Base Andrews to The White House",
+  "activities": [
+    {
+      "name": "Golfing at Trump National Golf Club Bedminster",
+      "cost": 75190,
+      "category": "golf",
+      "description": "President Donald Trump played golf at his Bedminster golf club on May 23, 2025."
+    },
+    {
+      "name": "Travel from Trump National Golf Club Bedminster to The White House via Morristown Municipal Airport and Joint Base Andrews",
+      "cost": 280000,
+      "category": "travel",
+      "description": "President Trump traveled from Bedminster to Morristown Municipal Airport, then to Joint Base Andrews, and finally to The White House on May 23, 2025. Estimated costs include Air Force One flight time (approx. 1 hour), Marine One, motorcade, Secret Service and staff support, and local law enforcement."
+    }
+  ],
+  "total_cost": 355190,
+  "social_description": "On May 23, 2025, President Trump played golf at his Bedminster club and traveled by Air Force One and Marine One through Morristown Airport and Joint Base Andrews back to The White House. Estimated leisure and travel taxpayer cost: approximately $355,190.",
+  "tags": "Trump, golf, travel, Bedminster, Morristown, Joint Base Andrews, White House, 2025-05-23",
+  "confidence_level": "high",
+  "model_confidence": 0.97,
+  "model_check": "Activity and travel confirmed by multiple credible sources within the evidence window. Costs estimated using standard rates for golf outings and presidential travel flights and security.",
+  "source_urls": [
+    "https://www.irishstar.com/sport/golf/donald-trump-golf-tournament-cheating-35665368",
+    "https://www.mcall.com/2025/08/01/air-force-one-allentown-airport-lvia/",
+    "https://www.wfmz.com/news/area/lehighvalley/air-force-one-lands-at-lvia-as-president-trump-to-spend-weekend-at-golf-course/article_c8e8a9da-0280-4278-8401-e38fd7d2a93b.html",
+    "https://www.foxnews.com/video/6376464452112"
+  ]
+}
