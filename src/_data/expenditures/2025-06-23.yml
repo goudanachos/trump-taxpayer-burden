@@ -1,0 +1,22 @@
+{
+  "location": "The White House",
+  "activities": [
+    {
+      "name": "President's official meetings",
+      "cost": 75000,
+      "category": "Secret Service & staff",
+      "description": "Standard daily cost for Secret Service and staff overseeing President Trump's activities at the White House, including National Security Team meeting and press office lids."
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "On June 23, 2025, President Trump conducted official business at the White House mainly with the National Security Team, with no leisure or golf-related activities reported. Estimated daily security and staff cost is $75K.",
+  "tags": "Trump,White House,National Security,Official Business,Security Costs",
+  "confidence_level": "high",
+  "model_confidence": 0.98,
+  "model_check": "Based on multiple highly credible White House sources showing no leisure or golf activities on this date, the cost is limited to standard Secret Service and staff support. Confidence is high due to direct sources.",
+  "source_urls": [
+    "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates?entryId=124291398&id=124128895",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://whitehouse.gov/fact-sheets"
+  ]
+}
