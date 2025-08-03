@@ -1,0 +1,32 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Secret Service and staff protection",
+      "cost": 75000,
+      "category": "Secret Service & staff",
+      "description": "Protection for the President at The White House during official meetings and events including welcoming the President of South Africa, bilateral lunch and meeting, and hosting the NCAA Men's College Basketball Champions."
+    },
+    {
+      "name": "Local motorcade protection",
+      "cost": 16000,
+      "category": "Local motorcade",
+      "description": "Estimated cost for motorcade protection for short trips within Washington, D.C., including movement between meetings and events at The White House."
+    },
+    {
+      "name": "Incidentals",
+      "cost": 10000,
+      "category": "Incidentals",
+      "description": "Miscellaneous costs related to security, logistics, and event support during the day's activities at The White House."
+    }
+  ],
+  "total_cost": 101000,
+  "social_description": "On May 21, 2025, President Trump hosted South African President and NCAA Basketball Champions at The White House, with estimated public costs of $101,000 for security and logistics.",
+  "tags": "Trump,White House,Secret Service,Motorcade,NCAA,South Africa,2025",
+  "confidence_level": "medium",
+  "model_confidence": 0.85,
+  "model_check": "Costs are based on benchmark rates applied due to lack of direct reporting on expenditures for these specific events. Confidence level is medium due to reliance on estimates not direct source specifics.",
+  "source_urls": [
+    "https://people.com/trump-announces-massive-new-white-house-addition-gold-ballroom-11782823"
+  ]
+}
