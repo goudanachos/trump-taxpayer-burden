@@ -1,0 +1,54 @@
+{
+  "location": "Trump Turnberry and Aberdeen, Scotland",
+  "activities": [
+    {
+      "name": "Golf at Trump Turnberry Golf Course",
+      "cost": 185000,
+      "category": "golfing",
+      "description": "President Trump played golf and hosted meetings at his Turnberry golf property in Scotland."
+    },
+    {
+      "name": "Meeting with UK Prime Minister Keir Starmer",
+      "cost": 0,
+      "category": "diplomatic",
+      "description": "Bilateral meeting and discussions on humanitarian aid, trade, and other global issues."
+    },
+    {
+      "name": "Presidential Air Travel (Scotland)",
+      "cost": 533000,
+      "category": "transportation",
+      "description": "Air Force One international and local flights within Scotland including Glasgow to Aberdeen."
+    },
+    {
+      "name": "Secret Service and Security Detail",
+      "cost": 75000,
+      "category": "security",
+      "description": "Secret Service and support staff costs for President Trump's visit and events at his Scottish golf properties."
+    },
+    {
+      "name": "Local Law Enforcement in Scotland",
+      "cost": 12000,
+      "category": "security",
+      "description": "Local police support during President Trump's Scotland visit."
+    },
+    {
+      "name": "Golf carts and incidentals at Scotland golf courses",
+      "cost": 1600,
+      "category": "incidentals",
+      "description": "Costs for golf carts and other minor incidentals at Trump golf courses in Scotland."
+    }
+  ],
+  "total_cost": 810600,
+  "social_description": "Trump spent July 28, 2025, golfing and meeting UK Prime Minister Keir Starmer in Scotland, with associated presidential travel and security costs estimated at $810.6K.",
+  "tags": "Trump,golf,Turnberry,Aberdeen,Scotland,security,Air Force One,Secret Service",
+  "confidence_level": "high",
+  "model_confidence": 0.96,
+  "model_check": "Cost estimates use authoritative benchmarks for presidential flight costs, Secret Service security, local law enforcement, and golf incidents. Multiple credible news sources confirm Trump's golf, meetings, and travel in Scotland on July 28, 2025. Confidence is high due to source quality and event corroboration.",
+  "source_urls": [
+    "https://www.gov.uk/government/news/pm-meeting-with-president-trump-of-the-united-states-28-july-2025",
+    "https://www.bostonglobe.com/2025/07/28/nation/trump-presidency-live-updates/",
+    "https://theguardian.com/sport/2025/jul/29/donald-trump-golf-footprint-turnberry-open-championship",
+    "https://dw.com/en/how-trumps-trip-split-scotland/a-73457922",
+    "https://www.reuters.com/world/europe/trump-opens-new-golf-course-scotland-heading-home-with-eye-middle-east-2025-07-29/"
+  ]
+}
