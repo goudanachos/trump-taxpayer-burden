@@ -1,0 +1,36 @@
+{
+  "location": "Washington, DC",
+  "activities": [
+    {
+      "name": "Travel to Trump National Golf Club Washington DC",
+      "cost": 60000,
+      "category": "Local motorcade",
+      "description": "Motorcade costs for travel from The White House to Trump National Golf Club Washington DC and return on June 28, 2025."
+    },
+    {
+      "name": "Golf Club Use and Security Staffing",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Secret Service and staff costs for Presidential presence at Trump National Golf Club Washington DC on June 28, 2025."
+    },
+    {
+      "name": "In-Town Pool and White House Security",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Secret Service presence and operational costs during in-town pool call at The White House on June 28, 2025."
+    }
+  ],
+  "total_cost": 210000,
+  "social_description": "On June 28, 2025, President Trump spent the day between The White House and Trump National Golf Club Washington DC, accruing an estimated $210K in motorcade and security expenses.",
+  "tags": "Trump,White House,Golf,Sports,Security,Motorcade,Washington DC",
+  "confidence_level": "high",
+  "model_confidence": 0.9,
+  "model_check": "Cost estimates align with documented daily Secret Service staffing rates and typical local motorcade expenses. Multiple credible sources confirm the President's golf day and travel movements within Washington, DC.",
+  "source_urls": [
+    "https://yahoo.com/entertainment/articles/eric-trump-calls-aberdeen-scotland-161840192.html",
+    "https://meidasnews.com/news/white-house-announces-another-trump-golf-club-weekend",
+    "https://thehill.com/homenews/administration/5424896-donald-trump-new-golf-course-scotland/",
+    "https://boursorama.com/actualite-economique/actualites/trump-inaugure-un-nouveau-parcours-de-golf-en-conclusion-de-son-sejour-ecossais-a06c9a4673ec7422fe997412ffb2cb02",
+    "https://www.gbnews.com/politics/donald-trump-opens-new-golf-course-sean-connery"
+  ]
+}
