@@ -1,0 +1,34 @@
+{
+  "location": "Aberdeen, Scotland",
+  "activities": [
+    {
+      "name": "Golf at Trump International Golf Links Aberdeen",
+      "cost": 160000,
+      "category": "golfing",
+      "description": "President Trump participated in the grand opening ceremony and played on the newly opened Trump International Golf Links golf course near Aberdeen, Scotland."
+    },
+    {
+      "name": "Presidential Air Travel",
+      "cost": 270000,
+      "category": "transportation",
+      "description": "Air Force One flight from Aberdeen (RAF Lossiemouth) back to Joint Base Andrews and then to The White House on July 29, 2025."
+    },
+    {
+      "name": "Secret Service and Security Detail",
+      "cost": 75000,
+      "category": "security",
+      "description": "Secret Service and support staff costs for President Trump's international travel and security during the trip to Aberdeen, Scotland."
+    }
+  ],
+  "total_cost": 505000,
+  "social_description": "On July 29, 2025, Trump opened the Trump International Golf Links near Aberdeen, Scotland, played golf there, and returned to the U.S. with associated travel and security costs estimated at $505K.",
+  "tags": "Trump,golf,international,Aberdeen,Scotland,Air Force One,Secret Service,security",
+  "confidence_level": "high",
+  "model_confidence": 0.97,
+  "model_check": "Multiple credible sources confirm President Trump's golf course opening event and corresponding international travel on July 29, 2025. Costs were calculated using standard benchmarks for international presidential travel, golfing, and Secret Service protection. Confidence is high due to consistency and multiple reliable sources.",
+  "source_urls": [
+    "https://www.citizensvoice.com/2025/07/29/trump-scotland-visit-final-day/",
+    "https://www.golfmonthly.com/news/donald-trump-opens-trump-international-golf-links",
+    "https://www.washingtonexaminer.com/news/white-house/3484600/watch-live-trump-grand-opening-trump-international-golf-links-aberdeen/"
+  ]
+}
