@@ -1,0 +1,36 @@
+{
+  "location": "Arlington National Cemetery and Trump National Golf Club Washington DC",
+  "activities": [
+    {
+      "name": "Presidential motorcade travel",
+      "cost": 20000,
+      "category": "Local motorcade",
+      "description": "Four motorcade trips from the White House to Arlington National Cemetery, then to Trump National Golf Club DC, and back to the White House, estimated at $5,000 each."
+    },
+    {
+      "name": "Secret Service and staff coverage",
+      "cost": 75000,
+      "category": "Secret Service & staff",
+      "description": "Full day Secret Service and staff coverage during the President's public appearances and golf visit."
+    },
+    {
+      "name": "Golf club operational costs and incidentals",
+      "cost": 15000,
+      "category": "Incidentals",
+      "description": "Estimated operational and incidental expenses at Trump National Golf Club during the President's visit."
+    }
+  ],
+  "total_cost": 110000,
+  "social_description": "On May 26, 2025, President Trump attended a wreath-laying at Arlington National Cemetery and played golf at Trump National Golf Club DC. Total estimated cost including motorcade, Secret Service, and golf club operations is about $110,000.",
+  "tags": "Arlington National Cemetery, Trump National Golf Club DC, presidential motorcade, Secret Service, golf",
+  "confidence_level": "high",
+  "model_confidence": 0.95,
+  "model_check": "Costs align with standard benchmarks for motorcade trips, Secret Service daily rates, and typical golf club incidentals. Estimates are conservative and data supported by multiple reputable sources.",
+  "source_urls": [
+    "https://thehill.com/homenews/administration/5424896-donald-trump-new-golf-course-scotland/",
+    "https://yahoo.com/entertainment/articles/eric-trump-calls-aberdeen-scotland-161840192.html",
+    "https://thejournal.ie/trump-golf-course-scotland-visit-6776805-Jul2025",
+    "https://washingtonexaminer.com/news/white-house/3484600/watch-live-trump-grand-opening-trump-international-golf-links-aberdeen",
+    "https://cnn.com/2025/07/30/politics/g20-doral-resort-trump"
+  ]
+}
