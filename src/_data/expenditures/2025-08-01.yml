@@ -1,0 +1,53 @@
+{
+  "location": "Bedminster, New Jersey and Washington, D.C.",
+  "activities": [
+    {
+      "name": "Air Force One flight from The White House to Bedminster",
+      "cost": 177843,
+      "category": "Air travel",
+      "description": "Estimated 1 flight hour on Air Force One at $177,843 per flight hour for transport from The White House to Bedminster on August 1, 2025."
+    },
+    {
+      "name": "Short Air Force One flight from Joint Base Andrews to Lehigh Valley International Airport",
+      "cost": 89000,
+      "category": "Air travel",
+      "description": "Estimated roughly 0.5 flight hour on Air Force One for a short leg from Joint Base Andrews to Lehigh Valley International Airport."
+    },
+    {
+      "name": "Marine One helicopter flight from Lehigh Valley International Airport to Bedminster golf club",
+      "cost": 24000,
+      "category": "Air travel",
+      "description": "Estimated 1 flight hour on Marine One helicopter for transport from Lehigh Valley International Airport to Trump National Golf Club Bedminster."
+    },
+    {
+      "name": "Local motorcade trips in Bedminster area",
+      "cost": 10000,
+      "category": "Ground transport",
+      "description": "Estimated two short local motorcade trips at $5,000 each in Bedminster."
+    },
+    {
+      "name": "Secret Service and staff at Bedminster golf club",
+      "cost": 1130000,
+      "category": "Security",
+      "description": "Full day Secret Service and staff protection at Trump National Golf Club Bedminster on August 1, 2025."
+    },
+    {
+      "name": "Golf carts and porta-loos at Bedminster",
+      "cost": 1600,
+      "category": "Incidentals",
+      "description": "Daily cost for golf carts and porta-loos at the golf club."
+    }
+  ],
+  "total_cost": 1430443,
+  "social_description": "On August 1, 2025, President Trump traveled from the White House to Bedminster, NJ via Air Force One and Marine One, with full Secret Service support and local motorcade. Estimated taxpayer cost: $1.43 million.",
+  "tags": "Trump,Bedminster,White House,Air Force One,Marine One,Secret Service,Motorcade",
+  "confidence_level": "high",
+  "model_confidence": 0.9,
+  "model_check": "High confidence given strong schedule and travel records, and multiple reliable news sources confirming locations and travel modes.",
+  "source_urls": [
+    "https://nytimes.com/live/2025/08/01/us/trump-news",
+    "https://news-pravda.com/world/2025/08/01/1561336.html",
+    "https://mcall.com/2025/08/01/air-force-one-allentown-airport-lvia/",
+    "https://wfmz.com/news/area/lehighvalley/air-force-one-lands-at-lvia-as-president-trump-to-spend-weekend-at-golf-course/article_c8e8a9da-0280-4278-8401-e38fd7d2a93b.html"
+  ]
+}
