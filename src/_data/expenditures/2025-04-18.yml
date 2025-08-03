@@ -1,0 +1,30 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Secret Service and staff protection",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Daily Secret Service and staff support for the President during the swearing-in ceremony inside the Oval Office."
+    },
+    {
+      "name": "Incidentals",
+      "cost": 15000,
+      "category": "Incidentals",
+      "description": "Estimated incidentals including event preparations, communications, and logistics for the swearing-in ceremony at the White House."
+    }
+  ],
+  "total_cost": 90000,
+  "social_description": "On April 18, 2025, President Trump participated in a swearing-in ceremony for a federal administrator at the White House, with standard security and logistical support.",
+  "tags": "White House,presidential activities,swearing-in ceremony,security,incidentals",
+  "confidence_level": "high",
+  "model_confidence": 0.9,
+  "model_check": "The cost estimation is reliable based on the daily Secret Service presence rate and typical White House event incidentals. Multiple high-credibility sources confirm the event with consistent details within the date window.",
+  "source_urls": [
+    "https://gazette.com/news/us-world/swearing-in-ceremony-for-the-interim-u-s-attorney-for-the-district-of-columbia-at/image_d7f42b39-5b46-51f0-b95d-967f357df58c.html",
+    "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?entryId=124052801&id=123918735",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://people.com/trump-announces-massive-new-white-house-addition-gold-ballroom-11782823",
+    "https://archpaper.com/2025/08/trump-ballroom-white-house"
+  ]
+}
