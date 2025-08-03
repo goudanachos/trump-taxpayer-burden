@@ -1,0 +1,33 @@
+{
+  "location": "Washington, D.C.",
+  "activities": [
+    {
+      "name": "Motorcade trips between White House and Business Roundtable office",
+      "cost": 20000,
+      "category": "Local motorcade",
+      "description": "Two short trips estimated at $10,000 each for travel between White House and Business Roundtable office."
+    },
+    {
+      "name": "Secret Service and staff provision at the White House and Business Roundtable",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Daily protective and support services covering the President's presence at multiple venues."
+    },
+    {
+      "name": "Local law enforcement and incidentals",
+      "cost": 15000,
+      "category": "Incidentals",
+      "description": "Minor incidental costs for security and logistics."
+    }
+  ],
+  "total_cost": 110000,
+  "social_description": "On March 11, 2025, President Trump held business meetings and a Tesla photo op in Washington, with associated motorcade and security expenses.",
+  "tags": "Trump,White House,Business Roundtable,Tesla,Motorcade,Security,Washington DC",
+  "confidence_level": "medium",
+  "model_confidence": 0.86,
+  "model_check": "Costs are estimated from standard benchmarks as direct sources for motorcade and security spending on this date are not found. Search yielded no direct news confirming flights or unusual expenses. Estimates based on typical costs for locations and events described.",
+  "source_urls": [
+    "https://people.com/trump-announces-massive-new-white-house-addition-gold-ballroom-11782823",
+    "https://www.theguardian.com/environment/2025/jul/30/elon-musk-tesla-liberals-electric-vehicles"
+  ]
+}
