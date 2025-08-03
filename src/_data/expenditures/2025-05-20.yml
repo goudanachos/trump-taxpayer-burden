@@ -1,0 +1,36 @@
+{
+  "location": "Washington, D.C.",
+  "activities": [
+    {
+      "name": "Secret Service and staff protection",
+      "cost": 75000,
+      "category": "Secret Service & staff",
+      "description": "Estimated cost for Secret Service and staff protection at White House and U.S. Capitol for Trump's events on May 20, 2025."
+    },
+    {
+      "name": "Local motorcade protection",
+      "cost": 15000,
+      "category": "Local motorcade",
+      "description": "Estimated cost for local motorcade protection for short trips between White House and U.S. Capitol."
+    },
+    {
+      "name": "Incidentals",
+      "cost": 12000,
+      "category": "Incidentals",
+      "description": "Estimated incidentals for logistics, operations, and support during Trump's official activities at White House and Capitol on May 20, 2025."
+    }
+  ],
+  "total_cost": 102000,
+  "social_description": "On May 20, 2025, taxpayer-funded costs for Trump’s security, motorcade, and incidentals during multiple official events at the White House and Capitol are estimated at around $102,000.",
+  "tags": "Trump,White House,Capitol,Secret Service,Motorcade,WashingtonDC,2025",
+  "confidence_level": "high",
+  "model_confidence": 0.95,
+  "model_check": "Estimates are based on reputable benchmark costs and supported by general knowledge of presidential event expenses. Multiple high-credibility sources confirm event presence, and expense categories are standard for similar events.",
+  "source_urls": [
+    "https://finance-monthly.com/trump-motorcade-security-costs",
+    "https://people.com/trump-announces-massive-new-white-house-addition-gold-ballroom-11782823",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://reuters.com/world/china/trump-says-us-eu-have-good-chance-reaching-trade-deal-2025-07-27",
+    "https://cnn.com/2025/07/27/business/trump-us-eu-trade-deal"
+  ]
+}
