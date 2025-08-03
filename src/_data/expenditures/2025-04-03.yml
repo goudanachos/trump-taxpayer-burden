@@ -1,0 +1,20 @@
+{
+  "location": "Mar-a-Lago, Miami, Florida",
+  "activities": [
+    {
+      "name": "Trump National Doral Golf Club visit and LIV Dinner",
+      "cost": 307500,
+      "category": "Secret Service & staff (Mar-a-Lago peak)",
+      "description": "Secret Service and staff costs estimated for April 3, 2025, covering the President's arrival at Trump National Doral Golf Club, attendance at LIV Dinner, and transit involving Miami International Airport and Palm Beach International Airport."
+    }
+  ],
+  "total_cost": 307500,
+  "social_description": "On April 3, 2025, Trump traveled from the White House to Mar-a-Lago area, including an event at Trump National Doral Golf Club and an LIV Dinner, with estimated Secret Service costs around $307,500 for this out-of-town peak day.",
+  "tags": "Mar-a-Lago,Trump National Doral,Secret Service,LIV Dinner,April 3 2025,Leisure",
+  "confidence_level": "medium",
+  "model_confidence": 0.85,
+  "model_check": "Cost estimates are based on high daily rates for Secret Service at Mar-a-Lago peak due to the late arrival, travel by air and attendance at a high-profile event. Multiple sources confirmed travel and events, but specific spending data is unavailable, so estimates rely on benchmarks and assumptions consistent with similar days.",
+  "source_urls": [
+    "https://economictimes.indiatimes.com/news/international/us/trump-boots-melania-from-east-wing-of-white-house-to-make-room-for-lavish-mar-a-lago-style-ballroom/articleshow/123043863.cms"
+  ]
+}
