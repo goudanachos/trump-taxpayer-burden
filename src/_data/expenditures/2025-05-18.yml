@@ -1,0 +1,36 @@
+{
+  "location": "Trump National Golf Club Washington DC and The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Motorcade and Security Detail",
+      "cost": 10000,
+      "category": "local motorcade",
+      "description": "Estimated cost for motorcade and security motorcade operations for President Trump's travel between the White House and Trump National Golf Club on May 18, 2025."
+    },
+    {
+      "name": "Secret Service and Staff Protection",
+      "cost": 75000,
+      "category": "Secret Service & staff",
+      "description": "Estimated daily cost for Secret Service and staff protection during the President's visit to the golf club on May 18, 2025."
+    },
+    {
+      "name": "Incidentals at Golf Club",
+      "cost": 15000,
+      "category": "incidentals",
+      "description": "Estimated incidental expenses including event logistics and security support at Trump National Golf Club for the President's visit on May 18, 2025."
+    }
+  ],
+  "total_cost": 100000,
+  "social_description": "On May 18, 2025, President Trump visited Trump National Golf Club Washington DC. Estimated taxpayer expenses for motorcade, Secret Service protection, and incidentals for this leisure visit total approximately $100,000.",
+  "tags": "Trump National Golf Club,White House,motorcade,Secret Service,golf,2025,May 18",
+  "confidence_level": "medium",
+  "model_confidence": 0.95,
+  "model_check": "Estimates rely on standard daily and per-trip cost benchmarks as no direct specific expenditures were disclosed. Confidence is medium based on multiple credible sources confirming the visit and benchmark application.",
+  "source_urls": [
+    "https://helsinkitimes.fi/world-int/27567-trump-s-golf-habits-cost-taxpayers-over-60-million.html",
+    "https://thespun.com/golf/white-house-makes-190000-president-trump-golf-announcement",
+    "https://meidasnews.com/news/white-house-announces-another-trump-golf-club-weekend",
+    "https://golflifenavigators.com/composite/trump-national-golf-club-charlotte",
+    "https://yahoo.com/entertainment/articles/eric-trump-calls-aberdeen-scotland-161840192.html"
+  ]
+}
