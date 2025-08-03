@@ -1,0 +1,36 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Secret Service and staff protection",
+      "cost": 75000,
+      "category": "Security",
+      "description": "Estimated cost for Secret Service and staff protection during the President's in-town day at the White House."
+    },
+    {
+      "name": "Local motorcade",
+      "cost": 10000,
+      "category": "Transportation",
+      "description": "Estimated cost for the local motorcade trips for the President's movements within Washington, D.C."
+    },
+    {
+      "name": "Incidentals",
+      "cost": 15000,
+      "category": "Miscellaneous",
+      "description": "Estimated miscellaneous and incidental expenses during the President's time at the White House."
+    }
+  ],
+  "total_cost": 100000,
+  "social_description": "On July 8, 2025, President Trump attended events at the White House including a Cabinet Meeting. The estimated security, transportation, and incidental costs total approximately $100,000.",
+  "tags": "Trump,White House,Security,Motorcade,Incidental,July 8 2025",
+  "confidence_level": "medium",
+  "model_confidence": 0.9,
+  "model_check": "Costs are estimated based on standard daily rates for Secret Service protection at the White House and typical local motorcade usage without evidence of extraordinary travel or events. Medium confidence given lack of direct cost disclosures.",
+  "source_urls": [
+    "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates?entryId=124291398&id=124128895",
+    "https://www.foxnews.com/media/smithsonian-temporarily-removes-trump-impeachment-references-from-history-museum-drawing-liberal-ire",
+    "https://www.aljazeera.com/news/2025/8/2/trumps-200m-ballroom-a-history-of-home-improvements-at-the-white-house",
+    "https://www.allsides.com/news/2025-08-02-0937/donald-trump-whos-paying-new-white-house-golden-ballroom-what-we-know",
+    "https://archive.ph/CNOfg"
+  ]
+}
