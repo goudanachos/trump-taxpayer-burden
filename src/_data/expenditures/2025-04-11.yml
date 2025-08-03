@@ -1,0 +1,41 @@
+{
+  "location": "The White House, Walter Reed National Military Medical Center, Joint Base Andrews, Palm Beach International Airport, Mar-a-Lago",
+  "activities": [
+    {
+      "name": "Motorcade and security detail - White House to Walter Reed",
+      "cost": 10000,
+      "category": "Local motorcade",
+      "description": "Motorcade and security detail for President Trump's in-town travel from The White House to Walter Reed Hospital on April 11, 2025."
+    },
+    {
+      "name": "Secret Service & staff daily support",
+      "cost": 75000,
+      "category": "Secret Service & staff",
+      "description": "Daily Secret Service and staff security and support at the White House and travel locations on April 11, 2025."
+    },
+    {
+      "name": "C-32 / Charter flight - Joint Base Andrews to Palm Beach International Airport",
+      "cost": 46510,
+      "category": "Air travel",
+      "description": "Charter flight from Joint Base Andrews to Palm Beach International Airport for President Trump on April 11, 2025, estimated at approximately 2.16 flight hours at $21,560 per flight hour."
+    },
+    {
+      "name": "Motorcade and security detail - Palm Beach International to Mar-a-Lago and local trips",
+      "cost": 15000,
+      "category": "Local motorcade",
+      "description": "Motorcade and security for short trips from Palm Beach International Airport to Mar-a-Lago and local area on April 11, 2025."
+    }
+  ],
+  "total_cost": 146520,
+  "social_description": "On April 11, 2025, President Trump traveled from the White House to Walter Reed for his annual physical, then flew from Joint Base Andrews to Palm Beach International Airport and proceeded to Mar-a-Lago. Estimated costs to taxpayers for flights, motorcade, and security total approximately $146,520.",
+  "tags": "Trump,White House,Walter Reed,Joint Base Andrews,Palm Beach,Mar-a-Lago,security,motorcade,air travel",
+  "confidence_level": "high",
+  "model_confidence": 0.97,
+  "model_check": "Cost estimates rely on established benchmark rates with conservative assumptions for travel times and motorcade trips. Multiple credible sources confirm President Trump's schedule and locations on April 11, 2025.",
+  "source_urls": [
+    "https://www.newsweek.com/walter-reed-military-hospital-suspect-arrested-fake-gun-2107127",
+    "https://www.nytimes.com/live/2025/07/31/us/trump-news",
+    "https://finance-monthly.com/trump-motorcade-security-costs",
+    "https://www.whitehouse.gov/briefing-room/press-briefings/2025/04/11"
+  ]
+}
