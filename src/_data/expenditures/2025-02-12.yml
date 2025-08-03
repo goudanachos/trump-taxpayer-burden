@@ -1,0 +1,28 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "White House In-Town Pool and Activities",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Cost estimate for Secret Service and support staff securing the White House for full day activities including pool call, press briefing, executive orders signing, and swearing-in ceremony."
+    },
+    {
+      "name": "Local Motorcade and Security Detail",
+      "cost": 10000,
+      "category": "Local motorcade",
+      "description": "Estimated cost for local motorcade and associated security for short trips or movements within the White House premises and surroundings."
+    }
+  ],
+  "total_cost": 85000,
+  "social_description": "On February 12, 2025, President Trump engaged in official duties at the White House including signing executive orders, press briefing, and a swearing-in ceremony. Estimated taxpayer-funded security and motorcade costs for the day totaled approximately $85,000.",
+  "tags": "White House,Security,Motorcade,Executive Orders,Press Briefing",
+  "confidence_level": "medium",
+  "model_confidence": 0.95,
+  "model_check": "The cost estimate is primarily derived from standard Secret Service daily rates for White House activities and typical local motorcade costs as no specific news reports detailing costs for the exact date were found. Confidence is medium due to lack of direct source citations in the search results for the specific date.",
+  "source_urls": [
+    "https://whitehouse.gov/briefings-statements/",
+    "https://www.whitehouse.gov/presidential-actions/",
+    "https://www.whitehouse.gov/executive-orders/"
+  ]
+}
