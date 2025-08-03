@@ -1,0 +1,42 @@
+{
+  "location": "Washington, D.C.",
+  "activities": [
+    {
+      "name": "Bilateral Meeting with President of the Republic of the Philippines",
+      "cost": 0,
+      "category": "Official Meetings",
+      "description": "President Trump met with the President of the Republic of the Philippines at the White House, including a bilateral meeting and bilateral lunch on July 22, 2025."
+    },
+    {
+      "name": "Reception with Republican Members of Congress",
+      "cost": 0,
+      "category": "Official Event",
+      "description": "President Trump attended a reception with Republican Members of Congress in the East Room of the White House on July 22, 2025."
+    },
+    {
+      "name": "Secret Service & Staff Protection",
+      "cost": 75000,
+      "category": "Security",
+      "description": "Estimated cost for Secret Service and staff protection at the White House covering the events of July 22, 2025."
+    },
+    {
+      "name": "Local Motorcade Transportation",
+      "cost": 10000,
+      "category": "Transportation",
+      "description": "Estimated cost for local motorcade transportation related to the official meetings and reception within Washington, D.C., on July 22, 2025."
+    }
+  ],
+  "total_cost": 85000,
+  "social_description": "On July 22, 2025, President Trump hosted the President of the Philippines for bilateral meetings and lunch, and attended a reception with Republican Members of Congress at the White House. Security and transportation costs are estimated.",
+  "tags": "Trump,White House,Philippines,Bilateral Meeting,Republican Reception,Secret Service,Motorcade",
+  "confidence_level": "high",
+  "model_confidence": 0.9,
+  "model_check": "Confirmed events with multiple credible sources; applied standard government cost benchmarks for Secret Service and motorcade; no conflict in data.",
+  "source_urls": [
+    "https://whitehouse.gov/presidential-actions/executive-orders",
+    "https://tribune.net.ph/2025/08/01/trump-grants-1-week-reprieve",
+    "https://asiatimes.com/2025/08/trump-takes-step-back-from-philippines-in-south-china-sea",
+    "https://thehill.com/homenews/administration/trump-the-next-100-days/5424389-live-updates-trump-tariffs-gaza-epstein/",
+    "https://thediplomat.com/2025/07/whats-the-deal-with-trumps-trade-agreements-in-southeast-asia/"
+  ]
+}
