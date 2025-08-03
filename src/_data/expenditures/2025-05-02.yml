@@ -1,0 +1,42 @@
+{
+  "location": "Mar-a-Lago, West Palm Beach, FL",
+  "activities": [
+    {
+      "name": "Secret Service & Staff at Mar-a-Lago",
+      "cost": 1130000,
+      "category": "Security",
+      "description": "Full-day Secret Service and staff presence at Mar-a-Lago during President Trump's golf and fundraiser events on May 2, 2025."
+    },
+    {
+      "name": "Local Motorcade within Mar-a-Lago",
+      "cost": 12000,
+      "category": "Transportation",
+      "description": "Estimated motorcade support costs for Presidential movements between Mar-a-Lago and Trump International Golf Club West Palm Beach on May 2, 2025."
+    },
+    {
+      "name": "Golf at Trump International Golf Club West Palm Beach",
+      "cost": 16000,
+      "category": "Leisure",
+      "description": "Estimated Secret Service, support, and law enforcement costs for golf activities on May 2, 2025."
+    },
+    {
+      "name": "MAGA Inc. 2025 RNC Spring Gala Fundraiser at Mar-a-Lago",
+      "cost": 75000,
+      "category": "Event",
+      "description": "Costs for security, Secret Service staff, and incidentals associated with the significant fundraiser event MAGA Inc. 2025 RNC Spring Gala at Mar-a-Lago."
+    }
+  ],
+  "total_cost": 1321000,
+  "social_description": "On May 2, 2025, President Trump spent the day at Mar-a-Lago golfing and hosting the MAGA Inc. 2025 RNC Spring Gala fundraiser. Total estimated costs for security, transportation, leisure, and the fundraiser event are about $1.32 million.",
+  "tags": "Trump,Mar-a-Lago,Golf,Fundraiser,RNC Gala,May 2 2025",
+  "confidence_level": "high",
+  "model_confidence": 0.97,
+  "model_check": "The estimate is supported by multiple credible news sources confirming President Trump's location, schedule, and the significant fundraiser event, with costs based on known benchmarks for Secret Service, motorcade, and event security at Mar-a-Lago.",
+  "source_urls": [
+    "https://afr.com/world/north-america/mar-a-lago-at-the-white-house-donald-trump-s-300m-ballroom-plan-20250803-p5mjvl",
+    "https://apnews.com/article/jeffrey-epstein-congress-ghislaine-maxwell-justice-department-3ca45e130deb5f2eee8deff36d99734f",
+    "https://nymag.com/intelligencer/article/trump-is-getting-the-white-house-ballroom-hes-always-wanted.html",
+    "https://people.com/trump-claims-jeffrey-epstein-stole-young-female-employees-including-virginia-giuffre-from-his-mar-a-lago-spa-11781448",
+    "https://cbsnews.com/news/pfizer-ceo-albert-bourla-trump-golf-club-drug-price-cuts-sources-say/"
+  ]
+}
