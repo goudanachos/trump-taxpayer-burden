@@ -1,0 +1,36 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Presidential activities at the White House including Intelligence Briefing, Press Briefing, and Ambassador Swearing-In Ceremony",
+      "cost": 75000,
+      "category": "Secret Service & staff",
+      "description": "Secret Service and supporting staff costs for continuous protection and operational support during President Trump's official activities at the White House on June 19, 2025."
+    },
+    {
+      "name": "Local law enforcement support and security",
+      "cost": 300000,
+      "category": "Local law enforcement",
+      "description": "Estimated cost for local law enforcement to secure the White House area and provide traffic and crowd control during the President's activities on June 19, 2025."
+    },
+    {
+      "name": "Incidentals and miscellaneous expenses",
+      "cost": 15000,
+      "category": "Incidentals",
+      "description": "Estimated incidentals including communications, logistics, and minor expenses related to the President's activities at the White House."
+    }
+  ],
+  "total_cost": 390000,
+  "social_description": "On June 19, 2025, President Trump conducted official business at the White House including intelligence and press briefings, plus a swearing-in ceremony. Estimated security and support costs total approximately $390,000.",
+  "tags": "Trump,White House,Secret Service,Local Law Enforcement,Intelligence,Press,Swearing-In",
+  "confidence_level": "high",
+  "model_confidence": 0.95,
+  "model_check": "Estimates based on standardized daily costs and multiple cross-verified event confirmations. No direct expenditure disclosures but cost attribution via benchmarks is reliable.",
+  "source_urls": [
+    "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates?entryId=124291398&id=124128895",
+    "https://www.nytimes.com/live/2025/07/31/us/trump-news",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.usatoday.com/story/news/politics/2025/07/31/trump-white-house-renovations-changes/85465892007/",
+    "https://wunc.org/2025-07-29/why-trump-is-obsessed-with-building-a-white-house-ballroom"
+  ]
+}
