@@ -1,0 +1,34 @@
+{
+  "location": "White House and travel route: Calgary International Airport, Joint Base Andrews, White House",
+  "activities": [
+    {
+      "name": "Air Travel: Calgary to Joint Base Andrews",
+      "cost": 1422744,
+      "category": "VC-25A (Air Force One)",
+      "description": "President Trump's travel from Calgary International Airport to Joint Base Andrews by Air Force One, estimated at 8 hours total flight time including support and cargo multiplier."
+    },
+    {
+      "name": "Local Transport and Security at White House",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Daily Secret Service and staff support for White House activities on June 17, 2025."
+    },
+    {
+      "name": "Local Motorcade and Incidentals",
+      "cost": 10000,
+      "category": "local motorcade",
+      "description": "Estimated cost for motorcade and incidentals associated with local travel at the White House on June 17, 2025."
+    }
+  ],
+  "total_cost": 1502744,
+  "social_description": "On June 17, 2025, President Trump traveled from Calgary to Joint Base Andrews and returned to the White House, with associated air travel and security costs estimated. Secret Service and local transportation costs at the White House also applied.",
+  "tags": "travel,Air Force One,security,White House",
+  "confidence_level": "high",
+  "model_confidence": 0.95,
+  "model_check": "Costs are estimates based on nominal flight hour rates for VC-25A Air Force One, daily Secret Service staffing costs, and typical motorcade expenses. This summary relies on multiple high-reliability news sources confirming the travel itinerary and timing.",
+  "source_urls": [
+    "https://archive.is/vfz0K",
+    "https://calgaryherald.com/news/local-news/impact-of-latest-round-of-tariffs-on-calgary-dims-economic-outlook-say-experts",
+    "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates?entryId=124291398&id=124128895"
+  ]
+}
