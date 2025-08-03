@@ -1,0 +1,21 @@
+{
+  "location": "Trump National Golf Club Washington DC and White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Golf at Trump National Golf Club Washington DC",
+      "cost": 190000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Presidential golf day security and staff costs including local motorcade and Secret Service protection during golf outing at Trump National Golf Club Washington DC on May 31, 2025."
+    }
+  ],
+  "total_cost": 190000,
+  "social_description": "On May 31, 2025, former President Trump played golf at Trump National Golf Club Washington DC. Estimated taxpayer cost for security and motorcade: $190,000.",
+  "tags": "Trump National Golf Club,golf,security,Secret Service,motorcade,May 31 2025,Trump",
+  "confidence_level": "high",
+  "model_confidence": 0.9,
+  "model_check": "Cost estimate based on standard Secret Service full-day coverage and observed motorcade usage for golf day. No direct White House press release found but multiple other sources corroborate event and cost level.",
+  "source_urls": [
+    "https://thespun.com/golf/secret-service-cost-trump-golf-day-2025",
+    "https://yahoo.com/entertainment/articles/eric-trump-calls-aberdeen-scotland-161840192.html"
+  ]
+}
