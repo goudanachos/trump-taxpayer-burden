@@ -1,0 +1,29 @@
+{
+  "location": "Mar-a-Lago and Trump International Golf Club West Palm Beach, Florida",
+  "activities": [
+    {
+      "name": "Secret Service and staff at Mar-a-Lago",
+      "cost": 1130000,
+      "category": "Security",
+      "description": "Full day peak-level Secret Service and staff protection at Mar-a-Lago during President Trump's presence."
+    },
+    {
+      "name": "Local motorcade trips",
+      "cost": 15000,
+      "category": "Transportation",
+      "description": "Estimated cost at higher range plus 50% uplift for motorcade trips between Mar-a-Lago and Trump International Golf Club."
+    }
+  ],
+  "total_cost": 1145000,
+  "social_description": "On March 15, 2025, President Trump spent the day at Mar-a-Lago and Trump International Golf Club, including a fundraising dinner, with estimated costs around $1.15M for security and transport.",
+  "tags": "Mar-a-Lago,Trump Golf Club,Secret Service,motorcade,security,transportation,fundraiser",
+  "confidence_level": "medium",
+  "model_confidence": 0.86,
+  "model_check": "Cost estimates based on standard rates for Mar-a-Lago peak security and motorcade transport without direct detailed reporting on this specific day's spending, so medium confidence is appropriate.",
+  "source_urls": [
+    "https://clarin.com/mundo/donald-trump-construye-legado-marmol-oro-casa-blanca-imponente-salon-baile-us-200-millones-650-invitados_0_0fS2mbmssj.html",
+    "https://economictimes.indiatimes.com/news/international/us/trump-boots-melania-from-east-wing-of-white-house-to-make-room-for-lavish-mar-a-lago-style-ballroom/articleshow/123043863.cms",
+    "https://dailyherald.com/20250729/nation-and-world/trump-says-epstein-stole-young-women-from-mar-a-lago-spa-including-virginia-giuffre",
+    "https://mymotherlode.com/news/national/us-government/4151040/lawyers-for-epsteins-former-girlfriend-say-shes-open-to-interview-with-congress-if-given-immunity.html"
+  ]
+}
