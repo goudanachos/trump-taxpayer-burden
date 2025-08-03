@@ -1,0 +1,26 @@
+{
+  "location": "The White House, Washington, DC",
+  "activities": [
+    {
+      "name": "Secret Service and staff",
+      "cost": 75000,
+      "category": "Security and Staff",
+      "description": "Standard daily cost for Secret Service and staff supporting the President at the White House on July 10, 2025."
+    },
+    {
+      "name": "Incidentals",
+      "cost": 9000,
+      "category": "Miscellaneous",
+      "description": "Estimated miscellaneous incidental expenditures for the day at the White House."
+    }
+  ],
+  "total_cost": 84000,
+  "social_description": "On July 10, 2025, President Trump remained at the White House with no public events. Estimated total taxpayer cost includes Secret Service staffing and incidentals, totaling approximately $84,000.",
+  "tags": "White House,Secret Service,Incidentals",
+  "confidence_level": "medium",
+  "model_confidence": 0.9,
+  "model_check": "Costs are estimated based on standard daily rates for Secret Service and typical incidentals. No public travel or events reduce complexity; confidence is medium due to usual estimation without detailed itemization.",
+  "source_urls": [
+    "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates?entryId=124291398&id=124128895"
+  ]
+}
