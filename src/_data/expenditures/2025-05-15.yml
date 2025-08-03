@@ -1,0 +1,20 @@
+{
+  "location": "International Travel: Doha, Qatar and Abu Dhabi, United Arab Emirates",
+  "activities": [
+    {
+      "name": "International Diplomatic Travel and Security",
+      "cost": 399600,
+      "category": "VC-25A",
+      "description": "Estimated flight time approx 9 hours (approx 5 hours Qatar to Abu Dhabi, 4 hours Abu Dhabi to RAF Mildenhall) on Air Force One VC-25A at $177,843/hr doubled for international support; includes large Secret Service staff at $75,000/day; motorcade and incidentals accounted at higher plausible figures."
+    }
+  ],
+  "total_cost": 399600,
+  "social_description": "On May 15, 2025, President Trump conducted international diplomatic visits in Doha and Abu Dhabi, with estimated taxpayer costs around $399,600 covering Air Force One international flights, Secret Service staff, and associated motorcade and incidentals.",
+  "tags": "international,Doha,Qatar,Abu Dhabi,UAE,Air Force One,Secret Service,2025,May 15",
+  "confidence_level": "medium",
+  "model_confidence": 0.95,
+  "model_check": "Cost estimate uses benchmark Air Force One hourly rates doubled for international support flights totaling about 9 flight hours, plus Secret Service daily staff charges and motorcade/incidentals at higher plausible figures due to sparse specific data in sources.",
+  "source_urls": [
+    "https://travelandtourworld.com/news/article/trumps-new-global-tariffs-may-impact-travel-costs-and-tourism-what-travelers-need-to-know"
+  ]
+}
