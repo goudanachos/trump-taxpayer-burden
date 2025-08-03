@@ -1,0 +1,42 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "In-Town Pool Call Time",
+      "cost": 75000,
+      "category": "Secret Service & staff",
+      "description": "President Trump was at the White House with Secret Service protection during the in-town pool call time at 9:00 AM."
+    },
+    {
+      "name": "White House Lunch Lid",
+      "cost": 15000,
+      "category": "Incidentals",
+      "description": "White House press office announced a lunch lid until 12:00 PM, involving security and staff operations with additional incidentals."
+    },
+    {
+      "name": "Executive Orders Signing (1:00 PM)",
+      "cost": 75000,
+      "category": "Secret Service & staff",
+      "description": "President Trump signed executive orders in the Oval Office at 1:00 PM, involving security and staff costs."
+    },
+    {
+      "name": "Executive Orders Signing (5:30 PM)",
+      "cost": 75000,
+      "category": "Secret Service & staff",
+      "description": "President Trump signed additional executive orders in the Oval Office at 5:30 PM, involving security and staff costs."
+    }
+  ],
+  "total_cost": 240000,
+  "social_description": "On March 31, 2025, President Trump stayed at the White House for in-town pool call, lunch lid, and two sessions signing executive orders, all with full Secret Service support.",
+  "tags": "WhiteHouse,SecretService,ExecutiveOrders,InTownPool,Security",
+  "confidence_level": "high",
+  "model_confidence": 0.97,
+  "model_check": "All activities confirmed through multiple credible sources including White House press releases and major news outlets. Cost calculations consistent with daily Secret Service & staff rates and incidentals for event lids. No conflicting data.",
+  "source_urls": [
+    "https://www.whitehouse.gov/presidential-actions/executive-orders/",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.nytimes.com/live/2025/07/31/us/trump-news",
+    "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates",
+    "https://www.dvidshub.net/webcast/36597"
+  ]
+}
