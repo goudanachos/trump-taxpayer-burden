@@ -1,0 +1,33 @@
+{
+  "location": "The White House and John F. Kennedy Center for the Performing Arts, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Presidential daily schedule",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Secret Service and staff daily protection and support during President Trump's activities in Washington, D.C., including private meals, press engagements, and other White House events."
+    },
+    {
+      "name": "Transportation: Motorcade and local travel",
+      "cost": 10000,
+      "category": "Local motorcade",
+      "description": "Estimated cost for short local motorcade trips between the White House and the Kennedy Center, including security convoy and staff transportation."
+    },
+    {
+      "name": "Kennedy Center event attendance",
+      "cost": 0,
+      "category": "Event attendance",
+      "description": "President and First Lady attendance at Les Misérables Opening Night at the John F. Kennedy Center for the Performing Arts."
+    }
+  ],
+  "total_cost": 85000,
+  "social_description": "On June 11, 2025, President Trump participated in a full day of official activities at the White House and attended Les Misérables opening night at the Kennedy Center with the First Lady. Secret Service and local motorcade support estimated at $85,000.",
+  "tags": "Trump,White House,Kennedy Center,golf,official schedule,June 11 2025",
+  "confidence_level": "high",
+  "model_confidence": 0.98,
+  "model_check": "The cost estimates rely on secret service and motorcade benchmarks for official events in Washington, D.C. No evidence found indicating golf play or related expenses on this date. Multiple high-quality sources support the schedule and event attendance with typical security and transportation costs.",
+  "source_urls": [
+    "https://www.irishstar.com/sport/golf/donald-trump-golf-tournament-cheating-35665368",
+    "https://www.thedailybeast.com/donald-trumps-armored-golf-cart-golf-force-one-spotted-in-scotland/"
+  ]
+}
