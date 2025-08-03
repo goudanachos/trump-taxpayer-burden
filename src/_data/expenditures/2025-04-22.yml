@@ -1,0 +1,36 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Secret Service and staff",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Standard day presence of Secret Service and staff covering White House activities on April 22, 2025."
+    },
+    {
+      "name": "Presidential motorcade and security details",
+      "cost": 10000,
+      "category": "Local motorcade",
+      "description": "Assumed one short local motorcade trip estimated at $10,000, typical for White House local movements."
+    },
+    {
+      "name": "Incidentals",
+      "cost": 15000,
+      "category": "Incidentals",
+      "description": "Estimated incidentals including media setup, communications, and event logistics for the swearing-in ceremony and press briefing."
+    }
+  ],
+  "total_cost": 100000,
+  "social_description": "On April 22, 2025, President Trump conducted official ceremonies and press activities at the White House, involving standard security and support operations including motorcade usage.",
+  "tags": "White House,presidential activities,SEC swearing-in,press briefing,security,motorcade,incidentals",
+  "confidence_level": "medium",
+  "model_confidence": 0.85,
+  "model_check": "Costs are estimates based on typical daily Secret Service costs and local motorcade fees. Public sources confirm the event but do not detail expenses, reducing confidence to medium.",
+  "source_urls": [
+    "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates?entryId=124291398&id=124128895",
+    "https://whitehouse.gov/briefings-statements/",
+    "https://www.mondaq.com/unitedstates/financial-services/1657536/sec-developments-in-2025",
+    "https://www.axios.com/2025/07/31/ico-initial-coin-offering-sec-atkins-trump-crypto",
+    "https://www.whitehouse.gov/presidential-actions/executive-orders/"
+  ]
+}
