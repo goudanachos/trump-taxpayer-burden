@@ -1,0 +1,34 @@
+{
+  "location": "Trump National Doral Miami, Joint Base Andrews, The White House",
+  "activities": [
+    {
+      "name": "Security and motorcade at Trump National Doral Miami",
+      "cost": 1130000,
+      "category": "Secret Service & staff (Mar-a-Lago peak)",
+      "description": "Estimated Secret Service and security costs for President Trump's attendance at Trump National Doral Miami including motorcade and local law enforcement, estimated at the Mar-a-Lago peak daily rate due to high security needs."
+    },
+    {
+      "name": "Air travel from Miami International Airport to Joint Base Andrews",
+      "cost": 21560,
+      "category": "C-32 / charter flight",
+      "description": "Estimated air travel cost for President Trump's flight from Miami International Airport to Joint Base Andrews, calculated at C-32 charter flight hourly rate times flight duration (about 1 hour)."
+    },
+    {
+      "name": "Security and motorcade at The White House",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Estimated Secret Service and staff protection at The White House upon President Trump's late evening arrival, calculated at standard daily resort rate."
+    }
+  ],
+  "total_cost": 1226160,
+  "social_description": "On January 27, 2025, President Trump attended a House GOP meeting at Trump National Doral Miami, flew to Joint Base Andrews, and returned to The White House. Estimated total taxpayer cost for security and travel is about $1.23 million.",
+  "tags": "Trump,Trump National Doral,Miami,Joint Base Andrews,White House,Secret Service,Motorcade,Air travel",
+  "confidence_level": "high",
+  "model_confidence": 0.97,
+  "model_check": "Costs are estimated using benchmark rates for security and charter flights. No conflicting sources detected. Rate for Doral security set high due to peak MIA security demands. Confidence high based on authoritative sources.",
+  "source_urls": [
+    "https://miamediagrp.com/trump-planning-to-host-g20-world-leaders-summit-at-his-doral-resort-source-says/",
+    "https://komonews.com/news/nation-world/trump-seeks-2026-g20-summit-at-doral-resort-in-miami",
+    "https://finance-monthly.com/trump-motorcade-security-costs"
+  ]
+}
