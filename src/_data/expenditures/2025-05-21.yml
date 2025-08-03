@@ -1,0 +1,24 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Meeting with the President of South Africa",
+      "cost": 0,
+      "category": "diplomatic event",
+      "description": "Bilateral meetings and lunch with the President of the Republic of South Africa at the White House."
+    },
+    {
+      "name": "Hosting NCAA Men's College Basketball Champions",
+      "cost": 0,
+      "category": "recreational event",
+      "description": "The President hosted the University of Florida Gators, the 2025 NCAA Men's College Basketball Champions, at the White House."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "On May 21, 2025, the President participated in official diplomatic meetings with the South African President and hosted the NCAA Men's College Basketball Champions at the White House. No verified public data on taxpayer-funded leisure or recreational spending was found for this date.",
+  "tags": "White House,diplomacy,South Africa,NCAA,basketball,recreation,2025,May 21",
+  "confidence_level": "low",
+  "model_confidence": 0.4,
+  "model_check": "No direct financial cost data was found in available news sources for the day’s events, so no cost estimates are included. Confidence is low due to sparse evidence and lack of specific expenditure reporting.",
+  "source_urls": []
+}
