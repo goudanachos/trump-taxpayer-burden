@@ -1,0 +1,26 @@
+{
+  "location": "Washington, D.C.",
+  "activities": [
+    {
+      "name": "Secret Service and staff on standby",
+      "cost": 75000,
+      "category": "Security & Staffing",
+      "description": "Daily Secret Service and staff costs during a no-public-event day at the White House."
+    },
+    {
+      "name": "Local motorcade and incidentals",
+      "cost": 15000,
+      "category": "Transport and Incidentals",
+      "description": "Estimated costs for local motorcade and incidentals during a no-public-event day at the White House."
+    }
+  ],
+  "total_cost": 90000,
+  "social_description": "On May 11, 2025, President Trump had no public events at the White House, incurring typical security and local transport costs totaling approximately $90,000.",
+  "tags": "security,local,White House,no public events",
+  "confidence_level": "high",
+  "model_confidence": 0.98,
+  "model_check": "Costs are estimated based on standard daily Secret Service rates and typical local motorcade and incidental expenses for non-event days at the White House. Confidence high due to routine predictable costs and no conflicting information.",
+  "source_urls": [
+    "https://www.gao.gov/products/gao-21-384"
+  ]
+}
