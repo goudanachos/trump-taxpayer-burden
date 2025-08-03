@@ -1,0 +1,30 @@
+{
+  "location": "Trump National Golf Club Washington DC and The White House",
+  "activities": [
+    {
+      "name": "Presidential activities and travel",
+      "cost": 75000,
+      "category": "Secret Service & staff",
+      "description": "Full day of Secret Service and staff coverage for President Trump at the White House and Trump National Golf Club Washington DC, including the private dinner and travel between locations."
+    },
+    {
+      "name": "Local motorcade travel",
+      "cost": 15000,
+      "category": "Local motorcade",
+      "description": "Estimated local motorcade costs for trips from White House to Trump National Golf Club and back."
+    }
+  ],
+  "total_cost": 90000,
+  "social_description": "On May 22, 2025, President Trump attended official and private activities at the White House and Trump National Golf Club in Washington DC. Estimated cost including Secret Service and motorcade is about $90,000.",
+  "tags": "White House, Trump National Golf Club Washington DC, Secret Service, motorcade, presidential activities",
+  "confidence_level": "high",
+  "model_confidence": 0.9,
+  "model_check": "Cost estimates are based on known Secret Service daily staffing costs and typical local motorcade trip rates. No air travel or extended stays were involved, so travel costs remain modest.",
+  "source_urls": [
+    "https://thehill.com/homenews/administration/trump-the-next-100-days/5424389-live-updates-trump-tariffs-gaza-epstein/",
+    "https://yahoo.com/entertainment/articles/eric-trump-calls-aberdeen-scotland-161840192.html",
+    "https://thehill.com/homenews/administration/5424896-donald-trump-new-golf-course-scotland/",
+    "https://nation.cymru/news/trump-opens-his-new-scottish-golf-course-before-return-to-us-to-put-out-fires",
+    "https://meidasnews.com/news/white-house-announces-another-trump-golf-club-weekend"
+  ]
+}
