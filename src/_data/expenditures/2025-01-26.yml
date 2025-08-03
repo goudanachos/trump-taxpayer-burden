@@ -1,0 +1,24 @@
+{
+  "location": "Trump National Doral Miami",
+  "activities": [
+    {
+      "name": "Presidential presence and security at Trump National Doral Miami",
+      "cost": 1130000,
+      "category": "Secret Service & staff (Mar-a-Lago peak)",
+      "description": "Secret Service & staff costs covering presidential security at Trump National Doral Miami during the day, using Mar-a-Lago peak daily rate as benchmark due to high-level security requirements."
+    }
+  ],
+  "total_cost": 1130000,
+  "social_description": "On January 26, 2025, President Trump had no public events but was present at Trump National Doral Miami. Estimated presidential security costs amounted to about $1.13 million for the day.",
+  "tags": "Trump,Trump National Doral,Miami,Secret Service,Presidential security",
+  "confidence_level": "high",
+  "model_confidence": 0.96,
+  "model_check": "Cost estimate is based on the highest applicable Secret Service daily rate for Mar-a-Lago peak due to presence and security needs, with no conflicting information across authoritative sources found.",
+  "source_urls": [
+    "https://komonews.com/news/nation-world/trump-seeks-2026-g20-summit-at-doral-resort-in-miami",
+    "https://www.joemygod.com/2025/08/trump-wants-to-host-g20-summit-at-his-florida-resort/",
+    "https://miamediagrp.com/trump-planning-to-host-g20-world-leaders-summit-at-his-doral-resort-source-says/",
+    "https://www.cnn.com/2025/07/30/politics/g20-doral-resort-trump",
+    "https://www.miamiherald.com/news/politics-government/state-politics/article311534453.html"
+  ]
+}
