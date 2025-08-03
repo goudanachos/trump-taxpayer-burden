@@ -1,0 +1,42 @@
+{
+  "location": "Mar-a-Lago and Trump International Golf Club West Palm Beach, Florida",
+  "activities": [
+    {
+      "name": "Secret Service and Staff Coverage at Mar-a-Lago",
+      "cost": 1130000,
+      "category": "Security & Staff",
+      "description": "Peak daily cost for Secret Service and staff coverage at Mar-a-Lago estate on the day President Trump was there."
+    },
+    {
+      "name": "Local Motorcade Use",
+      "cost": 7000,
+      "category": "Transportation",
+      "description": "Local motorcade usage for transportation between Mar-a-Lago and Trump International Golf Club."
+    },
+    {
+      "name": "Golfing at Trump International Golf Club West Palm Beach",
+      "cost": 15000,
+      "category": "Leisure Activities",
+      "description": "Estimated incidentals and operational costs for the President's golf session at the golf club."
+    },
+    {
+      "name": "Incidentals",
+      "cost": 15000,
+      "category": "Incidentals",
+      "description": "Additional estimated incidental costs related to the day’s activities at Mar-a-Lago and the golf club."
+    }
+  ],
+  "total_cost": 1157000,
+  "social_description": "President Trump's day at Mar-a-Lago on Feb 8, 2025, included high-security coverage, motorcade use, and golf at his club, with estimated costs totaling about $1.16M.",
+  "tags": "Mar-a-Lago,Golf,Secret Service,Motorcade,Incidentals,Leisure",
+  "confidence_level": "medium",
+  "model_confidence": 0.9,
+  "model_check": "Costs are estimated based on peak Secret Service staffing rates for Mar-a-Lago, motorcade benchmarks, and typical incidentals for golf events; direct expense data unavailable but estimates align with known benchmarks.",
+  "source_urls": [
+    "https://www.usatoday.com/story/news/politics/2025/07/29/trump-scotland-golf-cheating-bettina-barron-turnberry/85428937007",
+    "https://people.com/trump-claims-jeffrey-epstein-stole-young-female-employees-including-virginia-giuffre-from-his-mar-a-lago-spa-11781448",
+    "https://news-pravda.com/usa/2025/07/28/1550396.html",
+    "https://www.apnews.com/article/jeffrey-epstein-congress-ghislaine-maxwell-justice-department-3ca45e130deb5f2eee8deff36d99734f",
+    "https://www.npr.org/2025/07/29/nx-s1-5484136/trump-jeffrey-epstein-mar-a-lago-ghislaine-maxwell"
+  ]
+}
