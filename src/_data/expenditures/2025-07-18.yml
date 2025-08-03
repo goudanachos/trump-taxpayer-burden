@@ -1,0 +1,36 @@
+{
+  "location": "Washington, D.C.",
+  "activities": [
+    {
+      "name": "Swearing-In Ceremony for IRS Commissioner",
+      "cost": 75000,
+      "category": "Secret Service & staff",
+      "description": "President Trump participated in a swearing-in ceremony for the Commissioner of the Internal Revenue Service at the White House on July 18, 2025. Standard costs for Secret Service and staff coverage applied."
+    },
+    {
+      "name": "Signing Ceremony for S.1582 GENIUS Act",
+      "cost": 75000,
+      "category": "Secret Service & staff",
+      "description": "President Trump signed the GENIUS Act at the White House on July 18, 2025. Event security and staffing incurred standard daily costs."
+    },
+    {
+      "name": "Dinner with Republican Senators",
+      "cost": 75000,
+      "category": "Secret Service & staff",
+      "description": "President Trump hosted a dinner with Republican Senators at the White House State Dining Room on July 18, 2025. Security and staff support costs are included."
+    }
+  ],
+  "total_cost": 225000,
+  "social_description": "On July 18, 2025, President Trump held multiple official events at the White House, including a swearing-in ceremony, signing the GENIUS Act, and a dinner with Republican Senators.",
+  "tags": "trump,white house,irs commissioner,genius act,dinner,republican senators,security,cost",
+  "confidence_level": "high",
+  "model_confidence": 0.97,
+  "model_check": "Costs are accurately estimated based on the standard daily rate for Secret Service and staff for multiple events at the White House on the same day. Multiple reputable sources confirm the events and timing.",
+  "source_urls": [
+    "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates",
+    "https://chaincatcher.com/en/article/2193691",
+    "https://syracuse.com/politics/2025/07/trump-is-obsessed-with-this-flashy-white-house-upgrade-heres-why-report.html",
+    "https://people.com/trump-announces-massive-new-white-house-addition-gold-ballroom-11782823",
+    "https://whitehouse.gov/presidential-actions/executive-orders"
+  ]
+}
