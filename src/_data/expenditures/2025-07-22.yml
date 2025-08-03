@@ -1,0 +1,34 @@
+{
+  "location": "Washington, D.C. and Bedminster, New Jersey",
+  "activities": [
+    {
+      "name": "Bilateral Meeting and Trade Deal with Philippine President at the White House",
+      "cost": 0,
+      "category": "Official Event",
+      "description": "President Trump held a bilateral meeting, lunch, and trade deal discussions with Philippine President Ferdinand Marcos Jr. at the White House on July 22, 2025."
+    },
+    {
+      "name": "Travel from White House to Bedminster",
+      "cost": 177843,
+      "category": "Air Force One Usage",
+      "description": "President Trump traveled from the White House to his Bedminster golf course, likely using Air Force One and Marine One, incurring estimated flight hour costs."
+    },
+    {
+      "name": "Golfing at Bedminster Golf Course",
+      "cost": 10000,
+      "category": "Local Motorcade & Security",
+      "description": "President Trump spent leisure time golfing at his Bedminster, New Jersey golf course with estimated local motorcade and security costs."
+    }
+  ],
+  "total_cost": 187843,
+  "social_description": "On July 22, 2025, President Trump held a bilateral meeting with the Philippine President at the White House and later traveled to Bedminster for golf.",
+  "tags": "trump,white house,philippines,bedminster,golf,trade deal",
+  "confidence_level": "medium",
+  "model_confidence": 0.95,
+  "model_check": "Costs based on typical Air Force One flight hour rates and local motorcade/security expenses for Bedminster. The bilateral meeting and trade deal details confirmed by multiple sources. Some transport specifics lack detailed public documentation, leading to medium confidence.",
+  "source_urls": [
+    "https://asiatimes.com/2025/08/trump-takes-step-back-from-philippines-in-south-china-sea/",
+    "https://www.wfmz.com/news/area/lehighvalley/air-force-one-lands-at-lvia-as-president-trump-to-spend-weekend-at-golf-course/article_c8e8a9da-0280-4278-8401-e38fd7d2a93b.html",
+    "https://morungexpress.com/trump-announces-trade-deal-after-meeting-philippine-president"
+  ]
+}
