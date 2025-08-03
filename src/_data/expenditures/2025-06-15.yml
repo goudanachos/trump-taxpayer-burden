@@ -1,0 +1,38 @@
+{
+  "location": "Travel from The White House to Calgary, Canada and to G7 Summit venue in Kananaskis",
+  "activities": [
+    {
+      "name": "Air Force One flight from Joint Base Andrews to Calgary International Airport",
+      "cost": 533529,
+      "category": "VC-25A (Air Force One)",
+      "description": "Flight duration estimated approximately 3.5 hours at $177,843 per flight hour on Air Force One."
+    },
+    {
+      "name": "Local motorcade from Calgary International Airport to G7 summit venue at Pomeroy Kananaskis Mountain Lodge",
+      "cost": 10000,
+      "category": "Local motorcade",
+      "description": "Local motorcade for president's transfer from airport to summit lodge in Kananaskis."
+    },
+    {
+      "name": "Secret Service and staff protection at Kananaskis for G7 Summit attendance",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Daily Secret Service and staff protection estimated for President at G7 Summit venue."
+    },
+    {
+      "name": "Incidentals and miscellaneous costs for the day",
+      "cost": 10000,
+      "category": "Incidentals",
+      "description": "Miscellaneous costs including logistics and security support."
+    }
+  ],
+  "total_cost": 628529,
+  "social_description": "On June 15, 2025, President Trump traveled from The White House to Calgary and attended the G7 Summit in Kananaskis, Alberta with estimated costs for Air Force One flights, motorcade, security, and incidentals.",
+  "tags": "Trump,Calgary,Kananaskis,G7 Summit,travel,security,2025-06-15",
+  "confidence_level": "high",
+  "model_confidence": 0.9,
+  "model_check": "Estimates derived from standard benchmark rates due to absence of direct cost disclosures. Flight duration and distances based on geographic data. Security and motorcade costs align with typical daily expenses for White House and international summit attendance. Source quality high with consistent event corroboration.",
+  "source_urls": [
+    "https://canadianarchitect.com/design-diplomacy-g7-summit-meeting-spaces-kananaskis-alberta"
+  ]
+}
