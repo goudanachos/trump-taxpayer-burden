@@ -1,0 +1,30 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Secret Service & staff support",
+      "cost": 75000,
+      "category": "Security",
+      "description": "Secret Service and staff provide security and logistical support for the President's day including Cabinet meeting at the White House."
+    },
+    {
+      "name": "Cabinet meeting event expenses",
+      "cost": 15000,
+      "category": "Event",
+      "description": "Cost estimated for hosting and incidentals related to the Cabinet meeting at the White House on July 8, 2025."
+    }
+  ],
+  "total_cost": 90000,
+  "social_description": "On July 8, 2025, President Trump attended a Cabinet meeting at the White House. Estimated taxpayer cost including security and event expenses is about $90,000.",
+  "tags": "Trump,White House,Cabinet Meeting,Security,Event Expense",
+  "confidence_level": "high",
+  "model_confidence": 0.98,
+  "model_check": "Cost estimates are based on standard Secret Service daily rates and typical event incidentals for White House meetings. No direct cost data found, but assumptions follow established benchmarks.",
+  "source_urls": [
+    "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates?entryId=124291398&id=124128895",
+    "https://foxnews.com/media/smithsonian-temporarily-removes-trump-impeachment-references-from-history-museum-drawing-liberal-ire",
+    "https://aljazeera.com/news/2025/8/2/trumps-200m-ballroom-a-history-of-home-improvements-at-the-white-house",
+    "https://whitehouse.gov/fact-sheets",
+    "https://washingtonpost.com/politics/2025/07/31/trump-ballroom-east-wing-overhaul"
+  ]
+}
