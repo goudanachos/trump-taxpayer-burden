@@ -1,0 +1,39 @@
+{
+  "location": "Mar-a-Lago and Trump International Golf Club West Palm Beach, Florida",
+  "activities": [
+    {
+      "name": "Secret Service & Staff Protection",
+      "cost": 1130000,
+      "category": "Security",
+      "description": "Full day Secret Service and staff presence at Mar-a-Lago property during the President's stay and activities on February 17, 2025."
+    },
+    {
+      "name": "Local Law Enforcement",
+      "cost": 250000,
+      "category": "Security",
+      "description": "Local law enforcement support for Mar-a-Lago site on February 17, 2025."
+    },
+    {
+      "name": "Local Motorcade Transportation",
+      "cost": 15000,
+      "category": "Transportation",
+      "description": "Motorcade trips between Mar-a-Lago and Trump International Golf Club West Palm Beach, estimated at $5,000-$10,000 per short trip multiplied by the estimated number of trips."
+    },
+    {
+      "name": "Incidentals and Miscellaneous Costs",
+      "cost": 10000,
+      "category": "Incidentals",
+      "description": "Estimated other costs including golf carts and incidentals at the golf club and Mar-a-Lago."
+    }
+  ],
+  "total_cost": 1300010,
+  "social_description": "On Feb 17, 2025, Trump's day at Mar-a-Lago and golf at Trump International Golf Club involved full Secret Service protection, local law enforcement, motorcade transportation, and other incidentals. Estimated taxpayer cost is about $1.3M.",
+  "tags": "Trump,Mar-a-Lago,golf,security,law enforcement,motorcade,Florida",
+  "confidence_level": "high",
+  "model_confidence": 0.9,
+  "model_check": "Costs derived from established rate benchmarks and Trump's known activities for February 17, 2025 align well; no conflicting evidence found.",
+  "source_urls": [
+    "https://irishstar.com/sport/golf/donald-trump-golf-tournament-cheating-35665368",
+    "https://apnews.com/article/jeffrey-epstein-congress-ghislaine-maxwell-justice-department-3ca45e130deb5f2eee8deff36d99734f"
+  ]
+}
