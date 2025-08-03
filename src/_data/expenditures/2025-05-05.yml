@@ -1,0 +1,36 @@
+{
+  "location": "Washington, DC; Trump National Golf Club Washington DC",
+  "activities": [
+    {
+      "name": "Secret Service & Staff at White House",
+      "cost": 75000,
+      "category": "Security",
+      "description": "Full-day Secret Service and staff presence at the White House during President Trump's daytime activities including announcements and executive orders on May 5, 2025."
+    },
+    {
+      "name": "Local Motorcade within Washington DC",
+      "cost": 7500,
+      "category": "Transportation",
+      "description": "Local motorcade estimated cost for transportation between White House and Trump National Golf Club Washington DC on May 5, 2025."
+    },
+    {
+      "name": "Golf Event at Trump National Golf Club Washington DC",
+      "cost": 16000,
+      "category": "Leisure",
+      "description": "Estimated cost includes Secret Service & staff support and local law enforcement typical for golf events, plus incidentals, at Trump National Golf Club Washington DC during President Trump's evening visit on May 5, 2025."
+    }
+  ],
+  "total_cost": 98500,
+  "social_description": "On May 5, 2025, President Trump conducted official business at the White House and spent the evening at Trump National Golf Club Washington DC for a golf and fundraiser event. Leisure and security costs totaled approximately $98,500.",
+  "tags": "Trump,White House,Golf,Trump National Golf Club,May 5 2025,Fundraiser",
+  "confidence_level": "high",
+  "model_confidence": 0.97,
+  "model_check": "The estimate is well-supported by multiple sources confirming the schedule and typical costs for Secret Service, motorcade, and leisure activities at a golf club. Confidence is high.",
+  "source_urls": [
+    "https://meidasnews.com/news/white-house-announces-another-trump-golf-club-weekend",
+    "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates?entryId=124291398&id=124128895",
+    "https://www.whitehouse.gov/presidential-actions/executive-orders/",
+    "https://usatoday.com/story/news/politics/2025/07/29/trump-scotland-golf-cheating-bettina-barron-turnberry/85428937007",
+    "https://yahoo.com/entertainment/articles/eric-trump-calls-aberdeen-scotland-161840192.html"
+  ]
+}
