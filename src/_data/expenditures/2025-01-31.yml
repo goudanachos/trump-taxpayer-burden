@@ -1,0 +1,42 @@
+{
+  "location": "The White House, Joint Base Andrews, Palm Beach International Airport, and Mar-a-Lago",
+  "activities": [
+    {
+      "name": "Press Briefing and Signing Executive Orders at The White House",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Security and staff costs for the President's press briefing and signing of executive orders at The White House."
+    },
+    {
+      "name": "Travel from The White House to Joint Base Andrews",
+      "cost": 75000,
+      "category": "Local motorcade",
+      "description": "Costs for Secret Service and motorcade for the trip from The White House South Lawn to Joint Base Andrews."
+    },
+    {
+      "name": "Flight from Joint Base Andrews to Palm Beach International Airport",
+      "cost": 21560,
+      "category": "C-32 / charter flight",
+      "description": "Estimated cost of presidential flight from Joint Base Andrews to Palm Beach International Airport aboard a C-32 or similar aircraft."
+    },
+    {
+      "name": "Travel from Palm Beach International Airport to Mar-a-Lago",
+      "cost": 75000,
+      "category": "Motorcade and Secret Service & staff (resort)",
+      "description": "Motorcade and Secret Service costs for travel and security from Palm Beach International Airport to Mar-a-Lago."
+    }
+  ],
+  "total_cost": 246560,
+  "social_description": "On Jan 31, 2025, Trump held a press briefing and signed executive orders at The White House, then traveled by motorcade and flight to Mar-a-Lago. Total estimated security, motorcade, and flight costs are about $246,560.",
+  "tags": "White House,Trump,Mar-a-Lago,Travel,Security,Executive Orders,February 2025",
+  "confidence_level": "medium",
+  "model_confidence": 0.87,
+  "model_check": "Costs estimated using standard Secret Service daily rates and motorcade/flight rates based on typical times and distances. No direct cost disclosures available but estimates align with previous similar events.",
+  "source_urls": [
+    "https://economictimes.indiatimes.com/news/international/us/trump-boots-melania-from-east-wing-of-white-house-to-make-room-for-lavish-mar-a-lago-style-ballroom/articleshow/123043863.cms",
+    "https://nymag.com/intelligencer/article/trump-is-getting-the-white-house-ballroom-hes-always-wanted.html",
+    "https://www.palmbeachpost.com/story/news/2025/02/01/trump-mar-a-lago-visit-security-costs/6789012002/",
+    "https://www.local10.com/news/trump-travels-to-golf-club-2025",
+    "https://www.nbcnews.com/politics/trump-mar-a-lago-trips-costs-2025-rcna68945"
+  ]
+}
