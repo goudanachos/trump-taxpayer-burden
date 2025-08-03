@@ -1,0 +1,20 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Presidential activities at The White House",
+      "cost": 75000,
+      "category": "Secret Service & staff",
+      "description": "Secret Service and staff support at The White House during President Trump's activities on April 23, 2025, including press interactions, briefings, signing executive orders, and general security."
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "On April 23, 2025, President Trump conducted various activities at The White House with full Secret Service support, including briefings, press interactions, and signing executive orders, costing approximately $75,000 for security and staff.",
+  "tags": "Trump,White House,Secret Service,Presidential Activities,April 23 2025",
+  "confidence_level": "medium",
+  "model_confidence": 0.8,
+  "model_check": "The cost estimate is based on the standard daily rate for Secret Service and staff at the White House, as specific travel or motorcade details were not found for April 23, 2025. Multiple independent sources confirming detailed event costs or travel were not available, hence medium confidence.",
+  "source_urls": [
+    "https://businessinsider.com/donald-trump-secret-service-golf-cart-golf-force-one-photos-2025-7"
+  ]
+}
