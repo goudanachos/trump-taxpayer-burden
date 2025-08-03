@@ -1,0 +1,30 @@
+{
+  "location": "Trump National Golf Club Bedminster, NJ",
+  "activities": [
+    {
+      "name": "Secret Service and staff",
+      "cost": 75000,
+      "category": "Security and Staff",
+      "description": "Standard daily cost for Secret Service and staff supporting the President at Trump National Golf Club Bedminster on July 12, 2025."
+    },
+    {
+      "name": "Local motorcade and incidentals",
+      "cost": 16000,
+      "category": "Ground Transportation and Miscellaneous",
+      "description": "Estimated costs for local motorcade and incidentals at Trump National Golf Club Bedminster on July 12, 2025."
+    }
+  ],
+  "total_cost": 91000,
+  "social_description": "On July 12, 2025, President Trump had no public events and stayed at Trump National Golf Club Bedminster. Estimated taxpayer cost covers Secret Service and motorcade expenses, totaling approximately $91,000.",
+  "tags": "Bedminster,Trump National Golf Club,Secret Service,Motorcade,Incidentals",
+  "confidence_level": "medium",
+  "model_confidence": 0.9,
+  "model_check": "Costs estimated using standard daily rates for Secret Service and typical motorcade plus incidentals; no explicit detailed expenditures available.",
+  "source_urls": [
+    "https://www.irishstar.com/sport/golf/donald-trump-golf-tournament-cheating-35665368",
+    "https://www.mcall.com/2025/08/01/air-force-one-allentown-airport-lvia/",
+    "https://sports.yahoo.com/article/trump-heading-nj-golf-club-164648321.html",
+    "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates?entryId=124291398&id=124128895",
+    "https://www.wfmz.com/news/area/lehighvalley/air-force-one-lands-at-lvia-as-president-trump-to-spend-weekend-at-golf-course/article_c8e8a9da-0280-4278-8401-e38fd7d2a93b.html"
+  ]
+}
