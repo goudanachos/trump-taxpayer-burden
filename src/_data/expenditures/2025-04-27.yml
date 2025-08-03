@@ -1,0 +1,30 @@
+{
+  "location": "Trump National Golf Club Bedminster, Morristown Municipal Airport, Joint Base Andrews, and The White House",
+  "activities": [
+    {
+      "name": "Local motorcade and law enforcement security at Bedminster",
+      "cost": 36000,
+      "category": "Local law enforcement",
+      "description": "Estimated local law enforcement and motorcade security for transportation and presence at Trump National Golf Club Bedminster, estimated as $12,000 (including higher plausible plus 50%)."
+    },
+    {
+      "name": "Air Force One flight hours",
+      "cost": 215433,
+      "category": "VC-25A (Air Force One)",
+      "description": "Estimated 1.2 flight hours of Air Force One travel from Morristown Municipal Airport to Joint Base Andrews and then to The White House, at $177,843 per flight hour."
+    },
+    {
+      "name": "Secret Service and staff protection",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Standard daily Secret Service and staff protection throughout Trump's activities, estimated at $75,000 per day."
+    }
+  ],
+  "total_cost": 326433,
+  "social_description": "On April 27, 2025, President Trump spent time at Trump National Golf Club Bedminster before flying via Air Force One to Joint Base Andrews and returning to The White House. Estimated security, travel, and motorcade costs total approximately $326,433.",
+  "tags": "Trump,golf,Bedminster,Air Force One,travel,security,Secret Service,April 27 2025",
+  "confidence_level": "medium",
+  "model_confidence": 0.9,
+  "model_check": "Costs estimated based on known benchmarks for Air Force One flight hours, local motorcade and law enforcement at Bedminster, and typical Secret Service daily expenditures. Direct reporting was unavailable, so estimates rely on standard cost models with added margin for safety.",
+  "source_urls": []
+}
