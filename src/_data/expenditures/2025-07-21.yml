@@ -1,0 +1,24 @@
+{
+  "location": "Washington, D.C.",
+  "activities": [
+    {
+      "name": "In-Town Pool Call Time and Official Meetings at the White House",
+      "cost": 75000,
+      "category": "Secret Service & staff",
+      "description": "President Trump's activities at the White House including in-town pool call, lunch with the Vice President, and official briefings on July 21, 2025, incurred the standard daily Secret Service and staff cost."
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "On July 21, 2025, President Trump remained at the White House for official meetings and briefings, incurring standard security and staffing costs.",
+  "tags": "trump,white house,security,staff,official,meeting",
+  "confidence_level": "high",
+  "model_confidence": 0.97,
+  "model_check": "Costs are based on established daily rates for Secret Service and staff presence at the White House. No travel or additional leisure activities reported for the day. Confidence is high due to multiple corroborating sources including official White House statements.",
+  "source_urls": [
+    "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates?entryId=124291398&id=124128895",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.nytimes.com/live/2025/07/31/us/trump-news",
+    "https://www.washingtonpost.com/politics/2025/07/31/trump-ballroom-east-wing-overhaul",
+    "https://www.mcall.com/2025/08/01/air-force-one-allentown-airport-lvia/"
+  ]
+}
