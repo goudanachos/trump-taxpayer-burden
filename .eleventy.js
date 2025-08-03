@@ -163,6 +163,15 @@ module.exports = function(eleventyConfig) {
             data.date = dateMatch[1];
           }
         }
+
+        // Calculate total cost from activities
+        if (data.activities) {
+          data.total_cost = data.activities.reduce((sum, activity) => {
+            return sum + (activity.cost || 0);
+          }, 0);
+        } else {
+          data.total_cost = 0;
+        }
         
         expenditures.push({ data: data, filename: file });
       });
