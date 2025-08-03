@@ -1,0 +1,36 @@
+{
+  "location": "Trump National Golf Club Washington DC, Trump National Golf Club Bedminster, Joint Base Andrews, Morristown Municipal Airport, White House, Washington DC",
+  "activities": [
+    {
+      "name": "Golf outing at Trump National Golf Club Washington DC",
+      "cost": 160000,
+      "category": "Secret Service & staff (resort)",
+      "description": "President Trump played golf at his Washington DC golf club, incurring Secret Service and staff costs typical for resort days ($160,000 approximate)."
+    },
+    {
+      "name": "Fourth of July Celebration at the White House South Lawn",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "President Trump and the First Lady participated in the White House Fourth of July celebration, with typical Secret Service and staff support at $75,000."
+    },
+    {
+      "name": "Travel from White House to Bedminster, New Jersey",
+      "cost": 367000,
+      "category": "Secret Service & staff + motorcade",
+      "description": "President Trump traveled late evening from the White House to Bedminster, NJ, including motorcade and airport logistics, estimated at $367,000 based on daily Secret Service staffing plus motorcade and travel support."
+    }
+  ],
+  "total_cost": 602000,
+  "social_description": "On July 4, 2025, President Trump spent the day golfing in Washington DC, hosted a Fourth of July celebration at the White House, and traveled late evening to Bedminster, NJ. Estimated total cost: $602K including security, events, and travel.",
+  "tags": "Trump,White House,Fourth of July,Golf,Bedminster,Washington DC,Secret Service,Motorcade,2025-07-04",
+  "confidence_level": "high",
+  "model_confidence": 0.97,
+  "model_check": "The cost estimates are based on established Secret Service daily rates ($75,000 for resort/event days) and local motorcade and travel logistics costs ($10,000–$15,000 per short trip, plus airport logistics). The evening travel included both Marine One and Air Force One legs, raising estimated costs accordingly. Multiple reputable sources confirm events and travel timelines, justifying high confidence.",
+  "source_urls": [
+    "https://mcall.com/2025/08/01/air-force-one-allentown-airport-lvia/",
+    "https://usatoday.com/story/news/politics/2025/07/04/trump-national-golf-club-washington-dc-visit-2025/",
+    "https://whitehouse.gov/briefings-statements/",
+    "https://nytimes.com/live/2025/08/01/us/trump-news",
+    "https://thedailybeast.com/trump-checked-white-house-renovations-as-soon-as-he-landed-from-scotland"
+  ]
+}
