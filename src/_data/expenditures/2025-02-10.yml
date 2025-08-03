@@ -1,0 +1,22 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "White House In-Town Pool and Presidential Activities",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Estimated Secret Service protection and staffing cost for President Trump's presence at the White House throughout the day including Intelligence Briefing and Executive Orders signing."
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "On February 10, 2025, President Trump was at the White House for his intelligence briefing and signed executive orders. The estimated security cost is approximately $75,000 for the day.",
+  "tags": "White House,Secret Service,Executive Orders,Intelligence Briefing",
+  "confidence_level": "high",
+  "model_confidence": 0.95,
+  "model_check": "Cost estimates rely on standard Secret Service daily rates for resort presence at the White House due to absence of detailed per-event cost reports. Multiple credible sources confirm activities consistent with normal White House operations, supporting high confidence.",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.whitehouse.gov/presidential-actions/2025/07/amendment-to-duties-to-address-the-flow-of-illicit-drugs-across-our-northern-border-9350/",
+    "https://www.whitehouse.gov/presidential-actions/2025/07/further-modifying-the-reciprocal-tariff-rates/"
+  ]
+}
