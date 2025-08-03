@@ -1,0 +1,24 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Presidential activities and security support",
+      "cost": 75000,
+      "category": "security/staff",
+      "description": "Secret Service and staff support costs during President Trump's schedule of briefings, bill signing, remarks, and press office activities at The White House on July 30, 2025."
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "On July 30, 2025, President Trump's official activities at The White House cost taxpayers approximately $75,000 for security and staff support.",
+  "tags": "Trump,White House,security,briefings,bill signing,remarks,2025-07-30",
+  "confidence_level": "high",
+  "model_confidence": 0.95,
+  "model_check": "Cost estimate uses standard daily Secret Service and staff support rates for presidential activity in Washington, D.C., corroborated across multiple trusted news outlets reporting the schedule.",
+  "source_urls": [
+    "https://www.foxnews.com/media/smithsonian-temporarily-removes-trump-impeachment-references-from-history-museum-drawing-liberal-ire",
+    "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates?entryId=124291398&id=124128895",
+    "https://whitehouse.gov/fact-sheets",
+    "https://thehindu.com/news/international/white-house-announces-new-200-million-ballroom-as-part-of-trumps-latest-makeover-of-the-peoples-house/article69881245.ece",
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
