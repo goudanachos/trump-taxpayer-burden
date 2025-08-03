@@ -1,0 +1,26 @@
+{
+  "location": "Washington, D.C. and Leesburg, VA",
+  "activities": [
+    {
+      "name": "Local motorcade travel",
+      "cost": 10000,
+      "category": "Transportation",
+      "description": "Estimated cost for local motorcade travel from The White House to Leesburg Executive Airport and Trump National Golf Club Washington DC."
+    },
+    {
+      "name": "Secret Service protection and staff",
+      "cost": 75000,
+      "category": "Security",
+      "description": "Daily Secret Service and staff protection costs for the President during travel and events on April 24, 2025."
+    }
+  ],
+  "total_cost": 85000,
+  "social_description": "On April 24, 2025, President Trump held meetings in Washington D.C., signed executive orders, and attended a MAGA Inc. dinner at Trump National Golf Club Washington DC, with estimated motorcade and security costs totaling approximately $85,000.",
+  "tags": "trump,white house,leesburg,local travel,motorcade,secret service,golf club,MAGA dinner",
+  "confidence_level": "medium",
+  "model_confidence": 0.95,
+  "model_check": "Costs are estimated based on standard rates for local motorcade and Secret Service protection during presidential activity; no direct flight or large travel costs involved.",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefing-room/press-briefings/2025/04/24/press-briefing-by-white-house-press-secretary-karoline-leavitt-4/"
+  ]
+}
