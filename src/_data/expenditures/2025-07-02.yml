@@ -1,0 +1,36 @@
+{
+  "location": "The White House, Washington, DC",
+  "activities": [
+    {
+      "name": "In-Town Pool Coverage and Security",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Secret Service presence and related staffing for President Trump's in-town pool coverage at The White House on July 2, 2025, with no public events scheduled."
+    },
+    {
+      "name": "Presidential Lunch at The White House",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Security and staff costs associated with the President's lunch period inside The White House, with a lid called until 2:30 PM."
+    },
+    {
+      "name": "Secret Service Full Lid Coverage",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Full lid declared at 6:01 PM requiring Secret Service staffing and security measures at The White House."
+    }
+  ],
+  "total_cost": 225000,
+  "social_description": "On July 2, 2025, President Trump had no public events at The White House, incurring an estimated $225K in security and staff costs covering pool calls, lunch lid, and full lid periods.",
+  "tags": "Trump,White House,Security,Secret Service,Lunch,Lid,Pool Call",
+  "confidence_level": "high",
+  "model_confidence": 0.9,
+  "model_check": "The cost estimates are based on standard Secret Service and staff daily rates for in-town coverage with no travel or external events, corroborated by the scheduled inactivity and typical staffing needs for lids. No conflicting sources found.",
+  "source_urls": [
+    "https://www.foxnews.com/politics/secret-service-must-course-correct-after-alleged-smuggling-episode-trump-trip-former-agent-says",
+    "https://www.thedailybeast.com/trump-spills-weird-new-details-about-secret-service-incident/",
+    "https://www.fox5dc.com/news/secret-service-agent-tried-sneak-his-wife-onto-trumps-trip-scotland",
+    "https://www.ktvu.com/news/secret-service-agent-tried-sneak-his-wife-onto-trumps-trip-scotland",
+    "https://www.alternet.org/secret-service-trump/"
+  ]
+}
