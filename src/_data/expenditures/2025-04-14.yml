@@ -1,0 +1,32 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Presidential Activities and Security",
+      "cost": 1130000,
+      "category": "Secret Service & staff (Mar-a-Lago peak)",
+      "description": "Security staffing and protection for President Trump's bilateral meeting with El Salvador's President and visit with the Ohio State University football champions on April 14, 2025."
+    },
+    {
+      "name": "Local Law Enforcement",
+      "cost": 300000,
+      "category": "Local law enforcement",
+      "description": "Local law enforcement costs for Washington D.C. covering President Trump's events and public appearances on April 14, 2025."
+    },
+    {
+      "name": "Incidentals",
+      "cost": 15000,
+      "category": "Incidentals",
+      "description": "Miscellaneous incidental expenses related to President Trump's schedule and security measures on this day."
+    }
+  ],
+  "total_cost": 1455000,
+  "social_description": "On April 14, 2025, President Trump hosted the President of El Salvador and celebrated Ohio State's football champions at the White House, with security and operational costs estimated around $1.455 million.",
+  "tags": "Trump,White House,Security,Bilateral Meeting,Ohio State University,April 14 2025",
+  "confidence_level": "medium",
+  "model_confidence": 0.9,
+  "model_check": "The cost estimates adhere to standard Secret Service and local law enforcement daily rates for Washington D.C. events without additional travel expenses as the President remained in the city.",
+  "source_urls": [
+    "https://newsweek.com/donald-trump-latin-america-ally-nayib-bukele-election-boost-2107654"
+  ]
+}
