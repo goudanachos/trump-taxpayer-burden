@@ -1,0 +1,36 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Secret Service and staff protection",
+      "cost": 75000,
+      "category": "Security",
+      "description": "Estimated daily cost for Secret Service and staff protection during President Trump's activities at the White House including meetings, signing executive orders, and state dinner."
+    },
+    {
+      "name": "Local motorcade trips",
+      "cost": 10000,
+      "category": "Transportation",
+      "description": "Estimated cost for local motorcade transportation for President Trump's movements within the White House complex and nearby during the day."
+    },
+    {
+      "name": "Incidentals",
+      "cost": 15000,
+      "category": "Miscellaneous",
+      "description": "Estimated incidental expenses covering hospitality, communications, and event support during the President's dinner with the Prime Minister of the State of Israel and related activities."
+    }
+  ],
+  "total_cost": 100000,
+  "social_description": "On July 7, 2025, President Trump conducted official business at the White House including signing executive orders and hosting a dinner with the Israeli Prime Minister. Estimated combined security, transportation, and incidentals cost $100,000.",
+  "tags": "Trump,White House,Security,Motorcade,Dinner,Israel,July 7 2025",
+  "confidence_level": "medium",
+  "model_confidence": 0.9,
+  "model_check": "Estimates are based on standard daily rates for Secret Service at the White House and typical motorcade and incidentals costs. No direct public spending data found for this date, so estimation relies on standard benchmarks with medium confidence.",
+  "source_urls": [
+    "https://www.theguardian.com/us-news/2025/aug/01/trump-golf-scotland-cheating-debate",
+    "https://huffpost.com/entry/trump-aberdeen-golf-grand-opening_n_6888f570e4b06a2e515c74bb",
+    "https://www.twz.com/news-features/secret-service-debut-armored-polaris-ranger-golf-force-one-to-help-protect-trump",
+    "https://sports.yahoo.com/article/president-trump-not-happy-golf-045457484.html",
+    "https://apnews.com/article/trump-golf-new-scottish-course-family-profits-207ec2a182508f46325653952869052e"
+  ]
+}
