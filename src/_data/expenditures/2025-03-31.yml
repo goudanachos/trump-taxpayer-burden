@@ -1,0 +1,46 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "In-Town Pool Call",
+      "cost": 0,
+      "category": "official activity",
+      "description": "President Trump was present for the in-town pool call at The White House starting 9:00 AM."
+    },
+    {
+      "name": "Lunch Lid",
+      "cost": 0,
+      "category": "security and staff",
+      "description": "White House Press Office declared a lunch lid until 12:00 PM, indicating restricted public communication, with associated staff security measures."
+    },
+    {
+      "name": "Signing Executive Orders (1:00 PM)",
+      "cost": 0,
+      "category": "official activity",
+      "description": "President Trump signed executive orders in the Oval Office at 1:00 PM."
+    },
+    {
+      "name": "Signing Executive Orders (5:30 PM)",
+      "cost": 0,
+      "category": "official activity",
+      "description": "President Trump signed additional executive orders in the Oval Office at 5:30 PM."
+    },
+    {
+      "name": "Full Lid",
+      "cost": 0,
+      "category": "security and staff",
+      "description": "White House Press Office called a full lid at 6:44 PM, restricting public communication and indicating staff security and operational activity."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "On March 31, 2025, President Trump conducted official activities at the White House including signing executive orders and maintaining operational security with press lids throughout the day.",
+  "tags": "White House,Trump,executive orders,press lid,official activities",
+  "confidence_level": "high",
+  "model_confidence": 0.9,
+  "model_check": "Data confirmed primarily from White House official schedule and major news outlets. No reported travel or leisure-related expenditures on this date.",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.nytimes.com/live/2025/07/31/us/trump-news",
+    "https://www.cnn.com/2025/08/02/politics/the-trump-administration-takes-a-very-orwellian-turn"
+  ]
+}
