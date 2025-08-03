@@ -1,0 +1,34 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "In-Town Pool Call Time",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Cost estimate for Secret Service and staff coverage during in-town pool call time at the White House."
+    },
+    {
+      "name": "Cabinet Meeting",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Estimated cost for Secret Service and staff covering the President's Cabinet Meeting at the White House."
+    },
+    {
+      "name": "Executive Orders Signing",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Estimated Secret Service and staff costs related to the President signing Executive Orders in the Oval Office."
+    }
+  ],
+  "total_cost": 225000,
+  "social_description": "On February 26, 2025, President Trump conducted official activities at the White House including a pool call, Cabinet meeting, and signing of Executive Orders, incurring estimated Secret Service and staff costs of $225,000.",
+  "tags": "white house,secret service,cabinet meeting,executive orders,2025-02-26",
+  "confidence_level": "medium",
+  "model_confidence": 0.95,
+  "model_check": "The cost estimate is primarily based on standard daily Secret Service and staff support rates for activities at the White House. No specific additional transport or incidentals costs were found for the date. The confidence is medium due to reliance on typical daily rates without more granular documented costs.",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.whitehouse.gov/presidential-actions/executive-orders/",
+    "https://thejc.com/news/politics/starmer-trump-gaza-cabinet-emergency-meeting-o8pcbm2c"
+  ]
+}
