@@ -1,0 +1,32 @@
+{
+  "location": "The White House and Private Residence of Howard Lutnick, Washington, DC",
+  "activities": [
+    {
+      "name": "Secret Service and staff at the White House",
+      "cost": 75000,
+      "category": "Security and Staff",
+      "description": "Standard daily cost of Secret Service and staff supporting the President at the White House on July 14, 2025."
+    },
+    {
+      "name": "Local motorcade to and from Howard Lutnick's residence",
+      "cost": 10000,
+      "category": "Ground Transportation",
+      "description": "Estimated cost for local motorcade transportation during the President's evening travel to a private birthday celebration."
+    },
+    {
+      "name": "Incidentals",
+      "cost": 9000,
+      "category": "Miscellaneous",
+      "description": "Estimated miscellaneous incidental expenditures for the day including event attendance."
+    }
+  ],
+  "total_cost": 94000,
+  "social_description": "On July 14, 2025, President Trump held meetings and attended a private birthday celebration at Howard Lutnick's residence. Estimated total taxpayer costs for Secret Service, motorcade transportation, and incidentals are approximately $94,000.",
+  "tags": "White House,Washington DC,Secret Service,Motorcade,Private Event",
+  "confidence_level": "medium",
+  "model_confidence": 0.9,
+  "model_check": "The cost estimates are based on daily rates for Secret Service and motorcade trips, as no specific flight or extended travel was involved. Incidentals are estimated within typical range. Confidence is medium due to lack of explicit cost reporting for private events.",
+  "source_urls": [
+    "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates?entryId=124291398&id=124128895"
+  ]
+}
