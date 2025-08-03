@@ -1,0 +1,35 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Bill Signing in the Rose Garden",
+      "cost": 16000,
+      "category": "incidentals",
+      "description": "President and First Lady's participation in a bill signing ceremony in the Rose Garden on May 19, 2025, with estimated incidental costs including event setup and security."
+    },
+    {
+      "name": "Law Enforcement Event in Oval Office",
+      "cost": 75000,
+      "category": "Secret Service & staff",
+      "description": "Estimated daily cost for Secret Service and staff protection during the President's participation in a law enforcement event in the Oval Office."
+    },
+    {
+      "name": "Kennedy Center Board Dinner at State Dining Room",
+      "cost": 10000,
+      "category": "local motorcade",
+      "description": "Estimated cost for local motorcade and security travel for the President attending the Kennedy Center Board Dinner at the White House State Dining Room."
+    }
+  ],
+  "total_cost": 101000,
+  "social_description": "On May 19, 2025, President Trump participated in a bill signing in the Rose Garden, attended a law enforcement event in the Oval Office, and took part in the Kennedy Center Board Dinner at the White House. Estimated taxpayer costs for event incidentals, Secret Service protection, and motorcade travel total approximately $101,000.",
+  "tags": "White House,Rose Garden,Oval Office,Kennedy Center,Bill Signing,Law Enforcement,2025,May 19",
+  "confidence_level": "medium",
+  "model_confidence": 0.95,
+  "model_check": "Costs are estimated based on benchmarks for standard incidentals at official events, daily Secret Service protection costs, and motorcade travel for local events. Confidence is medium due to indirect cost estimation without precise disclosed figures.",
+  "source_urls": [
+    "https://archive.is/CM1V5",
+    "https://thedailybeast.com/trump-doesnt-beg-pardon-for-what-hes-done-to-the-white-house-rose-garden/",
+    "https://msnbc.com/top-stories/latest/maria-shriver-trump-republicans-rename-kennedy-center-rcna221741",
+    "https://foxnews.com/politics/trump-backs-law-enforcement-following-death-nypd-officer-manhattan-office-tower-shooting"
+  ]
+}
