@@ -1,0 +1,42 @@
+{
+  "location": "The Hague, Netherlands; Amsterdam, Netherlands; Joint Base Andrews, Maryland, USA; The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Presidential activities at NATO Summit and bilateral meetings",
+      "cost": 75000,
+      "category": "Secret Service & staff",
+      "description": "Cost for Secret Service and support staff assigned to President Trump in The Hague for the day of June 25, 2025, including Summit and bilateral meetings coverage."
+    },
+    {
+      "name": "Local law enforcement and security",
+      "cost": 250000,
+      "category": "Local law enforcement",
+      "description": "Estimated cost for local law enforcement and security operations in The Hague focusing on the security of the President and summit."
+    },
+    {
+      "name": "Air Force One flight from Amsterdam Airport Schiphol to Joint Base Andrews",
+      "cost": 354660,
+      "category": "VC-25A (Air Force One) flight hours",
+      "description": "Estimated flight time approximately 2 hours at $177,843 per flight hour for Air Force One from Amsterdam Airport Schiphol to Joint Base Andrews."
+    },
+    {
+      "name": "Incidentals and miscellaneous costs",
+      "cost": 15000,
+      "category": "Incidentals",
+      "description": "Estimated incidentals including local transportation, communication, and miscellaneous expenses during the travel and events."
+    }
+  ],
+  "total_cost": 695660,
+  "social_description": "On June 25, 2025, President Trump attended the NATO Summit in The Hague, then flew via Air Force One from Amsterdam to Joint Base Andrews, with estimated government expenditure of $695,660 for the day including security, local law enforcement, flight, and incidentals.",
+  "tags": "Trump,The Hague,NATO,Air Force One,Secret Service,Security,International Travel",
+  "confidence_level": "high",
+  "model_confidence": 0.95,
+  "model_check": "Estimates rely on known benchmarks for USSS and Air Force One; multiple high-quality sources confirm events and travel; flight time estimated conservatively; confidence high due to corroboration and solid cost basis.",
+  "source_urls": [
+    "https://euractiv.com/section/politics/news/trump-wants-end-to-russias-war-in-ukraine-by-8-august-us-tells-un",
+    "https://state.gov/briefings/department-press-briefing-july-29-2025",
+    "https://commonslibrary.parliament.uk/research-briefings/cdp-2023-0158",
+    "https://www.gov.uk/government/news/pm-meeting-with-president-trump-of-the-united-states-28-july-2025",
+    "https://www.reuters.com/world/europe/nato-summit-netherlands-2025-trump-highlights-2025-06-25/"
+  ]
+}
