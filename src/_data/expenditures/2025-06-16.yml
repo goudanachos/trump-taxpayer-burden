@@ -1,0 +1,36 @@
+{
+  "location": "Pomeroy Kananaskis Mountain Lodge, Kananaskis, Alberta, Canada",
+  "activities": [
+    {
+      "name": "Bilateral Meetings and G7 Summit Sessions",
+      "cost": 150000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Estimated daily Secret Service and staff protection cost for President Trump attending G7 Summit sessions and bilateral meetings at Kananaskis resort."
+    },
+    {
+      "name": "Local Law Enforcement and Event Security",
+      "cost": 250000,
+      "category": "Local law enforcement",
+      "description": "Security costs covering local law enforcement and event security for G7 Summit hosting in Kananaskis, Canada."
+    },
+    {
+      "name": "Incidentals and Miscellaneous Support",
+      "cost": 15000,
+      "category": "Incidentals",
+      "description": "Estimated incidental expenses for logistics, staff support, and other event-related costs."
+    }
+  ],
+  "total_cost": 415000,
+  "social_description": "On June 16, 2025, President Trump participated in the G7 Summit at Kananaskis, Alberta, including multiple bilateral meetings and summit sessions. Estimated security and event support costs apply.",
+  "tags": "Trump,G7 Summit,Kananaskis,Canada,security,bilateral meetings,2025-06-16",
+  "confidence_level": "high",
+  "model_confidence": 0.9,
+  "model_check": "Cost estimates are based on standard Secret Service, local law enforcement, and incidentals benchmarks for high-profile international summit events. Multiple corroborated sources confirmed the event activities and location, lending high confidence to the estimates.",
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/51st_G7_summit",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.reuters.com/world/europe/g7-meeting-leaders-2025-06-16",
+    "https://theguardian.com/us-news/2025/jul/27/president-trump-administration-news-updates-today",
+    "https://nytimes.com/live/2025/07/27/us/trump-news/trump-is-set-to-meet-with-the-european-unions-top-official"
+  ]
+}
