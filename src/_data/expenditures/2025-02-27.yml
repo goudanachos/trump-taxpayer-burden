@@ -1,0 +1,20 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Meetings and Events with UK Prime Minister",
+      "cost": 0,
+      "category": "Official Meeting",
+      "description": "On February 27, 2025, the President received his Intelligence Briefing, then greeted and held a bilateral meeting, lunch, and press conference with the UK Prime Minister at the White House. These are official engagements without leisure or travel costs for this day."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "On February 27, 2025, the President hosted the UK Prime Minister at the White House for a series of official meetings and a press conference. No leisure or travel costs were incurred.",
+  "tags": "White House,UK Prime Minister,Official Meetings",
+  "confidence_level": "high",
+  "model_confidence": 0.97,
+  "model_check": "Based on multiple high credibility sources, the President's schedule involved official meetings with the UK Prime Minister without leisure or travel expenses beyond routine operations at the White House. Thus, the total leisure cost is zero.",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
