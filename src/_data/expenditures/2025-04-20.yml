@@ -1,0 +1,24 @@
+{
+  "location": "Trump National Golf Club Washington DC, Potomac Falls, VA",
+  "activities": [
+    {
+      "name": "Presidential Golf outing",
+      "cost": 75000,
+      "category": "Secret Service & staff",
+      "description": "Secret Service and staff support during President Trump's golf outing at Trump National Golf Club Washington DC on April 20, 2025."
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "On April 20, 2025, President Trump played golf at Trump National Golf Club Washington DC with full Secret Service protection and staff support, costing taxpayers an estimated $75,000 for security and staffing.",
+  "tags": "Trump,golf,Trump National Golf Club,Secret Service,April 20 2025",
+  "confidence_level": "medium",
+  "model_confidence": 0.8,
+  "model_check": "The cost is estimated using the standard daily rate for Secret Service and staff during golf outings. No flight or motorcade travel was involved based on sources, so costs are limited to security and staff at the golf club. Evidence is from multiple golf news and general sources, though no detailed itemized cost breakdown was found, so confidence is medium.",
+  "source_urls": [
+    "https://thehill.com/homenews/administration/trump-the-next-100-days/5424389-live-updates-trump-tariffs-gaza-epstein/",
+    "https://helsinkitimes.fi/world-int/27567-trump-s-golf-habits-cost-taxpayers-over-60-million.html",
+    "https://upolitics.com/news/trumps-trip-to-scotland-expected-to-cost-u-s-taxpayers-nearly-10-million",
+    "https://thespun.com/golf/white-house-makes-190000-president-trump-golf-announcement",
+    "https://www.trumpnationaldc.com/"
+  ]
+}
