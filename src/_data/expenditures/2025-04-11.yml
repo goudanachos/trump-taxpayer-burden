@@ -1,0 +1,33 @@
+{
+  "location": "The White House and Walter Reed National Military Medical Center, Washington, D.C., Palm Beach International Airport, Mar-a-Lago, FL",
+  "activities": [
+    {
+      "name": "Presidential Annual Physical and Related Security",
+      "cost": 1130000,
+      "category": "Secret Service & staff (Mar-a-Lago peak)",
+      "description": "Secret Service and staff security for the President's annual physical at Walter Reed, transport to and from the White House and Mar-a-Lago on April 11, 2025."
+    },
+    {
+      "name": "Local Law Enforcement and Motorcade",
+      "cost": 35000,
+      "category": "Local motorcade and local law enforcement",
+      "description": "Estimated costs for local law enforcement and motorcade transport in Washington D.C. and Florida during the President's movements on April 11, 2025."
+    },
+    {
+      "name": "Incidentals",
+      "cost": 15000,
+      "category": "Incidentals",
+      "description": "Miscellaneous incidental expenses related to the President's activities, security, and transportation for this date."
+    }
+  ],
+  "total_cost": 1170000,
+  "social_description": "On April 11, 2025, President Trump underwent his annual physical at Walter Reed and traveled between the White House, airports, and Mar-a-Lago. Estimated related security and support costs totaled approximately $1.17 million.",
+  "tags": "Trump,Walter Reed,Secret Service,Mar-a-Lago,Annual Physical,April 11 2025",
+  "confidence_level": "medium",
+  "model_confidence": 0.9,
+  "model_check": "Costs are based on standard Secret Service and local motorcade rates. Travel includes multiple airport movements, town and out-of-town security presence. No direct flight costs as flights were commercial or unspecified.",
+  "source_urls": [
+    "https://www.newsweek.com/walter-reed-military-hospital-suspect-arrested-fake-gun-2107127",
+    "https://nytimes.com/live/2025/07/31/us/trump-news"
+  ]
+}
