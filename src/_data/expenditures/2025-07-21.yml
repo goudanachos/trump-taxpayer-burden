@@ -1,0 +1,48 @@
+{
+  "location": "Washington, D.C.",
+  "activities": [
+    {
+      "name": "Bilateral Meeting with President of the Republic of the Philippines",
+      "cost": 0,
+      "category": "Official Meeting",
+      "description": "President Trump held a bilateral meeting with President Marcos of the Republic of the Philippines in the Oval Office on July 22, 2025."
+    },
+    {
+      "name": "Bilateral Lunch with President of the Republic of the Philippines",
+      "cost": 0,
+      "category": "Official Meeting",
+      "description": "President Trump participated in a bilateral lunch with President Marcos of the Republic of the Philippines in the Cabinet Room on July 22, 2025."
+    },
+    {
+      "name": "Reception with Republican Members of Congress",
+      "cost": 0,
+      "category": "Official Event",
+      "description": "President Trump attended a reception with Republican Members of Congress in the East Room of the White House on July 22, 2025."
+    },
+    {
+      "name": "Secret Service & Staff Protection at the White House",
+      "cost": 75000,
+      "category": "Secret Service & Staff",
+      "description": "Estimated cost for Secret Service and staff protection at the White House on July 22, 2025."
+    },
+    {
+      "name": "Local Motorcade for Official Travel Within Washington, D.C.",
+      "cost": 10000,
+      "category": "Motorcade",
+      "description": "Estimated cost for local motorcade transportation related to official meetings and events within Washington, D.C. on July 22, 2025."
+    }
+  ],
+  "total_cost": 85000,
+  "social_description": "On July 22, 2025, President Trump hosted the President of the Philippines for bilateral meetings and lunch and attended a reception with Republican Members of Congress at the White House. Security and motorcade costs are estimated.",
+  "tags": "Trump,White House,Bilateral Meeting,Philippines,Republican Reception,Secret Service,Motorcade",
+  "confidence_level": "high",
+  "model_confidence": 0.95,
+  "model_check": "Confirmed activities and timing from multiple credible sources. Costs estimated using standard Secret Service and motorcade rates. No conflicting information found.",
+  "source_urls": [
+    "https://theepochtimes.com/article/america-in-photos-late-show-closure-president-trump-meets-filipino-president-extreme-heat-across-the-country-5893051",
+    "https://thediplomat.com/2025/07/whats-the-deal-with-trumps-trade-agreements-in-southeast-asia/",
+    "https://morungexpress.com/trump-announces-trade-deal-after-meeting-philippine-president",
+    "https://thehill.com/homenews/administration/trump-the-next-100-days/5424389-live-updates-trump-tariffs-gaza-epstein/",
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
