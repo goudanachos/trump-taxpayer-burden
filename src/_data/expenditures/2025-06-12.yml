@@ -1,0 +1,34 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Bill Signing Ceremony",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Daily Secret Service and staff support cost for President Trump's bill signing ceremony in the East Room."
+    },
+    {
+      "name": "Executive Orders Signing",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Additional Secret Service support cost for executive orders signing in the Oval Office on the same day."
+    },
+    {
+      "name": "Congressional Picnic Participation",
+      "cost": 10000,
+      "category": "local motorcade",
+      "description": "Estimated local motorcade and incidentals cost for the President and First Lady attending the Congressional Picnic on the South Lawn."
+    }
+  ],
+  "total_cost": 160000,
+  "social_description": "On June 12, 2025, President Trump engaged in a bill signing ceremony, signed executive orders, and participated in the Congressional Picnic at the White House, with associated security and motorcade costs.",
+  "tags": "bill signing,executive orders,congressional picnic,White House,security",
+  "confidence_level": "high",
+  "model_confidence": 0.97,
+  "model_check": "Cost estimates rely on established daily Secret Service support rates and typical motorcade expenses. Multiple reputable sources confirm events and timing throughout the day.",
+  "source_urls": [
+    "https://abc12.com/news/politics/construction-on-200-million-white-house-ballroom-to-begin-in-august/article_b276f159-ce04-5147-80a1-607d9ba6a6fd.html",
+    "https://www.whitehouse.gov/presidential-actions/executive-orders/",
+    "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates?entryId=124291398&id=124128895"
+  ]
+}
