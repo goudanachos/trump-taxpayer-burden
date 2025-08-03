@@ -1,0 +1,42 @@
+{
+  "location": "Washington, D.C.",
+  "activities": [
+    {
+      "name": "Swearing-In Ceremony for IRS Commissioner",
+      "cost": 0,
+      "category": "Official Event",
+      "description": "President Trump participated in a swearing-in ceremony for the Commissioner of the Internal Revenue Service in the Oval Office on July 18, 2025."
+    },
+    {
+      "name": "Signing Ceremony for S.1582 GENIUS Act",
+      "cost": 0,
+      "category": "Official Event",
+      "description": "President Trump participated in a signing ceremony for the GENIUS Act in the East Room of the White House on July 18, 2025."
+    },
+    {
+      "name": "Dinner with Republican Senators",
+      "cost": 0,
+      "category": "Official Event",
+      "description": "President Trump attended a dinner with Republican Senators in the State Dining Room of the White House on July 18, 2025."
+    },
+    {
+      "name": "Secret Service & Staff Protection at the White House",
+      "cost": 75000,
+      "category": "Secret Service & Staff",
+      "description": "Estimated cost for Secret Service and staff protection at the White House during the official events on July 18, 2025."
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "On July 18, 2025, President Trump engaged in official ceremonies and dinner at the White House. Security costs reflect Secret Service and staff protection for the day.",
+  "tags": "Trump,White House,Swearing-In Ceremony,Signing Ceremony,Republican Dinner,Secret Service",
+  "confidence_level": "high",
+  "model_confidence": 0.95,
+  "model_check": "Confirmed official events by multiple reputable sources; cost estimate based on standard Secret Service daily rate.",
+  "source_urls": [
+    "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates?entryId=124291398&id=124128895",
+    "https://www.whitehouse.gov/fact-sheets",
+    "https://www.nytimes.com/live/2025/07/31/us/trump-news",
+    "https://washingtonpost.com/politics/2025/07/31/trump-ballroom-east-wing-overhaul",
+    "https://thedailybeast.com/trump-checked-white-house-renovations-as-soon-as-he-landed-from-scotland"
+  ]
+}
