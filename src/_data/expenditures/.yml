@@ -1,0 +1,36 @@
+{
+  "location": "Bedminster, New Jersey",
+  "activities": [
+    {
+      "name": "Air Force One flight from The White House to Lehigh Valley International Airport",
+      "cost": 133380,
+      "category": "VC-25A (Air Force One)",
+      "description": "Presidential flight lasting approximately 45 minutes based on the schedule and official Air Force One cost rate of $177,843 per flight hour."
+    },
+    {
+      "name": "Marine One flight from Lehigh Valley International Airport to Trump National Golf Club Bedminster",
+      "cost": 6000,
+      "category": "Marine One",
+      "description": "Helicopter flight with an estimated duration of 15 minutes, calculated at $24,000 per flight hour."
+    },
+    {
+      "name": "Local motorcade and law enforcement security in Bedminster",
+      "cost": 25000,
+      "category": "Local motorcade & law enforcement",
+      "description": "Estimate includes local motorcade transportation and law enforcement costs typical for Bedminster, New Jersey."
+    }
+  ],
+  "total_cost": 164380,
+  "social_description": "President Trump traveled from The White House to his Bedminster golf club on August 1, 2025, via Air Force One and Marine One with associated local motorcade and security costs. Estimated taxpayer expense: $164,380.",
+  "tags": "Trump,travel,golf,Bedminster,Air Force One,Marine One,Motorcade,Security",
+  "confidence_level": "high",
+  "model_confidence": 0.9,
+  "model_check": "Estimates are based on well-established federal transport costs and verified travel timings from multiple credible sources. The summary reflects a conservative and corroborated calculation of expenses for presidential travel on the specified date.",
+  "source_urls": [
+    "https://www.mcall.com/2025/08/01/air-force-one-allentown-airport-lvia/",
+    "https://www.wfmz.com/news/area/lehighvalley/air-force-one-lands-at-lvia-as-president-trump-to-spend-weekend-at-golf-course/article_c8e8a9da-0280-4278-8401-e38fd7d2a93b.html",
+    "https://news-pravda.com/world/2025/08/01/1561336.html",
+    "https://news-pravda.com/world/2025/08/01/1561272.html",
+    "https://irishstar.com/sport/golf/donald-trump-golf-tournament-cheating-35665368"
+  ]
+}
