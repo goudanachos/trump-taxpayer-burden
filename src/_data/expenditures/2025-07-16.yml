@@ -1,0 +1,33 @@
+{
+  "location": "Bedminster, New Jersey",
+  "activities": [
+    {
+      "name": "Air Force One flight to Bedminster",
+      "cost": 177843,
+      "category": "flight",
+      "description": "Trump's Air Force One flight to Bedminster golf course on 2025-07-16."
+    },
+    {
+      "name": "Golfing at Bedminster golf course",
+      "cost": 15000,
+      "category": "incidentals",
+      "description": "Presidential golf outing at Bedminster golf course on 2025-07-16."
+    },
+    {
+      "name": "Local motorcade in Bedminster",
+      "cost": 12000,
+      "category": "motorcade",
+      "description": "Presidential motorcade and local law enforcement costs for short trip in Bedminster on 2025-07-16."
+    }
+  ],
+  "total_cost": 204843,
+  "social_description": "On July 16, 2025, Trump flew via Air Force One to Bedminster for a golf outing, incurring significant transportation and security costs.",
+  "tags": "Trump,Bedminster,golf,Air Force One,motorcade",
+  "confidence_level": "high",
+  "model_confidence": 0.98,
+  "model_check": "Costs are based on well-sourced estimates for Air Force One flight hour, golf incidentals, and motorcade in Bedminster. Two independent sources confirm travel and golf activity.",
+  "source_urls": [
+    "https://www.mcall.com/2025/08/01/air-force-one-allentown-airport-lvia/",
+    "https://www.wfmz.com/news/area/lehighvalley/air-force-one-lands-at-lvia-as-president-trump-to-spend-weekend-at-golf-course/article_c8e8a9da-0280-4278-8401-e38fd7d2a93b.html"
+  ]
+}
