@@ -1,0 +1,27 @@
+{
+  "location": "White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Presidential Daytime Activities",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Secret Service and staff overhead for full day coverage during presidential activities at the White House including intelligence briefing, proclamations signing, and public events."
+    },
+    {
+      "name": "Summer Soirée Event",
+      "cost": 75000,
+      "category": "Local motorcade",
+      "description": "Estimated local motorcade and event security costs for hosting the Summer Soirée on the South Lawn of the White House in the evening."
+    }
+  ],
+  "total_cost": 150000,
+  "social_description": "On June 4, 2025, former President Trump participated in several official White House events including an evening Summer Soirée on the South Lawn. Estimated taxpayer cost: $150,000.",
+  "tags": "White House,security,event,Trump,June 4 2025",
+  "confidence_level": "medium",
+  "model_confidence": 0.87,
+  "model_check": "Costs estimated from typical Secret Service and motorcade daily rates. Confidence medium due to lack of multiple direct news sources confirming exact event costs.",
+  "source_urls": [
+    "https://people.com/trump-announces-massive-new-white-house-addition-gold-ballroom-11782823",
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
