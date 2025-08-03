@@ -1,0 +1,20 @@
+{
+  "location": "White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Meeting with Bahrain and Qatar leaders",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "High-level meetings with Bahrain's Crown Prince and Qatar's Prime Minister, including discussions on Middle East crises and regional security. Secret Service and staff estimated at resort daily rate."
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "Trump hosted high-level meetings at the White House with Bahrain and Qatar leaders on July 16, 2025, amidst rising Middle East crises involving Gaza and Syria. Secret Service and staff costs estimated at $75,000 for the day.",
+  "tags": "White House,meeting,Bahrain,Qatar,Middle East,Secret Service,security",
+  "confidence_level": "medium",
+  "model_confidence": 0.95,
+  "model_check": "Estimate based on usual Secret Service & staff cost at resort given lack of detailed expenditure data, verified meeting content from Firstpost and corroborated general liaison meeting presence at the White House.",
+  "source_urls": [
+    "https://www.firstpost.com/web-show/firstpost-america/us-trump-hosts-bahrain-qatar-leaders-as-syria-gaza-crises-intensify-firstpost-america-n18g-vd1320246/"
+  ]
+}
