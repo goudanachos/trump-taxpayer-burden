@@ -1,0 +1,21 @@
+{
+  "location": "Washington, D.C.",
+  "activities": [
+    {
+      "name": "Dinner at Howard Lutnick's residence",
+      "cost": 30000,
+      "category": "incidentals",
+      "description": "President Trump's attendance at a birthday dinner celebration at Howard Lutnick's private residence on the evening of July 14, 2025."
+    }
+  ],
+  "total_cost": 30000,
+  "social_description": "On July 14, 2025, President Trump attended a birthday dinner at Howard Lutnick's residence in Washington, D.C., incurring related Secret Service and event costs.",
+  "tags": "Trump,Dinner,Howard Lutnick,Private Residence,Washington,DC",
+  "confidence_level": "high",
+  "model_confidence": 0.97,
+  "model_check": "Well-sourced timing and location from official schedule, typical costs applied for private dinner event with Secret Service protection. No conflicting sources found.",
+  "source_urls": [
+    "https://whitehouse.gov/briefings-statements/",
+    "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates?entryId=124287884&id=124128895"
+  ]
+}
