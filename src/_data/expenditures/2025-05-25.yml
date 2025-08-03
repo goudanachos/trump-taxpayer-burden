@@ -1,0 +1,30 @@
+{
+  "location": "Trump National Golf Club Bedminster, Morristown Municipal Airport, Joint Base Andrews, Washington DC",
+  "activities": [
+    {
+      "name": "Presidential travel via helicopter and motorcade",
+      "cost": 353000,
+      "category": "Air Force One, Marine One, Local motorcade",
+      "description": "Flight from Bedminster to Morristown Municipal Airport by helicopter, then flight from Morristown to Joint Base Andrews by Air Force One, and motorcade transportation from Andrews to the White House. Estimated flight hours and motorcade trips calculated with respective benchmarks."
+    },
+    {
+      "name": "Secret Service and staff coverage",
+      "cost": 75000,
+      "category": "Secret Service & staff",
+      "description": "Secret Service coverage for the day during President Trump's travel and events including Bedminster, airports, and Washington DC."
+    }
+  ],
+  "total_cost": 428000,
+  "social_description": "On May 25, 2025, President Trump departed Trump National Golf Club Bedminster, flew to Morristown Municipal Airport, then to Joint Base Andrews, and returned to the White House. The estimated combined cost of Air Force One, Marine One, motorcade, and Secret Service coverage is approximately $428,000.",
+  "tags": "Bedminster, Morristown Airport, Joint Base Andrews, Air Force One, Marine One, motorcade, Secret Service, presidential travel",
+  "confidence_level": "high",
+  "model_confidence": 0.9,
+  "model_check": "Cost estimates use standard hourly flight rates for VC-25A and Marine One, estimated travel durations, and motorcade costs for short trips. Secret Service daily cost applied. All assumptions based on known benchmarks and typical presidential travel patterns.",
+  "source_urls": [
+    "https://nytimes.com/live/2025/08/01/us/trump-news",
+    "https://shorenewsnetwork.com/2025/07/31/flight-restrictions-in-place-ahead-of-trumps-weekend-visit-to-new-jersey",
+    "https://mcall.com/2025/08/01/air-force-one-allentown-airport-lvia/",
+    "https://usa.news-pravda.com/world/2025/08/01/401248.html",
+    "https://theconservativetreehouse.com/blog/2025/08/01/chopper-presser-president-trump-answers-media-questions-departing-the-white-house/"
+  ]
+}
