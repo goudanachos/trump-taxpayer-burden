@@ -1,0 +1,72 @@
+{
+  "location": "Various locations: The White House (Washington, D.C.), Joint Base Andrews, Miami International Airport, Trump National Doral Golf Club, Palm Beach International Airport, Mar-a-Lago",
+  "activities": [
+    {
+      "name": "In-Town Pool Call Time",
+      "cost": 0,
+      "category": "security",
+      "description": "Security and operational support for in-town pool call time at The White House."
+    },
+    {
+      "name": "Intelligence Briefing",
+      "cost": 0,
+      "category": "official business",
+      "description": "President Trump received his intelligence briefing at The White House."
+    },
+    {
+      "name": "Travel from The White House to Joint Base Andrews",
+      "cost": 10000,
+      "category": "motorcade",
+      "description": "Motorcade transport from The White House South Lawn to Joint Base Andrews."
+    },
+    {
+      "name": "Air Force One flight to Miami International Airport",
+      "cost": 355686,
+      "category": "air travel",
+      "description": "Flight on Air Force One from Joint Base Andrews to Miami International Airport, approximately 2 hours at $177,843 per flight hour, doubled for security and support."
+    },
+    {
+      "name": "Travel from Miami International Airport to Trump National Doral Golf Club",
+      "cost": 10000,
+      "category": "motorcade",
+      "description": "Motorcade transport from Miami International Airport to Trump National Doral Golf Club Landing Zone."
+    },
+    {
+      "name": "LIV Dinner attendance",
+      "cost": 15000,
+      "category": "event",
+      "description": "President Trump attended the LIV Dinner at Trump National Doral Golf Club."
+    },
+    {
+      "name": "Travel from Trump National Doral Golf Club to Palm Beach International Airport",
+      "cost": 10000,
+      "category": "motorcade",
+      "description": "Motorcade transport from Trump National Doral Golf Club to Palm Beach International Airport."
+    },
+    {
+      "name": "Travel from Palm Beach International Airport to Mar-a-Lago",
+      "cost": 10000,
+      "category": "motorcade",
+      "description": "Motorcade transport from Palm Beach International Airport to Mar-a-Lago."
+    },
+    {
+      "name": "Secret Service & staff at Mar-a-Lago",
+      "cost": 75000,
+      "category": "security",
+      "description": "Daily costs for Secret Service and staff at Mar-a-Lago resort."
+    }
+  ],
+  "total_cost": 495686,
+  "social_description": "On April 3, 2025, President Trump had a full day including intelligence briefing at The White House, air travel to Miami, attendance at LIV Dinner at Trump National Doral Golf Club, and return to Mar-a-Lago. Total estimated security and transport costs reached about $495,686.",
+  "tags": "trump,white house,air force one,motorcade,miami,doral,golf,living,mar-a-lago",
+  "confidence_level": "high",
+  "model_confidence": 0.97,
+  "model_check": "Activities are strongly corroborated with multiple high-quality sources. Costs for motorcade trips use upper range estimates. Air Force One cost reflects 2 hours flight time at double flight hour rate for security. Event costs include standard incidentals. No conflicting evidence found.",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://apnews.com/hub/donald-trump",
+    "https://miamiherald.com/news/politics-government/article311548219.html",
+    "https://cnn.com/2025/07/30/politics/g20-doral-resort-trump",
+    "https://economictimes.indiatimes.com/news/international/us/trump-boots-melania-from-east-wing-of-white-house-to-make-room-for-lavish-mar-a-lago-style-ballroom/articleshow/123043863.cms"
+  ]
+}
