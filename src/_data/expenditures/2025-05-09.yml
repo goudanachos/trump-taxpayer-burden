@@ -1,0 +1,13 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [],
+  "total_cost": 0,
+  "social_description": "On May 9, 2025, President Trump had no public or leisure events, resulting in no taxpayer-funded recreational or leisure spending.",
+  "tags": "trump,the white house,no leisure spending,2025-05-09",
+  "confidence_level": "high",
+  "model_confidence": 0.95,
+  "model_check": "Schedule shows no public or leisure events; no associated costs identified. Confidence high due to consistent reporting and lack of conflicting sources.",
+  "source_urls": [
+    "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates?entryId=124291398&id=124128895"
+  ]
+}
