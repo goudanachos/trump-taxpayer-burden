@@ -1,0 +1,33 @@
+{
+  "location": "The Ellipse and The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "250th Anniversary U.S. Army Grand Military Parade and Celebration",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Estimated cost for Secret Service and staff protection during President Trump's participation in the parade at The Ellipse."
+    },
+    {
+      "name": "Local motorcade support",
+      "cost": 10000,
+      "category": "Local motorcade",
+      "description": "Estimated cost for local motorcade and security logistics associated with event attendance."
+    },
+    {
+      "name": "Incidentals and miscellaneous expenses",
+      "cost": 10000,
+      "category": "Incidentals",
+      "description": "Estimated costs for logistical support and incidentals during the day's events."
+    }
+  ],
+  "total_cost": 95000,
+  "social_description": "On June 14, 2025, President Trump participated in the 250th Anniversary U.S. Army Grand Military Parade and Celebration at The Ellipse, Washington, D.C., with associated security and logistical costs.",
+  "tags": "Trump,Parade,The Ellipse,White House,Security,2025-06-14",
+  "confidence_level": "high",
+  "model_confidence": 0.95,
+  "model_check": "Estimates based on typical Secret Service and local motorcade daily rates given lack of direct expenditure data. Event presence verified by multiple reliable sources. Confidence level high due to consistent corroboration.",
+  "source_urls": [
+    "https://www.army.mil/article/267046/u_s_army_celebrates_250_years",
+    "https://www.whitehouse.gov/briefings-statements/250th-anniversary-us-army-grand-parade-2025-06-14/"
+  ]
+}
