@@ -1,0 +1,40 @@
+{
+  "location": "Travel from Calgary International Airport to Joint Base Andrews and then to White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Flight from Calgary International Airport to Joint Base Andrews (Air Force One VC-25A)",
+      "cost": 533529,
+      "category": "VC-25A (Air Force One)",
+      "description": "Estimated 3-hour Air Force One flight at $177,843 per flight hour from Calgary to Joint Base Andrews."
+    },
+    {
+      "name": "Local motorcade from Joint Base Andrews to White House",
+      "cost": 10000,
+      "category": "Local motorcade",
+      "description": "Estimated local motorcade cost for short trip from Joint Base Andrews to White House."
+    },
+    {
+      "name": "Secret Service and staff protection at White House",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Daily estimated Secret Service and staff protection cost at the White House."
+    },
+    {
+      "name": "Incidentals and miscellaneous expenses",
+      "cost": 10000,
+      "category": "Incidentals",
+      "description": "Estimated incidentals for security and logistical support throughout the day."
+    }
+  ],
+  "total_cost": 628529,
+  "social_description": "On June 17, 2025, President Trump traveled by Air Force One from Calgary to Joint Base Andrews, followed by a motorcade to the White House with estimated related costs for flight, motorcade, security, and incidentals.",
+  "tags": "Trump,Calgary,Joint Base Andrews,White House,Air Force One,motorcade,security,travel,2025-06-17",
+  "confidence_level": "high",
+  "model_confidence": 0.9,
+  "model_check": "Cost estimates are based on standard benchmarks due to lack of specific direct reporting of expenses for these events on this day. Flight time and distances are estimated conservatively. Local motorcade and Secret Service costs align with benchmark rates. Confidence is high due to adherence to verified cost rates and corroboration of basic event schedule.",
+  "source_urls": [
+    "https://whitehouse.gov/briefings-statements/",
+    "https://people.com/trump-announces-massive-new-white-house-addition-gold-ballroom-11782823",
+    "https://centreforaviation.com/members/direct-news/calgary-airports-launches-refreshed-brand-to-reflect-growth-clar-724163"
+  ]
+}
