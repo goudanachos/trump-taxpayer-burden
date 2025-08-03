@@ -1,0 +1,28 @@
+{
+  "location": "The White House and National Building Museum, Washington D.C.",
+  "activities": [
+    {
+      "name": "Secret Service & Staff Protection",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Daily estimated cost for Secret Service and staff providing security and support during Trump's activities at the White House and National Building Museum on April 8, 2025."
+    },
+    {
+      "name": "Motorcade Transport",
+      "cost": 20000,
+      "category": "Local motorcade",
+      "description": "Estimated cost for two short motorcade trips between the White House and National Building Museum (one trip each way) during Trump's schedule on April 8, 2025."
+    }
+  ],
+  "total_cost": 95000,
+  "social_description": "On April 8, 2025, Trump engaged in multiple events in Washington D.C., including White House appearances and an NRCC Dinner at the National Building Museum, with estimated security and motorcade costs totaling around $95,000.",
+  "tags": "White House,National Building Museum,Secret Service,Motorcade,Leisure,April 8 2025",
+  "confidence_level": "medium",
+  "model_confidence": 0.85,
+  "model_check": "The cost estimate relies on standard benchmark rates for Secret Service daily presence and local motorcade trips due to absence of direct, specific spending data for this date and events. Multiple credible sources confirmed the events but lacked financial specifics, prompting a conservative estimate with moderate confidence level.",
+  "source_urls": [
+    "https://people.com/trump-announces-massive-new-white-house-addition-gold-ballroom-11782823",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://allchronology.com/2025/08/01/how-trump-used-americas-leverage-to-get-exactly-what-he-wanted-from-his-trade-war/"
+  ]
+}
