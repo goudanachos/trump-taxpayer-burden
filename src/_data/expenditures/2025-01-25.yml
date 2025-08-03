@@ -1,0 +1,48 @@
+{
+  "location": "Las Vegas, Nevada and Miami, Florida",
+  "activities": [
+    {
+      "name": "Departure from Trump International Hotel to Circa Resort and Casino",
+      "cost": 5000,
+      "category": "Local motorcade",
+      "description": "President Trump departed his hotel for Circa Resort and Casino with local motorcade security in Las Vegas."
+    },
+    {
+      "name": "Remarks on Tips and Taxes at Circa Resort and Casino",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Trump delivered remarks on tips and taxes at Circa Resort and Casino with Secret Service protection and staff coverage."
+    },
+    {
+      "name": "Interaction with Gamblers on Casino Floor",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Trump spoke with gamblers on the floor of Circa Resort and Casino, involving extended Secret Service protection."
+    },
+    {
+      "name": "Departure Flight from Harry Reid International Airport to Miami",
+      "cost": 21560,
+      "category": "C-32 / charter",
+      "description": "Trump's charter flight from Harry Reid International Airport to Miami International Airport, approximately 2 hours flight time."
+    },
+    {
+      "name": "Arrival at Miami International Airport and Full Lid Called at Trump National Doral",
+      "cost": 1130000,
+      "category": "Secret Service & staff (Mar-a-Lago peak)",
+      "description": "Upon arrival in Miami, Secret Service and staff security at Trump National Doral during full lid period."
+    }
+  ],
+  "total_cost": 1317660,
+  "social_description": "On January 25, 2025, Trump was in Las Vegas for public remarks and casino visits before flying to Miami, where a full lid was called at Trump National Doral. Total estimated cost about $1.32M, driven mainly by high-level Secret Service security.",
+  "tags": "Trump,Las Vegas,Miami,Circa Resort,Casino,Flight,Trump National Doral,Full Lid,Secret Service",
+  "confidence_level": "medium",
+  "model_confidence": 0.9,
+  "model_check": "Costs estimated using benchmark rates for local motorcade, Secret Service resort protection, charter flight, and Mar-a-Lago peak security at Doral. Activity times and venues align with scheduling hints and reported events. Some sources limited; costs inferred with conservative assumptions.",
+  "source_urls": [
+    "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates?entryId=124291398&id=124128895",
+    "https://nytimes.com/live/2025/07/29/us/trump-news",
+    "https://syracuse.com/politics/2025/07/trump-is-obsessed-with-this-flashy-white-house-upgrade-heres-why-report.html",
+    "https://people.com/trump-announces-massive-new-white-house-addition-gold-ballroom-11782823",
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
