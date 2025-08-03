@@ -3,7 +3,12 @@
   "description": "Record a day’s taxpayer-funded recreational and leisure spending (date handled elsewhere).",
   "parameters": {
     "type": "object",
-    "required": ["location", "activities", "total_cost", "social_description"],
+    "required": [
+      "location",
+      "activities",
+      "total_cost",
+      "social_description"
+    ],
     "properties": {
       "location": {
         "type": "string",
@@ -14,7 +19,11 @@
         "description": "Individual spending items.",
         "items": {
           "type": "object",
-          "required": ["name", "cost", "description"],
+          "required": [
+            "name",
+            "cost",
+            "description"
+          ],
           "properties": {
             "name": {
               "type": "string",
@@ -46,13 +55,21 @@
         "description": "Tweet-ready one-liner."
       },
       "tags": {
-        "type": "string",
-        "description": "Comma-separated lowercase tags (no spaces)."
+        "type": "array",
+        "description": "List of tags, lowercase and dasherized",
+        "items": {
+          "type": "string",
+          "format": "uri"
+        }
       },
       "confidence_level": {
         "type": "string",
         "description": "Confidence in data accuracy.",
-        "enum": ["high", "medium", "low"]
+        "enum": [
+          "high",
+          "medium",
+          "low"
+        ]
       },
       "source_urls": {
         "type": "array",
