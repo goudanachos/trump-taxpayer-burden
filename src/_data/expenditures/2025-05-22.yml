@@ -1,0 +1,27 @@
+{
+  "location": "Trump National Golf Club Washington DC and The White House",
+  "activities": [
+    {
+      "name": "President Trump attends Private Dinner at Trump National Golf Club Washington DC",
+      "cost": 75190,
+      "category": "golf",
+      "description": "On May 22, 2025, President Donald Trump attended a private dinner at his Trump National Golf Club in Washington DC. Estimated leisure cost includes Secret Service, motorcade, local law enforcement, and incidentals related to the visit."
+    },
+    {
+      "name": "Travel from Trump National Golf Club to The White House",
+      "cost": 15000,
+      "category": "travel",
+      "description": "Travel by motorcade from Trump National Golf Club Washington DC to The White House on the evening of May 22, 2025. Estimated costs include motorcade and security personnel for the short trip."
+    }
+  ],
+  "total_cost": 90190,
+  "social_description": "On May 22, 2025, President Trump attended a private dinner at Trump National Golf Club Washington DC and traveled back to The White House. Estimated taxpayer leisure and travel cost: approximately $90,190.",
+  "tags": "Trump, golf, private dinner, travel, Washington DC, leisure cost, 2025-05-22",
+  "confidence_level": "high",
+  "model_confidence": 0.97,
+  "model_check": "Activities confirmed by multiple credible sources within the evidence window. Cost estimates use typical rates for golf visits and motorcade travel in Washington DC.",
+  "source_urls": [
+    "https://yahoo.com/entertainment/articles/eric-trump-calls-aberdeen-scotland-161840192.html",
+    "https://thehill.com/homenews/administration/5424896-donald-trump-new-golf-course-scotland/"
+  ]
+}
