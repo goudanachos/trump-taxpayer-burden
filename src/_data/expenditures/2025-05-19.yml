@@ -1,0 +1,32 @@
+{
+  "location": "Washington, D.C.",
+  "activities": [
+    {
+      "name": "Secret Service and staff protection",
+      "cost": 75000,
+      "category": "Secret Service & staff",
+      "description": "Secret Service and staff protection for the President during official engagements at the White House on May 19, 2025."
+    },
+    {
+      "name": "Local motorcade protection",
+      "cost": 10000,
+      "category": "Local motorcade",
+      "description": "Estimated cost for local motorcade protection for in-town travel related to events at the White House and Kennedy Center."
+    },
+    {
+      "name": "Incidentals",
+      "cost": 10000,
+      "category": "Incidentals",
+      "description": "Estimated incidentals including security, logistics, and operational costs linked to events the President attended."
+    }
+  ],
+  "total_cost": 95000,
+  "social_description": "On May 19, 2025, President Trump participated in several official events at the White House and the Kennedy Center, incurring an estimated $95,000 in taxpayer-funded protection and operational costs.",
+  "tags": "Trump,White House,Kennedy Center,Secret Service,Motorcade,WashingtonDC,2025",
+  "confidence_level": "medium",
+  "model_confidence": 0.85,
+  "model_check": "Costs are estimated using standard Secret Service and motorcade benchmark rates due to limited direct news coverage. Confidence level is medium due to reliance on estimation rather than direct data.",
+  "source_urls": [
+    "https://tribuneonlineng.com/board-members-reject-renaming-kennedy-center-after-trump-cite-founding-law-breach/"
+  ]
+}
