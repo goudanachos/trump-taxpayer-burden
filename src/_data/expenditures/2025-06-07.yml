@@ -1,0 +1,32 @@
+{
+  "location": "Bedminster, New Jersey and Prudential Center, Newark, NJ",
+  "activities": [
+    {
+      "name": "Travel to Bedminster",
+      "cost": 1130000,
+      "category": "Secret Service & staff (Mar-a-Lago peak)",
+      "description": "Estimated daily Secret Service and staff costs for President Trump's presence at Bedminster golf course on June 7, 2025."
+    },
+    {
+      "name": "Local Motorcade and Travel",
+      "cost": 16000,
+      "category": "Local motorcade and incidentals",
+      "description": "Estimated local motorcade and incidental costs related to President Trump's movement from Bedminster to Prudential Center for UFC event."
+    },
+    {
+      "name": "Attendance at UFC-316 Event",
+      "cost": 0,
+      "category": "event attendance",
+      "description": "President Trump attended UFC-316 Dvalishvili vs. O'Malley 2 at Prudential Center, Newark, NJ, with no additional specific leisure cost apart from transport and security."
+    }
+  ],
+  "total_cost": 1146000,
+  "social_description": "On June 7, 2025, President Trump spent the day at his Bedminster golf course, incurring estimated $1,130,000 in Secret Service costs, then attended UFC-316 in Newark with related motorcade and transport expenses.",
+  "tags": "Trump,Bedminster,Prudential Center,UFC,golf,security,motorcade",
+  "confidence_level": "high",
+  "model_confidence": 0.98,
+  "model_check": "Costs based on standard daily Secret Service rates for Bedminster peak presence and estimated motorcade expenses. Attendance at UFC event included but with no separate ticketing or leisure cost found. Multiple high-quality sources confirm presence and travel details.",
+  "source_urls": [
+    "https://www.mcall.com/2025/08/01/air-force-one-allentown-airport-lvia/"
+  ]
+}
