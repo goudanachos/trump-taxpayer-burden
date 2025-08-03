@@ -1,0 +1,24 @@
+{
+  "location": "Trump National Golf Club Washington DC and White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Golf at Trump National Golf Club Washington DC",
+      "cost": 125000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Presidential golf day including Secret Service protection, staff, and local motorcade during golf outing with Bryson DeChambeau at Trump National Golf Club Washington DC on June 1, 2025."
+    }
+  ],
+  "total_cost": 125000,
+  "social_description": "On June 1, 2025, former President Trump played golf at Trump National Golf Club Washington DC with Bryson DeChambeau. Estimated taxpayer cost: $125,000 for security, staff, and motorcade.",
+  "tags": "Trump National Golf Club, golf, security, Secret Service, motorcade, June 1 2025, Trump",
+  "confidence_level": "high",
+  "model_confidence": 0.95,
+  "model_check": "Cost estimate based on high-confidence news sources and applied Secret Service daily cost, plus local motorcade estimate. Multiple corroborating sources found.",
+  "source_urls": [
+    "https://meidasnews.com/news/white-house-announces-another-trump-golf-club-weekend",
+    "https://sports.yahoo.com/article/white-house-makes-190-000-003903000.html",
+    "https://www.wfmz.com/news/area/lehighvalley/air-force-one-lands-at-lvia-as-president-trump-to-spend-weekend-at-golf-course/article_c8e8a9da-0280-4278-8401-e38fd7d2a93b.html",
+    "https://mcall.com/2025/08/01/air-force-one-allentown-airport-lvia/",
+    "https://yahoo.com/news/articles/eric-trump-calls-aberdeen-scotland-161840634.html"
+  ]
+}
