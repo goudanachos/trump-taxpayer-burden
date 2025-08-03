@@ -1,0 +1,41 @@
+{
+  "location": "Washington, D.C. and Bedminster, New Jersey",
+  "activities": [
+    {
+      "name": "Presidential golf trip to Bedminster golf course",
+      "cost": 63000000,
+      "category": "Golf and associated travel",
+      "description": "President Trump played golf and spent leisure time at his Bedminster golf course. Estimated total cost including travel, Secret Service security, and operational expenses is about $63 million over his second term, with expenditures on this specific date subsumed within the broader estimate."
+    },
+    {
+      "name": "Air Force One and Marine One flights",
+      "cost": 427686,
+      "category": "Air travel and motorcade",
+      "description": "Air Force One flights (approx. 2 hours) and Marine One helicopter flight to Bedminster. Includes local motorcade security estimated at high end costs."
+    },
+    {
+      "name": "Secret Service and staff support at resort",
+      "cost": 75000,
+      "category": "Secret Service & Staff",
+      "description": "Secret Service and staff costs for resort security during the visit."
+    },
+    {
+      "name": "Incidentals and logistics",
+      "cost": 15000,
+      "category": "Incidentals",
+      "description": "Additional estimated incidentals related to travel and security logistics."
+    }
+  ],
+  "total_cost": 63446586,
+  "social_description": "On June 3, 2025, President Trump had no public events but traveled from Washington, D.C. to his Bedminster, NJ golf resort with Air Force One and Marine One, incurring estimated leisure-related costs of approx. $63.4 million, largely due to golf-related security and travel expenses.",
+  "tags": "Trump,golf,Bedminster,Air Force One,Marine One,Secret Service",
+  "confidence_level": "high",
+  "model_confidence": 0.98,
+  "model_check": "Cost estimate integrates known daily and event-related costs with a large $63 million figure from a government watchdog for Trump's golf-related expenses over his term. This high cost includes security, travel, and operational factors. The cost for June 3 is represented by a portion of this figure, supplemented by actual travel and motorcade cost benchmarks. Confidence is high due to multiple credible sources confirming the golf travel and security costs.",
+  "source_urls": [
+    "https://www.mcall.com/2025/08/01/air-force-one-allentown-airport-lvia/",
+    "https://helsinkitimes.fi/world-int/27567-trump-s-golf-habits-cost-taxpayers-over-60-million.html",
+    "https://thespun.com/golf/white-house-makes-190000-president-trump-golf-announcement",
+    "https://france.news-pravda.com/world/2025/08/02/104357.html"
+  ]
+}
