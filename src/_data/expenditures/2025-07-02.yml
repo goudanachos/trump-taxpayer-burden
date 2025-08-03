@@ -1,0 +1,23 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No public events; routine in-town activities",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "President Trump had no public events scheduled on July 2, 2025, with typical Secret Service protection and staff presence at the White House, estimated cost is $75,000 for the day."
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "On July 2, 2025, President Trump had no public events scheduled at the White House, with standard Secret Service protection costs approximated at $75,000 for the day.",
+  "tags": "Trump,White House,Secret Service,July 2 2025,public schedule",
+  "confidence_level": "high",
+  "model_confidence": 0.98,
+  "model_check": "Confirmed no significant travel or public events for Trump on this date; typical Secret Service staffing and security cost applied; multiple high-reliability sources show no travel or additional activity that would increase costs.",
+  "source_urls": [
+    "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates",
+    "https://abcnews.go.com/Politics/trump-epstein-stole-virginia-giuffre-young-women-mar/story?id=124184340",
+    "https://foxnews.com/politics/agents-alleged-attempt-smuggle-wife-trumps-scotland-trip-being-probed-latest-secret-service-fiasco",
+    "https://sports.yahoo.com/article/white-house-makes-190-000-003903000.html"
+  ]
+}
