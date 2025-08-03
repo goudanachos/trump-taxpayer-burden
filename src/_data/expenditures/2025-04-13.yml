@@ -1,0 +1,39 @@
+{
+  "location": "Mar-a-Lago and Palm Beach International Airport, FL to White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Air Force One Flight",
+      "cost": 266765,
+      "category": "VC-25A (Air Force One)",
+      "description": "Flight from Palm Beach International Airport to Joint Base Andrews (~1.5 hours flight time on April 13, 2025)."
+    },
+    {
+      "name": "Secret Service & staff (Mar-a-Lago peak)",
+      "cost": 1130000,
+      "category": "Secret Service & staff (Mar-a-Lago peak)",
+      "description": "Security and staffing costs at Mar-a-Lago during the President's stay on April 13, 2025."
+    },
+    {
+      "name": "Local motorcade",
+      "cost": 5000,
+      "category": "Local motorcade",
+      "description": "Motorcade/local transport trip associated with arrival/departure movements in Florida and Washington."
+    },
+    {
+      "name": "Incidentals",
+      "cost": 15000,
+      "category": "Incidentals",
+      "description": "Miscellaneous incidental expenses related to golf and presidential activities on April 13, 2025."
+    }
+  ],
+  "total_cost": 1416765,
+  "social_description": "President Trump's travel on April 13, 2025 included a late night flight to Mar-a-Lago, golf club visit, and return to the White House, totaling approximately $1.42 million in related security, flight, and incidental costs.",
+  "tags": "Trump,Mar-a-Lago,Palm Beach International,Air Force One,Golf,April 13 2025",
+  "confidence_level": "medium",
+  "model_confidence": 0.9,
+  "model_check": "Estimate combines official cost benchmarks from §3 using 1.5 hour flight time for Air Force One and standard Mar-a-Lago peak Secret Service daily rates. Motorcade cost is minimal estimate for airport and club transport. Incidentals set to max range.",
+  "source_urls": [
+    "https://blackenterprise.com/trump-calls-epstein-a-creep-who-stole-women-from-mar-a-lago",
+    "https://home.nzcity.co.nz/news/article.aspx?fm=psp%2Ctsf&id=427195"
+  ]
+}
