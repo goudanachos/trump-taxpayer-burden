@@ -1,0 +1,24 @@
+{
+  "location": "Washington, D.C. (The White House)",
+  "activities": [
+    {
+      "name": "Presidential day at The White House",
+      "cost": 0,
+      "category": "official_duties",
+      "description": "President Trump spent June 9, 2025, at The White House engaging in official activities including participation in the Invest America Roundtable and House GOP leaders briefing. No taxpayer-funded leisure costs recorded."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "June 9, 2025: Trump conducted official duties at The White House with no added leisure costs.",
+  "tags": "white-house,official,government,duties",
+  "confidence_level": "high",
+  "model_confidence": 0.95,
+  "model_check": "All activities on this date were official government duties with no discretionary leisure spending. Multiple high-quality sources confirm this schedule.",
+  "source_urls": [
+    "https://syracuse.com/politics/2025/07/trump-is-obsessed-with-this-flashy-white-house-upgrade-heres-why-report.html",
+    "https://people.com/trump-announces-massive-new-white-house-addition-gold-ballroom-11782823",
+    "https://radiopatriot.net/2025/07/31/what-trumps-new-white-house-ballroom-will-look-like",
+    "https://nymag.com/intelligencer/article/trump-is-getting-the-white-house-ballroom-hes-always-wanted.html",
+    "https://usatoday.com/story/news/politics/2025/07/31/trump-white-house-renovations-changes/85465892007"
+  ]
+}
