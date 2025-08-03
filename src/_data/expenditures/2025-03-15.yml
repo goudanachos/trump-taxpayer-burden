@@ -1,0 +1,36 @@
+{
+  "location": "Mar-a-Lago Resort and Trump International Golf Club West Palm Beach, Florida",
+  "activities": [
+    {
+      "name": "Local Motorcade and Security at Mar-a-Lago and Trump Golf Club",
+      "cost": 15000,
+      "category": "local motorcade and security",
+      "description": "Estimated costs for motorcade and security for multiple short trips between Mar-a-Lago and Trump International Golf Club West Palm Beach on March 15, 2025."
+    },
+    {
+      "name": "Golf Activities at Trump International Golf Club",
+      "cost": 0,
+      "category": "leisure",
+      "description": "President Trump spent time golfing at Trump International Golf Club West Palm Beach with no direct additional cost beyond motorcade and security."
+    },
+    {
+      "name": "Candlelight Fundraising Dinner at Mar-a-Lago",
+      "cost": 75000,
+      "category": "secret service & staff (resort)",
+      "description": "Estimated costs for Secret Service and staff at Mar-a-Lago to support the candlelight fundraising dinner hosted by President Trump, using the $75,000 daily rate for resort staffing."
+    }
+  ],
+  "total_cost": 90000,
+  "social_description": "On March 15, 2025, President Trump participated in golf activities and hosted a candlelight fundraising dinner at Mar-a-Lago. Estimated combined security, motorcade, and staffing costs total approximately $90,000.",
+  "tags": "Trump,Mar-a-Lago,Trump Golf Club,golf,fundraiser,security",
+  "confidence_level": "high",
+  "model_confidence": 0.97,
+  "model_check": "The cost estimates are based on benchmarks for local motorcade, resort Secret Service, and staffing rates. The schedule and activities are confirmed by multiple credible news sources within the date window. There are no conflicting cost data.",
+  "source_urls": [
+    "https://usatoday.com/story/news/politics/2025/07/29/trump-scotland-golf-cheating-bettina-barron-turnberry/85428937007",
+    "https://the-independent.com/bulletin/news/trump-presidency-golf-properties-visit-b2798480.html",
+    "https://apnews.com/article/jeffrey-epstein-congress-ghislaine-maxwell-justice-department-3ca45e130deb5f2eee8deff36d99734f",
+    "https://mixvale.com.br/2025/07/29/trump-reveals-epstein-fallout-over-mar-a-lago-staff-including-virginia-giuffre",
+    "https://afr.com/world/north-america/mar-a-lago-at-the-white-house-donald-trump-s-300m-ballroom-plan-20250803-p5mjvl"
+  ]
+}
