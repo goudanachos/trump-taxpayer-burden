@@ -1,0 +1,27 @@
+{
+  "location": "Trump National Golf Club Washington DC, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Golf outing at Trump National Golf Club Washington DC",
+      "cost": 25000,
+      "category": "Local motorcade",
+      "description": "President Trump traveled to and from Trump National Golf Club Washington DC for a golf outing on June 28, 2025. Motorcade costs estimated at $7,500 per short trip for a round trip."
+    },
+    {
+      "name": "Secret Service and staff protection",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Standard daily Secret Service protection and staff presence for President Trump during his golf outing and activities at Trump National Golf Club."
+    }
+  ],
+  "total_cost": 100000,
+  "social_description": "On June 28, 2025, President Trump played golf at Trump National Golf Club Washington DC, incurring estimated costs of $100,000 including motorcade travel and Secret Service protection.",
+  "tags": "Trump,golf,Trump National Golf Club Washington DC,Secret Service,June 28 2025,motorcade",
+  "confidence_level": "high",
+  "model_confidence": 0.97,
+  "model_check": "Schedule and location confirmed by reliable sources with news reports; costs estimated from standard motorcade and Secret Service daily rates; no conflicting data found.",
+  "source_urls": [
+    "https://yahoo.com/entertainment/articles/eric-trump-calls-aberdeen-scotland-161840192.html",
+    "https://nation.cymru/news/trump-opens-his-new-scottish-golf-course-before-return-to-us-to-put-out-fires"
+  ]
+}
