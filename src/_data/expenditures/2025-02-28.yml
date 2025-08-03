@@ -1,0 +1,36 @@
+{
+  "location": "Mar-a-Lago, Palm Beach International Airport, Joint Base Andrews, The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Travel from The White House to Mar-a-Lago",
+      "cost": 177843,
+      "category": "VC-25A (Air Force One)",
+      "description": "Flight from The White House to Palm Beach International Airport via Joint Base Andrews, then transport to Mar-a-Lago on February 28, 2025, using Air Force One VC-25A with estimated flight hours and round-trip considerations."
+    },
+    {
+      "name": "Secret Service & staff support at Mar-a-Lago",
+      "cost": 1130000,
+      "category": "Secret Service & staff (Mar-a-Lago peak)",
+      "description": "Secret Service and staff costs for President Trump's presence and security at Mar-a-Lago on February 28, 2025, estimated at peak Mar-a-Lago staffing rates."
+    },
+    {
+      "name": "Local motorcade and transportation",
+      "cost": 15000,
+      "category": "Local motorcade",
+      "description": "Motorcade trips for transport between Palm Beach International Airport and Mar-a-Lago on February 28, 2025."
+    }
+  ],
+  "total_cost": 1327843,
+  "social_description": "On February 28, 2025, President Trump's travel from The White House to Mar-a-Lago via Joint Base Andrews and Palm Beach International Airport, with security and motorcade support, is estimated to cost taxpayers approximately $1,327,843.",
+  "tags": "Trump,Mar-a-Lago,Air Force One,Secret Service,motorcade,travel,cost,2025-02-28",
+  "confidence_level": "medium",
+  "model_confidence": 0.87,
+  "model_check": "Cost estimates are based on established rates for Air Force One VC-25A flights, peak Secret Service Mar-a-Lago staffing, and typical motorcade expenses. Actual flight hours were estimated conservatively due to lack of detailed flight data. Medium confidence due to indirect estimation and reliance on benchmarks.",
+  "source_urls": [
+    "https://timesnownews.com/world/us/us-news/did-trump-go-to-epstein-island-president-says-no-go-but-logs-show-otherwise-article-152365494",
+    "https://economictimes.indiatimes.com/news/international/us/trump-boots-melania-from-east-wing-of-white-house-to-make-room-for-lavish-mar-a-lago-style-ballroom/articleshow/123043863.cms",
+    "https://apnews.com/article/jeffrey-epstein-congress-ghislaine-maxwell-justice-department-3ca45e130deb5f2eee8deff36d99734f",
+    "https://nymag.com/intelligencer/article/trump-is-getting-the-white-house-ballroom-hes-always-wanted.html",
+    "https://people.com/trump-claims-jeffrey-epstein-stole-young-female-employees-including-virginia-giuffre-from-his-mar-a-lago-spa-11781448"
+  ]
+}
