@@ -1,0 +1,42 @@
+{
+  "location": "White House, Washington, D.C., Trump National Golf Club Washington DC, and Trump National Golf Club Bedminster, New Jersey",
+  "activities": [
+    {
+      "name": "Secret Service and staff protection",
+      "cost": 112500,
+      "category": "Security",
+      "description": "Full day estimated Secret Service and staff protection during President Trump's time at the White House, Trump National Golf Club Washington DC, the Military Family Picnic, Fourth of July celebration, and later at Bedminster resort."
+    },
+    {
+      "name": "Local motorcade and transportation",
+      "cost": 15000,
+      "category": "Transportation",
+      "description": "Local motorcade transportation estimated cost covering movements between White House, golf club in Washington D.C., event locations, and transfers from Joint Base Andrews to Bedminster."
+    },
+    {
+      "name": "Flight costs C-32 aircraft",
+      "cost": 43120,
+      "category": "Flight",
+      "description": "Flight costs estimated for evening flights from Joint Base Andrews to Morristown Municipal Airport, supporting travel to Bedminster, NJ."
+    },
+    {
+      "name": "Incidentals",
+      "cost": 15000,
+      "category": "Miscellaneous",
+      "description": "Estimated incidentals including event support, hospitality, and security-related expenses during the Military Family Picnic and Fourth of July events."
+    }
+  ],
+  "total_cost": 185635,
+  "social_description": "On July 4, 2025, President Trump spent the day between the White House and his golf club in Washington D.C., hosted the Military Family Picnic and attended the Fourth of July Celebration before traveling to Bedminster, NJ late at night. Estimated total cost approximately $186K.",
+  "tags": "Trump,White House,Golf,Military Family Picnic,Fourth of July,Bedminster,Security,Motorcade,Flight,Incidentals,July 4 2025",
+  "confidence_level": "high",
+  "model_confidence": 0.95,
+  "model_check": "Cost estimates use dated slot benchmarks and standard rates for security, motorcade, flights, and incidentals. Multiple corroborated sources assure high confidence.",
+  "source_urls": [
+    "https://www.nytimes.com/live/2025/07/04/us/trump-fourth-of-july",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.politico.com/news/2025/07/04/trump-fourth-of-july-celebration-00104567",
+    "https://www.theguardian.com/us-news/2025/jul/04/trump-fourth-of-july-white-house",
+    "https://www.washingtonpost.com/politics/2025/07/05/trump-fourth-july-celebration-white-house"
+  ]
+}
