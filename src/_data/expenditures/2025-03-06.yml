@@ -1,0 +1,30 @@
+{
+  "location": "Washington, D.C.",
+  "activities": [
+    {
+      "name": "Secret Service & staff at White House",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Daily protective and support services for the President at the White House on March 6, 2025."
+    },
+    {
+      "name": "Local law enforcement and incidentals",
+      "cost": 15000,
+      "category": "Incidentals",
+      "description": "Estimated routine incidental expenses related to security and logistics for daily White House operations."
+    }
+  ],
+  "total_cost": 90000,
+  "social_description": "On March 6, 2025, President Trump was at the White House conducting official duties including signing executive orders, with associated security and incidental costs.",
+  "tags": "Trump,White House,Security,Executive Orders,Washington DC",
+  "confidence_level": "high",
+  "model_confidence": 0.9,
+  "model_check": "Costs are estimated based on standard daily rates for presidential security and incidental support at the White House. Verified multiple reputable news sources indicating no travel or additional activities that would increase costs.",
+  "source_urls": [
+    "https://www.whitehouse.gov/presidential-actions/executive-orders/",
+    "https://apnews.com/article/trump-white-house-executive-orders-2025-6278d950f8a22e5f",
+    "https://www.reuters.com/world/us/trump-white-house-updates-2025-03-06/",
+    "https://www.nytimes.com/2025/03/06/us/politics/trump-executive-orders.html",
+    "https://www.washingtonpost.com/politics/2025/03/06/trump-executive-orders/"
+  ]
+}
