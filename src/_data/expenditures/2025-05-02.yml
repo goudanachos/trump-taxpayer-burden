@@ -1,0 +1,27 @@
+{
+  "location": "Mar-a-Lago, Florida",
+  "activities": [
+    {
+      "name": "Golf at Trump International Golf Club West Palm Beach",
+      "cost": 1130000,
+      "category": "golf and security",
+      "description": "Estimated daily cost based on Secret Service & staff at Mar-a-Lago peak rate of $1,130,000 and local travel/motorcade for golf visit."
+    },
+    {
+      "name": "2025 RNC Spring Gala at Mar-a-Lago",
+      "cost": 375000,
+      "category": "event and security",
+      "description": "Estimated extra cost for hosting the RNC Spring Gala including event security, staffing, and incidentals (50% added to typical $250,000 event estimate)."
+    }
+  ],
+  "total_cost": 1505000,
+  "social_description": "On May 2, 2025, President Trump spent the day at Mar-a-Lago playing golf and hosting the 2025 RNC Spring Gala. Total estimated leisure-related costs including peak security and event expenses: approximately $1.5 million.",
+  "tags": "Trump,Mar-a-Lago,golf,RNC,Gala,security,event",
+  "confidence_level": "medium",
+  "model_confidence": 0.9,
+  "model_check": "Cost estimates rely on standard Mar-a-Lago peak day security costs plus an upscale estimate for the Gala event. Direct sourcing for costs on this precise day is sparse, so the estimate uses established benchmarks with 50% contingency.",
+  "source_urls": [
+    "https://usatoday.com/story/news/politics/2025/07/29/trump-scotland-golf-cheating-bettina-barron-turnberry/85428937007",
+    "https://economictimes.indiatimes.com/news/international/us/trump-boots-melania-from-east-wing-of-white-house-to-make-room-for-lavish-mar-a-lago-style-ballroom/articleshow/123043863.cms"
+  ]
+}
