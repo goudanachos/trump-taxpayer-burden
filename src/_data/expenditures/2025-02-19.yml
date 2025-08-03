@@ -1,0 +1,45 @@
+{
+  "location": "Florida: Mar-a-Lago, Palm Beach, Miami, Trump National Doral, Faena Hotel & Forum, Joint Base Andrews, The White House",
+  "activities": [
+    {
+      "name": "Air Force One Flights",
+      "cost": 4536695,
+      "category": "Air Travel",
+      "description": "Estimated 18.5 hours total Air Force One flight time on February 19, 2025, charged at $177,843 per flight hour."
+    },
+    {
+      "name": "Local Motorcade Trips",
+      "cost": 100000,
+      "category": "Motorcade",
+      "description": "Estimated 10 short local motorcade trips at $10,000 each."
+    },
+    {
+      "name": "Secret Service & Staff (Miami Peak)",
+      "cost": 1130000,
+      "category": "Security",
+      "description": "Full day Secret Service and staff protection in Miami area at peak rate of $1,130,000 per day."
+    },
+    {
+      "name": "Incidentals",
+      "cost": 15000,
+      "category": "Incidentals",
+      "description": "Estimated incidentals including various minor expenses."
+    },
+    {
+      "name": "Bedminster carts/porta-loos",
+      "cost": 1600,
+      "category": "Facilities",
+      "description": "Estimated cost for carts and porta-loos at Bedminster equivalent location."
+    }
+  ],
+  "total_cost": 5781295,
+  "social_description": "On Feb 19, 2025, Trump's presidential travel involved extensive Air Force One flights, motorcade trips, Secret Service peak protection in Miami, and associated incidentals totaling an estimated $5.78 million taxpayer cost.",
+  "tags": "Trump,travel,golf,Mar-a-Lago,Doral,Miami,AirForceOne,SecretService,2025",
+  "confidence_level": "medium",
+  "model_confidence": 0.95,
+  "model_check": "Estimated costs based on standard rates and itinerary; no exact daily expenditures found in news sources. Calculations assume full flight hours and peak protection rates for Miami.",
+  "source_urls": [
+    "https://the-independent.com/bulletin/news/trump-presidency-golf-properties-visit-b2798480.html",
+    "https://komonews.com/news/nation-world/trump-seeks-2026-g20-summit-at-doral-resort-in-miami"
+  ]
+}
