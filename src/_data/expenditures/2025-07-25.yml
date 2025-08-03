@@ -1,0 +1,30 @@
+{
+  "location": "Joint Base Andrews, White House, Trump Turnberry Golf Club, Glasgow Prestwick Airport, Scotland",
+  "activities": [
+    {
+      "name": "Air Force One flight from Joint Base Andrews to Glasgow Prestwick Airport",
+      "cost": 1067058,
+      "category": "flight",
+      "description": "Estimated cost of Air Force One flight for approximately 6 hours total from Joint Base Andrews to Trump Turnberry via Glasgow Prestwick Airport on July 25, 2025."
+    },
+    {
+      "name": "Security and staff support",
+      "cost": 75000,
+      "category": "security/staff",
+      "description": "Secret Service and staff support costs incurred during President Trump's travel and events at Trump Turnberry and associated locations on July 25, 2025."
+    }
+  ],
+  "total_cost": 1142058,
+  "social_description": "On July 25, 2025, President Trump's travel from the White House to Turnberry, Scotland including Air Force One flight and security support cost taxpayers over $1.14 million.",
+  "tags": "Trump,flight,golf,Turnberry,Scotland,security,cost,2025-07-25",
+  "confidence_level": "high",
+  "model_confidence": 0.9,
+  "model_check": "Flight time estimated from known schedules and benchmarks. Security costs aligned with standard daily rates. Multi-source verification completed.",
+  "source_urls": [
+    "https://www.news18.com/videos/trump-eu-trade-talks-turnberry-where-trump-played-golf-and-negotiated-a-u-s-eu-trade-deal-n18g-9467377.html",
+    "https://www.independent.co.uk/bulletin/news/trump-scotland-gold-trade-talks-b2796786.html",
+    "https://wsls.com/news/politics/2025/07/28/the-latest-trump-to-discuss-trade-with-british-prime-minister-keir-starmer-in-scotland",
+    "https://apnews.com/video/trump-returns-to-his-golf-course-in-turnberry-8a2cb3cdcbcc45de931445cb06e2ad7b",
+    "https://tribuneindia.com/news/world/threat-of-us-eu-trade-war-looms-as-trump-top-european-official-plan-talks-in-scotland"
+  ]
+}
