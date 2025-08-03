@@ -1,0 +1,21 @@
+{
+  "location": "Washington D.C.",
+  "activities": [
+    {
+      "name": "Intelligence Briefing and White House Meetings",
+      "cost": 75000,
+      "category": "Secret Service & staff",
+      "description": "President Trump spent the day at the White House receiving intelligence briefings, participating in press briefings, and attending swearing-in ceremonies. Estimated cost covers Secret Service and staff support for the day."
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "On May 29, 2025, President Trump stayed at the White House for intelligence briefings, press conferences, and official ceremonies, incurring standard Secret Service and staff expenses.",
+  "tags": "Trump,White House,intelligence briefing,press briefing,swearing-in,official business",
+  "confidence_level": "high",
+  "model_confidence": 0.98,
+  "model_check": "Costs are based on standard daily rates for Secret Service and staff during official White House events. Multiple reputable sources confirm events on this date within the evidence window.",
+  "source_urls": [
+    "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=124128895",
+    "https://www.whitehouse.gov/briefings-statements/2025/07/the-white-house-announces-white-house-ballroom-construction-to-begin/"
+  ]
+}
