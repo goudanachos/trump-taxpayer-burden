@@ -1,0 +1,36 @@
+{
+  "location": "Washington, DC to Ochopee, Florida and back",
+  "activities": [
+    {
+      "name": "Air Force One Flights",
+      "cost": 320000,
+      "category": "VC-25A (Air Force One)",
+      "description": "Two segments of Air Force One flights (White House to Joint Base Andrews to Florida and return) totaling approx. 1.8 flight hours at $177,843/hr on July 1, 2025."
+    },
+    {
+      "name": "Secret Service & Staff (Travel and Resort)",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Secret Service and staff daily coverage during President Trump's travel day and activities, including Florida visit and White House return."
+    },
+    {
+      "name": "Local Motorcade and Incidentals",
+      "cost": 90000,
+      "category": "Local motorcade",
+      "description": "Estimated costs for motorcade movements from The White House to Joint Base Andrews, to Alligator Alcatraz, and back, along with other incidentals on July 1, 2025."
+    }
+  ],
+  "total_cost": 485000,
+  "social_description": "On July 1, 2025, President Trump's travel to and from Florida, including Air Force One flights, motorcade, and Secret Service staffing, incurred an estimated $485,000 in taxpayer costs.",
+  "tags": "Trump,Travel,Air Force One,Secret Service,Motorcade,Florida,Washington DC",
+  "confidence_level": "high",
+  "model_confidence": 0.95,
+  "model_check": "Costs are calculated from established hourly rates for Air Force One, daily Secret Service staffing rates for travel days, and typical local motorcade costs. Multiple reliable and in-window sources confirm the detailed travel schedule.",
+  "source_urls": [
+    "https://orlandosentinel.com/2025/08/02/alligator-alcatraz-and-hurricanes-heres-what-would-put-the-site-at-particular-risk",
+    "https://foxnews.com/media/desantis-calls-out-media-failed-drive-by-attempt-discredit-alligator-alcatraz",
+    "https://www.breitbart.com/politics/2025/08/01/ron-desantis-combats-leftist-narratives-illegal-aliens-sent-to-alligator-alcatraz-already-have-order-of-removal/",
+    "https://www.wusf.org/politics-issues/2025-08-01/timeline-of-alligator-alcatraz-immigrant-detention-center",
+    "https://www.wlrn.org/immigration/2025-08-01/alligator-alcatraz-timeline-month"
+  ]
+}
