@@ -1,0 +1,41 @@
+{
+  "location": "Washington, D.C.; Lehigh Valley, PA; Bedminster, NJ; The White House",
+  "activities": [
+    {
+      "name": "Air Force One flight",
+      "cost": 177843,
+      "category": "VC-25A (Air Force One)",
+      "description": "President Trump flew from Washington, D.C. to Lehigh Valley International Airport near Allentown, PA on Air Force One on August 1, 2025. Flight duration estimated at 1 hour."
+    },
+    {
+      "name": "Marine One helicopter transfer",
+      "cost": 24000,
+      "category": "Marine One",
+      "description": "President Trump took Marine One helicopter from Lehigh Valley International Airport to Bedminster, New Jersey golf course on the afternoon of August 1, 2025."
+    },
+    {
+      "name": "Make America Wealthy Again event",
+      "cost": 75000,
+      "category": "Secret Service & staff",
+      "description": "President Trump participated in the Make America Wealthy Again event in the White House Rose Garden on August 2, 2025. Costs include security and staff support."
+    },
+    {
+      "name": "White House ballroom planning",
+      "cost": 0,
+      "category": "No explicit cost reported",
+      "description": "Plans announced for a $200 million expansion ball room at the White House, but no construction cost was accounted for on August 2, 2025."
+    }
+  ],
+  "total_cost": 276843,
+  "social_description": "President Trump flew Air Force One to Lehigh Valley PA, transferred by Marine One to Bedminster NJ for the weekend golf stay. Participated in Make America Wealthy Again event at White House. White House ballroom expansion plans announced.",
+  "tags": "AirForceOne,MarineOne,Bedminster,LehighValley,WhiteHouse,MakeAmericaWealthyAgain,BallroomExpansion",
+  "confidence_level": "high",
+  "model_confidence": 0.98,
+  "model_check": "All events are supported by multiple credible sources with matching timings and consistent details. Costs estimated using official government rates. No conflicting data found. The ballroom expansion cost is known but was announced, not spent this date, so cost excluded. Overall confidence is high.",
+  "source_urls": [
+    "https://mcall.com/2025/08/01/air-force-one-allentown-airport-lvia/",
+    "https://wfmz.com/news/area/lehighvalley/air-force-one-lands-at-lvia-as-president-trump-to-spend-weekend-at-golf-course/article_c8e8a9da-0280-4278-8401-e38fd7d2a93b.html",
+    "https://biztoc.com/x/25ac7d7e432c756d",
+    "https://conservativedailynews.com/2025/07/president-donald-trumps-schedule-for-friday-august-1-2025/"
+  ]
+}
