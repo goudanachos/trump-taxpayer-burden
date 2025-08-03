@@ -1,0 +1,34 @@
+{
+  "location": "Kerrville, Texas and Bedminster, New Jersey",
+  "activities": [
+    {
+      "name": "Air Force One flight from The White House to Kerrville, Texas and return to Bedminster, NJ",
+      "cost": 474248,
+      "category": "flight",
+      "description": "President Trump's round trip Air Force One flight from The White House to Kerrville, Texas and then to Bedminster, New Jersey on July 11, 2025 (~2 hr 40 min flight time)."
+    },
+    {
+      "name": "Secret Service and staff security during Kerrville visit",
+      "cost": 75000,
+      "category": "security",
+      "description": "One day of Secret Service and staff protection during President Trump's disaster briefing and roundtable with first responders and local officials in Kerrville, Texas on July 11, 2025."
+    },
+    {
+      "name": "Local motorcade and law enforcement in Kerrville and Bedminster",
+      "cost": 10000,
+      "category": "motorcade",
+      "description": "Local motorcade and law enforcement costs for President Trump's travel and presence in Kerrville, Texas and Bedminster, New Jersey on July 11, 2025."
+    }
+  ],
+  "total_cost": 559248,
+  "social_description": "On July 11, 2025, President Trump traveled by Air Force One from The White House to Kerrville, Texas for disaster briefings and then to his golf club in Bedminster, NJ, with associated security and motorcade costs.",
+  "tags": "Trump,Kerrville,Bedminster,Texas,New Jersey,Air Force One,security,motorcade,golf",
+  "confidence_level": "high",
+  "model_confidence": 0.97,
+  "model_check": "Flight duration and locations confirmed; applied standard AF1 hourly rate, daily security cost, and motorcade estimates. Multiple sources corroborate events and timeline.",
+  "source_urls": [
+    "https://www.wfmz.com/news/area/lehighvalley/air-force-one-lands-at-lvia-as-president-trump-to-spend-weekend-at-golf-course/article_c8e8a9da-0280-4278-8401-e38fd7d2a93b.html",
+    "https://wkrn.com/news/national/texas-lawmakers-hold-hearing-on-deadly-july-4-floods",
+    "https://npr.org/2025/07/31/nx-s1-5485855/in-an-emotional-hearing-texas-lawmakers-hear-from-flood-survivors-local-officials"
+  ]
+}
