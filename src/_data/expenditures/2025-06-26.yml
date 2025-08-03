@@ -1,0 +1,36 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Press Briefing by White House Press Secretary",
+      "cost": 75000,
+      "category": "Security",
+      "description": "Secret Service and staff security presence for the Press Briefing held by White House Press Secretary Karoline Leavitt on June 26, 2025, at the James S. Brady Press Briefing Room."
+    },
+    {
+      "name": "One, Big, Beautiful Event",
+      "cost": 75000,
+      "category": "Security",
+      "description": "Security and staff costs associated with the President's participation in the One, Big, Beautiful Event held in the East Room of the White House on June 26, 2025."
+    },
+    {
+      "name": "Local motorcade and incidentals",
+      "cost": 15000,
+      "category": "Transportation & Miscellaneous",
+      "description": "Estimated local motorcade and incidentals costs for the President's in-town movements and activities on June 26, 2025."
+    }
+  ],
+  "total_cost": 165000,
+  "social_description": "On June 26, 2025, President Trump participated in a press briefing and a major event at the White House, with estimated security, motorcade, and incidentals costs totaling approximately $165,000.",
+  "tags": "White House,Press Briefing,Security,Event,Motorcade,Incidentals",
+  "confidence_level": "high",
+  "model_confidence": 0.96,
+  "model_check": "The cost estimates rely on standard daily Secret Service and staff benchmarks for White House events with no flight or travel expenses. Multiple credible sources confirm the events occurred as scheduled, lending high confidence in the estimate.",
+  "source_urls": [
+    "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates?entryId=124291398&id=124128895",
+    "https://people.com/trump-announces-massive-new-white-house-addition-gold-ballroom-11782823",
+    "https://www.usatoday.com/story/news/politics/2025/07/31/trump-white-house-renovations-changes/85465892007/",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://dailystar.co.uk/news/us-news/gallery/white-house-changes-full-trump-35657566"
+  ]
+}
