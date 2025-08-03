@@ -1,0 +1,21 @@
+{
+  "location": "White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Presidential Day Activities",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Secret Service and staff overhead for a full day of presidential duties and presence at the White House, no public leisure events noted."
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "On June 3, 2025, former President Trump had no public leisure events, spending the day at the White House focusing on administrative duties. Estimated taxpayer cost: $75,000 for security and staff.",
+  "tags": "White House,security,Trump,June 3 2025",
+  "confidence_level": "medium",
+  "model_confidence": 0.87,
+  "model_check": "Based on no report of leisure or golf activities, cost estimate reflects standard Secret Service daily coverage at White House. Medium confidence due to limited event data and absence of specific leisure spending.",
+  "source_urls": [
+    "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates?entryId=124291398&id=124128895",
+    "https://whitehouse.gov/fact-sheets"
+  ]
+}
