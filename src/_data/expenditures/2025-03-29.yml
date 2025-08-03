@@ -1,0 +1,36 @@
+{
+  "location": "Mar-a-Lago and Trump International Golf Club West Palm Beach, Florida",
+  "activities": [
+    {
+      "name": "Golfing with Alexander Stubb",
+      "cost": 0,
+      "category": "leisure",
+      "description": "President Trump played golf at Trump International Golf Club West Palm Beach with Alexander Stubb, President of Finland, arriving around 9:17 AM and departing in the afternoon."
+    },
+    {
+      "name": "Travel between Mar-a-Lago and Golf Club",
+      "cost": 70000,
+      "category": "local motorcade",
+      "description": "Motorcade travels assumed for short trips between Mar-a-Lago and Trump International Golf Club West Palm Beach, covering approximately 4 trips during the day."
+    },
+    {
+      "name": "Secret Service and Staff Support",
+      "cost": 75000,
+      "category": "Secret Service & staff",
+      "description": "One day of Secret Service and staff support costs for securing and managing President Trump's activities around Mar-a-Lago and his golf outing."
+    }
+  ],
+  "total_cost": 145000,
+  "social_description": "On March 29, 2025, President Trump spent the day golfing with Alexander Stubb at Trump International Golf Club West Palm Beach, traveling between the club and Mar-a-Lago with full Secret Service support.",
+  "tags": "Mar-a-Lago,golf,Trump,Alexander Stubb,Secret Service",
+  "confidence_level": "high",
+  "model_confidence": 0.9,
+  "model_check": "Multiple credible news sources confirm golf outing and travel details. Costs estimated using standardized benchmarks for motorcade and Secret Service support. No flight or larger travel expenses recorded for this date.",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://apnews.com/article/jeffrey-epstein-congress-ghislaine-maxwell-justice-department-3ca45e130deb5f2eee8deff36d99734f",
+    "https://people.com/trump-claims-jeffrey-epstein-stole-young-female-employees-including-virginia-giuffre-from-his-mar-a-lago-spa-11781448",
+    "https://talkingpointsmemo.com/morning-memo/trump-says-epstein-stole-accuser-virginia-giuffre-from-mar-a-lago",
+    "https://www.westernjournal.com/trump-finally-reveals-inappropriate-behavior-got-epstein-banned-mar-lago/"
+  ]
+}
