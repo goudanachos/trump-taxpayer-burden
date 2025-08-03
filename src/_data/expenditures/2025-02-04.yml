@@ -1,0 +1,42 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Executive Orders Signing",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Security and staff costs for the President signing executive orders in the Oval Office."
+    },
+    {
+      "name": "Bilateral Meetings with Prime Minister of Israel",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Security and staff costs for multiple bilateral meetings with the Israeli Prime Minister at the White House."
+    },
+    {
+      "name": "Press Conference with Prime Minister of Israel",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Security and staff costs for a press conference held in the East Room of the White House."
+    },
+    {
+      "name": "Dinner with Prime Minister of Israel",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Security and staffing costs for the dinner hosted at the State Dining Room of the White House."
+    }
+  ],
+  "total_cost": 300000,
+  "social_description": "On Feb 4, 2025, Trump hosted a day of activities at the White House including signing executive orders, meetings, a press conference, and dinner with the Israeli Prime Minister. Estimated costs for security and staff total $300,000.",
+  "tags": "White House,Trump,Israel,Security,Events,February 2025",
+  "confidence_level": "medium",
+  "model_confidence": 0.88,
+  "model_check": "Estimates based on standard Secret Service daily staffing costs for multiple events at the White House; no direct cost data available but event scope justifies daily rate applied multiple times.",
+  "source_urls": [
+    "https://apnews.com/article/trump-scotland-starmer-golf-course-trade-cf9ebbfb9cb2614ec59f0de67d3fd5fc",
+    "https://thenationalpulse.com/2025/07/28/you-cant-fake-that-trump-disagrees-with-netanyahu-on-gaza-starvation/",
+    "https://timesofisrael.com/liveblog_entry/white-house-details-on-trumps-new-gaza-aid-plan-forthcoming",
+    "https://www.reuters.com/world/us/trump-says-its-difficult-deal-with-hamas-talking-about-plans-with-netanyahu-2025-07-28",
+    "https://www.thenewsherald.com/2025/07/28/trump-scotland-visit-uk-talks/"
+  ]
+}
