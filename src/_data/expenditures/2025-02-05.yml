@@ -1,0 +1,32 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Pam Bondi Swearing-In Ceremony",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Costs for Secret Service and staff for the event held at the Oval Office to swear in Pam Bondi as Attorney General."
+    },
+    {
+      "name": "Press Briefing and Executive Order Signing",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Costs related to Secret Service and staff for the press briefing and executive order signing events at the White House."
+    },
+    {
+      "name": "Meetings with Governors of Texas and California",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Secret Service and staff costs for presidential meetings with the governors at the Oval Office."
+    }
+  ],
+  "total_cost": 225000,
+  "social_description": "On Feb 5, 2025, Trump hosted significant events at the White House including Pam Bondi's swearing-in, press briefing, executive order signing, and meetings with governors. Estimated security and staff costs total approximately $225,000.",
+  "tags": "White House,Trump,Security,Events,February 2025",
+  "confidence_level": "medium",
+  "model_confidence": 0.87,
+  "model_check": "Confidence medium due to no direct cost sources found; estimates rely on standard Secret Service staffing rates and typical event costs at the White House.",
+  "source_urls": [
+    "https://www.rollingstone.com/politics/politics-news/trump-hide-cost-renovate-air-force-one-qatar-1235394763/"
+  ]
+}
