@@ -1,0 +1,32 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Secret Service & Staff (The White House)",
+      "cost": 75000,
+      "category": "Security",
+      "description": "Estimated daily cost for Secret Service and staff protection at The White House resort rate."
+    },
+    {
+      "name": "Local Motorcade Trips",
+      "cost": 30000,
+      "category": "Motorcade",
+      "description": "Estimated 3 short local motorcade trips at $10,000 each within The White House and nearby locations."
+    },
+    {
+      "name": "Incidentals",
+      "cost": 15000,
+      "category": "Incidentals",
+      "description": "Estimated miscellaneous incidentals for the day."
+    }
+  ],
+  "total_cost": 120000,
+  "social_description": "On Feb 13, 2025, Trump spent the day at the White House hosting meetings with Indian Prime Minister Narendra Modi, with estimated costs of $120,000 for Secret Service, motorcade and incidentals.",
+  "tags": "Trump,White House,Secret Service,Motorcade,2025",
+  "confidence_level": "medium",
+  "model_confidence": 0.95,
+  "model_check": "Cost estimates rely on typical Secret Service and motorcade rates for a full day at the White House; no direct expenditure data was available.",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
