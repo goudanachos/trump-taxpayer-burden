@@ -1,0 +1,32 @@
+{
+  "location": "Riyadh, Saudi Arabia",
+  "activities": [
+    {
+      "name": "Transportation by Air Force One",
+      "cost": 177843,
+      "category": "VC-25A (Air Force One)",
+      "description": "Flight from King Khalid International Airport to The Ritz-Carlton Riyadh arrival and local airport movements approximated to one flight hour on Air Force One."
+    },
+    {
+      "name": "Local Motorcade and Security",
+      "cost": 10000,
+      "category": "Local motorcade",
+      "description": "Estimated short trip motorcade from airport to Ritz-Carlton and related security logistics."
+    },
+    {
+      "name": "Secret Service & staff",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Security and staff presence cost during the state visit at Ritz-Carlton Riyadh and other venues."
+    }
+  ],
+  "total_cost": 262843,
+  "social_description": "On May 13, 2025, Trump's international state visit in Riyadh, Saudi Arabia, involved Air Force One flights, motorcade travel, and extensive Secret Service staffing, costing approximately $263K in taxpayer funds.",
+  "tags": "trump,international,riyadh,saudi arabia,state visit,air force one,secret service,local motorcade",
+  "confidence_level": "medium",
+  "model_confidence": 0.9,
+  "model_check": "Estimates are based on standard cost benchmarks and itinerary timings. Lack of direct expenditure data lowers confidence to medium.",
+  "source_urls": [
+    "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?entryId=124254203&id=124128895"
+  ]
+}
