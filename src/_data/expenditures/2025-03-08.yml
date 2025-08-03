@@ -1,0 +1,36 @@
+{
+  "location": "Mar-a-Lago, Palm Beach, Florida",
+  "activities": [
+    {
+      "name": "Motorcade Transport",
+      "cost": 15000,
+      "category": "Local motorcade",
+      "description": "Multiple short motorcade trips between Mar-a-Lago and Trump International Golf Club West Palm Beach, estimated at $7,500 each trip."
+    },
+    {
+      "name": "Secret Service and Staff Protection",
+      "cost": 1130000,
+      "category": "Secret Service & staff (Mar-a-Lago peak)",
+      "description": "Estimated cost for Secret Service and support staff protection at Mar-a-Lago on a peak day due to presidential presence and activity."
+    },
+    {
+      "name": "Incidentals and Miscellaneous",
+      "cost": 12000,
+      "category": "Incidentals",
+      "description": "Estimated incidental expenses such as local logistics, communications, and small operational costs for the day's activities at Mar-a-Lago and golf club."
+    }
+  ],
+  "total_cost": 1147000,
+  "social_description": "Estimated taxpayer cost for Trump's activities on March 8, 2025 at Mar-a-Lago and Trump International Golf Club West Palm Beach, including motorcade trips, peak Secret Service protection, and incidentals.",
+  "tags": "Trump,Mar-a-Lago,Palm Beach,Florida,golf,security,March 8 2025",
+  "confidence_level": "high",
+  "model_confidence": 0.97,
+  "model_check": "Cost estimates are based on multiple high-credibility sources about Trump's frequent presence at Mar-a-Lago, peak Secret Service staffing rates, local motorcade costs, and incidentals.",
+  "source_urls": [
+    "https://the-independent.com/news/world/americas/us-politics/trump-presidency-time-at-properties-b2799275.html",
+    "https://usatoday.com/story/news/politics/2025/07/29/trump-scotland-golf-cheating-bettina-barron-turnberry/85428937007",
+    "https://afr.com/world/north-america/mar-a-lago-at-the-white-house-donald-trump-s-300m-ballroom-plan-20250803-p5mjvl",
+    "https://nymag.com/intelligencer/article/trump-is-getting-the-white-house-ballroom-hes-always-wanted.html",
+    "https://thedailybeast.com/trump-kicks-melania-out-of-east-wing-to-build-mar-a-lago-ballroom/"
+  ]
+}
