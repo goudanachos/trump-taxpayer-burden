@@ -1,0 +1,64 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "In-Town Pool Call",
+      "cost": 0,
+      "category": "official activity",
+      "description": "President Trump was present for the in-town pool call at The White House starting at 9:00 AM."
+    },
+    {
+      "name": "Intelligence Briefing",
+      "cost": 0,
+      "category": "official activity",
+      "description": "President Trump received his Intelligence Briefing at the Oval Office at 11:00 AM."
+    },
+    {
+      "name": "Lunch Lid",
+      "cost": 0,
+      "category": "security and staff",
+      "description": "White House Press Office declared a lunch lid from 12:55 PM to 1:40 PM indicating restricted public communication and associated staff operations."
+    },
+    {
+      "name": "Signing Executive Orders",
+      "cost": 0,
+      "category": "official activity",
+      "description": "At 2:00 PM, President Trump signed executive orders in the Oval Office."
+    },
+    {
+      "name": "Dinner Lid",
+      "cost": 0,
+      "category": "security and staff",
+      "description": "White House Press Office declared a dinner lid from 5:23 PM to 7:00 PM to restrict public communication and manage staff security."
+    },
+    {
+      "name": "Telerallies in support of political candidates",
+      "cost": 0,
+      "category": "official activity",
+      "description": "President Trump made three calls to telerallies supporting candidates Jimmy Patronis, Randy Fine, and Brad Schimel between 6:00 PM and 7:00 PM from the White House."
+    },
+    {
+      "name": "White House Iftar Dinner participation",
+      "cost": 0,
+      "category": "official event",
+      "description": "At 8:00 PM, President Trump participated in the White House Iftar Dinner held in the State Dining Room."
+    },
+    {
+      "name": "Full Lid",
+      "cost": 0,
+      "category": "security and staff",
+      "description": "White House Press Office called a full lid at 8:43 PM to conclude the day, with corresponding security measures."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "On March 27, 2025, President Trump engaged in official activities at the White House including signing executive orders, participating in political telerallies, and attending the White House Iftar Dinner, with standard security protocols observed throughout the day.",
+  "tags": "White House,Trump,executive orders,telerallies,Iftar Dinner,official activities,press lids",
+  "confidence_level": "high",
+  "model_confidence": 0.9,
+  "model_check": "Confirmed events and security lids from official White House schedules and credible news sources. No additional travel or leisure expenditures evident for this date.",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.nytimes.com/live/2025/07/31/us/trump-news",
+    "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates?entryId=124291398&id=124128895"
+  ]
+}
