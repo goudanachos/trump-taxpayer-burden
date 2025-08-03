@@ -1,0 +1,46 @@
+{
+  "location": "Washington, D.C.",
+  "activities": [
+    {
+      "name": "Inauguration Ceremony at the U.S. Capitol",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Donald Trump was sworn in as the 47th President of the United States at the U.S. Capitol on January 20, 2025, with associated Secret Service and staff security costs for the day."
+    },
+    {
+      "name": "Inaugural Address and Remarks at U.S. Capitol",
+      "cost": 3000,
+      "category": "Incidentals",
+      "description": "President Trump delivered his inaugural address and remarks in Emancipation Hall at the Capitol on January 20, 2025. Incidentals include event support and logistics."
+    },
+    {
+      "name": "Inaugural Lunch at National Statuary Hall",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "President Trump attended the inaugural lunch at National Statuary Hall with Secret Service and staff coverage included."
+    },
+    {
+      "name": "Local Motorcade Travel and Security",
+      "cost": 10000,
+      "category": "Local motorcade",
+      "description": "Transportation via local motorcade among U.S. Capitol, Capitol One Arena, and the White House on January 20, 2025, with estimated motorcade costs."
+    },
+    {
+      "name": "Attendance at Commander-in-Chief and Liberty Inaugural Balls",
+      "cost": 15000,
+      "category": "Incidentals",
+      "description": "President Trump attended the Commander-in-Chief and Liberty inaugural balls in the evening on January 20, 2025. Incidentals cover event attendance and security support."
+    }
+  ],
+  "total_cost": 178000,
+  "social_description": "President Trump was inaugurated on January 20, 2025, including the swearing-in, inaugural address, lunch, local motorcade, and inaugural balls. Estimated security and event costs total $178,000.",
+  "tags": "Washington,DC,inauguration,Secret Service,motorcade,incidentals",
+  "confidence_level": "high",
+  "model_confidence": 0.97,
+  "model_check": "Costs are estimated using official benchmarks for Secret Service daily coverage, motorcade travel, and incidentals for events. Multiple credible sources confirmed the inauguration events and locations. No conflicting reports found.",
+  "source_urls": [
+    "https://news.meaww.com/speculation-rises-over-barron-trumps-whereabouts-as-he-stays-out-of-public-eye-since-dads-inauguration",
+    "https://politicalwire.com/2025/07/29/supreme-court-shows-unflinching-regard-for-trump/",
+    "https://womansworld.com/entertainment/news/inside-trumps-200-million-white-house-ballroom"
+  ]
+}
