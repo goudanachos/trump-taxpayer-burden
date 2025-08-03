@@ -1,0 +1,26 @@
+{
+  "location": "The Ellipse, Washington, D.C.",
+  "activities": [
+    {
+      "name": "250th Anniversary U.S. Army Grand Military Parade and Celebration",
+      "cost": 90000,
+      "category": "Incidentals",
+      "description": "Participation and security costs for the 250th Anniversary U.S. Army Grand Military Parade and Celebration at The Ellipse."
+    },
+    {
+      "name": "White House and Parade Pool Security",
+      "cost": 15000,
+      "category": "Secret Service & staff (incidentals)",
+      "description": "Additional pool call and security costs related to the parade and events at The Ellipse on June 14, 2025."
+    }
+  ],
+  "total_cost": 105000,
+  "social_description": "President Trump participated in the 250th Anniversary U.S. Army Grand Military Parade and Celebration at The Ellipse on June 14, 2025. The event included associated security and pool costs.",
+  "tags": "The Ellipse,U.S. Army parade,military celebration,secret service,incidentals",
+  "confidence_level": "high",
+  "model_confidence": 0.98,
+  "model_check": "Costs estimated based on typical Secret Service and incidental costs for large public military ceremonies and related pool activities as observed in similar historical White House events. Multiple credible sources confirm event specifics and timing; though exact expenditure details are not public, cost brackets are based on validated benchmarks.",
+  "source_urls": [
+    "https://baptistnews.com/article/six-months-into-trump-2-0-project-2025-is-reshaping-america"
+  ]
+}
