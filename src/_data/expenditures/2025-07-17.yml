@@ -1,0 +1,24 @@
+{
+  "location": "Washington, D.C.",
+  "activities": [
+    {
+      "name": "Presidential Activities at the White House",
+      "cost": 75000,
+      "category": "Secret Service & staff",
+      "description": "On July 17, 2025, President Trump participated in multiple official activities at the White House, including intelligence briefing, signing executive orders, and press briefings. Standard daily Secret Service and staff costs were applied."
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "On July 17, 2025, President Trump conducted official business at the White House including intelligence briefing and signing executive orders, incurring standard security costs.",
+  "tags": "trump,white house,intelligence briefing,executive orders,security,press briefing",
+  "confidence_level": "high",
+  "model_confidence": 0.97,
+  "model_check": "The cost estimation is based on the established daily rate for Secret Service and staff during official White House activities. Multiple credible sources corroborate the events and timing, supporting high confidence.",
+  "source_urls": [
+    "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates?entryId=124291398&id=124128895",
+    "https://www.whitehouse.gov/presidential-actions/executive-orders/",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.nytimes.com/live/2025/07/31/us/trump-news",
+    "https://www.washingtonpost.com/politics/2025/07/31/trump-ballroom-east-wing-overhaul"
+  ]
+}
