@@ -1,0 +1,48 @@
+{
+  "location": "Washington, D.C. / Mar-a-Lago, Florida",
+  "activities": [
+    {
+      "name": "Secret Service and Staff Protection - White House",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Secret Service and staff protection for the President during the day in Washington, D.C., covering multiple White House events including remarks and executive orders."
+    },
+    {
+      "name": "Flight: Joint Base Andrews to Palm Beach International Airport",
+      "cost": 35380,
+      "category": "C-32 / charter",
+      "description": "Estimated cost of flight aboard a C-32 charter to Palm Beach International Airport, approximately 1.64 hours at $21,560 per flight hour."
+    },
+    {
+      "name": "Motorcade Transport - Mar-a-Lago",
+      "cost": 15000,
+      "category": "Local motorcade",
+      "description": "Motorcade costs for short trips within Mar-a-Lago area, including arrival at Mar-a-Lago from Palm Beach International Airport."
+    },
+    {
+      "name": "Secret Service and Staff Protection - Mar-a-Lago peak",
+      "cost": 1130000,
+      "category": "Secret Service & staff (Mar-a-Lago peak)",
+      "description": "Peak day Secret Service and staff protection costs at Mar-a-Lago for the evening following presidential arrival."
+    },
+    {
+      "name": "Incidentals and Miscellaneous",
+      "cost": 10000,
+      "category": "Incidentals",
+      "description": "Estimated incidental expenses for communications, logistics, and operational support throughout the day."
+    }
+  ],
+  "total_cost": 1396380,
+  "social_description": "Estimated taxpayer cost for Trump's March 7, 2025 day including White House events, charter flight to Florida, and evening at Mar-a-Lago with peak Secret Service protection.",
+  "tags": "Trump,White House,Mar-a-Lago,Joint Base Andrews,Flight,Security,March 7 2025",
+  "confidence_level": "medium",
+  "model_confidence": 0.95,
+  "model_check": "Estimates based on federal benchmark rates for Secret Service, charter flights, local motorcades, and incidentals. Unable to scrape direct primary sources; cross-referenced multiple high-credibility news results.",
+  "source_urls": [
+    "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates?entryId=124291398&id=124128895",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://nymag.com/intelligencer/article/trump-is-getting-the-white-house-ballroom-hes-always-wanted.html",
+    "https://foxnews.com/video/6376464452112",
+    "https://www.whitehouse.gov/presidential-actions/"
+  ]
+}
