@@ -1,0 +1,22 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Official White House activities on July 31, 2025",
+      "cost": 0,
+      "category": "Official Duties",
+      "description": "President Trump conducted official business including lunch with the Vice President, press briefing, and signing an Executive Order at the White House. No leisure or travel expenses."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "On July 31, 2025, President Trump was at the White House conducting official duties with no leisure-related expenses recorded.",
+  "tags": "Trump,White House,Official Duties",
+  "confidence_level": "high",
+  "model_confidence": 0.95,
+  "model_check": "High confidence due to strong in-window authoritative sources confirming President Trump's presence at the White House performing official duties, no leisure or travel costs incurred.",
+  "source_urls": [
+    "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates?entryId=124291398&id=124128895",
+    "https://www.nytimes.com/live/2025/07/31/business/tariffs-trump-trade",
+    "https://whitehouse.gov/presidential-actions/2025/07/amendment-to-duties-to-address-the-flow-of-illicit-drugs-across-our-northern-border-9350/"
+  ]
+}
