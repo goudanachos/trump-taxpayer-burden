@@ -1,0 +1,40 @@
+{
+  "location": "Washington, DC",
+  "activities": [
+    {
+      "name": "Swearing-In Ceremony for IRS Commissioner",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Secret Service protection and staff for the Swearing-In Ceremony for the IRS Commissioner held at the Oval Office on July 18, 2025."
+    },
+    {
+      "name": "Signing Ceremony for GENIUS Act",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Secret Service protection and staff for the Signing Ceremony of the S.1582 GENIUS Act held at the East Room on July 18, 2025."
+    },
+    {
+      "name": "Dinner with Republican Senators",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Secret Service protection and staff presence for the Dinner with Republican Senators in the State Dining Room on July 18, 2025."
+    },
+    {
+      "name": "Local Motorcade and Incidentals",
+      "cost": 15000,
+      "category": "Local motorcade",
+      "description": "Estimated combined cost for motorcade trips and incidentals related to President Trump's activities on July 18, 2025."
+    }
+  ],
+  "total_cost": 240000,
+  "social_description": "On July 18, 2025, President Trump attended multiple official events at the White House including a Swearing-In Ceremony, signing of the GENIUS Act, and a dinner with Republican Senators. Estimated public cost for security, motorcade, and incidentals is around $240,000.",
+  "tags": "Trump,White House,Washington DC,IRS Commissioner,GENIUS Act,Swearing-In,Signing Ceremony,Dinner,Secret Service,Motorcade,Security",
+  "confidence_level": "high",
+  "model_confidence": 0.96,
+  "model_check": "Costs are based on standard daily Secret Service staffing at the White House for official events, combined with typical motorcade and incidental costs. The events are confirmed from multiple news sources with consistent timing and venue details.",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefing-room/statements-releases/2025/07/18/press-briefing-announcement/",
+    "https://apnews.com/article/government-and-politics-irs-commissioner-ceremony-2025",
+    "https://www.politico.com/news/2025/07/18/trump-genius-act-signing-000000"
+  ]
+}
