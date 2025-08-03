@@ -152,28 +152,53 @@ module.exports = function(eleventyConfig) {
         .sort().reverse(); // Sort by filename (date) descending
       
       files.forEach(file => {
-        const filePath = path.join(expendituresDir, file);
-        const content = fs.readFileSync(filePath, 'utf8');
-        const data = yaml.load(content);
-        
-        // Add date from filename if not present
-        if (!data.date) {
-          const dateMatch = file.match(/(\d{4}-\d{2}-\d{2})/);
-          if (dateMatch) {
-            data.date = dateMatch[1];
+        try {
+          const filePath = path.join(expendituresDir, file);
+          const content = fs.readFileSync(filePath, 'utf8');
+          
+          // Skip empty files or files with just strings
+          if (!content.trim() || (!content.trim().startsWith('{') && !content.trim().startsWith('---'))) {
+            console.log(`Skipping invalid file: ${file}`);
+            return;
           }
-        }
+          
+          const data = yaml.load(content);
+          
+          // Skip if data is not an object or is just a string
+          if (!data || typeof data !== 'object' || typeof data === 'string') {
+            console.log(`Skipping invalid data in: ${file}`);
+            return;
+          }
+          
+          // Add date from filename if not present
+          if (!data.date) {
+            const dateMatch = file.match(/(\d{4}-\d{2}-\d{2})/);
+            if (dateMatch) {
+              data.date = dateMatch[1];
+            } else {
+              console.log(`Skipping file with no valid date: ${file}`);
+              return;
+            }
+          }
 
-        // Calculate total cost from activities
-        if (data.activities) {
+          // Ensure required fields exist
+          if (!data.location) {
+            data.location = 'Unknown Location';
+          }
+          
+          if (!data.activities || !Array.isArray(data.activities)) {
+            data.activities = [];
+          }
+
+          // Calculate total cost from activities
           data.total_cost = data.activities.reduce((sum, activity) => {
             return sum + (activity.cost || 0);
           }, 0);
-        } else {
-          data.total_cost = 0;
+          
+          expenditures.push({ data: data, filename: file });
+        } catch (error) {
+          console.log(`Error processing file ${file}: ${error.message}`);
         }
-        
-        expenditures.push({ data: data, filename: file });
       });
     }
     
@@ -259,19 +284,46 @@ module.exports = function(eleventyConfig) {
         .filter(file => file.endsWith('.yml') || file.endsWith('.yaml'));
       
       files.forEach(file => {
-        const filePath = path.join(expendituresDir, file);
-        const content = fs.readFileSync(filePath, 'utf8');
-        const data = yaml.load(content);
-        
-        // Add date from filename if not present
-        if (!data.date) {
-          const dateMatch = file.match(/(\d{4}-\d{2}-\d{2})/);
-          if (dateMatch) {
-            data.date = dateMatch[1];
+        try {
+          const filePath = path.join(expendituresDir, file);
+          const content = fs.readFileSync(filePath, 'utf8');
+          
+          // Skip invalid files
+          if (!content.trim() || (!content.trim().startsWith('{') && !content.trim().startsWith('---'))) {
+            return;
           }
+          
+          const data = yaml.load(content);
+          
+          // Skip invalid data
+          if (!data || typeof data !== 'object' || typeof data === 'string') {
+            return;
+          }
+          
+          // Add date from filename if not present
+          if (!data.date) {
+            const dateMatch = file.match(/(\d{4}-\d{2}-\d{2})/);
+            if (dateMatch) {
+              data.date = dateMatch[1];
+            } else {
+              return; // Skip files without valid dates
+            }
+          }
+          
+          // Ensure activities array exists
+          if (!data.activities || !Array.isArray(data.activities)) {
+            data.activities = [];
+          }
+          
+          // Calculate total cost from activities
+          data.total_cost = data.activities.reduce((sum, activity) => {
+            return sum + (activity.cost || 0);
+          }, 0);
+          
+          expenditures.push(data);
+        } catch (error) {
+          // Skip files that can't be parsed
         }
-        
-        expenditures.push(data);
       });
     }
     
@@ -347,19 +399,46 @@ module.exports = function(eleventyConfig) {
         .filter(file => file.endsWith('.yml') || file.endsWith('.yaml'));
       
       files.forEach(file => {
-        const filePath = path.join(expendituresDir, file);
-        const content = fs.readFileSync(filePath, 'utf8');
-        const data = yaml.load(content);
-        
-        // Add date from filename if not present
-        if (!data.date) {
-          const dateMatch = file.match(/(\d{4}-\d{2}-\d{2})/);
-          if (dateMatch) {
-            data.date = dateMatch[1];
+        try {
+          const filePath = path.join(expendituresDir, file);
+          const content = fs.readFileSync(filePath, 'utf8');
+          
+          // Skip invalid files
+          if (!content.trim() || (!content.trim().startsWith('{') && !content.trim().startsWith('---'))) {
+            return;
           }
+          
+          const data = yaml.load(content);
+          
+          // Skip invalid data
+          if (!data || typeof data !== 'object' || typeof data === 'string') {
+            return;
+          }
+          
+          // Add date from filename if not present
+          if (!data.date) {
+            const dateMatch = file.match(/(\d{4}-\d{2}-\d{2})/);
+            if (dateMatch) {
+              data.date = dateMatch[1];
+            } else {
+              return; // Skip files without valid dates
+            }
+          }
+          
+          // Ensure activities array exists
+          if (!data.activities || !Array.isArray(data.activities)) {
+            data.activities = [];
+          }
+          
+          // Calculate total cost from activities
+          data.total_cost = data.activities.reduce((sum, activity) => {
+            return sum + (activity.cost || 0);
+          }, 0);
+          
+          expenditures.push(data);
+        } catch (error) {
+          // Skip files that can't be parsed
         }
-        
-        expenditures.push(data);
       });
     }
     
@@ -444,19 +523,46 @@ module.exports = function(eleventyConfig) {
         .filter(file => file.endsWith('.yml') || file.endsWith('.yaml'));
       
       files.forEach(file => {
-        const filePath = path.join(expendituresDir, file);
-        const content = fs.readFileSync(filePath, 'utf8');
-        const data = yaml.load(content);
-        
-        // Add date from filename if not present
-        if (!data.date) {
-          const dateMatch = file.match(/(\d{4}-\d{2}-\d{2})/);
-          if (dateMatch) {
-            data.date = dateMatch[1];
+        try {
+          const filePath = path.join(expendituresDir, file);
+          const content = fs.readFileSync(filePath, 'utf8');
+          
+          // Skip invalid files
+          if (!content.trim() || (!content.trim().startsWith('{') && !content.trim().startsWith('---'))) {
+            return;
           }
+          
+          const data = yaml.load(content);
+          
+          // Skip invalid data
+          if (!data || typeof data !== 'object' || typeof data === 'string') {
+            return;
+          }
+          
+          // Add date from filename if not present
+          if (!data.date) {
+            const dateMatch = file.match(/(\d{4}-\d{2}-\d{2})/);
+            if (dateMatch) {
+              data.date = dateMatch[1];
+            } else {
+              return; // Skip files without valid dates
+            }
+          }
+          
+          // Ensure activities array exists
+          if (!data.activities || !Array.isArray(data.activities)) {
+            data.activities = [];
+          }
+          
+          // Calculate total cost from activities
+          data.total_cost = data.activities.reduce((sum, activity) => {
+            return sum + (activity.cost || 0);
+          }, 0);
+          
+          expenditures.push(data);
+        } catch (error) {
+          // Skip files that can't be parsed
         }
-        
-        expenditures.push(data);
       });
     }
     
@@ -654,19 +760,46 @@ ${monthSitemapUrls}
         .sort().reverse();
       
       files.forEach(file => {
-        const filePath = path.join(expendituresDir, file);
-        const content = fs.readFileSync(filePath, 'utf8');
-        const data = yaml.load(content);
-        
-        // Add date from filename if not present
-        if (!data.date) {
-          const dateMatch = file.match(/(\d{4}-\d{2}-\d{2})/);
-          if (dateMatch) {
-            data.date = dateMatch[1];
+        try {
+          const filePath = path.join(expendituresDir, file);
+          const content = fs.readFileSync(filePath, 'utf8');
+          
+          // Skip invalid files
+          if (!content.trim() || (!content.trim().startsWith('{') && !content.trim().startsWith('---'))) {
+            return;
           }
+          
+          const data = yaml.load(content);
+          
+          // Skip invalid data
+          if (!data || typeof data !== 'object' || typeof data === 'string') {
+            return;
+          }
+          
+          // Add date from filename if not present
+          if (!data.date) {
+            const dateMatch = file.match(/(\d{4}-\d{2}-\d{2})/);
+            if (dateMatch) {
+              data.date = dateMatch[1];
+            } else {
+              return; // Skip files without valid dates
+            }
+          }
+          
+          // Ensure activities array exists
+          if (!data.activities || !Array.isArray(data.activities)) {
+            data.activities = [];
+          }
+          
+          // Calculate total cost from activities
+          data.total_cost = data.activities.reduce((sum, activity) => {
+            return sum + (activity.cost || 0);
+          }, 0);
+          
+          expenditures.push(data);
+        } catch (error) {
+          // Skip files that can't be parsed
         }
-        
-        expenditures.push(data);
       });
     }
     
