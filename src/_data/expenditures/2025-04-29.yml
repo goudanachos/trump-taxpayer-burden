@@ -1,0 +1,24 @@
+{
+  "location": "Washington, D.C.",
+  "activities": [
+    {
+      "name": "Secret Service and Staff Protection",
+      "cost": 75000,
+      "category": "Security",
+      "description": "Daily Secret Service and staff protection at the White House during presidential activities."
+    },
+    {
+      "name": "Local Motorcade Travel",
+      "cost": 7500,
+      "category": "Transportation",
+      "description": "Estimated cost for local motorcade travel supporting presidential movements between White House, Joint Base Andrews, Selfridge Air National Guard Base, and Macomb County Community College Sports Expo Center."
+    }
+  ],
+  "total_cost": 82500,
+  "social_description": "On April 29, 2025, the President's activities involved multiple locations including the White House and Michigan venues, with estimated security and transportation costs totaling approximately $82,500.",
+  "tags": "security,transportation,white house,motorcade,president,trump",
+  "confidence_level": "medium",
+  "model_confidence": 0.95,
+  "model_check": "Costs are estimated due to lack of direct flight or motorcade evidence; daily Secret Service and basic motorcade costs applied as best plausible figures given schedule.",
+  "source_urls": []
+}
