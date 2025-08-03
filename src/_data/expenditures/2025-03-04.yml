@@ -1,0 +1,20 @@
+{
+  "location": "U.S. Capitol and The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Joint Address to Congress travel and security",
+      "cost": 120000,
+      "category": "Secret Service & staff",
+      "description": "Costs for Secret Service, motorcade, and on-site security for President Trump's late evening travel from the White House to the U.S. Capitol and back for the Joint Address to Congress on March 4, 2025. Includes probable motorcade expenses for short trips and security staff costs for the event duration."
+    }
+  ],
+  "total_cost": 120000,
+  "social_description": "On March 4, 2025, President Trump delivered his Joint Address to Congress at the U.S. Capitol, involving motorcade travel and heightened security. Estimated taxpayer cost for Secret Service and motorcade support was approximately $120,000.",
+  "tags": "Trump,Joint Address to Congress,US Capitol,Secret Service,motorcade,security,cost,2025-03-04",
+  "confidence_level": "medium",
+  "model_confidence": 0.87,
+  "model_check": "While no direct detailed cost breakdown was found, Secret Service and short motorcade trips each have benchmarked daily rates. The estimate uses mid-range motorcade trip costs plus a fraction of typical daily Secret Service support. The news sources align in event timing and general security needs but lack explicit fiscal disclosure, thus medium confidence.",
+  "source_urls": [
+    "https://www.alternet.org/secret-service-trump/"
+  ]
+}
