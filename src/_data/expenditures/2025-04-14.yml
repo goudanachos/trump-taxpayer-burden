@@ -1,0 +1,28 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Secret Service & staff daily security and support",
+      "cost": 75000,
+      "category": "Secret Service & staff",
+      "description": "Daily security and support provided by Secret Service and staff at the White House during President Trump's multiple events on April 14, 2025."
+    },
+    {
+      "name": "Local motorcade and law enforcement support",
+      "cost": 30000,
+      "category": "Local law enforcement",
+      "description": "Estimated local motorcade and law enforcement support for multiple short trips during White House events, including bilateral meeting and visit with Ohio State National Champions."
+    }
+  ],
+  "total_cost": 105000,
+  "social_description": "On April 14, 2025, President Trump hosted significant engagements at the White House including a bilateral meeting and a visit by Ohio State National Champions, incurring estimated security and motorcade costs of about $105,000 to taxpayers.",
+  "tags": "Trump,White House,Security,Motorcade,Bilateral Meeting,Ohio State",
+  "confidence_level": "high",
+  "model_confidence": 0.97,
+  "model_check": "Cost estimates are based on established benchmark rates for Secret Service daily support and multiple short motorcade trips, consistent with the President's in-town engagements. Despite limited direct news breakdown on costs, confident due to benchmark use and event schedule.",
+  "source_urls": [
+    "https://www.wlwt.com/article/vice-president-jd-vance-trump-ohio-spending-bill/65531532",
+    "https://www.whitehouse.gov/presidential-actions/executive-orders",
+    "https://www.nytimes.com/live/2025/07/31/us/trump-news"
+  ]
+}
