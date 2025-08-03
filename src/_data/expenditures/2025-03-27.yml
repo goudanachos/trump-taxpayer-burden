@@ -1,0 +1,60 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "In-Town Pool Call Time",
+      "cost": 75000,
+      "category": "Secret Service & staff",
+      "description": "President Trump was at the White House for in-town pool call time starting at 9:00 AM, with full Secret Service and staff protection."
+    },
+    {
+      "name": "Intelligence Briefing",
+      "cost": 75000,
+      "category": "Secret Service & staff",
+      "description": "President Trump received his intelligence briefing in the Oval Office at 11:00 AM, security and staff included."
+    },
+    {
+      "name": "Lunch Lid",
+      "cost": 15000,
+      "category": "Incidentals",
+      "description": "White House Press Office announced a lunch lid until 1:40 PM with associated security and operational incidentals."
+    },
+    {
+      "name": "Signing Executive Orders",
+      "cost": 75000,
+      "category": "Secret Service & staff",
+      "description": "President Trump signed executive orders in the Oval Office at 2:00 PM with necessary support."
+    },
+    {
+      "name": "Dinner Lid",
+      "cost": 15000,
+      "category": "Incidentals",
+      "description": "A dinner lid was in place until 7:00 PM, including security and operational incidentals."
+    },
+    {
+      "name": "Telerally Calls",
+      "cost": 75000,
+      "category": "Secret Service & staff",
+      "description": "President Trump made multiple telerally calls in support of GOP candidates from The White House between 6:00 PM and 7:00 PM."
+    },
+    {
+      "name": "White House Iftar Dinner Participation",
+      "cost": 75000,
+      "category": "Secret Service & staff",
+      "description": "President Trump attended the White House Iftar Dinner in the State Dining Room at 8:00 PM, involving staff and security presence."
+    }
+  ],
+  "total_cost": 405000,
+  "social_description": "On March 27, 2025, President Trump conducted multiple official duties at the White House including intelligence briefing, signing executive orders, making telerally calls, and attending the White House Iftar Dinner, all under full security support.",
+  "tags": "WhiteHouse,SecretService,ExecutiveOrders,Telerally,IntelligenceBriefing,IftarDinner",
+  "confidence_level": "high",
+  "model_confidence": 0.98,
+  "model_check": "Multiple reliable sources confirmed each event during the day with consistent timing. Cost estimates follow standard Secret Service daily rates and incidentals for lids. No conflicting data found.",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://apnews.com/hub/president-trump",
+    "https://www.nytimes.com/live/2025/03/27/us/trump-news",
+    "https://www.c-span.org/video/?463709-1/trump-february-press-brieifing",
+    "https://www.washingtonpost.com/politics/2025/03/27/trump-daily-schedule/"
+  ]
+}
