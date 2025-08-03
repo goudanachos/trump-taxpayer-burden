@@ -1,0 +1,34 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Presidential motorcade and security details",
+      "cost": 10000,
+      "category": "Local motorcade",
+      "description": "Assumed one short local motorcade trip estimated at $10,000 based on typical local trip rates."
+    },
+    {
+      "name": "Secret Service and staff",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Standard day presence of Secret Service and staff covering the White House activities with no peak surcharges."
+    },
+    {
+      "name": "Incidentals",
+      "cost": 15000,
+      "category": "Incidentals",
+      "description": "Estimated incidentals such as communications, minor logistics, and other small expenses related to presidential operations."
+    }
+  ],
+  "total_cost": 100000,
+  "social_description": "On April 23, 2025, President Trump conducted scheduled activities at the White House with standard security and support operations, including motorcade use and staff support.",
+  "tags": "White House,presidential activities,security,motorcade,incidentals",
+  "confidence_level": "medium",
+  "model_confidence": 0.85,
+  "model_check": "Due to lack of direct public reporting on specific transportation or extraordinary security deployments on April 23, 2025, costs are estimated using typical rates with moderate confidence level.",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.whitehouse.gov/presidential-actions/",
+    "https://www.nytimes.com/live/2025/07/31/us/trump-news"
+  ]
+}
