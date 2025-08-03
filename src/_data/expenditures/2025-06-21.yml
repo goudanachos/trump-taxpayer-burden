@@ -1,0 +1,47 @@
+{
+  "location": "Trump National Golf Club Bedminster, Morristown Municipal Airport, Joint Base Andrews, The White House",
+  "activities": [
+    {
+      "name": "VC-25A Presidential Flight",
+      "cost": 1244900,
+      "category": "Air travel",
+      "description": "Flight from Bedminster area to The White House via Morristown Municipal Airport and Joint Base Andrews on June 21, 2025."
+    },
+    {
+      "name": "Marine One Usage",
+      "cost": 24000,
+      "category": "Air travel",
+      "description": "Estimated Marine One helicopter use for local transfers on June 21, 2025."
+    },
+    {
+      "name": "Local Motorcade and Law Enforcement",
+      "cost": 10000,
+      "category": "Security and transport",
+      "description": "Local motorcade trips and associated law enforcement costs at Bedminster and The White House area on June 21, 2025."
+    },
+    {
+      "name": "Secret Service and Staff Support",
+      "cost": 75000,
+      "category": "Security and staff",
+      "description": "Standard daily Secret Service and staff cost for activities at Bedminster and The White House on June 21, 2025."
+    },
+    {
+      "name": "Incidentals",
+      "cost": 5000,
+      "category": "Miscellaneous",
+      "description": "Estimated incidentals including minor expenses related to travel and presidential activities on June 21, 2025."
+    }
+  ],
+  "total_cost": 1341900,
+  "social_description": "Trump's June 21, 2025 travel and related activities from Bedminster to The White House cost taxpayers approximately $1.34M, mainly from VC-25A flight and security expenses.",
+  "tags": "Trump,Bedminster,Morristown,Joint Base Andrews,White House,VC-25A,Marine One,Secret Service",
+  "confidence_level": "medium",
+  "model_confidence": 0.95,
+  "model_check": "Costs derived from schedule and standard August 2025 cost benchmarks; medium confidence due to lack of direct cost reporting but multiple sources confirm travel events.",
+  "source_urls": [
+    "https://news-pravda.com/world/2025/08/01/1561272.html",
+    "https://mcall.com/2025/08/01/air-force-one-allentown-airport-lvia/",
+    "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates",
+    "https://foxnews.com/video/6376464452112"
+  ]
+}
