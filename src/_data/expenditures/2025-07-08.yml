@@ -1,0 +1,26 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Cabinet Meeting",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Participation in a Cabinet Meeting at the White House involving Secret Service and staff support estimated at $75,000 for the day."
+    },
+    {
+      "name": "In-town travel and security",
+      "cost": 10000,
+      "category": "Local motorcade",
+      "description": "In-Town Pool call time and local motorcade support within Washington, D.C. estimated at the higher rate of $10,000 for a short trip."
+    }
+  ],
+  "total_cost": 85000,
+  "social_description": "On July 8, 2025, President Trump attended a Cabinet Meeting at the White House with related Secret Service and motorcade costs totaling an estimated $85,000.",
+  "tags": "Trump,White House,Cabinet Meeting,Secret Service,Motorcade,Washington DC,2025-07-08",
+  "confidence_level": "medium",
+  "model_confidence": 0.96,
+  "model_check": "The estimate relies on the standard daily Secret Service cost of $75,000 for White House events and the upper range motorcade cost for local travel ($10,000). No direct cost reporting was found, but the event presence was confirmed by credible news sources, warranting medium confidence. Further detailed expense documentation is absent.",
+  "source_urls": [
+    "https://biztoc.com/x/4d3029d289ac9b54"
+  ]
+}
