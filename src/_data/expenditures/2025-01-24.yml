@@ -1,0 +1,60 @@
+{
+  "location": "Multiple locations: Washington, D.C., Asheville, NC, Los Angeles, CA, Las Vegas, NV",
+  "activities": [
+    {
+      "name": "Travel from The White House to Asheville Regional Airport via Joint Base Andrews",
+      "cost": 43146,
+      "category": "Flight + motorcade",
+      "description": "President Trump traveled from The White House via Joint Base Andrews to Asheville Regional Airport with local motorcade and C-32 charter flight (approx. 2 hours). Motorcade estimated at $10,000, flight 2 hrs at $21,560/hr."
+    },
+    {
+      "name": "Hurricane Helene Recovery Briefing",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Briefing at Asheville Regional Airport involving Secret Service protection and staff coverage for the day."
+    },
+    {
+      "name": "Meeting with families affected by Hurricane Helene in Swannanoa, NC",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Security and staff costs for presidential engagement with affected families."
+    },
+    {
+      "name": "Travel from Asheville to Los Angeles International Airport",
+      "cost": 647000,
+      "category": "Flight + motorcade",
+      "description": "Charter flight from Asheville to Los Angeles International Airport (approx. 7.5 hours, $21,560/hr) plus motorcade for arrival and departure estimated at $10,000 total."
+    },
+    {
+      "name": "Pacific Palisades neighborhood tour and fire briefing",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Tour and briefing on Los Angeles fires at Pacific Palisades with Secret Service and staff protection."
+    },
+    {
+      "name": "Travel from Pacific Palisades to Los Angeles International Airport and departure to Las Vegas",
+      "cost": 36000,
+      "category": "Flight + motorcade",
+      "description": "Motorcade to and from airport estimated at $10,000 plus approx. 1 hour flight from LAX to Harry Reid International Airport in Las Vegas on C-32 charter ($21,560/hr)."
+    },
+    {
+      "name": "Overnight stay at Trump International Hotel Las Vegas with full lid",
+      "cost": 1130000,
+      "category": "Secret Service & staff (Mar-a-Lago peak)",
+      "description": "Overnight Secret Service and staff protection at Trump International Hotel Las Vegas with full lid called."
+    }
+  ],
+  "total_cost": 2348242,
+  "social_description": "On January 24, 2025, Trump's day included extensive travel from Washington D.C. to Asheville for hurricane recovery events, then to Los Angeles for fire briefings, followed by travel to Las Vegas for overnight stay, with total estimated costs around $2.35M due to extensive flights, security, and full lid coverage.",
+  "tags": "Trump,Asheville,Los Angeles,Las Vegas,Hurricane Helene,Pacific Palisades,Fire Briefing,Secret Service,Full Lid,Flight,Motorcade",
+  "confidence_level": "medium",
+  "model_confidence": 0.9,
+  "model_check": "Flight durations estimated from known distances and flight speeds; motorcade costs per benchmarks; security staffing at events as standard resort or Mar-a-Lago peak rates per venue. Schedule details consistent with reports. Some flight durations/locations approximated, affecting precision.",
+  "source_urls": [
+    "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates?entryId=124291398&id=124128895",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://nytimes.com/live/2025/07/31/us/trump-news",
+    "https://syracuse.com/politics/2025/07/trump-is-obsessed-with-this-flashy-white-house-upgrade-heres-why-report.html",
+    "https://people.com/trump-announces-massive-new-white-house-addition-gold-ballroom-11782823"
+  ]
+}
