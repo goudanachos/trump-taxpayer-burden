@@ -1,0 +1,20 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Presidential activities at The White House",
+      "cost": 75000,
+      "category": "Secret Service & staff",
+      "description": "Secret Service and staff support at The White House during President Trump's swearing-in ceremony for the Administrator of CMS and general presidential presence on April 18, 2025."
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "On April 18, 2025, President Trump participated in a swearing-in ceremony at the White House with full Secret Service and staff support, costing an estimated $75,000 for security and staffing.",
+  "tags": "Trump,White House,CMS Administrator,Secret Service,April 18 2025",
+  "confidence_level": "medium",
+  "model_confidence": 0.8,
+  "model_check": "The cost estimate relies on the standard daily rate for Secret Service and staff at the White House. No additional travel or motorcade costs were found for this date, limiting the scope of expenses. Evidence was confirmed by official White House sources but lacked detailed cost breakdown, so medium confidence is assigned.",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
