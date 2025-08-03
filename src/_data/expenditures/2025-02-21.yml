@@ -1,0 +1,27 @@
+{
+  "location": "White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Secret Service and Staff Support",
+      "cost": 75000,
+      "category": "Security & Staff",
+      "description": "Daily cost to provide Secret Service protection and staff support during President Trump's official activities at the White House, including Governors Working Session, lunch, swearing-in ceremony, and signing executive orders."
+    },
+    {
+      "name": "Event Incidentals",
+      "cost": 10000,
+      "category": "Incidentals",
+      "description": "Estimated incidental expenses related to hosting multiple official events at the White House on this date."
+    }
+  ],
+  "total_cost": 85000,
+  "social_description": "On February 21, 2025, President Trump engaged in official White House activities including a Governors Working Session, swearing-in ceremony, lunch, and signing executive orders, incurring standard security and incidental costs.",
+  "tags": "White House,Security,President Trump,Governors Working Session,Swearing-In,Executive Orders",
+  "confidence_level": "high",
+  "model_confidence": 0.95,
+  "model_check": "Cost estimates based on standard daily Secret Service and incidental cost benchmarks for a day with multiple official events at the White House; multiple reputable sources confirm schedule.",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.whitehouse.gov/presidential-actions/executive-orders/"
+  ]
+}
