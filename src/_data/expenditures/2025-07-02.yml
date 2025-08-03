@@ -1,0 +1,33 @@
+{
+  "location": "White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Secret Service and staff presence",
+      "cost": 75000,
+      "category": "Security/Staff",
+      "description": "Secret Service and staff security presence at the White House during the day of July 2, 2025."
+    },
+    {
+      "name": "Local motorcade",
+      "cost": 7500,
+      "category": "Transportation",
+      "description": "Local motorcade usage for short in-town trips associated with the President's presence at the White House."
+    },
+    {
+      "name": "Incidentals",
+      "cost": 9000,
+      "category": "Miscellaneous",
+      "description": "Estimated incidentals costs during the President's presence at the White House."
+    }
+  ],
+  "total_cost": 91500,
+  "social_description": "On July 2, 2025, President Trump remained at the White House with typical Secret Service, motorcade, and incidentals costs, totaling approximately $91,500.",
+  "tags": "White House,Secret Service,Motorcade,Incidentals,Security,Transportation",
+  "confidence_level": "medium",
+  "model_confidence": 0.6,
+  "model_check": "Due to lack of direct official spending records for the day, the estimate is based on standard daily security, motorcade, and incidental cost benchmarks at the White House. Confidence is medium reflecting indirect inference rather than explicit expenditure data.",
+  "source_urls": [
+    "https://www.whitehouse.gov/",
+    "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates?entryId=124291398&id=124128895"
+  ]
+}
