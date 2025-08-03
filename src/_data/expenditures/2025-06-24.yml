@@ -1,0 +1,48 @@
+{
+  "location": "Joint Base Andrews, The White House, Amsterdam, The Hague, Netherlands",
+  "activities": [
+    {
+      "name": "VC-25A Presidential Flight from Joint Base Andrews to Amsterdam",
+      "cost": 1244900,
+      "category": "Air travel",
+      "description": "Presidential VC-25A flight from Joint Base Andrews to Amsterdam Airport Schiphol including approach and transit time on June 24, 2025."
+    },
+    {
+      "name": "Marine One flights",
+      "cost": 24000,
+      "category": "Air travel",
+      "description": "Marine One usage at Joint Base Andrews and The White House before departure to Europe on June 24, 2025."
+    },
+    {
+      "name": "Local motorcade and law enforcement in The Hague and Amsterdam",
+      "cost": 15000,
+      "category": "Security and transport",
+      "description": "Estimated transport and law enforcement costs around Amsterdam and The Hague during official events."
+    },
+    {
+      "name": "Secret Service and staff support",
+      "cost": 1130000,
+      "category": "Security and staff",
+      "description": "Secret Service and staff support estimated for full day of presidential activities, including transit and summit events on June 24, 2025."
+    },
+    {
+      "name": "Incidentals",
+      "cost": 5000,
+      "category": "Miscellaneous",
+      "description": "Estimated miscellaneous expenses related to travel and events on June 24, 2025."
+    }
+  ],
+  "total_cost": 2431900,
+  "social_description": "Taxpayer cost of Trump's June 24, 2025 trip to The Hague for NATO Summit estimated at $2.43M, with major expenses from presidential VC-25A flight and Secret Service support.",
+  "tags": "Trump,Joint Base Andrews,Amsterdam,The Hague,NATO,VC-25A,Marine One,Secret Service",
+  "confidence_level": "medium",
+  "model_confidence": 0.95,
+  "model_check": "All cost estimates derived from schedule and benchmark rates; medium confidence due to lack of direct, multiple-source expenditure confirmation.",
+  "source_urls": [
+    "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?entryId=124052801&id=123918735",
+    "https://theconversation.com/nato-has-deep-divisions-but-why-is-spain-its-most-openly-critical-member-260987",
+    "https://news-pravda.com/usa/2025/07/29/1553284.html",
+    "https://people.com/trump-announces-massive-new-white-house-addition-gold-ballroom-11782823",
+    "https://usa.news-pravda.com/usa/2025/08/02/401781.html"
+  ]
+}
