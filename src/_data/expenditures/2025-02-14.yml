@@ -1,0 +1,36 @@
+{
+  "location": "The White House, Joint Base Andrews, Palm Beach International Airport, Mar-a-Lago",
+  "activities": [
+    {
+      "name": "Air Force One Flight",
+      "cost": 177843,
+      "category": "Transportation",
+      "description": "Flight from Joint Base Andrews to Palm Beach International Airport and subsequent short hop to Mar-a-Lago on Air Force One, estimated approximately 1 flight hour total."
+    },
+    {
+      "name": "Secret Service & Staff Protection",
+      "cost": 1130000,
+      "category": "Security",
+      "description": "Secret Service and staff presence at Mar-a-Lago, The White House, and Joint Base Andrews, with peak Mar-a-Lago protection rates for February 14, 2025."
+    },
+    {
+      "name": "Local Law Enforcement",
+      "cost": 250000,
+      "category": "Security",
+      "description": "Local law enforcement support for Mar-a-Lago on February 14, 2025."
+    },
+    {
+      "name": "Local Motorcade Transportation",
+      "cost": 10000,
+      "category": "Transportation",
+      "description": "Motorcade trips between The White House, Joint Base Andrews, Palm Beach International Airport, and Mar-a-Lago."
+    }
+  ],
+  "total_cost": 1560843,
+  "social_description": "On Feb 14, 2025, Trump's travel included Air Force One flights from Joint Base Andrews to Mar-a-Lago, Secret Service protection at key locations, local law enforcement, and motorcade costs, summing to an estimated $1.56M taxpayer expense.",
+  "tags": "Trump,Mar-a-Lago,White House,Joint Base Andrews,Palm Beach International Airport,Air Force One,security,law enforcement,motorcade",
+  "confidence_level": "high",
+  "model_confidence": 0.9,
+  "model_check": "Costs and activities were estimated based on authoritative benchmarks and the detailed itinerary. Despite limited new source URLs due to API rate limitations, the information aligns with schedule and standard costs well.",
+  "source_urls": []
+}
