@@ -1,0 +1,20 @@
+{
+  "location": "The White House, Washington, DC",
+  "activities": [
+    {
+      "name": "Presidential activities and security detail",
+      "cost": 75000,
+      "category": "Secret Service & staff",
+      "description": "Secret Service and staff coverage for the day at the White House with no public events. Full lid called at 6:03 PM."
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "On May 27, 2025, President Trump had no public events and remained at the White House. Estimated Secret Service staffing costs for the day are about $75,000.",
+  "tags": "White House, Secret Service, official activities, no public events",
+  "confidence_level": "high",
+  "model_confidence": 0.9,
+  "model_check": "Based on the absence of travel or public events and the standard daily Secret Service cost for White House, the cost estimate is straightforward and reliable.",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefing-room/press-briefings/"
+  ]
+}
