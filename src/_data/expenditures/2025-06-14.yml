@@ -1,0 +1,30 @@
+{
+  "date": "2024-05-01",
+  "activities": [
+    {
+      "type": "Municipal golf course fee",
+      "amount": 25,
+      "location": "Riverside Golf Course",
+      "description": "18-hole round with cart"
+    },
+    {
+      "type": "State museum admission",
+      "amount": 10,
+      "location": "State Historical Museum",
+      "description": "Entry to New World Explorers exhibition"
+    },
+    {
+      "type": "City recreation center pool fee",
+      "amount": 4,
+      "location": "Boulder Ridge Rec Center",
+      "description": "Lap swim session"
+    },
+    {
+      "type": "Public library used-book purchase",
+      "amount": 1.5,
+      "location": "Central Library book nook",
+      "description": "Bought two used paperbacks"
+    }
+  ],
+  "total": 40.5
+}
