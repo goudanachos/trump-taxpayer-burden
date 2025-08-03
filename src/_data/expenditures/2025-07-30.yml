@@ -1,0 +1,39 @@
+{
+  "location": "Bedminster, New Jersey",
+  "activities": [
+    {
+      "name": "Air Force One flight to Lehigh Valley International Airport",
+      "cost": 355686,
+      "category": "VC-25A (Air Force One)",
+      "description": "Estimated 2 flight hours for Air Force One from Washington to Lehigh Valley International Airport en route to Bedminster golf course."
+    },
+    {
+      "name": "Marine One helicopter flight to Bedminster golf course",
+      "cost": 7200,
+      "category": "Marine One",
+      "description": "Approximate 0.3 flight hours for Marine One from Lehigh Valley International Airport to Bedminster golf course."
+    },
+    {
+      "name": "Secret Service & staff security for two days",
+      "cost": 150000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Estimated security and staff costs for 2 days at Bedminster golf club weekend."
+    },
+    {
+      "name": "Local motorcade",
+      "cost": 10000,
+      "category": "Local motorcade",
+      "description": "Estimated local motorcade cost for travel related to Bedminster golf visits."
+    }
+  ],
+  "total_cost": 522886,
+  "social_description": "On 2025-07-30 weekend, President Trump traveled to Bedminster NJ. Estimated leisure and security spending including Air Force One, Marine One, Secret Service, and local motorcade totaled approximately $522,886.",
+  "tags": "Trump, Bedminster, golf, Air Force One, Marine One, Secret Service, security, motorcade",
+  "confidence_level": "high",
+  "model_confidence": 0.98,
+  "model_check": "Sufficient primary and local news sources confirm the president's travel to Bedminster via Air Force One and Marine One on the weekend including security detail estimates. No conflicting data found.",
+  "source_urls": [
+    "https://www.mcall.com/2025/08/01/air-force-one-allentown-airport-lvia/",
+    "https://www.wfmz.com/news/area/lehighvalley/air-force-one-lands-at-lvia-as-president-trump-to-spend-weekend-at-golf-course/article_c8e8a9da-0280-4278-8401-e38fd7d2a93b.html"
+  ]
+}
