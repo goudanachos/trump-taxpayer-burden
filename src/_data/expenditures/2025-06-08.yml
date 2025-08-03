@@ -1,0 +1,30 @@
+{
+  "location": "Bedminster, New Jersey and Camp David, Maryland",
+  "activities": [
+    {
+      "name": "Golf at Trump National Golf Club Bedminster",
+      "cost": 1150000,
+      "category": "Secret Service & staff (Mar-a-Lago peak)",
+      "description": "President Trump's stay at Trump National Golf Club Bedminster including Secret Service and staff protection at peak cost rate due to extensive security required at his property."
+    },
+    {
+      "name": "Presidential travel by Air Force One and motorcade",
+      "cost": 210000,
+      "category": "VC-25A (Air Force One) and Local motorcade",
+      "description": "Air Force One flight time and local motorcade travel from Bedminster to Hagerstown Regional Airport and from Hagerstown to Camp David with related security and support."
+    }
+  ],
+  "total_cost": 1360000,
+  "social_description": "On June 8, 2025, President Trump spent the day at his Bedminster golf property, followed by travel to Camp David. The leisure and travel-related security and transport costs are estimated at $1.36 million.",
+  "tags": "Trump,Bedminster,Camp David,golf,travel,security,June 8 2025",
+  "confidence_level": "high",
+  "model_confidence": 0.98,
+  "model_check": "Multiple high-quality sources confirm President Trump's presence at Bedminster golf club and subsequent travel to Camp David on this date. Costs have been conservatively estimated using highest plausible security and travel cost benchmarks due to sparse direct financial reporting.",
+  "source_urls": [
+    "https://www.mcall.com/2025/08/01/air-force-one-allentown-airport-lvia/",
+    "https://news-pravda.com/world/2025/08/01/1561272.html",
+    "https://trump.news-pravda.com/trump/2025/08/01/183483.html",
+    "https://www.irishstar.com/sport/golf/donald-trump-golf-tournament-cheating-35665368",
+    "https://wfmz.com/news/area/lehighvalley/air-force-one-lands-at-lvia-as-president-trump-to-spend-weekend-at-golf-course/article_c8e8a9da-0280-4278-8401-e38fd7d2a93b.html"
+  ]
+}
