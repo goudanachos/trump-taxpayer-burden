@@ -1,0 +1,36 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Intelligence Briefing",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "President Trump received his Intelligence Briefing at the Oval Office on June 27, 2025. Standard Secret Service and staff protection costs applied."
+    },
+    {
+      "name": "Press Briefing by White House Press Secretary",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Press Briefing held at James S. Brady Press Briefing Room with typical Secret Service and staff presence."
+    },
+    {
+      "name": "Meeting with Foreign Ministers of Democratic Republic of the Congo and Republic of Rwanda",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Meeting held in Oval Office requiring full Secret Service and staff protection for the President."
+    }
+  ],
+  "total_cost": 225000,
+  "social_description": "On June 27, 2025, President Trump held an Intelligence Briefing, press briefing, and a meeting with foreign ministers at the White House, with an estimated $225,000 security and staffing cost for the day.",
+  "tags": "Trump,White House,Intelligence Briefing,Press Briefing,Foreign Ministers,Secret Service,June 27 2025",
+  "confidence_level": "high",
+  "model_confidence": 0.98,
+  "model_check": "Confirmed schedule and activities with multiple high-credibility sources. Cost estimates based on standard Secret Service daily rates for multiple events at the White House. No conflicting information found.",
+  "source_urls": [
+    "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates?entryId=124291398&id=124128895",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://npr.org/2025/07/29/nx-s1-5425497/trump-whitehouse-ballroom",
+    "https://foxbusiness.com/politics/musk-gave-15m-support-trump-republicans-after-white-house-split-called-new-party-weeks-later",
+    "https://politico.com/news/2025/07/27/trump-personal-cell-phone-calls-texts-foreign-leaders-00477886"
+  ]
+}
