@@ -230,13 +230,13 @@ permalink: "/day/{{ expenditure.data.date | date: '%Y/%m/%d' }}/"
                         {% endif %}
                     </div>
                     
-                    {% if exp.verification.sources %}
+                    {% if exp.source_urls %}
                     <div>
                         <div class="standard-font" style="color: var(--color-text-secondary); font-size: var(--text-small); margin-bottom: var(--space-md); text-transform: uppercase;">
                             OFFICIAL SOURCES
                         </div>
                         <div style="display: grid; gap: var(--space-sm);">
-                            {% for source in exp.verification.sources %}
+                            {% for source in exp.source_urls %}
                             <a href="{{ source }}" target="_blank" rel="noopener" class="standard-font" style="color: var(--color-text-primary); font-size: var(--text-standard); text-decoration: none; padding: var(--space-sm); border: var(--border-light); background: var(--color-bg-primary); display: flex; align-items: center; gap: var(--space-sm); transition: all 0.2s ease;"
                                onmouseover="this.style.backgroundColor='var(--color-bg-command)'; this.style.color='var(--color-text-inverse)';"
                                onmouseout="this.style.backgroundColor='var(--color-bg-primary)'; this.style.color='var(--color-text-primary)';">

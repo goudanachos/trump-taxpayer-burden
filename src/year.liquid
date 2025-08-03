@@ -1,0 +1,206 @@
+---
+pagination:
+  data: collections.yearlyRollups
+  size: 1
+  alias: yearData
+permalink: "/{{ yearData.data.year }}/"
+---
+{% assign year = yearData.data %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- SEO Meta Tags -->
+    <title>{{ year.year }} Annual Report - Trump Taxpayer Burden</title>
+    <meta name="description" content="Complete {{ year.year }} annual breakdown of Trump's taxpayer-funded activities. Total cost: {{ year.total_cost | currency }} across {{ year.expenditures.size }} days and {{ year.activity_count }} activities.">
+    <meta name="keywords" content="Trump, {{ year.year }}, annual report, taxpayer cost, presidential expenses, government spending">
+    <link rel="canonical" href="{{ site.url }}/{{ year.year }}/">
+    
+    <!-- Performance Optimizations -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="dns-prefetch" href="//fonts.googleapis.com">
+    
+    <!-- CSS -->
+    <link rel="stylesheet" href="/css/main.css" media="all">
+    <link rel="preload" href="/css/main.css" as="style">
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="/images/favicon.svg">
+    <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+    <link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+    
+    <!-- RSS Feed -->
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }} RSS Feed" href="{{ site.url }}/rss.xml">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="{{ site.url }}/{{ year.year }}/">
+    <meta property="og:title" content="{{ year.year }} Annual Report - Trump Taxpayer Burden">
+    <meta property="og:description" content="{{ year.year }} total taxpayer cost: {{ year.total_cost | currency }} across {{ year.expenditures.size }} days tracked.">
+    <meta property="og:site_name" content="Trump Taxpayer Burden">
+    
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="{{ site.url }}/{{ year.year }}/">
+    <meta property="twitter:title" content="{{ year.year }} Annual Report - Trump Taxpayer Burden">
+    <meta property="twitter:description" content="{{ year.year }} total: {{ year.total_cost | currency }} across {{ year.expenditures.size }} days tracked.">
+    <meta property="twitter:site" content="@TaxpayerBurden">
+    
+    <!-- PWA -->
+    <meta name="theme-color" content="#000000">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+</head>
+<body class="min-h-screen">
+    {% include "components/header.liquid" %}
+    
+    <main>
+        <!-- ANNUAL REPORT HEADER -->
+        <section style="background: var(--color-bg-command); border-bottom: var(--border-authority); padding: var(--space-xl) var(--space-lg);">
+            <div class="max-w-4xl mx-auto">
+                <!-- Breadcrumb Navigation -->
+                <nav style="margin-bottom: var(--space-lg);" aria-label="Breadcrumb">
+                    <div class="standard-font" style="color: var(--color-text-inverse); font-size: var(--text-small); opacity: 0.7;">
+                        <a href="/" style="color: inherit; text-decoration: none;">HOME</a>
+                        <span style="margin: 0 var(--space-xs);">›</span>
+                        <a href="/archive" style="color: inherit; text-decoration: none;">ARCHIVE</a>
+                        <span style="margin: 0 var(--space-xs);">›</span>
+                        <span>{{ year.year }}</span>
+                    </div>
+                </nav>
+                
+                <!-- Year Header -->
+                <div style="text-align: center;">
+                    <div class="authority-font" style="color: var(--color-text-inverse); font-size: var(--text-detail); margin-bottom: var(--space-sm); opacity: 0.8; letter-spacing: 0.1em;">
+                        /// CLASSIFIED: ANNUAL EXPENDITURE REPORT ///
+                    </div>
+                    
+                    <h1 class="command-font" style="color: var(--color-text-inverse); font-size: var(--text-classification); margin-bottom: var(--space-md); text-transform: uppercase; letter-spacing: 0.05em;">
+                        {{ year.year }} ANNUAL REPORT
+                    </h1>
+                    
+                    <div class="standard-font" style="color: var(--color-text-inverse); font-size: var(--text-standard); margin-bottom: var(--space-lg); opacity: 0.9;">
+                        <strong>TRACKING PERIOD:</strong> {{ year.expenditures.size }} days • {{ year.activity_count }} activities • {{ year.locations.size }} locations
+                    </div>
+                    
+                    <!-- Annual Cost Display -->
+                    <div style="background: var(--color-bg-primary); border: var(--border-classification); padding: var(--space-xxl); margin: var(--space-lg) auto; max-width: 600px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
+                        <div class="standard-font" style="color: var(--color-text-secondary); font-size: var(--text-detail); margin-bottom: var(--space-sm); text-transform: uppercase; letter-spacing: 0.05em;">
+                            TOTAL ANNUAL TAXPAYER COST
+                        </div>
+                        <div class="classification-font" style="color: var(--color-text-alert); font-size: var(--text-classification); font-weight: 700; line-height: 1; text-shadow: 2px 2px 4px rgba(220,20,60,0.3);">
+                            {{ year.total_cost | currency }}
+                        </div>
+                        <div class="standard-font" style="color: var(--color-text-secondary); font-size: var(--text-small); margin-top: var(--space-sm); opacity: 0.7;">
+                            Average per tracked day: {{ year.total_cost | divided_by: year.expenditures.size | currency }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- ANNUAL SUMMARY -->
+        <div class="max-w-4xl mx-auto px-4" style="padding: var(--space-xxl) 0;">
+            
+            <!-- Top Categories -->
+            {% if year.top_categories.size > 0 %}
+            <section style="margin-bottom: var(--space-xxl);">
+                <h2 class="authority-font" style="color: var(--color-text-primary); font-size: var(--text-command); margin-bottom: var(--space-lg); text-transform: uppercase; letter-spacing: 0.05em;">
+                    TOP SPENDING CATEGORIES
+                </h2>
+                
+                <div style="display: grid; gap: var(--space-md);">
+                    {% for category in year.top_categories %}
+                    <div style="background: var(--color-bg-primary); border: var(--border-authority); padding: var(--space-lg); display: flex; justify-content: space-between; align-items: center;">
+                        <div>
+                            <h3 class="standard-font" style="color: var(--color-text-primary); font-size: var(--text-standard); font-weight: 700; margin: 0; text-transform: uppercase;">
+                                {{ category.category }}
+                            </h3>
+                        </div>
+                        <div class="classification-font" style="color: var(--color-text-alert); font-size: var(--text-large); font-weight: 700;">
+                            {{ category.total | currency }}
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+            </section>
+            {% endif %}
+
+            <!-- Monthly Breakdown -->
+            {% if year.months.size > 0 %}
+            <section style="margin-bottom: var(--space-xxl);">
+                <h2 class="authority-font" style="color: var(--color-text-primary); font-size: var(--text-command); margin-bottom: var(--space-lg); text-transform: uppercase; letter-spacing: 0.05em;">
+                    MONTHLY BREAKDOWN
+                </h2>
+                
+                <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: var(--space-md);">
+                    {% for month in year.months %}
+                    {% assign month_parts = month | split: '-' %}
+                    {% assign month_num = month_parts[1] | plus: 0 %}
+                    {% assign month_names = "January,February,March,April,May,June,July,August,September,October,November,December" | split: ',' %}
+                    {% assign month_name = month_names[month_num | minus: 1] %}
+                    <a href="/{{ month_parts[0] }}/{{ month_parts[1] }}/" style="text-decoration: none; color: inherit;">
+                        <div style="background: var(--color-bg-secondary); border: var(--border-light); padding: var(--space-lg); transition: all 0.2s ease; cursor: pointer;"
+                             onmouseover="this.style.backgroundColor='var(--color-bg-command)'; this.style.color='var(--color-text-inverse)';"
+                             onmouseout="this.style.backgroundColor='var(--color-bg-secondary)'; this.style.color='var(--color-text-primary)';">
+                            <div class="standard-font" style="font-size: var(--text-standard); font-weight: 700; margin-bottom: var(--space-xs); text-transform: uppercase;">
+                                {{ month_name }} {{ month_parts[0] }}
+                            </div>
+                            <div class="standard-font" style="font-size: var(--text-small); opacity: 0.7;">
+                                View monthly breakdown →
+                            </div>
+                        </div>
+                    </a>
+                    {% endfor %}
+                </div>
+            </section>
+            {% endif %}
+
+            <!-- All Days List -->
+            <section style="margin-bottom: var(--space-xxl);">
+                <h2 class="authority-font" style="color: var(--color-text-primary); font-size: var(--text-command); margin-bottom: var(--space-lg); text-transform: uppercase; letter-spacing: 0.05em;">
+                    ALL {{ year.year }} EXPENDITURES
+                </h2>
+                
+                <div style="display: grid; gap: var(--space-md);">
+                    {% for expenditure in year.expenditures %}
+                    <a href="/day/{{ expenditure.date | date: '%Y/%m/%d' }}/" style="text-decoration: none; color: inherit;">
+                        <div style="background: var(--color-bg-primary); border: var(--border-authority); padding: var(--space-lg); display: flex; justify-content: space-between; align-items: center; transition: all 0.2s ease;"
+                             onmouseover="this.style.backgroundColor='var(--color-bg-command)'; this.style.color='var(--color-text-inverse)';"
+                             onmouseout="this.style.backgroundColor='var(--color-bg-primary)'; this.style.color='var(--color-text-primary)';">
+                            <div>
+                                <div class="standard-font" style="font-size: var(--text-standard); font-weight: 700; margin-bottom: var(--space-xs);">
+                                    {{ expenditure.date | date: "%B %-d, %Y" }}
+                                </div>
+                                <div class="standard-font" style="font-size: var(--text-small); opacity: 0.7;">
+                                    {{ expenditure.location }}
+                                </div>
+                            </div>
+                            <div class="classification-font" style="font-size: var(--text-large); font-weight: 700; color: var(--color-text-alert);">
+                                {{ expenditure.total_cost | currency }}
+                            </div>
+                        </div>
+                    </a>
+                    {% endfor %}
+                </div>
+            </section>
+
+            <!-- Navigation -->
+            <section style="border-top: var(--border-authority); padding-top: var(--space-lg);">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <a href="/archive" class="standard-font" style="color: var(--color-text-primary); font-size: var(--text-standard); text-decoration: none; padding: var(--space-sm) var(--space-lg); border: var(--border-authority); background: var(--color-bg-secondary); text-transform: uppercase; letter-spacing: 0.05em; font-weight: 600; transition: all 0.2s ease;"
+                       onmouseover="this.style.backgroundColor='var(--color-text-primary)'; this.style.color='var(--color-text-inverse)';"
+                       onmouseout="this.style.backgroundColor='var(--color-bg-secondary)'; this.style.color='var(--color-text-primary)';">
+                        ← VIEW ALL YEARS
+                    </a>
+                </div>
+            </section>
+        </div>
+    </main>
+    
+    {% include "components/footer.liquid" %}
+</body>
+</html>

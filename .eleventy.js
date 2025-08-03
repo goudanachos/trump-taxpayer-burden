@@ -74,17 +74,21 @@ module.exports = function(eleventyConfig) {
         const content = fs.readFileSync(filePath, 'utf8');
         const data = yaml.load(content);
         
-        const date = new Date(data.date);
-        const dateStr = date.toISOString().split('T')[0].replace(/-/g, '-');
-        const formattedDate = date.toLocaleDateString('en-US', { 
-          weekday: 'long', 
-          year: 'numeric', 
-          month: 'long', 
-          day: 'numeric' 
-        });
-        
-        const svgContent = generateDailySocialImage(formattedDate, data.location, data.total_cost);
-        fs.writeFileSync(path.join(socialDir, `day-${dateStr}.svg`), svgContent);
+        const dateMatch = file.match(/(\d{4}-\d{2}-\d{2})/);
+        if (dateMatch) {
+          const [year, month, day] = dateMatch[1].split('-').map(n => parseInt(n, 10));
+          const date = new Date(year, month - 1, day); // month is 0-based
+          const dateStr = dateMatch[1];
+          const formattedDate = date.toLocaleDateString('en-US', { 
+            weekday: 'long', 
+            year: 'numeric', 
+            month: 'long',
+            day: 'numeric' 
+          });
+          
+          const svgContent = generateDailySocialImage(formattedDate, data.location, data.total_cost);
+          fs.writeFileSync(path.join(socialDir, `day-${dateStr}.svg`), svgContent);
+        }
       });
     }
     
@@ -96,7 +100,16 @@ module.exports = function(eleventyConfig) {
       fs.writeFileSync(path.join(socialDir, `week-${week.year}-${String(week.weekNumber).padStart(2, '0')}.svg`), svgContent);
     });
     
+    // Generate data.json file
+    const dataJson = generateDataJson();
+    fs.writeFileSync(path.join(dir.output, 'data.json'), JSON.stringify(dataJson, null, 2));
+    
+    // Generate sitemaps
+    generateSitemaps(dir.output);
+    
     console.log(`Generated daily and weekly social share images`);
+    console.log(`Generated data.json with ${dataJson.expenditures.length} expenditures`);
+    console.log(`Generated sitemap index and individual sitemaps`);
   });
 
   // Watch CSS files for changes
@@ -142,6 +155,15 @@ module.exports = function(eleventyConfig) {
         const filePath = path.join(expendituresDir, file);
         const content = fs.readFileSync(filePath, 'utf8');
         const data = yaml.load(content);
+        
+        // Add date from filename if not present
+        if (!data.date) {
+          const dateMatch = file.match(/(\d{4}-\d{2}-\d{2})/);
+          if (dateMatch) {
+            data.date = dateMatch[1];
+          }
+        }
+        
         expenditures.push({ data: data, filename: file });
       });
     }
@@ -174,7 +196,10 @@ module.exports = function(eleventyConfig) {
     const weeklyData = {};
     
     expenditures.forEach(exp => {
-      const date = new Date(exp.date);
+      if (!exp.date) return;
+      
+      const [year, month, day] = exp.date.split('-').map(n => parseInt(n, 10));
+      const date = new Date(year, month - 1, day); // month is 0-based
       const monday = new Date(date);
       monday.setDate(date.getDate() - date.getDay() + 1); // Get Monday of the week
       const weekKey = monday.toISOString().split('T')[0]; // YYYY-MM-DD format
@@ -211,6 +236,182 @@ module.exports = function(eleventyConfig) {
     return weeks;
   });
 
+  // Generate year rollups
+  eleventyConfig.addCollection("yearlyRollups", function(collectionApi) {
+    const fs = require('fs');
+    const path = require('path');
+    const yaml = require('js-yaml');
+    
+    const expendituresDir = path.join(__dirname, 'src/_data/expenditures');
+    const expenditures = [];
+    
+    if (fs.existsSync(expendituresDir)) {
+      const files = fs.readdirSync(expendituresDir)
+        .filter(file => file.endsWith('.yml') || file.endsWith('.yaml'));
+      
+      files.forEach(file => {
+        const filePath = path.join(expendituresDir, file);
+        const content = fs.readFileSync(filePath, 'utf8');
+        const data = yaml.load(content);
+        
+        // Add date from filename if not present
+        if (!data.date) {
+          const dateMatch = file.match(/(\d{4}-\d{2}-\d{2})/);
+          if (dateMatch) {
+            data.date = dateMatch[1];
+          }
+        }
+        
+        expenditures.push(data);
+      });
+    }
+    
+    const yearlyData = {};
+    
+    expenditures.forEach(exp => {
+      if (!exp.date) return;
+      
+      const year = exp.date.substring(0, 4);
+      
+      if (!yearlyData[year]) {
+        yearlyData[year] = {
+          year: parseInt(year),
+          expenditures: [],
+          total_cost: 0,
+          activity_count: 0,
+          locations: new Set(),
+          tags: new Set(),
+          categories: {},
+          months: new Set()
+        };
+      }
+      
+      yearlyData[year].expenditures.push(exp);
+      yearlyData[year].total_cost += exp.total_cost || 0;
+      yearlyData[year].activity_count += exp.activities ? exp.activities.length : 0;
+      if (exp.location) yearlyData[year].locations.add(exp.location);
+      if (exp.tags) {
+        const tags = Array.isArray(exp.tags) ? exp.tags : exp.tags.split(',').map(t => t.trim());
+        tags.forEach(tag => yearlyData[year].tags.add(tag));
+      }
+      yearlyData[year].months.add(exp.date.substring(0, 7)); // YYYY-MM
+      
+      // Category totals
+      if (exp.activities) {
+        exp.activities.forEach(activity => {
+          if (activity.category) {
+            yearlyData[year].categories[activity.category] = 
+              (yearlyData[year].categories[activity.category] || 0) + (activity.cost || 0);
+          }
+        });
+      }
+    });
+    
+    // Convert sets to arrays and sort
+    const years = Object.keys(yearlyData).map(year => {
+      const data = yearlyData[year];
+      data.locations = Array.from(data.locations);
+      data.tags = Array.from(data.tags);
+      data.months = Array.from(data.months).sort();
+      data.top_categories = Object.entries(data.categories)
+        .sort(([,a], [,b]) => b - a)
+        .slice(0, 5)
+        .map(([category, total]) => ({ category, total }));
+      delete data.categories;
+      return { data };
+    }).sort((a, b) => b.data.year - a.data.year);
+    
+    return years;
+  });
+
+  // Generate month rollups
+  eleventyConfig.addCollection("monthlyRollups", function(collectionApi) {
+    const fs = require('fs');
+    const path = require('path');
+    const yaml = require('js-yaml');
+    
+    const expendituresDir = path.join(__dirname, 'src/_data/expenditures');
+    const expenditures = [];
+    
+    if (fs.existsSync(expendituresDir)) {
+      const files = fs.readdirSync(expendituresDir)
+        .filter(file => file.endsWith('.yml') || file.endsWith('.yaml'));
+      
+      files.forEach(file => {
+        const filePath = path.join(expendituresDir, file);
+        const content = fs.readFileSync(filePath, 'utf8');
+        const data = yaml.load(content);
+        
+        // Add date from filename if not present
+        if (!data.date) {
+          const dateMatch = file.match(/(\d{4}-\d{2}-\d{2})/);
+          if (dateMatch) {
+            data.date = dateMatch[1];
+          }
+        }
+        
+        expenditures.push(data);
+      });
+    }
+    
+    const monthlyData = {};
+    
+    expenditures.forEach(exp => {
+      if (!exp.date) return;
+      
+      const monthKey = exp.date.substring(0, 7); // YYYY-MM
+      const [year, month] = monthKey.split('-');
+      
+      if (!monthlyData[monthKey]) {
+        monthlyData[monthKey] = {
+          year: parseInt(year),
+          month: parseInt(month),
+          month_key: monthKey,
+          expenditures: [],
+          total_cost: 0,
+          activity_count: 0,
+          locations: new Set(),
+          tags: new Set(),
+          categories: {}
+        };
+      }
+      
+      monthlyData[monthKey].expenditures.push(exp);
+      monthlyData[monthKey].total_cost += exp.total_cost || 0;
+      monthlyData[monthKey].activity_count += exp.activities ? exp.activities.length : 0;
+      if (exp.location) monthlyData[monthKey].locations.add(exp.location);
+      if (exp.tags) {
+        const tags = Array.isArray(exp.tags) ? exp.tags : exp.tags.split(',').map(t => t.trim());
+        tags.forEach(tag => monthlyData[monthKey].tags.add(tag));
+      }
+      
+      // Category totals
+      if (exp.activities) {
+        exp.activities.forEach(activity => {
+          if (activity.category) {
+            monthlyData[monthKey].categories[activity.category] = 
+              (monthlyData[monthKey].categories[activity.category] || 0) + (activity.cost || 0);
+          }
+        });
+      }
+    });
+    
+    // Convert sets to arrays and sort
+    const months = Object.keys(monthlyData).map(monthKey => {
+      const data = monthlyData[monthKey];
+      data.locations = Array.from(data.locations);
+      data.tags = Array.from(data.tags);
+      data.top_categories = Object.entries(data.categories)
+        .sort(([,a], [,b]) => b - a)
+        .slice(0, 5)
+        .map(([category, total]) => ({ category, total }));
+      delete data.categories;
+      return { data };
+    }).sort((a, b) => b.data.month_key.localeCompare(a.data.month_key));
+    
+    return months;
+  });
+
   // Helper function to get week number
   function getWeekNumber(date) {
     const d = new Date(Date.UTC(date.getFullYear(), date.getMonth(), date.getDate()));
@@ -237,6 +438,15 @@ module.exports = function(eleventyConfig) {
         const filePath = path.join(expendituresDir, file);
         const content = fs.readFileSync(filePath, 'utf8');
         const data = yaml.load(content);
+        
+        // Add date from filename if not present
+        if (!data.date) {
+          const dateMatch = file.match(/(\d{4}-\d{2}-\d{2})/);
+          if (dateMatch) {
+            data.date = dateMatch[1];
+          }
+        }
+        
         expenditures.push(data);
       });
     }
@@ -244,7 +454,10 @@ module.exports = function(eleventyConfig) {
     const weeklyData = {};
     
     expenditures.forEach(exp => {
-      const date = new Date(exp.date);
+      if (!exp.date) return;
+      
+      const [year, month, day] = exp.date.split('-').map(n => parseInt(n, 10));
+      const date = new Date(year, month - 1, day); // month is 0-based
       const monday = new Date(date);
       monday.setDate(date.getDate() - date.getDay() + 1);
       const weekKey = monday.toISOString().split('T')[0];
@@ -273,6 +486,254 @@ module.exports = function(eleventyConfig) {
     });
     
     return weeklyData;
+  }
+
+  // Generate sitemaps
+  function generateSitemaps(outputDir) {
+    const fs = require('fs');
+    const path = require('path');
+    const yaml = require('js-yaml');
+    
+    const baseUrl = 'https://trumptaxburden.com';
+    const now = new Date().toISOString();
+    
+    // Get all expenditure data
+    const expendituresDir = path.join(__dirname, 'src/_data/expenditures');
+    const expenditures = [];
+    
+    if (fs.existsSync(expendituresDir)) {
+      const files = fs.readdirSync(expendituresDir)
+        .filter(file => file.endsWith('.yml') || file.endsWith('.yaml'));
+      
+      files.forEach(file => {
+        const filePath = path.join(expendituresDir, file);
+        const content = fs.readFileSync(filePath, 'utf8');
+        const data = yaml.load(content);
+        
+        if (!data.date) {
+          const dateMatch = file.match(/(\d{4}-\d{2}-\d{2})/);
+          if (dateMatch) {
+            data.date = dateMatch[1];
+          }
+        }
+        
+        expenditures.push(data);
+      });
+    }
+
+    // Generate main sitemap (static pages)
+    const mainSitemap = `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>${baseUrl}/</loc>
+    <lastmod>${now}</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>${baseUrl}/about/</loc>
+    <lastmod>${now}</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>${baseUrl}/archive/</loc>
+    <lastmod>${now}</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>${baseUrl}/data.json</loc>
+    <lastmod>${now}</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+</urlset>`;
+
+    // Generate daily expenditures sitemap
+    const dailySitemapUrls = expenditures.filter(exp => exp.date).map(exp => {
+      const [year, month, day] = exp.date.split('-').map(n => parseInt(n, 10));
+      const date = new Date(year, month - 1, day); // month is 0-based
+      const lastmod = date.toISOString();
+      return `  <url>
+    <loc>${baseUrl}/day/${exp.date.replace(/-/g, '/')}/</loc>
+    <lastmod>${lastmod}</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>`;
+    }).join('\n');
+
+    const dailySitemap = `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+${dailySitemapUrls}
+</urlset>`;
+
+    // Generate year rollups sitemap
+    const years = [...new Set(expenditures.filter(exp => exp.date).map(exp => exp.date.substring(0, 4)))].sort();
+    const yearSitemapUrls = years.map(year => {
+      return `  <url>
+    <loc>${baseUrl}/${year}/</loc>
+    <lastmod>${now}</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>`;
+    }).join('\n');
+
+    const yearSitemap = `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+${yearSitemapUrls}
+</urlset>`;
+
+    // Generate month rollups sitemap
+    const months = [...new Set(expenditures.filter(exp => exp.date).map(exp => exp.date.substring(0, 7)))].sort();
+    const monthSitemapUrls = months.map(month => {
+      const [year, monthNum] = month.split('-');
+      return `  <url>
+    <loc>${baseUrl}/${year}/${monthNum}/</loc>
+    <lastmod>${now}</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>`;
+    }).join('\n');
+
+    const monthSitemap = `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+${monthSitemapUrls}
+</urlset>`;
+
+    // Generate sitemap index
+    const sitemapIndex = `<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>${baseUrl}/sitemap-main.xml</loc>
+    <lastmod>${now}</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>${baseUrl}/sitemap-daily.xml</loc>
+    <lastmod>${now}</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>${baseUrl}/sitemap-years.xml</loc>
+    <lastmod>${now}</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>${baseUrl}/sitemap-months.xml</loc>
+    <lastmod>${now}</lastmod>
+  </sitemap>
+</sitemapindex>`;
+
+    // Write all sitemap files
+    fs.writeFileSync(path.join(outputDir, 'sitemap.xml'), sitemapIndex);
+    fs.writeFileSync(path.join(outputDir, 'sitemap-main.xml'), mainSitemap);
+    fs.writeFileSync(path.join(outputDir, 'sitemap-daily.xml'), dailySitemap);
+    fs.writeFileSync(path.join(outputDir, 'sitemap-years.xml'), yearSitemap);
+    fs.writeFileSync(path.join(outputDir, 'sitemap-months.xml'), monthSitemap);
+  }
+
+  // Generate comprehensive data.json file
+  function generateDataJson() {
+    const fs = require('fs');
+    const path = require('path');
+    const yaml = require('js-yaml');
+    
+    const expendituresDir = path.join(__dirname, 'src/_data/expenditures');
+    const expenditures = [];
+    
+    if (fs.existsSync(expendituresDir)) {
+      const files = fs.readdirSync(expendituresDir)
+        .filter(file => file.endsWith('.yml') || file.endsWith('.yaml'))
+        .sort().reverse();
+      
+      files.forEach(file => {
+        const filePath = path.join(expendituresDir, file);
+        const content = fs.readFileSync(filePath, 'utf8');
+        const data = yaml.load(content);
+        
+        // Add date from filename if not present
+        if (!data.date) {
+          const dateMatch = file.match(/(\d{4}-\d{2}-\d{2})/);
+          if (dateMatch) {
+            data.date = dateMatch[1];
+          }
+        }
+        
+        expenditures.push(data);
+      });
+    }
+    
+    // Calculate top-level metrics
+    const totalCost = expenditures.reduce((sum, exp) => sum + (exp.total_cost || 0), 0);
+    const totalDays = expenditures.length;
+    const totalActivities = expenditures.reduce((sum, exp) => sum + (exp.activities ? exp.activities.length : 0), 0);
+    
+    // Get unique locations
+    const locations = [...new Set(expenditures.map(exp => exp.location).filter(Boolean))];
+    
+    // Get date range
+    const dates = expenditures.map(exp => exp.date).filter(Boolean).sort();
+    const dateRange = dates.length > 0 ? {
+      start: dates[0],
+      end: dates[dates.length - 1]
+    } : null;
+    
+    // Calculate average daily cost
+    const avgDailyCost = totalDays > 0 ? Math.round(totalCost / totalDays) : 0;
+    
+    // Most expensive day
+    const mostExpensiveDay = expenditures.reduce((max, exp) => 
+      (exp.total_cost || 0) > (max.total_cost || 0) ? exp : max, expenditures[0] || {});
+    
+    // Category breakdown
+    const categoryTotals = {};
+    expenditures.forEach(exp => {
+      if (exp.activities) {
+        exp.activities.forEach(activity => {
+          if (activity.category) {
+            categoryTotals[activity.category] = (categoryTotals[activity.category] || 0) + (activity.cost || 0);
+          }
+        });
+      }
+    });
+    
+    // Sort categories by total cost
+    const topCategories = Object.entries(categoryTotals)
+      .sort(([,a], [,b]) => b - a)
+      .slice(0, 10)
+      .map(([category, total]) => ({ category, total }));
+    
+    return {
+      generated: new Date().toISOString(),
+      summary: {
+        total_cost: totalCost,
+        total_days: totalDays,
+        total_activities: totalActivities,
+        avg_daily_cost: avgDailyCost,
+        date_range: dateRange,
+        unique_locations: locations.length,
+        most_expensive_day: {
+          date: mostExpensiveDay.date,
+          location: mostExpensiveDay.location,
+          cost: mostExpensiveDay.total_cost
+        }
+      },
+      categories: topCategories,
+      locations: locations,
+      expenditures: expenditures.map(exp => ({
+        date: exp.date,
+        location: exp.location,
+        total_cost: exp.total_cost,
+        activities: exp.activities ? exp.activities.map(activity => ({
+          name: activity.name,
+          cost: activity.cost,
+          category: activity.category,
+          description: activity.description
+        })) : [],
+        social_description: exp.social_description,
+        tags: Array.isArray(exp.tags) ? exp.tags : (exp.tags ? exp.tags.split(',').map(t => t.trim()) : []),
+        confidence_level: exp.confidence_level,
+        source_urls: exp.source_urls || []
+      }))
+    };
   }
 
   // Social image generators

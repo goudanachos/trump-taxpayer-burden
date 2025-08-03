@@ -8,10 +8,19 @@
         <div style="display: flex; justify-content: between; align-items: flex-start; margin-bottom: var(--space-md); border-bottom: var(--border-light); padding-bottom: var(--space-md);">
             <div style="flex: 1;">
                 <!-- Classification Stamp -->
-                <div style="display: inline-block; background: var(--color-bg-secondary); border: var(--border-width-thin) solid var(--color-text-secondary); padding: var(--space-xs) var(--space-sm); margin-bottom: var(--space-sm);">
-                    <div class="classification-font" style="color: var(--color-text-secondary); font-size: 10px; letter-spacing: 0.1em;">
-                        UNCLASSIFIED
+                <div style="display: flex; align-items: center; gap: var(--space-sm); margin-bottom: var(--space-sm);">
+                    <div style="display: inline-block; background: var(--color-bg-secondary); border: var(--border-width-thin) solid var(--color-text-secondary); padding: var(--space-xs) var(--space-sm);">
+                        <div class="classification-font" style="color: var(--color-text-secondary); font-size: 10px; letter-spacing: 0.1em;">
+                            UNCLASSIFIED
+                        </div>
                     </div>
+                    {% if expenditure.confidence_level %}
+                    <div style="display: inline-block; background: var(--color-bg-secondary); border: var(--border-width-thin) solid var(--color-text-secondary); padding: var(--space-xs) var(--space-sm);">
+                        <div class="classification-font" style="color: var(--color-text-secondary); font-size: 10px; letter-spacing: 0.1em;">
+                            CONFIDENCE: {{ expenditure.confidence_level | upcase }}
+                        </div>
+                    </div>
+                    {% endif %}
                 </div>
                 
                 <!-- Date Stamp -->
@@ -77,12 +86,12 @@
                 </div>
                 
                 <!-- Citations -->
-                {% if expenditure.verification.sources %}
+                {% if expenditure.source_urls %}
                     <div style="display: flex; align-items: center; gap: var(--space-xs);">
                         <div class="standard-font" style="color: var(--color-text-secondary); font-size: 10px; opacity: 0.7; text-transform: uppercase;">
                             SOURCES:
                         </div>
-                        {% for source in expenditure.verification.sources %}
+                        {% for source in expenditure.source_urls %}
                             {% assign domain = source | replace: 'https://', '' | replace: 'http://', '' | split: '/' | first %}
                             <a href="{{ source }}" target="_blank" rel="noopener" 
                                style="color: var(--color-text-secondary); text-decoration: none; opacity: 0.6; transition: opacity 0.2s ease;"
