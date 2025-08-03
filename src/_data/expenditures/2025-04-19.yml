@@ -1,0 +1,36 @@
+{
+  "location": "Trump National Golf Club Washington DC & The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Travel by presidential motorcade to and from golf club",
+      "cost": 20000,
+      "category": "Local motorcade",
+      "description": "Two short motorcade trips between the White House and Trump National Golf Club estimated at $10,000 each."
+    },
+    {
+      "name": "Secret Service and staff protection",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Standard day security and staff protection while President Trump was at Trump National Golf Club and White House on April 19, 2025."
+    },
+    {
+      "name": "Incidentals",
+      "cost": 15000,
+      "category": "Incidentals",
+      "description": "Estimated incidentals related to communications, event logistics, and operational support during golf club visit and return."
+    }
+  ],
+  "total_cost": 110000,
+  "social_description": "On April 19, 2025, President Trump traveled to and from his golf club with typical Secret Service presence and motorcade support, incurring normal operational incidentals.",
+  "tags": "Trump National Golf Club,White House,presidential travel,motorcade,secret service,incidentals,golf",
+  "confidence_level": "medium",
+  "model_confidence": 0.85,
+  "model_check": "Cost estimates are based on standard rates for motorcade trips and daily Secret Service presence. Public documentation confirms the events but does not provide specific cost details, leading to a medium confidence rating.",
+  "source_urls": [
+    "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates?entryId=124291398&id=124128895",
+    "https://whitehouse.gov/briefings-statements/",
+    "https://www.alternet.org/secret-service-trump/",
+    "https://www.nytimes.com/live/2025/07/31/us/trump-news",
+    "https://people.com/trump-announces-massive-new-white-house-addition-gold-ballroom-11782823"
+  ]
+}
