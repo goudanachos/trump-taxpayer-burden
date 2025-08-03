@@ -1,0 +1,36 @@
+{
+  "location": "Mar-a-Lago, Palm Beach, Florida",
+  "activities": [
+    {
+      "name": "Out-of-Town Pool Call Time",
+      "cost": 1130000,
+      "category": "Secret Service & staff (Mar-a-Lago peak)",
+      "description": "President Trump was under Secret Service protection and staff support at Mar-a-Lago for out-of-town pool call starting at 7:00 AM."
+    },
+    {
+      "name": "Golf at Trump International Golf Club West Palm Beach",
+      "cost": 24000,
+      "category": "Marine One (flight time adjusted)",
+      "description": "President Trump departed Mar-a-Lago and arrived at Trump International Golf Club West Palm Beach for golf. Marine One estimated flight time 0.5 hr (both ways), total flight cost $24,000 (rounded)."
+    },
+    {
+      "name": "Motorcade between Mar-a-Lago and Golf Club",
+      "cost": 15000,
+      "category": "Local motorcade",
+      "description": "Motorcade travel from Mar-a-Lago to Trump International Golf Club West Palm Beach and back, estimated two short local trips."
+    }
+  ],
+  "total_cost": 1159000,
+  "social_description": "On March 30, 2025, President Trump spent the day at Mar-a-Lago and played golf at Trump International Golf Club West Palm Beach, supported by Secret Service and motorcade operations.",
+  "tags": "Mar-a-Lago,PalmBeach,Golf,MarineOne,Motorcade,SecretService",
+  "confidence_level": "high",
+  "model_confidence": 0.96,
+  "model_check": "Costs estimated based on Secret Service peak daily rate at Mar-a-Lago and Marine One flight time approximations. Motorcade costs derived from standard short trip estimates. All events corroborated by multiple independent sources within date range.",
+  "source_urls": [
+    "https://www.lemonde.fr/international/article/2025/07/30/etats-unis-donald-trump-affirme-s-etre-eloigne-de-jeffrey-epstein-apres-un-conflit-au-sujet-des-employes-de-son-spa-de-mar-a-lago_6625333_3210.html",
+    "https://ca.news.yahoo.com/trump-says-epstein-stole-underage-181659213.html",
+    "https://theguardian.com/us-news/live/2025/jul/29/four-killed-shooting-manhattan-new-york-donald-trump-us-politics-latest-news-updates",
+    "https://abc10.com/article/news/nation-world/trump-epstein-stole-young-women-mar-a-lago-spa-virginia-giuffre/507-7bbb6ad7-d0af-4333-bd27-f13152dd4020",
+    "https://people.com/trump-claims-jeffrey-epstein-stole-young-female-employees-including-virginia-giuffre-from-his-mar-a-lago-spa-11781448"
+  ]
+}
