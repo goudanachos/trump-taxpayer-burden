@@ -1,0 +1,27 @@
+{
+  "location": "Bedminster, New Jersey; White House, Washington D.C.",
+  "activities": [
+    {
+      "name": "Golf tournament at Bedminster golf course",
+      "cost": 10000,
+      "category": "Local motorcade and golf course use",
+      "description": "On June 1, 2025, President Donald Trump played and won the 2025 Men's Senior Golf Club Championship at his golf course in Bedminster, NJ. Costs include local motorcade and golf course expenses."
+    },
+    {
+      "name": "Construction of new ballroom at White House",
+      "cost": 200000000,
+      "category": "Property development",
+      "description": "Plans for a $200 million construction of a 90,000-square-foot classical-style ballroom at the White House, set to begin in September 2025, funded by Trump and private donors."
+    }
+  ],
+  "total_cost": 200010000,
+  "social_description": "On June 1, 2025, President Trump played and won a golf tournament at his Bedminster golf course and announced plans for a $200M White House ballroom construction.",
+  "tags": "Trump,golf,Bedminster,White House,ballroom,property,construction",
+  "confidence_level": "high",
+  "model_confidence": 0.98,
+  "model_check": "High confidence based on multiple independent credible sources confirming golf event and ballroom construction plans within the date window. Costs estimated using official announcements and benchmark rates.",
+  "source_urls": [
+    "https://www.irishstar.com/sport/golf/donald-trump-golf-tournament-cheating-35665368",
+    "https://yahoo.com/lifestyle/articles/trump-administration-moves-forward-plan-191324813.html"
+  ]
+}
