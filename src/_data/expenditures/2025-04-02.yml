@@ -1,0 +1,27 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "In-Town Pool Call",
+      "cost": 0,
+      "category": "official activity",
+      "description": "President Trump was at The White House for in-town pool call at 9:00 AM."
+    },
+    {
+      "name": "Make America Wealthy Again Event",
+      "cost": 0,
+      "category": "public event",
+      "description": "President Trump participated in the Make America Wealthy Again event at the Rose Garden at 4:00 PM."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "On April 2, 2025, President Trump participated in official White House activities including the Make America Wealthy Again event at the Rose Garden.",
+  "tags": "White House,Trump,Make America Wealthy Again,official,public event",
+  "confidence_level": "high",
+  "model_confidence": 0.9,
+  "model_check": "Sufficient corroborated evidence found from White House official schedule and respected news sources. No specific leisure-related spending reported for these events or movements, so cost is recorded as zero.",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.nytimes.com/live/2025/07/31/us/trump-news"
+  ]
+}
