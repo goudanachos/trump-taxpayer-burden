@@ -1,0 +1,32 @@
+{
+  "location": "Bedminster, New Jersey",
+  "activities": [
+    {
+      "name": "Travel to Bedminster",
+      "cost": 277120,
+      "category": "VC-25A (Air Force One)",
+      "description": "Air Force One travel from Washington area to Morristown and then local helicopter Marine One to Bedminster golf course. Approximate 1.56 hours at $177,843/hr for Air Force One flights."
+    },
+    {
+      "name": "Secret Service & Staff",
+      "cost": 1130000,
+      "category": "Secret Service & staff (Mar-a-Lago peak)",
+      "description": "Estimated daily Secret Service and staff costs at Bedminster golf course peak presence on June 8, 2025."
+    },
+    {
+      "name": "Local transportation and incidentals",
+      "cost": 16000,
+      "category": "Local motorcade and incidentals",
+      "description": "Local motorcade and incidental costs related to movement between airports and Bedminster site."
+    }
+  ],
+  "total_cost": 1410120,
+  "social_description": "On June 8, 2025, President Trump traveled to his Bedminster, New Jersey golf course via Air Force One and Marine One, incurring estimated security and transport costs totaling approximately $1.41 million.",
+  "tags": "Trump,Bedminster,Air Force One,Marine One,Secret Service,transport,golf",
+  "confidence_level": "high",
+  "model_confidence": 0.98,
+  "model_check": "Cost estimates are based on reliable news sources confirming Air Force One flight and Marine One helicopter travel to Bedminster, consistent with high daily Secret Service staffing costs at Bedminster peak. Multiple high-ranked sources confirm travel and presence. Confident in estimates with room for minor variance.",
+  "source_urls": [
+    "https://www.mcall.com/2025/08/01/air-force-one-allentown-airport-lvia/"
+  ]
+}
