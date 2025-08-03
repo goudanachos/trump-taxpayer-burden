@@ -1,0 +1,53 @@
+{
+  "location": "The White House, Washington, D.C.; Trump National Golf Club Bedminster, NJ",
+  "activities": [
+    {
+      "name": "Presidential activities and National Security Meeting at the White House",
+      "cost": 75000,
+      "category": "Secret Service & staff",
+      "description": "Secret Service and support staff costs for President Trump's official activities, including the National Security Meeting, at the White House on June 20, 2025."
+    },
+    {
+      "name": "Motorcade and local transport from White House to Bedminster",
+      "cost": 13000,
+      "category": "Local motorcade",
+      "description": "Transportation costs for the Presidential motorcade traveling from the White House to Morristown Municipal Airport and onward to Bedminster, NJ."
+    },
+    {
+      "name": "Flight operations from Joint Base Andrews to Morristown Municipal Airport and back",
+      "cost": 42900,
+      "category": "C-32 / charter flight",
+      "description": "Estimated flight cost for C-32 charter flights associated with President Trump's travel between Joint Base Andrews and Morristown Municipal Airport on June 20, 2025."
+    },
+    {
+      "name": "Presidential presence and activities at Bedminster Golf Club and MAGA Inc. Dinner",
+      "cost": 75000,
+      "category": "Secret Service & staff",
+      "description": "Costs of Secret Service and support staff for President Trump during his afternoon and evening at Trump National Golf Club Bedminster, including attending the MAGA Inc. dinner fundraiser."
+    },
+    {
+      "name": "Local law enforcement support during Bedminster visit",
+      "cost": 12000,
+      "category": "Local law enforcement",
+      "description": "Estimated expenses for Bedminster Township police and other local law enforcement during President Trump's visit to Trump National Golf Club Bedminster."
+    },
+    {
+      "name": "Incidentals and miscellaneous costs",
+      "cost": 15000,
+      "category": "Incidentals",
+      "description": "Miscellaneous expenses including communications, catering, and other minor incidentals during travel and events."
+    }
+  ],
+  "total_cost": 232800,
+  "social_description": "On June 20, 2025, President Trump attended a National Security Meeting at the White House, traveled to Bedminster, NJ, and hosted a MAGA Inc. fundraiser dinner. Estimated government cost: $232,800.",
+  "tags": "Trump,White House,Bedminster,MAGA Fundraiser,National Security Meeting,Secret Service,Travel",
+  "confidence_level": "medium",
+  "model_confidence": 0.85,
+  "model_check": "Cost estimates use established government rate benchmarks for Secret Service, motorcade, law enforcement, and charter flights. Sources on the MAGA Inc. dinner fundraiser confirm event presence; specific expenditure data unavailable but conservative estimates applied.",
+  "source_urls": [
+    "https://france.news-pravda.com/world/2025/08/02/104357.html",
+    "https://archive.is/BhY6A",
+    "https://irishstar.com/sport/golf/donald-trump-golf-tournament-cheating-35665368",
+    "https://wfmz.com/news/area/lehighvalley/air-force-one-lands-at-lvia-as-president-trump-to-spend-weekend-at-golf-course/article_c8e8a9da-0280-4278-8401-e38fd7d2a93b.html"
+  ]
+}
