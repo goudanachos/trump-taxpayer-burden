@@ -1,0 +1,48 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "In-Town Pool Call",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "9:00 AM in-town pool call time involving Secret Service and staff protection at The White House."
+    },
+    {
+      "name": "Intelligence Briefing",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "11:00 AM intelligence briefing session at the Oval Office with Secret Service protection."
+    },
+    {
+      "name": "Press Briefing by the White House Press Secretary",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "1:00 PM press briefing in the James S. Brady Press Briefing Room with Secret Service and supporting staff."
+    },
+    {
+      "name": "Lunch Lid",
+      "cost": 30000,
+      "category": "Incidentals",
+      "description": "Lunch lid called from 2:38 PM to 3:30 PM, incurring incidentals such as meals and security arrangements."
+    },
+    {
+      "name": "Full Lid",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "6:00 PM full lid called by the White House Press Office, involving complete security and staff protection."
+    }
+  ],
+  "total_cost": 333000,
+  "social_description": "Trump's activities on January 28, 2025, included in-town pool call, intelligence briefing, press briefing, lunch lid, and full lid at The White House, with estimated Secret Service and incidental costs totaling $333,000.",
+  "tags": "White House,Secret Service,Press Briefing,Intelligence Briefing,Pool Call,Lunch Lid,Full Lid",
+  "confidence_level": "high",
+  "model_confidence": 0.9,
+  "model_check": "Costs are based on standard Secret Service rates for daily protection at The White House and typical incidentals for lunch lid events. Activities align with schedule hints and typical security protocols.",
+  "source_urls": [
+    "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates?entryId=124291398&id=124128895",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.nytimes.com/live/2025/07/31/us/trump-news",
+    "https://people.com/trump-announces-massive-new-white-house-addition-gold-ballroom-11782823",
+    "https://syracuse.com/politics/2025/07/trump-is-obsessed-with-this-flashy-white-house-upgrade-heres-why-report.html"
+  ]
+}
