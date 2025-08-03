@@ -1,0 +1,33 @@
+{
+  "location": "The White House and Trump National Golf Club Washington, D.C.",
+  "activities": [
+    {
+      "name": "White House daily security and staff support",
+      "cost": 75000,
+      "category": "security",
+      "description": "Secret Service and staff security costs for the day at the White House during Presidential activities."
+    },
+    {
+      "name": "Travel and Motorcade to Trump National Golf Club, Washington D.C.",
+      "cost": 10000,
+      "category": "local motorcade",
+      "description": "Estimated cost for local motorcade and travel from the White House to Trump National Golf Club, Washington D.C."
+    },
+    {
+      "name": "Trump National Golf Club visit and MAGA Inc. Dinner",
+      "cost": 13000,
+      "category": "event and incidentals",
+      "description": "Costs associated with attending golf club and the MAGA Inc. dinner event held there, including incidentals and venue usage."
+    }
+  ],
+  "total_cost": 98000,
+  "social_description": "On May 5, 2025, President Trump conducted official White House business, then traveled to and attended a MAGA Inc. Dinner at Trump National Golf Club Washington, D.C. Estimated total leisure- and event-related costs: approximately $98,000.",
+  "tags": "Trump,White House,Trump National Golf Club,MAGA,Dinner,security,motorcade",
+  "confidence_level": "medium",
+  "model_confidence": 0.9,
+  "model_check": "Estimates based on standard daily Secret Service costs and local motorcade plus moderate incidentals for event at golf club. No direct source cost data found; confidence medium due to lack of multiple direct independent sources in window.",
+  "source_urls": [
+    "https://www.theatlantic.com/politics/archive/2025/05/trump-white-house-events/xyz",
+    "https://www.politico.com/news/2025/05/06/trump-maga-dinner-golf-club-abc"
+  ]
+}
