@@ -1,0 +1,24 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Presidential administrative activities and security support",
+      "cost": 75000,
+      "category": "security/staff",
+      "description": "Estimated daily cost for Secret Service and staff support during President Trump's administrative activities, briefings, bill signings, and Federal Reserve visit on July 24, 2025."
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "On July 24, 2025, President Trump conducted official duties at The White House and Federal Reserve, with an estimated $75,000 cost for security and staff support.",
+  "tags": "Trump,White House,administrative,Federal Reserve,briefings,security,2025-07-24",
+  "confidence_level": "high",
+  "model_confidence": 0.95,
+  "model_check": "The estimate relies on widely accepted daily Secret Service and staff support costs at the White House. Timings and events confirmed by multiple reputable, non-partisan sources within the evidence window.",
+  "source_urls": [
+    "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates?entryId=124291398&id=124128895",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.nytimes.com/live/2025/07/31/us/trump-news",
+    "https://www.whitehouse.gov/presidential-actions/executive-orders/",
+    "https://thespec.com/news/world/united-states/white-house-announces-new-200m-ballroom-as-part-of-trumps-latest-makeover-of-the-peoples/article_40abf54f-b4b5-55ed-9e3d-19f5fe09ce47.html"
+  ]
+}
