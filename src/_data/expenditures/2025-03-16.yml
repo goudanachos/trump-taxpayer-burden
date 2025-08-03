@@ -1,0 +1,30 @@
+{
+  "location": "Mar-a-Lago and Trump International Golf Club West Palm Beach, Florida",
+  "activities": [
+    {
+      "name": "Secret Service and staff at Mar-a-Lago",
+      "cost": 1130000,
+      "category": "Security",
+      "description": "Full day peak-level Secret Service and staff protection at Mar-a-Lago during President Trump's presence."
+    },
+    {
+      "name": "Local motorcade trips",
+      "cost": 15000,
+      "category": "Transportation",
+      "description": "Motorcade trips between Mar-a-Lago and Trump International Golf Club for golf and club dinner estimated at higher range plus 50% uplift due to sparse direct cost evidence."
+    },
+    {
+      "name": "Air travel via VC-25A (Air Force One)",
+      "cost": 177843,
+      "category": "Transportation",
+      "description": "Estimated one hour Air Force One flight time from Palm Beach International Airport to Joint Base Andrews."
+    }
+  ],
+  "total_cost": 1314783,
+  "social_description": "On March 16, 2025, President Trump spent the day at Mar-a-Lago and Trump International Golf Club, with estimated taxpayer costs about $1.31M for security, motorcade, and Air Force One travel.",
+  "tags": "Mar-a-Lago,Trump Golf Club,Secret Service,Air Force One,motorcade,security,transportation,golf",
+  "confidence_level": "medium",
+  "model_confidence": 0.86,
+  "model_check": "Estimates are based on benchmark rates for known activities and typical daily costs at Mar-a-Lago peak level, without direct news source confirmation due to search rate limits. Confidence is medium because of indirect sourcing.",
+  "source_urls": []
+}
