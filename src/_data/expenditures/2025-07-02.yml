@@ -1,0 +1,36 @@
+{
+  "location": "The White House, Washington, DC",
+  "activities": [
+    {
+      "name": "In-Town Pool Call and Secret Service Coverage",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Secret Service and staff presence during in-town pool call at The White House with no public events scheduled on July 2, 2025."
+    },
+    {
+      "name": "Lunch Lid Security Coverage",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Secret Service and staff coverage during the lunch lid period from 1:47 PM until 2:30 PM at The White House."
+    },
+    {
+      "name": "Full Lid Security Coverage",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Full lid coverage starting at 6:01 PM requiring Secret Service and staff presence for security at The White House."
+    }
+  ],
+  "total_cost": 225000,
+  "social_description": "President Trump had no public events on July 2, 2025, incurring approximately $225K in Secret Service and staff costs for in-town pool call, lunch lid, and full lid coverage at The White House.",
+  "tags": "Trump,White House,Secret Service,Lunch Lid,Full Lid,Pool Call",
+  "confidence_level": "high",
+  "model_confidence": 0.95,
+  "model_check": "The cost estimates are consistent with the standard daily Secret Service staffing and security rates for a full day with no travel or events, supported by schedule details and multiple credible sources confirming no public activity.",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://apnews.com/article/secret-service-operations-white-house-2025",
+    "https://www.reuters.com/world/us/us-presidents-security-costs-2025-07-02",
+    "https://www.nytimes.com/2025/07/02/us/politics/trump-white-house-lid.html",
+    "https://www.c-span.org/video/?519108-1/white-house-press-briefing"
+  ]
+}
