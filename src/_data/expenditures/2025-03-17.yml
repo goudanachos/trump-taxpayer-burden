@@ -1,0 +1,29 @@
+{
+  "location": "Washington, D.C. (The White House and John F. Kennedy Center)",
+  "activities": [
+    {
+      "name": "Secret Service and staff at The White House",
+      "cost": 75000,
+      "category": "Security",
+      "description": "Full day security and support staff deployment at the White House during President Trump's office and press briefing events."
+    },
+    {
+      "name": "Local motorcade trips",
+      "cost": 10000,
+      "category": "Transportation",
+      "description": "Estimated cost for short local motorcade trips between The White House and John F. Kennedy Center for the Performing Arts events."
+    }
+  ],
+  "total_cost": 85000,
+  "social_description": "On March 17, 2025, President Trump attended events at The White House and John F. Kennedy Center, incurring estimated taxpayer costs of $85,000 mainly for security and motorcade support.",
+  "tags": "White House,Secret Service,motorcade,security,transportation,John F. Kennedy Center",
+  "confidence_level": "medium",
+  "model_confidence": 0.86,
+  "model_check": "Cost estimates rely on benchmark rates for Secret Service and motorcade as direct specific news reporting for exact expenditures on this date is not available. The estimate represents typical daily operational costs for such events.",
+  "source_urls": [
+    "https://people.com/trump-announces-massive-new-white-house-addition-gold-ballroom-11782823",
+    "https://nottinghampost.com/news/uk-world-news/trumps-cryptic-response-we-love-10378902",
+    "https://finance-monthly.com/trump-motorcade-security-costs",
+    "https://keyt.com/news/2025/07/31/construction-on-trumps-200-million-white-house-ballroom-to-begin-in-september"
+  ]
+}
