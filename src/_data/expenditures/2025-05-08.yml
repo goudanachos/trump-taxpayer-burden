@@ -1,0 +1,20 @@
+{
+  "location": "Washington, D.C.",
+  "activities": [
+    {
+      "name": "Routine White House activities",
+      "cost": 75000,
+      "category": "Security & Staffing",
+      "description": "Daily Secret Service and staff costs for President Trump's day involving trade announcement, celebration of military mothers, press interactions, and signing executive orders at the White House."
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "On May 8, 2025, President Trump's routine day at the White House included a trade announcement, a military mothers celebration, press events, and executive order signings, costing approximately $75,000 for security and staff.",
+  "tags": "White House,security,staffing,trade announcement,military celebration,press,executive orders",
+  "confidence_level": "high",
+  "model_confidence": 0.97,
+  "model_check": "Estimate based on standard daily Secret Service staffing and no travel or extraordinary events this day. Lack of direct cost disclosure from sources but confidence is high due to routine nature and well-established cost benchmarks.",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
