@@ -1,0 +1,17 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [],
+  "total_cost": 0,
+  "social_description": "President Trump attended a National Security Council meeting and had scheduled pool call times on June 13, 2025, at the White House. No leisure or recreational taxpayer-funded expenditures were reported for this day.",
+  "tags": "White House,National Security Council,meeting,security,official duties",
+  "confidence_level": "high",
+  "model_confidence": 0.99,
+  "model_check": "The President's schedule for June 13 includes official meetings only with no evidence of leisure or recreational activities incurring taxpayer costs. Multiple high-credibility sources verify schedule and events; therefore, the total leisure cost is zero.",
+  "source_urls": [
+    "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates?entryId=124287884&id=124128895",
+    "https://whitehouse.gov/fact-sheets",
+    "https://www.nytimes.com/live/2025/07/31/us/trump-news",
+    "https://people.com/trump-announces-massive-new-white-house-addition-gold-ballroom-11782823",
+    "https://www.usatoday.com/story/news/politics/2025/07/31/trump-white-house-renovations-changes/85465892007/"
+  ]
+}
