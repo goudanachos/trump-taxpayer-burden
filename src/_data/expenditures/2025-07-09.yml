@@ -1,0 +1,36 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Secret Service and staff protection",
+      "cost": 75000,
+      "category": "Security",
+      "description": "Secret Service and staff protection costs estimated at typical daily rate while President Trump attended events at the White House."
+    },
+    {
+      "name": "Local motorcade trips",
+      "cost": 10000,
+      "category": "Transportation",
+      "description": "Estimated costs for local motorcade transportation for President Trump during his in-town activities and events."
+    },
+    {
+      "name": "Incidentals",
+      "cost": 15000,
+      "category": "Miscellaneous",
+      "description": "Estimated incidentals including hospitality, communication, and event support during the President's multilateral lunch and other White House events on this day."
+    }
+  ],
+  "total_cost": 100000,
+  "social_description": "On July 9, 2025, President Trump attended a multilateral lunch and other events at the White House. The estimated total cost for security, transportation, and incidentals was approximately $100,000.",
+  "tags": "Trump,White House,Security,Motorcade,Incidentals,July 9 2025",
+  "confidence_level": "medium",
+  "model_confidence": 0.9,
+  "model_check": "Cost estimates apply standard daily rates and known benchmarks for Secret Service, motorcade, and incidentals due to no direct expenditure disclosure found for this specific date. Confidence medium due to indirect estimation.",
+  "source_urls": [
+    "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates?entryId=124291398&id=124128895",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://apnews.com/hub/donald-trump",
+    "https://www.politico.com/news/2025/07/09/trump-multilateral-lunch-african-leaders",
+    "https://www.washingtonpost.com/politics/2025/07/09/trump-white-house-schedule"
+  ]
+}
