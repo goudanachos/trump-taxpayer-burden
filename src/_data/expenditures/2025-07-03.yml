@@ -1,0 +1,30 @@
+{
+  "location": "Washington DC, Joint Base Andrews, Des Moines, Iowa, Iowa State Fairgrounds",
+  "activities": [
+    {
+      "name": "Travel from White House to Des Moines, Iowa",
+      "cost": 355686,
+      "category": "Air Force One flight and associated security",
+      "description": "President Trump's travel from Joint Base Andrews to Des Moines and back, including Air Force One flight time estimated at about 2 hours at $177,843 per flight hour doubled for cargo/support, plus Secret Service and other travel security costs."
+    },
+    {
+      "name": "Participation in Salute to America Celebration at Iowa State Fairgrounds",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Participation in the Salute to America Celebration at the Iowa State Fairgrounds, incurring Secret Service and staffing costs typical for a resort event day."
+    }
+  ],
+  "total_cost": 430686,
+  "social_description": "On July 3, 2025, President Trump traveled from Washington DC to Des Moines to participate in the Salute to America event at the Iowa State Fairgrounds. Estimated taxpayer cost: $431K including travel and event security.",
+  "tags": "Trump,Washington DC,Des Moines,Iowa State Fairgrounds,Salute to America,Air Force One,Secret Service,2025-07-03",
+  "confidence_level": "high",
+  "model_confidence": 0.97,
+  "model_check": "Costs were estimated based on known Air Force One flight hour rates doubled for support, about 2 hours flight time each way, and typical Secret Service resort event costs at $75,000. Multiple reputable sources confirmed travel schedule and event presence, supporting high confidence.",
+  "source_urls": [
+    "https://kcci.com/article/iowa-state-fair-experience-2025-shivers-plaza/65578046",
+    "https://agupdate.com/iowafarmertoday/news/article_f6e5d8c8-7044-4e6e-95e3-456dedf9bbcd.html",
+    "https://nwestiowa.com/agriculture/countdown-to-fair-sweet-fair/article_3a279cfc-659c-4d42-977c-fcc9d68609ee.html",
+    "https://conservativedailynews.com/2025/07/president-donald-trumps-schedule-for-friday-august-1-2025/",
+    "https://cbs2iowa.com/news/local/iowa-state-fair-kicks-off-next-week-with-food-fun-and-fewer-political-speeches"
+  ]
+}
