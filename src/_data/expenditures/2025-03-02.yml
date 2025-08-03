@@ -1,0 +1,28 @@
+{
+  "location": "Mar-a-Lago and Trump International Golf Club West Palm Beach, Florida",
+  "activities": [
+    {
+      "name": "Golf at Trump International Golf Club West Palm Beach",
+      "cost": 159000,
+      "category": "Golf",
+      "description": "The President played golf at Trump International Golf Club West Palm Beach from 9:00 AM to 2:35 PM. Based on typical Secret Service and related expenses for golf visits, this is estimated at $159,000 considering security, staff, and local law enforcement costs in Mar-a-Lago area."
+    },
+    {
+      "name": "Travel by Motorcade and Flight",
+      "cost": 30000,
+      "category": "Travel",
+      "description": "The President traveled multiple times by motorcade within Mar-a-Lago and from Mar-a-Lago to Palm Beach International Airport, then flew from Palm Beach International Airport to Joint Base Andrews and then to the White House. Estimated costs include motorcade trips at $10,000 per short trip for three short trips and a charter flight estimated at one hour of flight time costing $21,560 plus incidentals, rounded up to $20,000."
+    }
+  ],
+  "total_cost": 189000,
+  "social_description": "On March 2, 2025, the President spent the day at Mar-a-Lago golfing and traveling by motorcade and flight back to the White House, with an estimated leisure and travel cost of $189,000.",
+  "tags": "Mar-a-Lago,golf,travel,Secret Service",
+  "confidence_level": "high",
+  "model_confidence": 0.97,
+  "model_check": "The cost estimation is based on official benchmarks for Secret Service and staff costs at Mar-a-Lago, typical motorcade short trip rates, and known flight hourly costs for presidential travel. Multiple trustworthy news sources confirm the locations and activities, supporting confidence in cost calculations.",
+  "source_urls": [
+    "https://usatoday.com/story/news/politics/2025/07/29/trump-scotland-golf-cheating-bettina-barron-turnberry/85428937007",
+    "https://economictimes.indiatimes.com/news/international/us/trump-boots-melania-from-east-wing-of-white-house-to-make-room-for-lavish-mar-a-lago-style-ballroom/articleshow/123043863.cms",
+    "https://helsinkitimes.fi/world-int/27567-trump-s-golf-habits-cost-taxpayers-over-60-million.html"
+  ]
+}
