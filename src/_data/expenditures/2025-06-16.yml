@@ -1,0 +1,25 @@
+{
+  "date": "2023-12-07",
+  "items": [
+    {
+      "description": "Admission – State-run Museum of Modern Art",
+      "amount_USD": 15,
+      "paid_with_taxpayer_funds": true,
+      "receipt_available": true
+    },
+    {
+      "description": "Rental of kayak at municipal lake",
+      "amount_USD": 8.5,
+      "paid_with_taxpayer_funds": true,
+      "receipt_available": true
+    },
+    {
+      "description": "Hot-dog & soda from city-operated concession stand",
+      "amount_USD": 4.75,
+      "paid_with_taxpayer_funds": false,
+      "receipt_available": false
+    }
+  ],
+  "daily_total_USD": 28.25,
+  "funded_by_taxes_USD": 23.5
+}
