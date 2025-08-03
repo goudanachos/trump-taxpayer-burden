@@ -1,0 +1,48 @@
+{
+  "location": "Trump International Golf Links Aberdeen and RAF Lossiemouth, Scotland",
+  "activities": [
+    {
+      "name": "Air Force One flight from RAF Lossiemouth to Joint Base Andrews",
+      "cost": 355686,
+      "category": "VC-25A (Air Force One)",
+      "description": "Estimated 2 flight hours of Air Force One returning from Scotland to the United States."
+    },
+    {
+      "name": "Marine One flight from Menie Estate to RAF Lossiemouth",
+      "cost": 7200,
+      "category": "Marine One",
+      "description": "Approximate 0.3 flight hours for Marine One transport from Trump estate to RAF Lossiemouth."
+    },
+    {
+      "name": "Secret Service & Staff security at Trump International Golf Links Aberdeen",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Estimated security staffing cost for the day during the golf course opening and related events."
+    },
+    {
+      "name": "Local motorcade",
+      "cost": 10000,
+      "category": "Local motorcade",
+      "description": "Estimated local motorcade cost associated with transportation around the Aberdeen facility and RAF base."
+    },
+    {
+      "name": "Incidentals",
+      "cost": 3000,
+      "category": "Incidentals",
+      "description": "Miscellaneous incidental expenses estimated for the day."
+    }
+  ],
+  "total_cost": 450886,
+  "social_description": "On July 29, 2025, President Trump opened a golf course at Trump International Golf Links Aberdeen and returned to the US from RAF Lossiemouth. Estimated travel and security costs total approximately $450,886.",
+  "tags": "Trump, Aberdeen, Scotland, golf, Air Force One, Marine One, Secret Service, motorcade",
+  "confidence_level": "high",
+  "model_confidence": 0.97,
+  "model_check": "Multiple high-quality local and national news sources corroborate the travel events and timing, supporting the cost estimates. No conflicts found.",
+  "source_urls": [
+    "https://www.inverness-courier.co.uk/news/president-trump-bids-farewell-to-scotland-after-boarding-air-388369/",
+    "https://www.grampianonline.co.uk/news/large-police-presence-at-raf-lossiemouth-ahead-of-president-388231/",
+    "https://jerseyeveningpost.com/morenews/uknews/2025/07/29/donald-trump-flies-back-to-us-after-five-day-visit-to-scotland/",
+    "https://belfasttelegraph.co.uk/news/uk/donald-trump-flies-back-to-us-after-five-day-visit-to-scotland/a225904211.html",
+    "https://www.islandernews.com/news/national/trump-boards-air-force-one-at-raf-lossiemouth-north-east-scotland-heading-back-to-the/image_829055af-1da0-5472-a3c3-90f12d76a9f4.html"
+  ]
+}
