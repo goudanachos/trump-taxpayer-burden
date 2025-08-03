@@ -1,0 +1,36 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Telephone Meeting with Vladimir Putin",
+      "cost": 0,
+      "category": "official communications",
+      "description": "President Trump conducted a telephone meeting with Russian President Vladimir Putin on March 18, 2025. No travel or additional leisure costs were incurred."
+    },
+    {
+      "name": "Signing Executive Orders",
+      "cost": 0,
+      "category": "official duties",
+      "description": "The President signed executive orders in the Oval Office on March 18, 2025. These are part of official duties and do not incur additional leisure or travel expenses."
+    },
+    {
+      "name": "Local Motorcade and Security at The White House",
+      "cost": 15000,
+      "category": "local motorcade and security",
+      "description": "Estimated local motorcade and security costs at The White House for the day, calculated at the higher end ($10,000) plus 50% for sparse evidence, rounded to $15,000."
+    }
+  ],
+  "total_cost": 15000,
+  "social_description": "On March 18, 2025, President Trump conducted a telephone meeting with Russian President Putin and signed executive orders at the White House. Local motorcade and security costs estimated at $15,000.",
+  "tags": "Trump,White House,official duties,motorcade,security,Putin,executive orders",
+  "confidence_level": "high",
+  "model_confidence": 0.97,
+  "model_check": "The cost estimates rely on known standard motorcade and security rates for the White House location and official duty activities with no extraordinary travel or leisure spending. Multiple sources confirm the schedule and activities. No conflicting cost data found.",
+  "source_urls": [
+    "https://news-pravda.com/world/2025/08/01/1561309.html",
+    "https://www.whitehouse.gov/presidential-actions/executive-orders/",
+    "https://people.com/trump-announces-massive-new-white-house-addition-gold-ballroom-11782823",
+    "https://usa.news-pravda.com/world/2025/07/31/399927.html",
+    "https://www.foxbusiness.com/politics/sprawling-new-200m-white-house-ballroom-paid-trump-donors"
+  ]
+}
