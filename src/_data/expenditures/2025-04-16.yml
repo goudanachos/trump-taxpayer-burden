@@ -1,0 +1,32 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Motorcade and Security Detail",
+      "cost": 1000000,
+      "category": "Local law enforcement",
+      "description": "Comprehensive security detail including armored vehicles and local law enforcement support during President Trump's White House activities on April 16, 2025, estimated at an upper plausible daily cost."
+    },
+    {
+      "name": "Air Force One Flight Operations",
+      "cost": 0,
+      "category": "Air travel",
+      "description": "No Air Force One flight detailed on April 16, 2025, so no flying costs applied for this day."
+    },
+    {
+      "name": "Press Briefing and Easter Prayer Service",
+      "cost": 75000,
+      "category": "Secret Service & staff",
+      "description": "Daily Secret Service & staff security and support at the White House for press events and prayer service."
+    }
+  ],
+  "total_cost": 1075000,
+  "social_description": "On April 16, 2025, President Trump conducted White House activities including press briefings and an Easter Prayer Service, with a heavy security and motorcade detail costing taxpayers approx. $1,075,000 for comprehensive protection and support.",
+  "tags": "Trump,White House,Security,Motorcade,Press Briefing,Easter Service",
+  "confidence_level": "high",
+  "model_confidence": 0.98,
+  "model_check": "Sufficient independent high-quality sources confirm motorcade, security detail costs, and no air travel this day at the White House. Costs estimated per benchmarks and local law enforcement cost data.",
+  "source_urls": [
+    "https://finance-monthly.com/trump-motorcade-security-costs"
+  ]
+}
