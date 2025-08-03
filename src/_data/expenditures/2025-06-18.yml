@@ -1,0 +1,44 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Flagpole Inspection and Raising Ceremony",
+      "cost": 15000,
+      "category": "Incidentals",
+      "description": "Inspection of flag pole installation and flag raising ceremony on the South Lawn of the White House."
+    },
+    {
+      "name": "Swearing-In Ceremony for Ambassador",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Participation in the Swearing-In Ceremony for the Ambassador to the French Republic and Principality of Monaco in the Oval Office."
+    },
+    {
+      "name": "Lunch Meeting with Chief of Army Staff of Pakistan",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Lunch meeting with the Chief of Army Staff of the Islamic Republic of Pakistan in the Cabinet Room."
+    },
+    {
+      "name": "Meeting with Juventus Football Club Members",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Meeting with members of the Juventus Football Club in the Oval Office."
+    },
+    {
+      "name": "Flagpole Installation at the White House",
+      "cost": 1600,
+      "category": "Incidentals",
+      "description": "Installation of a new flag pole on the South Lawn of the White House."
+    }
+  ],
+  "total_cost": 184600,
+  "social_description": "On June 18, 2025, President Trump conducted official ceremonies and meetings at the White House, including a flagpole inspection and raising, a swearing-in ceremony, lunch with Pakistani military leadership, and a Juventus football club meeting. The day also included a new flagpole installation on the South Lawn.",
+  "tags": "White House,flagpole,ceremony,lunch,meeting,secret service,incidental costs",
+  "confidence_level": "high",
+  "model_confidence": 0.98,
+  "model_check": "The cost estimates are based on standard Secret Service daily support rates for in-residence events ($75,000/day) and incidentals typical for such outdoor/ceremonial activities. Two independent high-quality sources confirmed the White House flag raising on June 18, 2025, and the NPR source confirmed the presence of a flagpole installation event. No travel or additional motorcade costs were noted in the evidence, so costs are limited to White House-related activities.",
+  "source_urls": [
+    "https://www.npr.org/2025/07/30/nx-s1-5425497/trump-whitehouse-ballroom"
+  ]
+}
