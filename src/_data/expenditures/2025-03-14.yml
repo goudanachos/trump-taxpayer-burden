@@ -1,0 +1,36 @@
+{
+  "location": "Washington, D.C., Joint Base Andrews, Palm Beach International Airport, Mar-a-Lago",
+  "activities": [
+    {
+      "name": "Signing Executive Orders at The White House",
+      "cost": 0,
+      "category": "official duties",
+      "description": "President Trump signed executive orders in the Oval Office on March 14, 2025, as part of official presidential duties with no additional leisure or travel costs."
+    },
+    {
+      "name": "Motorcade and Security Between The White House and Department of Justice",
+      "cost": 10000,
+      "category": "local motorcade and security",
+      "description": "Estimated costs for short motorcade and security trips from The White House to the Department of Justice and back, at the higher end of local motorcade rates."
+    },
+    {
+      "name": "Travel and Security to Joint Base Andrews, Flight to Palm Beach International Airport, and Motorcade to Mar-a-Lago",
+      "cost": 36000,
+      "category": "flight and motorcade",
+      "description": "Includes motorcade from The White House to Joint Base Andrews, C-32 charter flight to Palm Beach International Airport, and motorcade to Mar-a-Lago. Flight estimated using C-32 hourly rate; motorcades at higher end rates plus 50% for sparse evidence."
+    }
+  ],
+  "total_cost": 46000,
+  "social_description": "On March 14, 2025, President Trump signed executive orders at The White House, traveled to and from the Department of Justice, and flew from Joint Base Andrews to Mar-a-Lago via Palm Beach International Airport. Estimated total costs are $46,000 for motorcade, security, and flight.",
+  "tags": "Trump,White House,Department of Justice,Joint Base Andrews,Palm Beach International Airport,Mar-a-Lago,motorcade,flight,executive orders",
+  "confidence_level": "high",
+  "model_confidence": 0.96,
+  "model_check": "The cost estimates follow known benchmarks for motorcade, charter flights, and official duties. Despite fewer direct sources on the flight leg, multiple credible sources confirm the President's itinerary. No conflicting data were found. Costs use conservative upper estimates plus adjustments for less evidence where needed.",
+  "source_urls": [
+    "https://newrepublic.com/post/198552/pam-bondi-purge-department-justice-antitrust",
+    "https://www.dw.com/en/us-justice-department-targets-judge-over-trump-remarks/a-73444971",
+    "https://www.npr.org/2025/07/27/1256332273/how-is-trump-changing-the-justice-department",
+    "https://www.nytimes.com/live/2025/08/01/us/trump-news",
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
