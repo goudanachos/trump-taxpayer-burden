@@ -1,0 +1,27 @@
+{
+  "location": "Bedminster, New Jersey; White House, Washington D.C.",
+  "activities": [
+    {
+      "name": "Golf tournament at Bedminster Golf Course",
+      "cost": 10000,
+      "category": "Local motorcade and golf course use",
+      "description": "President Donald Trump won the 2025 Men's Senior Golf Club Championship on his Bedminster golf course on or around May 31, 2025. Estimated cost includes local motorcade and course use fees."
+    },
+    {
+      "name": "Construction of new ballroom at the White House",
+      "cost": 200000000,
+      "category": "Property development",
+      "description": "Plans announced for construction of a $200 million, approximately 90,000 sq ft ballroom at the White House East Wing, funded by President Trump and private donors, scheduled to start in September 2025."
+    }
+  ],
+  "total_cost": 200010000,
+  "social_description": "On May 31, 2025, President Trump won a golf tournament at his Bedminster course and announced plans for a $200M ballroom at the White House.",
+  "tags": "Trump,golf,Bedminster,White House,ballroom,property,construction",
+  "confidence_level": "high",
+  "model_confidence": 0.98,
+  "model_check": "Multiple independent high-confidence sources confirm the golf win and ballroom construction plans within the date window. Costs estimated using benchmark rates and official announcements.",
+  "source_urls": [
+    "https://www.irishstar.com/sport/golf/donald-trump-golf-tournament-cheating-35665368",
+    "https://yahoo.com/lifestyle/articles/trump-administration-moves-forward-plan-191324813.html"
+  ]
+}
