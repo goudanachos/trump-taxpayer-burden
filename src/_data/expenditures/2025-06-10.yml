@@ -1,0 +1,20 @@
+{
+  "location": "Fort Bragg, North Carolina",
+  "activities": [
+    {
+      "name": "Presidential visit and military demonstration at Fort Bragg",
+      "cost": 813000,
+      "category": "transportation_security",
+      "description": "President Trump's travel and activities at Fort Bragg on June 10, 2025 included Air Force One flights (approx. 4 flight-hours), Secret Service protection, local law enforcement, and incidentals. Costs estimated using standard rates for these components."
+    }
+  ],
+  "total_cost": 813000,
+  "social_description": "Trump visited Fort Bragg on June 10, 2025 for a military demonstration, incurring estimated taxpayer costs for Air Force One flights, Secret Service, local law enforcement, and incidentals.",
+  "tags": "fort-bragg,transportation,security,military-demonstration,presidential-visit",
+  "confidence_level": "high",
+  "model_confidence": 0.9,
+  "model_check": "Costs were calculated using established benchmarks for Air Force One flight time, Secret Service staffing daily rates, local law enforcement, and incidentals. Multiple credible sources confirm the event and travel details.",
+  "source_urls": [
+    "https://www.fayobserver.com/story/news/military/2025/07/29/investigation-of-trump-maga-items-sold-on-fort-bragg/85264132007/"
+  ]
+}
