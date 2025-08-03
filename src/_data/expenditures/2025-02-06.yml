@@ -1,0 +1,42 @@
+{
+  "location": "Washington, D.C.",
+  "activities": [
+    {
+      "name": "Security and Staff Coverage",
+      "cost": 75000,
+      "category": "Security & Staff",
+      "description": "Secret Service and staff coverage for the President throughout his day, including travel between locations and official events."
+    },
+    {
+      "name": "Local Motorcade Use",
+      "cost": 7000,
+      "category": "Transportation",
+      "description": "Estimated motorcade costs for travel between the White House, The Capitol, and Washington Hilton."
+    },
+    {
+      "name": "Presidential Meetings and Events",
+      "cost": 75000,
+      "category": "Administrative",
+      "description": "Costs associated with the President's meetings with Republican Members of Congress, the National Prayer Breakfast events, and executive order signings at the White House and Capitol."
+    },
+    {
+      "name": "Incidentals",
+      "cost": 10000,
+      "category": "Incidentals",
+      "description": "Miscellaneous incidental expenses related to the day's events and security."
+    }
+  ],
+  "total_cost": 167000,
+  "social_description": "On Feb 6, 2025, President Trump's itinerary included National Prayer Breakfast, Congressional meetings, and executive order signings in Washington D.C., with estimated costs around $167,000.",
+  "tags": "Washington,National Prayer Breakfast,Congress,Executive Orders,Secret Service,Motorcade,Incidentals",
+  "confidence_level": "medium",
+  "model_confidence": 0.9,
+  "model_check": "Cost estimates are based on standard rates for Secret Service, motorcade, and typical incidentals for White House and Capitol events; direct expenditure data is not publicly available, so the confidence is medium.",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.whitehouse.gov/presidential-actions/executive-orders/",
+    "https://www.politico.com/live-updates/2025/08/01/congress/trump-schumer-thune-senate-00488164",
+    "https://www.npr.org/sections/insurrection-at-the-capitol",
+    "https://abc27.com/local-news/harrisburg/rage-against-the-regime-protest-against-trump-admin-at-pennsylvania-capitol-saturday/"
+  ]
+}
