@@ -1,0 +1,20 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "White House Events",
+      "cost": 0,
+      "category": "Official Business",
+      "description": "President Trump participated in executive order signing, swearing-in ceremony, meetings, press conference, and dinner with Prime Minister Narendra Modi at the White House."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "On Feb 13, 2025, Trump's day at the White House included signing executive orders, ceremonies, and meetings with Indian Prime Minister Narendra Modi with no traveler-related leisure costs.",
+  "tags": "Trump,White House,executive orders,Indo-US relations,official visit",
+  "confidence_level": "high",
+  "model_confidence": 0.9,
+  "model_check": "The day consisted solely of official White House events with no transportation or leisure expenses; hence, costs are zero by definition.",
+  "source_urls": [
+    "https://www.whitehouse.gov"
+  ]
+}
