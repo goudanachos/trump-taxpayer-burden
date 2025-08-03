@@ -1,0 +1,45 @@
+{
+  "location": "Trump National Golf Club Bedminster, NJ; Morristown Municipal Airport; Philadelphia, PA; Joint Base Andrews; The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Security & staff at Trump National Golf Club Bedminster",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Daily Secret Service and staff support at Trump National Golf Club Bedminster during out-of-town presidential activities."
+    },
+    {
+      "name": "Local motorcade within Bedminster/airport",
+      "cost": 10000,
+      "category": "Local motorcade",
+      "description": "Motorcade trips for transfers between Bedminster golf club and Morristown Municipal Airport."
+    },
+    {
+      "name": "Flight from Morristown to Philadelphia (VC-25A, half hour estimated)",
+      "cost": 88922,
+      "category": "VC-25A (Air Force One)",
+      "description": "Presidential flight from Morristown Municipal Airport to Philadelphia International Airport estimated at half-hour flight time cost."
+    },
+    {
+      "name": "Local motorcade within Philadelphia (airport to Wells Fargo Center and back)",
+      "cost": 10000,
+      "category": "Local motorcade",
+      "description": "Motorcade transportation for the President between Philadelphia International Airport and Wells Fargo Center for the NCAA Wrestling Championship event."
+    },
+    {
+      "name": "Security & staff at Wells Fargo Center event",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Security and staff support at the Wells Fargo Center during the 2025 NCAA Division I Men's Wrestling Championship attended by the President."
+    }
+  ],
+  "total_cost": 258922,
+  "social_description": "On March 22, 2025, President Trump traveled from Bedminster golf club to Philadelphia for the NCAA Wrestling Championship, incurring estimated costs of $258,922 for security, transport, and flight.",
+  "tags": "Bedminster,Philadelphia,security,local motorcade,VC-25A,Wells Fargo Center,wrestling,event",
+  "confidence_level": "medium",
+  "model_confidence": 0.9,
+  "model_check": "Cost estimates based on known benchmarks for Secret Service daily rates for resorts and local motorcade trips, and half-hour VC-25A flight time. No direct disclosure found; figures are conservative defaults and derived by summation.",
+  "source_urls": [
+    "https://wfmz.com/news/area/lehighvalley/air-force-one-lands-at-lvia-as-president-trump-to-spend-weekend-at-golf-course/article_c8e8a9da-0280-4278-8401-e38fd7d2a93b.html",
+    "https://helsinkitimes.fi/world-int/27567-trump-s-golf-habits-cost-taxpayers-over-60-million.html"
+  ]
+}
