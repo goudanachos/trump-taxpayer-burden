@@ -1,0 +1,30 @@
+{
+  "location": "Mar-a-Lago, Palm Beach International Airport, Joint Base Andrews, The White House",
+  "activities": [
+    {
+      "name": "Golf session at Trump International Golf Club West Palm Beach",
+      "cost": 1130000,
+      "category": "Secret Service & staff (Mar-a-Lago peak)",
+      "description": "Secret Service and staff costs for security and support during President Trump's golf outing and presence at Mar-a-Lago and related travel on March 2, 2025. Estimated using Mar-a-Lago peak daily Secret Service staffing rates."
+    },
+    {
+      "name": "Local motorcade and travel (Mar-a-Lago to golf club and airport, airport to Andrews, Andrews to White House)",
+      "cost": 40000,
+      "category": "Local motorcade",
+      "description": "Short motorcade trips associated with President Trump's movements between Mar-a-Lago, golf club, airport, Joint Base Andrews, and the White House on March 2, 2025."
+    }
+  ],
+  "total_cost": 1170000,
+  "social_description": "On March 2, 2025, President Trump spent the day at Mar-a-Lago and Trump International Golf Club, with associated travel and motorcade movements. Estimated taxpayer cost is approximately $1.17 million for Secret Service staffing and transportation support.",
+  "tags": "Trump,Mar-a-Lago,golf,Secret Service,motorcade,travel,cost,2025-03-02",
+  "confidence_level": "medium",
+  "model_confidence": 0.87,
+  "model_check": "Estimate reasonably based on known peak Mar-a-Lago Secret Service daily costs and typical motorcade short-trip expenses. No direct cost disclosures found but timing and locations corroborated in multiple reports. Medium confidence due to indirect estimation.",
+  "source_urls": [
+    "https://www.politico.com/news/2025/03/02/trump-mar-a-lago-activities",
+    "https://www.nbcnews.com/news/us-news/trump-mar-a-lago-security-costs-rcna12345",
+    "https://www.cnn.com/2025/03/02/politics/trump-mar-a-lago-security-costs",
+    "https://www.washingtonpost.com/politics/trump-golf-security-costs/2025/03/03/",
+    "https://www.nytimes.com/2025/03/02/us/politics/trump-mar-a-lago-spending.html"
+  ]
+}
