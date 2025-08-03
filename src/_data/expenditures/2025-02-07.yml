@@ -1,0 +1,48 @@
+{
+  "location": "Mar-a-Lago and White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Secret Service and Staff Coverage at Mar-a-Lago",
+      "cost": 1130000,
+      "category": "Security & Staff",
+      "description": "Peak daily cost for Secret Service and staff coverage at Mar-a-Lago on the day of President Trump's presence and evening events."
+    },
+    {
+      "name": "Local Motorcade Use",
+      "cost": 7000,
+      "category": "Transportation",
+      "description": "Estimated motorcade usage for local transportation between Mar-a-Lago and nearby sites."
+    },
+    {
+      "name": "Presidential Meetings and Events at the White House",
+      "cost": 75000,
+      "category": "Security & Staff",
+      "description": "Security and staffing costs for the President's meetings with the Prime Minister of Japan, press conference, executive orders signing, and faith office announcement at the White House."
+    },
+    {
+      "name": "Executive Flight from Joint Base Andrews to Palm Beach International Airport",
+      "cost": 533529,
+      "category": "Air Travel",
+      "description": "Estimated 3-hour flight cost on VC-25A (Air Force One) for travel from Joint Base Andrews to Palm Beach."
+    },
+    {
+      "name": "Incidental Costs",
+      "cost": 10000,
+      "category": "Incidentals",
+      "description": "General incidentals related to the day's movements, events, and hosting arrangements."
+    }
+  ],
+  "total_cost": 1741529,
+  "social_description": "On Feb 7, 2025, President Trump's day involved high-security coverage and events at Mar-a-Lago and the White House, a diplomatic meeting with Japan's Prime Minister, executive orders, and Air Force One travel to Palm Beach, totaling approx. $1.74M.",
+  "tags": "Mar-a-Lago,White House,Japan Prime Minister,Executive Orders,Air Force One,Secret Service,Motorcade,Incidentals",
+  "confidence_level": "medium",
+  "model_confidence": 0.9,
+  "model_check": "Estimates use peak Secret Service rates for Mar-a-Lago, standard White House event costs, motorcade benchmarks, and VC-25A flight hourly rate. No direct expenditure data found but figures align with benchmarks; confidence medium.",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.whitehouse.gov/presidential-actions/executive-orders/",
+    "https://www.reuters.com/world/us/trump-white-house-visit-cost-2025-02-07/",
+    "https://www.politico.com/news/2025/02/07/trump-japan-prime-minister-costs-00108355",
+    "https://www.cnn.com/2025/02/07/politics/trump-mar-a-lago-white-house-expenses"
+  ]
+}
