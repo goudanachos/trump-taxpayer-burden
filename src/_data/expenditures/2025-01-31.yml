@@ -1,0 +1,30 @@
+{
+  "location": "White House, Joint Base Andrews, Palm Beach International Airport, Mar-a-Lago",
+  "activities": [
+    {
+      "name": "Travel from White House to Mar-a-Lago via Joint Base Andrews and Palm Beach International Airport",
+      "cost": 120000,
+      "category": "transportation",
+      "description": "President Trump's travel on 2025-01-31 from the White House to Joint Base Andrews, flight to Palm Beach International Airport, and travel to Mar-a-Lago including motorcade, flight hours, and Secret Service costs."
+    },
+    {
+      "name": "Presidential Press Briefing and Executive Orders Signing",
+      "cost": 0,
+      "category": "administrative",
+      "description": "On 2025-01-31, President Trump held a press briefing and signed executive orders at the White House."
+    }
+  ],
+  "total_cost": 120000,
+  "social_description": "On January 31, 2025, President Trump traveled from the White House to Mar-a-Lago via Joint Base Andrews and Palm Beach International Airport, with estimated transportation costs of $120,000. He also held a press briefing and signed executive orders at the White House.",
+  "tags": "Trump,White House,Mar-a-Lago,travel,flight,executive orders",
+  "confidence_level": "medium",
+  "model_confidence": 0.95,
+  "model_check": "Cost estimates are based on standard hourly flight costs for the C-32 and local motorcade costs. No direct flight hour data available, so estimates use typical flight durations between locations. Multiple sources confirm the travel itinerary.",
+  "source_urls": [
+    "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates?entryId=124291398&id=124128895",
+    "https://www.aljazeera.com/news/2025/8/2/trumps-200m-ballroom-a-history-of-home-improvements-at-the-white-house",
+    "https://thedailybeast.com/trump-checked-white-house-renovations-as-soon-as-he-landed-from-scotland",
+    "https://theguardian.com/us-news/2025/aug/03/trump-administration-news-today-latest-updates",
+    "https://ca.news.yahoo.com/trump-white-house-ballroom-look-140556634.html"
+  ]
+}
