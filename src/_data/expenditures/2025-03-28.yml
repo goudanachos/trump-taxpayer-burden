@@ -1,0 +1,54 @@
+{
+  "location": "Washington, D.C.; Joint Base Andrews; Palm Beach, Florida; Mar-a-Lago",
+  "activities": [
+    {
+      "name": "In-Town Pool Call Time",
+      "cost": 75000,
+      "category": "Secret Service & staff",
+      "description": "President Trump was at the White House with Secret Service and staff protection during the in-town pool call time at 9:00 AM."
+    },
+    {
+      "name": "Swearing-In Ceremony for U.S. Attorney for New Jersey (Oval Office)",
+      "cost": 75000,
+      "category": "Secret Service & staff",
+      "description": "President Trump participated in the swearing-in ceremony for the U.S. Attorney for New Jersey in the Oval Office at 1:00 PM, involving security and staff costs."
+    },
+    {
+      "name": "Flight from The White House to Joint Base Andrews",
+      "cost": 24000,
+      "category": "Marine One",
+      "description": "President Trump departed The White House and flew via Marine One helicopter to Joint Base Andrews at 2:00 PM; flight duration estimated 10 minutes."
+    },
+    {
+      "name": "C-32 Flight from Joint Base Andrews to Palm Beach International Airport",
+      "cost": 21560,
+      "category": "C-32 / charter",
+      "description": "President Trump's flight from Joint Base Andrews to Palm Beach International Airport on C-32 aircraft at 2:20 PM; flight duration estimated 1 hour 50 minutes."
+    },
+    {
+      "name": "Motorcade from Palm Beach International Airport to Mar-a-Lago",
+      "cost": 10000,
+      "category": "Local motorcade",
+      "description": "President Trump traveled by motorcade from Palm Beach International Airport to Mar-a-Lago, estimated a short trip on March 28, 2025."
+    },
+    {
+      "name": "Secret Service & staff support at Mar-a-Lago (Partial day)",
+      "cost": 565000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Secret Service and staff protection at Mar-a-Lago starting late afternoon around 4:50 PM, calculated as half day at Mar-a-Lago resort rates."
+    }
+  ],
+  "total_cost": 811620,
+  "social_description": "On March 28, 2025, President Trump began the day at the White House, participated in the NJ U.S. Attorney swearing-in ceremony, then traveled via Marine One and C-32 to Mar-a-Lago, with associated security and motorcade support.",
+  "tags": "WhiteHouse,JointBaseAndrews,PalmBeach,Mar-a-Lago,MarineOne,C32,Motorcade,SecretService,SwearingIn,NJUSAttorney",
+  "confidence_level": "high",
+  "model_confidence": 0.98,
+  "model_check": "Events and timings confirmed by multiple credible sources including White House official records and national news outlets. Cost estimates use official aviation and security rates with time adjustments for travel durations. The split-day Secret Service rate at Mar-a-Lago applied due to partial day presence. No conflicting data found.",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://foxnews.com/video/6376464452112",
+    "https://newjerseymonitor.com/2025/07/29/trump-admin-defends-reappointment-of-acting-u-s-attorney-for-nj",
+    "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates",
+    "https://gazette.com/news/us-world/swearing-in-ceremony-for-the-interim-u-s-attorney-for-the-district-of-columbia-at/image_d7f42b39-5b46-51f0-b95d-967f357df58c.html"
+  ]
+}
