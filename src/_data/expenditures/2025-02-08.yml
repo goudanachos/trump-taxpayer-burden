@@ -1,0 +1,30 @@
+{
+  "location": "Mar-a-Lago and Trump International Golf Club West Palm Beach, Florida",
+  "activities": [
+    {
+      "name": "Golf at Trump International Golf Club West Palm Beach",
+      "cost": 112500,
+      "category": "Secret Service & staff (Mar-a-Lago peak)",
+      "description": "Security and staffing costs for the President's golf outing from Mar-a-Lago to Trump International Golf Club and back on Feb 8, 2025."
+    },
+    {
+      "name": "Local Motorcade Transport between Mar-a-Lago and Golf Club",
+      "cost": 15000,
+      "category": "Local motorcade",
+      "description": "Estimated motorcade and security transport costs for the President's travel between Mar-a-Lago and the golf club."
+    }
+  ],
+  "total_cost": 127500,
+  "social_description": "On February 8, 2025, President Trump played golf at Trump International Golf Club West Palm Beach after departing from and returning to Mar-a-Lago. Estimated security and motorcade costs totaled around $127,500.",
+  "tags": "Mar-a-Lago,Trump International Golf Club,Security,Golf,Motorcade",
+  "confidence_level": "medium",
+  "model_confidence": 0.95,
+  "model_check": "Costs were estimated using peak Mar-a-Lago Secret Service daily rates due to high security needs at the private club, plus typical motorcade travel costs for short trips. Direct cost details were not found in news sources, lowering confidence to medium.",
+  "source_urls": [
+    "https://usatoday.com/story/news/politics/2025/07/29/trump-scotland-golf-cheating-bettina-barron-turnberry/85428937007",
+    "https://irishstar.com/sport/golf/donald-trump-golf-tournament-cheating-35665368",
+    "https://information.tv5monde.com/international/trump-inaugure-un-nouveau-parcours-de-golf-en-conclusion-de-son-sejour-ecossais-2787230",
+    "https://people.com/trump-claims-jeffrey-epstein-stole-young-female-employees-including-virginia-giuffre-from-his-mar-a-lago-spa-11781448",
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
