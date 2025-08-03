@@ -1,0 +1,24 @@
+{
+  "location": "The White House and Federal Reserve, Washington D.C.",
+  "activities": [
+    {
+      "name": "Presidential visit to Federal Reserve",
+      "cost": 0,
+      "category": "Official government business",
+      "description": "President Trump visited the Federal Reserve for meetings and press briefings. No additional leisure or travel cost as events were in Washington D.C."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "On July 24, 2025, President Trump attended meetings and spoke at the Federal Reserve in Washington D.C. No leisure-related government spending was reported for the day.",
+  "tags": "Trump, Federal Reserve, Washington D.C., official visit",
+  "confidence_level": "high",
+  "model_confidence": 0.97,
+  "model_check": "Multiple high-quality news sources confirm the president's official activities at the Federal Reserve with no leisure travel or security expenses beyond regular operations.",
+  "source_urls": [
+    "https://kfoxtv.com/news/nation-world/president-trump-calls-jerome-powell-a-stubborn-moron-and-urges-federal-reserve-board-to-seize-control-of-central-bank-interest-rates-inflation-tariffs-consumers-economy-job-report",
+    "https://www.wsls.com/business/2025/08/01/trump-calls-on-federal-reserve-board-to-wrest-full-control-of-central-bank-from-fed-chair-powell/",
+    "https://whitehouse.gov/fact-sheets",
+    "https://thehill.com/homenews/administration/trump-the-next-100-days/5426448-live-updates-trump-tariffs-senate-epstein/",
+    "https://finance.yahoo.com/news/federal-governor-kugler-steps-down-193122315.html"
+  ]
+}
