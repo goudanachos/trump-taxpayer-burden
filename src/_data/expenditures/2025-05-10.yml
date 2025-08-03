@@ -1,0 +1,24 @@
+{
+  "location": "Trump National Golf Club Washington DC, The White House",
+  "activities": [
+    {
+      "name": "Golf club use",
+      "cost": 150000,
+      "category": "Local motorcade and Secret Service",
+      "description": "Estimated cost includes local motorcade for travel to/from Trump National Golf Club and Secret Service staffing for day-long presence (resort level)."
+    },
+    {
+      "name": "Secret Service & staff",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Standard Secret Service and staff cost for non-peak day at Trump golf property."
+    }
+  ],
+  "total_cost": 225000,
+  "social_description": "On May 10, 2025, Trump visited Trump National Golf Club Washington DC from the White House with associated motorcade and Secret Service costs estimated at $225K.",
+  "tags": "trump,golf,trump national golf club washington dc,secret service,local motorcade,2025-05-10",
+  "confidence_level": "medium",
+  "model_confidence": 0.85,
+  "model_check": "Estimates are based on standard cost benchmarks due to lack of specific public detailed expenditure reports for this day. Confidence is medium due to some assumptions and lack of direct cost disclosure.",
+  "source_urls": []
+}
