@@ -1,0 +1,48 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "In-Town Pool Call Time",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Estimated Secret Service and staff costs for presidential security and support during the in-town pool call time at the White House."
+    },
+    {
+      "name": "Governors Working Session Remarks (State Dining Room)",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Security and staff costs during the President's remarks at the Governors Working Session in the State Dining Room."
+    },
+    {
+      "name": "Presidential Lunch with Vice President (Private Dining Room)",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Estimated costs for Secret Service and staff during the President and Vice President's lunch at the White House Private Dining Room."
+    },
+    {
+      "name": "Ceremonial Swearing-In for Secretary of Commerce Howard Lutnick (Oval Office)",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Security and staff costs for the ceremonial swearing-in event of Secretary of Commerce Howard Lutnick in the Oval Office."
+    },
+    {
+      "name": "Executive Orders Signing (Oval Office)",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Estimated Secret Service and staff costs related to the President signing executive orders in the Oval Office."
+    }
+  ],
+  "total_cost": 375000,
+  "social_description": "On February 21, 2025, President Trump conducted multiple official activities at the White House including a pool call, remarks at the Governors Working Session, lunch with the Vice President, a ceremonial swearing-in, and signing executive orders, with an estimated total Secret Service and staff cost of $375,000.",
+  "tags": "white house,secret service,governors working session,swearing-in,executive orders,2025-02-21",
+  "confidence_level": "medium",
+  "model_confidence": 0.95,
+  "model_check": "The cost estimates rely on standard daily Secret Service and staff rates per event at the White House, without more detailed breakdowns of additional expenses. The confidence level is medium due to this estimation method.",
+  "source_urls": [
+    "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates?entryId=124291398&id=124128895",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.whitehouse.gov/presidential-actions/",
+    "https://apnews.com/live/donald-trump-news-updates-7-31-2025",
+    "https://www.whitehouse.gov/presidential-actions/executive-orders/"
+  ]
+}
