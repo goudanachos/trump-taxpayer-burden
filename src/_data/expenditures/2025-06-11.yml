@@ -1,0 +1,24 @@
+{
+  "location": "Washington, D.C.",
+  "activities": [
+    {
+      "name": "Attendance at Les Misérables Opening Night at the Kennedy Center",
+      "cost": 0,
+      "category": "public_event",
+      "description": "President Trump and First Lady attended the opening night of Les Misérables at the John F. Kennedy Center for the Performing Arts on June 11, 2025. No separate taxpayer leisure cost reported beyond standard official security and transportation."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "On June 11, 2025, President Trump and First Lady attended Les Misérables opening night at the Kennedy Center. No additional taxpayer leisure cost identified beyond usual security and transport.",
+  "tags": "kennedy-center,les-miserables,public-event,security,transport",
+  "confidence_level": "high",
+  "model_confidence": 0.9,
+  "model_check": "The event is well documented as a public cultural event with no extraordinary leisure spending. Usual security and transport costs are standard and included in official duties. Confidence is high based on multiple reliable sources.",
+  "source_urls": [
+    "https://www.msnbc.com/top-stories/latest/maria-shriver-trump-republicans-rename-kennedy-center-rcna221741",
+    "https://www.tvinsider.com/1206079/stephen-colbert-trump-kennedy-center-renamed-video/",
+    "https://www.wwno.org/npr-news/2025-07-29/will-the-kennedy-center-become-the-donald-j-trump-center-for-the-performing-arts",
+    "https://www.aol.com/renaming-kennedy-center-trumps-violate-163108017.html",
+    "https://thehill.com/homenews/administration/5423549-trump-center-kennedy-center/"
+  ]
+}
