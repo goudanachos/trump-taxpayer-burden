@@ -1,0 +1,48 @@
+{
+  "location": "Trump National Golf Club Bedminster, New Jersey and The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Presidential stay at Bedminster golf club",
+      "cost": 1130000,
+      "category": "Secret Service & staff",
+      "description": "Full day Secret Service and staff protection at Trump National Golf Club Bedminster on August 3, 2025 at $1,130,000 (peak resort rate)."
+    },
+    {
+      "name": "Motorcade trips around Bedminster",
+      "cost": 10000,
+      "category": "Ground transport",
+      "description": "Estimated two short motorcade trips at $5,000 each."
+    },
+    {
+      "name": "Travel from Bedminster to The White House by Air and Ground",
+      "cost": 240000,
+      "category": "Travel",
+      "description": "President Trump departed Bedminster in the evening and arrived at The White House. Estimated costs include motorcade, Marine One helicopter, and Air Force One short travel costs."
+    },
+    {
+      "name": "Golf carts and porta-loos at Bedminster",
+      "cost": 1600,
+      "category": "Incidentals",
+      "description": "Daily cost for golf carts and porta-loos at the golf club."
+    },
+    {
+      "name": "Local law enforcement and incidentals",
+      "cost": 12000,
+      "category": "Incidentals",
+      "description": "Estimated incidentals including local law enforcement support at Bedminster."
+    }
+  ],
+  "total_cost": 1408600,
+  "social_description": "On August 3, 2025, President Trump stayed at Bedminster golf club and traveled to The White House in the evening. Total estimated taxpayer cost: $1.41 million.",
+  "tags": "Trump,Bedminster,Secret Service,Motorcade,Travel,Incidentals",
+  "confidence_level": "high",
+  "model_confidence": 0.95,
+  "model_check": "Confidence high due to multiple corroborating sources for travel and presence. Costs calculated with standard benchmarks.",
+  "source_urls": [
+    "https://meidasnews.com/news/white-house-announces-another-trump-golf-club-weekend",
+    "https://theconservativetreehouse.com/blog/2025/08/01/chopper-presser-president-trump-answers-media-questions-departing-the-white-house/",
+    "https://mcall.com/2025/08/01/air-force-one-allentown-airport-lvia/",
+    "https://news-pravda.com/world/2025/08/01/1561336.html",
+    "https://usa.news-pravda.com/world/2025/08/01/401248.html"
+  ]
+}
