@@ -1,0 +1,30 @@
+{
+  "location": "Washington, DC",
+  "activities": [
+    {
+      "name": "Local Motorcade",
+      "cost": 20000,
+      "category": "Local motorcade",
+      "description": "Two short motorcade trips between the White House and Andrew W. Mellon Auditorium for security and transportation."
+    },
+    {
+      "name": "Secret Service and Staff",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Daily cost for Secret Service protection and staff support at the White House and Mellon Auditorium event."
+    },
+    {
+      "name": "Incidentals",
+      "cost": 5000,
+      "category": "Incidentals",
+      "description": "Miscellaneous incidentals related to security and logistics for the day's activities."
+    }
+  ],
+  "total_cost": 100000,
+  "social_description": "On July 23, 2025, President Trump attended activities in Washington, DC including an AI Summit at the Andrew W. Mellon Auditorium. Estimated public cost for motorcades, Secret Service, and incidentals totals about $100,000.",
+  "tags": "Trump,Washington DC,White House,Andrew W Mellon Auditorium,AI Summit,Motorcade,Secret Service",
+  "confidence_level": "medium",
+  "model_confidence": 0.95,
+  "model_check": "Estimate based on available schedule and standard cost benchmarks without explicit news sources for July 23 2025. Confidence medium due to lack of explicit public cost reports for this date.",
+  "source_urls": []
+}
