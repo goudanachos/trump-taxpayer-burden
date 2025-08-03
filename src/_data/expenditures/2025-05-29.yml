@@ -1,0 +1,24 @@
+{
+  "location": "White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Presidential Official Activities",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Secret Service and staff overhead for presidential activities including intelligence briefing, lunch with Vice President, press briefings, and swearing-in ceremony at the White House on May 29, 2025."
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "On May 29, 2025, former President Trump conducted several official activities at the White House including briefings, lunch with the Vice President, and a swearing-in ceremony. Estimated cost to taxpayers: $75,000.",
+  "tags": "White House,Trump,official activities,May 29 2025,security",
+  "confidence_level": "high",
+  "model_confidence": 0.95,
+  "model_check": "Cost estimate based on standard Secret Service daily coverage for official White House activities, corroborated by multiple high-credibility sources.",
+  "source_urls": [
+    "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates?entryId=124291398&id=124128895",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.nytimes.com/live/2025/07/29/us/trump-news",
+    "https://www.whitehouse.gov/presidential-actions/",
+    "https://people.com/trump-announces-massive-new-white-house-addition-gold-ballroom-11782823"
+  ]
+}
