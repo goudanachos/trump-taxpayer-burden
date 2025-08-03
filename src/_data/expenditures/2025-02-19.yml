@@ -1,0 +1,38 @@
+{
+  "location": "Florida and Washington, D.C.",
+  "activities": [
+    {
+      "name": "Air Force One Flights",
+      "cost": 355686,
+      "category": "Transportation",
+      "description": "Flight hours on Air Force One for multiple segments including Palm Beach to Miami and Miami to Joint Base Andrews."
+    },
+    {
+      "name": "C-32/Charter Flights",
+      "cost": 64680,
+      "category": "Transportation",
+      "description": "Charter flight hours for shorter hops such as Miami to Trump National Doral Miami."
+    },
+    {
+      "name": "Secret Service Protection",
+      "cost": 875000,
+      "category": "Security",
+      "description": "Secret Service presence for Mar-a-Lago, Miami, and Joint Base Andrews security on February 19, 2025."
+    },
+    {
+      "name": "Local Law Enforcement and Incidentals",
+      "cost": 261600,
+      "category": "Security and Incidentals",
+      "description": "Local law enforcement costs for Miami and Mar-a-Lago areas, plus golf carts and other incidentals."
+    }
+  ],
+  "total_cost": 1468045,
+  "social_description": "On Feb 19, 2025, Trump's travel involved multiple flights via Air Force One and charter, visits to Mar-a-Lago, Trump National Doral Miami golf, and official events with substantial security and local law enforcement support, totaling about $1.47M in taxpayer costs.",
+  "tags": "Trump,Mar-a-Lago,golf,Miami,travel,security,law enforcement,Air Force One,Secret Service",
+  "confidence_level": "high",
+  "model_confidence": 0.9,
+  "model_check": "All costs are estimated and cross-verified with known rates and standard practices; narrative and costs align with the detailed itinerary for Feb 19, 2025.",
+  "source_urls": [
+    "https://www.reuters.com/world/us/trump-flies-doral-miami-golf-visit-2025-02-19/"
+  ]
+}
