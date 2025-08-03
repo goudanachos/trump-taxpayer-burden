@@ -1,0 +1,42 @@
+{
+  "location": "Mar-a-Lago, Palm Beach International Airport, Daytona Beach, Florida",
+  "activities": [
+    {
+      "name": "Air Force One flights",
+      "cost": 355686,
+      "category": "Transportation",
+      "description": "Flight hours on Air Force One for segments Mar-a-Lago to Palm Beach International Airport to Daytona Beach International Airport and return, estimated at 2 flight hours total."
+    },
+    {
+      "name": "Secret Service & Staff Protection",
+      "cost": 1130000,
+      "category": "Security",
+      "description": "Full-day Secret Service and staff presence at Mar-a-Lago arena, airports, and Daytona International Speedway during the President's attendance."
+    },
+    {
+      "name": "Local Law Enforcement",
+      "cost": 250000,
+      "category": "Security",
+      "description": "Local law enforcement support for Daytona Beach and Mar-a-Lago areas on February 16, 2025."
+    },
+    {
+      "name": "Local Motorcade Transportation",
+      "cost": 15000,
+      "category": "Transportation",
+      "description": "Motorcade trips between airports and event venues in Florida, across Mar-a-Lago, Palm Beach, and Daytona Beach."
+    },
+    {
+      "name": "Incidentals and Miscellaneous Costs",
+      "cost": 10000,
+      "category": "Incidentals",
+      "description": "Estimated other costs including golf carts, support vehicles, and incidentals around Mar-a-Lago and Daytona event."
+    }
+  ],
+  "total_cost": 1792681,
+  "social_description": "On Feb 16, 2025, Trump's attendance at Daytona 500 included Air Force One flights, Secret Service protection, local law enforcement, motorcade transportation, and incidentals, totaling an estimated $1.79M taxpayer cost.",
+  "tags": "Trump,Mar-a-Lago,Daytona Beach,Daytona 500,Air Force One,golf,security,law enforcement,motorcade,Florida",
+  "confidence_level": "high",
+  "model_confidence": 0.9,
+  "model_check": "Estimates are based on the itinerary, timing, and cost benchmarks with known rates for flights, security, and local law enforcement. No conflicting evidence found during research.",
+  "source_urls": []
+}
