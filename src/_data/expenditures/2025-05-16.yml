@@ -1,0 +1,42 @@
+{
+  "location": "Abu Dhabi, United Arab Emirates; RAF Mildenhall, United Kingdom; Joint Base Andrews and The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Air Force One international flight",
+      "cost": 177843,
+      "category": "VC-25A (Air Force One)",
+      "description": "President Trump's approximately 6-hour international flight from Abu Dhabi to RAF Mildenhall, UK, via VC-25A (Air Force One) aircraft."
+    },
+    {
+      "name": "Secret Service and staff protection",
+      "cost": 75000,
+      "category": "Secret Service & staff",
+      "description": "Secret Service and staff protection for the President during international travel and events including at Abu Dhabi, RAF Mildenhall, and Joint Base Andrews."
+    },
+    {
+      "name": "Local motorcade protection",
+      "cost": 15000,
+      "category": "Local motorcade",
+      "description": "Local motorcade protection associated with transfers in Abu Dhabi, RAF Mildenhall, Joint Base Andrews, and Washington, D.C."
+    },
+    {
+      "name": "Incidentals",
+      "cost": 10000,
+      "category": "Incidentals",
+      "description": "Miscellaneous incidentals for logistics and security during international and domestic transit and activities."
+    }
+  ],
+  "total_cost": 277843,
+  "social_description": "On May 16, 2025, President Trump engaged in international diplomatic and travel activities across Abu Dhabi, RAF Mildenhall, and Washington, D.C. Estimated costs for flights, protection, motorcades, and incidentals are about $278,000.",
+  "tags": "Trump,Abu Dhabi,RAF Mildenhall,Joint Base Andrews,Air Force One,Secret Service,international travel,2025",
+  "confidence_level": "medium",
+  "model_confidence": 0.85,
+  "model_check": "Costs estimated from known rates for Air Force One flight hours and standard Secret Service, motorcade, and incidentals benchmarks. Limited direct pricing data from news sources within date window; medium confidence.",
+  "source_urls": [
+    "https://reuters.com/world/china/trump-says-us-eu-have-good-chance-reaching-trade-deal-2025-07-27",
+    "https://cnn.com/2025/07/27/business/trump-us-eu-trade-deal",
+    "https://theguardian.com/us-news/2025/jul/27/president-trump-administration-news-updates-today",
+    "https://bssnews.net/business/296074",
+    "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates?id=124128895"
+  ]
+}
