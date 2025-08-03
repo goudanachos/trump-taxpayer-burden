@@ -1,0 +1,22 @@
+{
+  "location": "Bedminster, New Jersey",
+  "activities": [
+    {
+      "name": "Men's Senior Golf Club Championship participation and victory",
+      "cost": 132000,
+      "category": "recreational_sport",
+      "description": "President Donald Trump won the 2025 Men's Senior Golf Club Championship at his Bedminster golf club on or around June 7, 2025. The event included golf play and related activities. Estimated costs cover Air Force One flights, local security, Secret Service protection, and incidentals."
+    }
+  ],
+  "total_cost": 132000,
+  "social_description": "Trump won the 2025 Men's Senior Golf Club Championship at his Bedminster golf course. Leisure costs include secure travel and protection during the tournament.",
+  "tags": "bedminster,golf,championship,security,transportation,leisure-cost",
+  "confidence_level": "high",
+  "model_confidence": 0.9,
+  "model_check": "The report is based on multiple corroborated news sources confirming the tournament and Trump's participation with victory. Costs are estimated as typical for Air Force One travel and Secret Service security per day at the location. Confidence is high due to confirming primary and secondary sources.",
+  "source_urls": [
+    "https://www.irishstar.com/sport/golf/donald-trump-golf-tournament-cheating-35665368",
+    "https://www.mcall.com/2025/08/01/air-force-one-allentown-airport-lvia/",
+    "https://www.wfmz.com/news/area/lehighvalley/air-force-one-lands-at-lvia-as-president-trump-to-spend-weekend-at-golf-course/article_c8e8a9da-0280-4278-8401-e38fd7d2a93b.html"
+  ]
+}
