@@ -1,0 +1,46 @@
+{
+  "location": "The White House, Washington, D.C., and U.S. Department of State",
+  "activities": [
+    {
+      "name": "In-Town Pool Call",
+      "cost": 0,
+      "category": "official activity",
+      "description": "President Trump was present for the in-town pool call at The White House starting 9:00 AM."
+    },
+    {
+      "name": "Press Briefing by White House Press Secretary",
+      "cost": 0,
+      "category": "official activity",
+      "description": "White House Press Secretary Karoline Leavitt conducted a press briefing in the James S. Brady Press Briefing Room at noon."
+    },
+    {
+      "name": "Lunch at U.S. Department of State",
+      "cost": 0,
+      "category": "official activity",
+      "description": "President Trump and the Vice President had lunch at the U.S. Department of State at 12:30 PM."
+    },
+    {
+      "name": "Signing Executive Orders",
+      "cost": 0,
+      "category": "official activity",
+      "description": "At 3:30 PM, President Trump signed executive orders in the Oval Office."
+    },
+    {
+      "name": "April Fool's Dinner Lid",
+      "cost": 0,
+      "category": "security and staff",
+      "description": "A full White House lid was called at 6:04 PM with a special note about an April Fool's dinner lid called until 8:47 PM as a prank. Security and staff costs accounted accordingly."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "On April 1, 2025, President Trump conducted official duties at the White House and the U.S. Department of State including press briefing, signing executive orders, and hosting a light-hearted April Fool's dinner lid.",
+  "tags": "White House,Trump,official activities,executive orders,press briefing,April Fool's lid",
+  "confidence_level": "high",
+  "model_confidence": 0.9,
+  "model_check": "Confirmed multiple official activities with White House schedule and credible news reports. No travel or leisure-specific expenditures indicated.",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.nytimes.com/live/2025/07/31/us/trump-news",
+    "https://www.newsweek.com/donald-trump-approval-rating-polls-2107948"
+  ]
+}
