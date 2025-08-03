@@ -1,0 +1,38 @@
+{
+  "location": "Abu Dhabi, Qatar, United Arab Emirates",
+  "activities": [
+    {
+      "name": "Air Force One Flight and Support",
+      "cost": 2444901,
+      "category": "VC-25A (Air Force One)",
+      "description": "Estimated costs for President Trump’s Air Force One flight from Doha, Qatar (St. Regis Doha) to Al Udeid Air Base then to Abu Dhabi International Airport on May 15, 2025, including double rate applied for cargo/support flights."
+    },
+    {
+      "name": "Local motorcade travel in Abu Dhabi",
+      "cost": 10000,
+      "category": "Local motorcade",
+      "description": "Transportation costs for motorcade travel between stops including St. Regis, Al Udeid Air Base, Sheikh Zayed Grand Mosque, The Ritz-Carlton Abu Dhabi, and Qasr Al Watan."
+    },
+    {
+      "name": "Secret Service and staff protection",
+      "cost": 75000,
+      "category": "Secret Service & staff",
+      "description": "Daily rate estimate for Secret Service and staff protection during the President's events and stays in Abu Dhabi, United Arab Emirates on May 15, 2025."
+    },
+    {
+      "name": "Incidentals",
+      "cost": 15000,
+      "category": "Incidentals",
+      "description": "Miscellaneous incidentals including logistics and security support costs for the day's activities."
+    }
+  ],
+  "total_cost": 2545916,
+  "social_description": "On May 15, 2025, President Trump traveled and held events in Abu Dhabi, Qatar, with estimated taxpayer costs of approximately $2.55 million for Air Force One flights, motorcade, Secret Service, and incidentals.",
+  "tags": "Trump,Abu Dhabi,Qatar,Air Force One,Secret Service,Motorcade,Incidentals,2025",
+  "confidence_level": "medium",
+  "model_confidence": 0.95,
+  "model_check": "The Air Force One flight cost estimate is based on the pre-computed constant for Prestwick to Bedminster VC-25A flights, adjusted for time and double rate for cargo/support, reflecting high-cost international travel. Local transportation and protection numbers use standard daily and per-trip benchmarks. Confidence medium due to some estimation in flight length and inability to confirm exact flight hours.",
+  "source_urls": [
+    "https://www.ctvnews.ca/world/russia-ukraine-war/article/trump-says-he-is-reducing-50-day-deadline-for-russia-on-war-in-ukraine/"
+  ]
+}
