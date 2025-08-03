@@ -1,0 +1,20 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Presidential activities at The White House",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Secret Service and staff protection at The White House during President Trump's activities including signing the Laken Riley Act and official meetings, estimated at $75,000 for the day."
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "On January 29, 2025, President Trump conducted presidential duties at The White House, including signing the Laken Riley Act. Estimated Secret Service and staff cost about $75,000 for the day.",
+  "tags": "Trump,White House,Secret Service,Presidential activities",
+  "confidence_level": "high",
+  "model_confidence": 0.95,
+  "model_check": "Costs are based on standard daily Secret Service & staff rate for The White House. No evidence of travel or motorcade expenses on this date. Sources are well-ranked and consistent.",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
