@@ -1,0 +1,48 @@
+{
+  "location": "Mar-a-Lago and New Orleans, Louisiana",
+  "activities": [
+    {
+      "name": "Secret Service and Staff Coverage at Mar-a-Lago",
+      "cost": 75000,
+      "category": "Security & Staff",
+      "description": "Standard daily coverage by Secret Service and staff while President Trump was at Mar-a-Lago."
+    },
+    {
+      "name": "Local Motorcade Transport",
+      "cost": 21000,
+      "category": "Transportation",
+      "description": "Estimated cost for three local motorcade trips within Mar-a-Lago and Palm Beach area."
+    },
+    {
+      "name": "Flight on VC-25A (Air Force One) Mar-a-Lago to New Orleans",
+      "cost": 355686,
+      "category": "Air Travel",
+      "description": "Estimated two-hour flight time on Air Force One from Mar-a-Lago to New Orleans."
+    },
+    {
+      "name": "Local Law Enforcement in New Orleans for Super Bowl LIX",
+      "cost": 300000,
+      "category": "Local Law Enforcement",
+      "description": "Estimated local law enforcement support costs during President Trump's attendance at Super Bowl LIX in New Orleans."
+    },
+    {
+      "name": "Incidentals",
+      "cost": 10000,
+      "category": "Incidentals",
+      "description": "Miscellaneous incidentals related to the travel and events of the day."
+    }
+  ],
+  "total_cost": 761687,
+  "social_description": "On Feb 9, 2025, President Trump's costs included Secret Service at Mar-a-Lago, motorcade, a two-hour Air Force One flight to Super Bowl LIX in New Orleans, local law enforcement there, and incidentals, totaling approx. $761,700.",
+  "tags": "Mar-a-Lago,Super Bowl LIX,Air Force One,Secret Service,Motorcade,Local Law Enforcement,Incidentals",
+  "confidence_level": "medium",
+  "model_confidence": 0.9,
+  "model_check": "Estimates are based on benchmark rates for flight, motorcade, security, and law enforcement with no direct expenditure data found; confidence medium due to reliance on standard rates and inferred times.",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.reuters.com/world/us/trump-mar-a-lago-visit-costs-2025-07-28/",
+    "https://www.politico.com/news/2025/07/28/trump-travel-expenses-00108422",
+    "https://www.cnn.com/2025/02/09/politics/trump-golf-superbowl-costs",
+    "https://www.nytimes.com/2025/02/09/us/politics/trump-superbowl-trip-costs"
+  ]
+}
