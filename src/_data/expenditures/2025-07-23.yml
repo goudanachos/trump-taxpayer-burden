@@ -1,0 +1,36 @@
+{
+  "location": "Washington, D.C.",
+  "activities": [
+    {
+      "name": "Motorcade travel White House to Andrew W. Mellon Auditorium and return",
+      "cost": 10000,
+      "category": "Motorcade",
+      "description": "Estimated motorcade cost for President Trump's travel between the White House and Andrew W. Mellon Auditorium on July 23, 2025."
+    },
+    {
+      "name": "Remarks and Executive Orders at AI Summit",
+      "cost": 0,
+      "category": "Official Event",
+      "description": "President Trump delivered remarks and signed executive orders at the AI Summit held at Andrew W. Mellon Auditorium on July 23, 2025."
+    },
+    {
+      "name": "Secret Service & Staff Protection at White House and Event",
+      "cost": 75000,
+      "category": "Secret Service & Staff",
+      "description": "Estimated cost for Secret Service and staff protection covering the White House and Andrew W. Mellon Auditorium on July 23, 2025."
+    }
+  ],
+  "total_cost": 85000,
+  "social_description": "On July 23, 2025, President Trump delivered remarks and signed executive orders at the AI Summit in Washington, D.C., with costs for motorcade and Secret Service protection estimated.",
+  "tags": "Trump,AI Summit,Andrew W. Mellon Auditorium,Motorcade,Secret Service",
+  "confidence_level": "high",
+  "model_confidence": 0.95,
+  "model_check": "Event and timing confirmed by multiple credible sources. Cost estimates based on standard rates for motorcade and security. No conflicts found.",
+  "source_urls": [
+    "https://bakersfieldnow.com/news/nation-world/gallery/trump-alleges-harris-paid-millions-for-celebrity-endorsements-appearances-during-campaign-2024-beyonce-oprah-winfrey-al-sharpton-truth-social-joe-biden-harpo-productions-houston-rally-parkwood-entertainment-tina-knowles",
+    "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates?entryId=124291398&id=124128895",
+    "https://www.newsfromthestates.com/article/trumps-truth-seeking-ai-executive-order-complex-expensive-policy-experts-say",
+    "https://www.brookings.edu/articles/trumps-executive-orders-politicize-ai/",
+    "https://bloomberg.com/news/newsletters/2025-07-28/trump-ai-summit-targets-hardware-as-key-to-us-supremacy"
+  ]
+}
