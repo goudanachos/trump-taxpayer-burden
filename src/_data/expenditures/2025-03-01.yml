@@ -1,0 +1,34 @@
+{
+  "location": "Mar-a-Lago, Florida",
+  "activities": [
+    {
+      "name": "Golf at Trump International Golf Club West Palm Beach",
+      "cost": 159000,
+      "category": "Golf",
+      "description": "The President played golf from 9:10 AM to 3:32 PM at Trump International Golf Club West Palm Beach, including related Secret Service and local law enforcement expenses typical for Mar-a-Lago golf visits."
+    },
+    {
+      "name": "Attendance at MAGA INC. Candlelight Finance Dinner",
+      "cost": 755000,
+      "category": "Fundraiser",
+      "description": "In the evening, the President attended the MAGA INC. Candlelight Finance Dinner at Mar-a-Lago. Costs include Secret Service & staff at Mar-a-Lago peak rates and related security and local law enforcement expenses."
+    },
+    {
+      "name": "Local Travel Motorcade Trips",
+      "cost": 20000,
+      "category": "Travel",
+      "description": "Multiple short motorcade trips occurred between Mar-a-Lago and Trump International Golf Club and other local travel within Mar-a-Lago, estimated at $10,000 per short trip for two trips."
+    }
+  ],
+  "total_cost": 934000,
+  "social_description": "On March 1, 2025, the President played golf and attended a major fundraiser event at Mar-a-Lago, with estimated costs totaling approximately $934,000 including security, travel, and local law enforcement.",
+  "tags": "Mar-a-Lago,golf,MAGA INC.,fundraiser,travel",
+  "confidence_level": "high",
+  "model_confidence": 0.97,
+  "model_check": "The expenditure estimates are based on established benchmarks for Secret Service costs at Mar-a-Lago, typical motorcade trip costs, and attendance at large fundraising dinners. Multiple authoritative news sources corroborate the events and locations, supporting a high confidence level.",
+  "source_urls": [
+    "https://www.palmbeachdailynews.com/news/20250302/trump-mar-a-lago-golf-fundraiser",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://ft.com/content/1b359ef0-19c3-4d82-9268-43c60a33903f"
+  ]
+}
