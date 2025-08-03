@@ -1,0 +1,41 @@
+{
+  "location": "The White House, Washington, DC; Joint Base Andrews; Kerrville, TX; Bedminster, NJ",
+  "activities": [
+    {
+      "name": "Air Force One flight",
+      "cost": 533529,
+      "category": "Air Transportation",
+      "description": "3 hours total flight time estimated for Air Force One travel from The White House to Kerrville, TX, and return to Bedminster, NJ on July 11, 2025. Rate applied at $177,843 per flight hour."
+    },
+    {
+      "name": "Local motorcade and ground transportation",
+      "cost": 15000,
+      "category": "Ground Transportation",
+      "description": "Estimated motorcade and local transportation costs during the President's travel on July 11, 2025."
+    },
+    {
+      "name": "Secret Service and staff",
+      "cost": 75000,
+      "category": "Security and Staff",
+      "description": "Standard daily cost for Secret Service and staff supporting the President during travel and events on July 11, 2025."
+    },
+    {
+      "name": "Incidentals",
+      "cost": 9000,
+      "category": "Miscellaneous",
+      "description": "Estimated incidental expenses including logistics and event support on July 11, 2025."
+    }
+  ],
+  "total_cost": 632529,
+  "social_description": "On July 11, 2025, President Trump traveled from The White House to Kerrville, TX, and returned to Bedminster, NJ. Total estimated taxpayer cost including Air Force One, motorcade, Secret Service, and incidentals is approximately $632,529.",
+  "tags": "White House,Joint Base Andrews,Kerrville,TX,Bedminster,Air Force One,Secret Service,Motorcade",
+  "confidence_level": "medium",
+  "model_confidence": 0.9,
+  "model_check": "Flight duration estimated using typical flight times between locations with Air Force One rate applied. Motorcade and Secret Service costs applied based on standards. Incidentals estimated conservatively. Medium confidence due to scheduling confirmation but lack of explicit detailed expenses.",
+  "source_urls": [
+    "https://dailystar.co.uk/news/us-news/trump-tees-we-love-you-35626070",
+    "https://www.texastribune.org/2025/07/31/cruz-noaa-radio-modernization-texas-flooding/",
+    "https://news4sanantonio.com/news/instagram/thursday-lawmakers-visit-kerrville-to-address-july-4-flooding-hill-country-texas-san-antonio-hearing-disaster-weather-mental-health",
+    "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates?entryId=124291398&id=124128895"
+  ]
+}
