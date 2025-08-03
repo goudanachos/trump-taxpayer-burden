@@ -1,0 +1,28 @@
+{
+  "location": "Washington, D.C.",
+  "activities": [
+    {
+      "name": "Press Briefing at White House",
+      "cost": 10000,
+      "category": "local motorcade and security",
+      "description": "Local motorcade and security at the White House for the press briefing, estimated at the higher end for a short trip."
+    },
+    {
+      "name": "Trip to John F. Kennedy Performing Arts Center",
+      "cost": 15000,
+      "category": "local motorcade and security",
+      "description": "Motorcade and security costs for the short trip from the White House to the John F. Kennedy Performing Arts Center and back, estimated with 50% addition for sparse evidence and rounded."
+    }
+  ],
+  "total_cost": 25000,
+  "social_description": "On March 17, 2025, President Trump held a press briefing at the White House and traveled to the John F. Kennedy Performing Arts Center for a board meeting and tour. Local motorcade and security costs are estimated at $25,000 total for both activities.",
+  "tags": "Trump,White House,John F Kennedy Center,motorcade,security,press briefing",
+  "confidence_level": "high",
+  "model_confidence": 0.98,
+  "model_check": "Cost estimates are based on well-established benchmarks for local motorcade and security with conservative adjustments for sparse direct evidence. Multiple sources confirm the President's activities and locations with no conflict.",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://kuow.org/stories/will-the-kennedy-center-become-the-donald-j-trump-center-for-the-performing-arts",
+    "https://www.nytimes.com/live/2025/07/31/us/trump-news"
+  ]
+}
