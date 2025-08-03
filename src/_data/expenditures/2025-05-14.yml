@@ -1,0 +1,39 @@
+{
+  "location": "Riyadh, Saudi Arabia and Doha, Qatar",
+  "activities": [
+    {
+      "name": "Air Force One flight Riyadh to Doha",
+      "cost": 266765,
+      "category": "VC-25A (Air Force One)",
+      "description": "Approx. 1.5-hour flight on Air Force One from King Khalid International Airport (Riyadh) to Hamad International Airport (Doha). Costed at $177,843 per flight hour plus 50% sparse evidence premium."
+    },
+    {
+      "name": "Local motorcade and Marine One operations",
+      "cost": 15000,
+      "category": "Local motorcade and Marine One",
+      "description": "Estimated local motorcade cost for travel between venues and Marine One support during international visits."
+    },
+    {
+      "name": "Secret Service and staff presence",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Standard resort-level Secret Service and staff costs for international visits."
+    },
+    {
+      "name": "Local law enforcement and incidentals",
+      "cost": 15000,
+      "category": "Local law enforcement and incidentals",
+      "description": "Estimated costs for local law enforcement support and incidentals during the visit in Riyadh and Doha."
+    }
+  ],
+  "total_cost": 371780,
+  "social_description": "Estimated taxpayer cost for Trump's May 14, 2025 international visit includes Air Force One flights, motorcades, Secret Service, and local law enforcement support totaling about $372K.",
+  "tags": "trump,international,gulf cooperation council,qatar,riyadh,doha,travel,security,air force one",
+  "confidence_level": "medium",
+  "model_confidence": 0.85,
+  "model_check": "Calculated estimates rely on approved benchmarks with a 50% overhead for sparse direct cost data. Confidence is medium due to indirect data and no direct expenditure disclosures.",
+  "source_urls": [
+    "https://aviationa2z.com/index.php/2025/07/27/best-airports-in-world-in-2025-50-60-million-passengers/",
+    "https://www.travelandtourworld.com/news/article/hamad-hong-kong-frankfurt-and-more-exploring-the-top-airports-handling-about-sixty-million-passengers-in-2025-heres-all-you-need-to-know/"
+  ]
+}
