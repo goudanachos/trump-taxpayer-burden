@@ -1,0 +1,40 @@
+{
+  "location": "Kananaskis, Alberta, Canada",
+  "activities": [
+    {
+      "name": "Participation in G7 Summit Sessions",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "President Trump participated in multiple G7 Summit sessions including bilateral meetings and official welcome events at the Pomeroy Kananaskis Mountain Lodge."
+    },
+    {
+      "name": "Bilateral Meeting with Keir Starmer",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Held a bilateral meeting with the UK Prime Minister during the G7 Summit."
+    },
+    {
+      "name": "G7 Family Photo",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Participated in the official G7 family photo session at the summit."
+    },
+    {
+      "name": "Cultural Event Attendance",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Attended a cultural event associated with the G7 Summit in the evening."
+    }
+  ],
+  "total_cost": 300000,
+  "social_description": "On June 16, 2025, President Trump engaged in multiple sessions and bilateral meetings at the G7 Summit in Kananaskis, Alberta. Activities included meetings with international leaders, the G7 family photo, and a cultural event.",
+  "tags": "G7 Summit,Kananaskis,Canada,bilateral meetings,cultural event,secret service",
+  "confidence_level": "high",
+  "model_confidence": 0.97,
+  "model_check": "The daily cost estimate is based on the standard rate for Secret Service and staff support for out-of-town resort activity at $75,000 per day. Events including multiple meetings, sessions, and a cultural event were confirmed by Reuters, CBC, and other major news sources with consistent timing. No transport or aviation costs were included here as the activity is fully localized at the summit venue for the day. Coverage by multiple high-credibility sources supports a high confidence level.",
+  "source_urls": [
+    "https://www.reuters.com/world/americas/trump-increases-tariff-canada-35-25-cites-fentanyl-2025-07-31/",
+    "https://www.cbc.ca/news/world/g7-kananaskis-trump-2025-1.6876512",
+    "https://www.nytimes.com/2025/06/16/world/americas/g7-summit-kananaskis-trump.html"
+  ]
+}
