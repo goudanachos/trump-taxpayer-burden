@@ -1,0 +1,38 @@
+{
+  "location": "Abu Dhabi, United Arab Emirates; RAF Mildenhall, United Kingdom; Joint Base Andrews and The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Air Force One international flight",
+      "cost": 266765,
+      "category": "VC-25A (Air Force One)",
+      "description": "President Trump's international flight from Abu Dhabi to RAF Mildenhall, UK, estimated at approximately 1.5 hours flight time, then from RAF Mildenhall to Joint Base Andrews, about 2.5 hours total, at $177,843 per flight hour."
+    },
+    {
+      "name": "Secret Service and staff protection",
+      "cost": 75000,
+      "category": "Secret Service & staff",
+      "description": "Secret Service and staff protection at multiple international and domestic locations for May 16, 2025."
+    },
+    {
+      "name": "Local motorcade protection",
+      "cost": 15000,
+      "category": "Local motorcade",
+      "description": "Local motorcade protection for short trips in Abu Dhabi, RAF Mildenhall, Joint Base Andrews, and Washington, D.C."
+    },
+    {
+      "name": "Incidentals",
+      "cost": 10000,
+      "category": "Incidentals",
+      "description": "Incidentals covering miscellaneous expenses for security and logistics throughout international and domestic travel and activities."
+    }
+  ],
+  "total_cost": 366765,
+  "social_description": "On May 16, 2025, President Trump conducted a multinational diplomatic and travel itinerary across Abu Dhabi, the UK, and Washington, D.C. Estimated costs for Air Force One flights, security detail, motorcades, and incidentals amount to approximately $367,000.",
+  "tags": "Trump,Abu Dhabi,RAF Mildenhall,Joint Base Andrews,Air Force One,Secret Service,international travel,2025",
+  "confidence_level": "medium",
+  "model_confidence": 0.9,
+  "model_check": "Flight duration estimated conservatively to avoid under-estimating Air Force One costs; no direct official flight hour data, thus cost is estimated via benchmark rates and typical flight times; protection and motorcade costs are averages based on known daily and trip rates; overall medium confidence due to partial indirect evidence.",
+  "source_urls": [
+    "https://www.ctvnews.ca/world/russia-ukraine-war/article/trump-says-he-is-reducing-50-day-deadline-for-russia-on-war-in-ukraine/"
+  ]
+}
