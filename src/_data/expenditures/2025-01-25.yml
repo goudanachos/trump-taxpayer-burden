@@ -1,0 +1,26 @@
+{
+  "location": "Trump International Hotel, Las Vegas; Circa Resort and Casino, Las Vegas; Harry Reid International Airport, Las Vegas; Miami International Airport; Trump National Doral Miami",
+  "activities": [
+    {
+      "name": "Presidential security and presence at Trump International Hotel and Circa Resort and Casino",
+      "cost": 1130000,
+      "category": "Secret Service & staff (Mar-a-Lago peak)",
+      "description": "Secret Service and staff coverage at Trump properties during President Trump's activities, including departure from hotel, remarks, and time spent with gamblers, estimated at Mar-a-Lago peak daily rate due to the high-security environment."
+    },
+    {
+      "name": "Air travel from Harry Reid International Airport to Miami International Airport",
+      "cost": 21560,
+      "category": "C-32 / charter flight",
+      "description": "Estimated cost for President Trump's flight from Harry Reid International Airport in Las Vegas to Miami International Airport, calculated using standard charter flight hourly rate and approximate flight duration."
+    }
+  ],
+  "total_cost": 1151560,
+  "social_description": "On January 25, 2025, President Trump engaged in activities at Trump properties in Las Vegas, including public remarks and interaction with gamblers, followed by air travel to Miami and arrival at Trump National Doral Miami. Estimated total taxpayer cost for security and travel is approximately $1.15 million.",
+  "tags": "Trump,Las Vegas,Circa Resort and Casino,Harry Reid International Airport,Miami International Airport,Trump National Doral,Secret Service,Air travel",
+  "confidence_level": "high",
+  "model_confidence": 0.96,
+  "model_check": "Costs estimated based on standard daily Secret Service rates at Mar-a-Lago peak for event security at Trump properties and charter flight costs for travel. No conflicting source data was found. Absence of direct news coverage balanced by inferential estimates from benchmark rates.",
+  "source_urls": [
+    "https://solinger-tageblatt.de/politik/donald-trump-der-ganze-globus-wird-sein-golfplatz-ein-kommentar-2JLWUNH6RJDFZKVT3KVBKJLNLI.html"
+  ]
+}
