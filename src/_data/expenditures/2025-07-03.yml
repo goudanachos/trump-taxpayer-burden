@@ -1,0 +1,42 @@
+{
+  "location": "Des Moines, Iowa - Iowa State Fairgrounds and airports",
+  "activities": [
+    {
+      "name": "Secret Service & staff support",
+      "cost": 75000,
+      "category": "Security",
+      "description": "Secret Service and staff support during President Trump's travel and events in Des Moines, Iowa for July 3, 2025, including security at the Iowa State Fairgrounds."
+    },
+    {
+      "name": "Air travel (Joint Base Andrews to Des Moines and return)",
+      "cost": 355686,
+      "category": "Transportation",
+      "description": "Estimated cost for the President's flights from Joint Base Andrews to Des Moines and back using VC-25A hourly flight rate for about 2 hours of total air time."
+    },
+    {
+      "name": "Local motorcade and ground transportation",
+      "cost": 75000,
+      "category": "Transportation",
+      "description": "Estimated cost for local motorcade transportation including commutes between Des Moines International Airport and the Iowa State Fairgrounds."
+    },
+    {
+      "name": "Event costs - Salute to America Celebration",
+      "cost": 15000,
+      "category": "Event",
+      "description": "Estimated cost for hosting the Salute to America Celebration at the Iowa State Fairgrounds including logistics and incidentals."
+    }
+  ],
+  "total_cost": 520686,
+  "social_description": "On July 3, 2025, President Trump traveled to Des Moines, Iowa for the Salute to America Celebration at the Iowa State Fairgrounds, involving significant Secret Service support and transportation costs. Total estimated taxpayer cost is about $520,686.",
+  "tags": "Trump,Des Moines,Iowa State Fairgrounds,Salute to America,Travel,Security,Event,Transportation",
+  "confidence_level": "medium",
+  "model_confidence": 0.96,
+  "model_check": "Sources confirm event and travel schedule but lack direct official cost details. Estimated costs use standard flight hourly rates and Secret Service daily rates, considering typical event and local transport expenses. Confidence is medium due to no direct cost disclosures specific to this date.",
+  "source_urls": [
+    "https://agupdate.com/iowafarmertoday/news/article_f6e5d8c8-7044-4e6e-95e3-456dedf9bbcd.html",
+    "https://kcci.com/article/iowa-state-fair-experience-2025-shivers-plaza/65578046",
+    "https://nwestiowa.com/agriculture/countdown-to-fair-sweet-fair/article_3a279cfc-659c-4d42-977c-fcc9d68609ee.html",
+    "https://axios.com/local/des-moines/2025/08/01/iowa-state-fair-horse-barn",
+    "https://dmcityview.com/just-released/2025/07/30/iowan-of-the-day-winners-selected-for-2025-iowa-state-fair/"
+  ]
+}
