@@ -1,0 +1,36 @@
+{
+  "location": "Washington, D.C. and Florida (The White House, Department of Justice, Joint Base Andrews, Palm Beach International Airport, Mar-a-Lago)",
+  "activities": [
+    {
+      "name": "Secret Service and staff at The White House and Department of Justice",
+      "cost": 75000,
+      "category": "Security",
+      "description": "Typical daily Secret Service and staff deployment supporting President Trump at The White House and Department of Justice events."
+    },
+    {
+      "name": "Local motorcade trips",
+      "cost": 15000,
+      "category": "Transportation",
+      "description": "Estimated cost for motorcade trips between The White House, Department of Justice, and Joint Base Andrews."
+    },
+    {
+      "name": "Air travel via VC-25A (Air Force One)",
+      "cost": 177843,
+      "category": "Transportation",
+      "description": "Estimated Air Force One flight from Joint Base Andrews to Palm Beach International Airport (approximate 1-hour flight)."
+    },
+    {
+      "name": "Secret Service and staff at Mar-a-Lago peak",
+      "cost": 1130000,
+      "category": "Security",
+      "description": "Peak-level Secret Service and staff protection for President Trump's presence at Mar-a-Lago."
+    }
+  ],
+  "total_cost": 1393840,
+  "social_description": "On March 14, 2025, President Trump engaged in White House and Department of Justice events, traveled via Air Force One to Mar-a-Lago, incurring estimated taxpayer costs of approximately $1.39M for security, motorcade, and flight expenses.",
+  "tags": "White House,Department of Justice,Joint Base Andrews,Mar-a-Lago,Secret Service,Air Force One,motorcade,security,transportation",
+  "confidence_level": "medium",
+  "model_confidence": 0.86,
+  "model_check": "Estimate is based on standard benchmarks due to lack of direct reporting for the specific date but aligns with expected costs for these activities and locations, using upper plausible cost values with uplift for confidence.",
+  "source_urls": []
+}
