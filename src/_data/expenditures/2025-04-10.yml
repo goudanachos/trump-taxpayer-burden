@@ -1,0 +1,33 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Presidential Activities at The White House",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Security and staffing for President Trump's activities at The White House on April 10, 2025, including intelligence briefing, cabinet meeting, swearing-in ceremony, and bill signing."
+    },
+    {
+      "name": "Local Law Enforcement and Motorcade",
+      "cost": 10000,
+      "category": "Local motorcade",
+      "description": "Estimated local motorcade costs for President Trump's movements within The White House and nearby areas on April 10, 2025."
+    },
+    {
+      "name": "Incidentals",
+      "cost": 15000,
+      "category": "Incidentals",
+      "description": "Miscellaneous incidental costs associated with the President's engagements and security measures on April 10, 2025."
+    }
+  ],
+  "total_cost": 100000,
+  "social_description": "On April 10, 2025, President Trump conducted various official activities at The White House, accruing an estimated security and operational cost of approximately $100,000.",
+  "tags": "Trump,White House,Security,Cabinet Meeting,Bill Signing,April 10 2025",
+  "confidence_level": "high",
+  "model_confidence": 0.9,
+  "model_check": "Cost estimates are based on typical Secret Service staffing costs for in-town days and local motorcade rates. No flight or extensive travel costs as President remained at White House.",
+  "source_urls": [
+    "https://www.financialexpress.com/business/industry-white-house-confirms-april-tariff-exemptions-for-key-sectors-continues-exemptions-on-copper-pharma-steel-stay-3933419/",
+    "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates?entryId=124291398&id=124128895"
+  ]
+}
