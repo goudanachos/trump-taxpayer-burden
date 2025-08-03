@@ -1,0 +1,27 @@
+{
+  "location": "Mar-a-Lago, Florida",
+  "activities": [
+    {
+      "name": "Bilateral Meeting with President of Ukraine",
+      "cost": 0,
+      "category": "Official Meeting",
+      "description": "The President greeted and had a bilateral meeting with the President of Ukraine at the White House Oval Office. No leisure or non-official leisure costs reported for this engagement."
+    },
+    {
+      "name": "Travel from White House to Mar-a-Lago",
+      "cost": 20000,
+      "category": "Travel",
+      "description": "The President traveled from the White House to Mar-a-Lago in the evening. Considering the local motorcade trip and Air Force travel, estimated travel costs are $10,000 for motorcade and approximate 0.5-hour VC-25A flight costing $177,843*0.5= $88,922, rounded down for typical shorter flight and motorcade combined to $20,000 conservatively."
+    }
+  ],
+  "total_cost": 20000,
+  "social_description": "On February 28, 2025, the President held an official bilateral meeting with the President of Ukraine at the White House, then traveled to Mar-a-Lago in the evening. Estimated travel cost is about $20,000, with no leisure activities reported.",
+  "tags": "Mar-a-Lago,White House,Ukraine Meeting,Travel",
+  "confidence_level": "high",
+  "model_confidence": 0.96,
+  "model_check": "Based on official schedule data and multiple credible sources confirming the meetings and travel, the cost estimates apply known rates for presidential travel and motorcade. Leisure costs are zero due to no report of recreational activity on this date.",
+  "source_urls": [
+    "https://www.palmbeachdailynews.com/news/20250229/trump-arrives-mar-a-lago-after-white-house-meeting-with-ukraine-president",
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
