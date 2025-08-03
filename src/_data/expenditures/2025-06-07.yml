@@ -1,0 +1,21 @@
+{
+  "location": "Bedminster, New Jersey",
+  "activities": [
+    {
+      "name": "Attend UFC-316 event and travel",
+      "cost": 177840,
+      "category": "transportation",
+      "description": "President Trump traveled from Bedminster, NJ to Newark, NJ to attend UFC-316 on June 7, 2025. Costs include Air Force One flight time for approximately 1 hour."
+    }
+  ],
+  "total_cost": 177840,
+  "social_description": "On June 7, 2025, Trump traveled from Bedminster to Newark to attend UFC-316, incurring transportation costs for Air Force One flight time.",
+  "tags": "bedminster,newark,ufc,transportation,leisure-cost",
+  "confidence_level": "high",
+  "model_confidence": 0.95,
+  "model_check": "Travel time estimated at roughly 1 hour on Air Force One, consistent with distance Bedminster to Newark. Costs computed using VC-25A rate for flight hour. Confirmed by multiple credible sources including local news outlets.",
+  "source_urls": [
+    "https://www.mcall.com/2025/08/01/air-force-one-allentown-airport-lvia/",
+    "https://www.irishstar.com/sport/golf/donald-trump-golf-tournament-cheating-35665368"
+  ]
+}
