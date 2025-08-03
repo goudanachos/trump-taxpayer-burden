@@ -1,0 +1,34 @@
+{
+  "location": "Washington, D.C. and Bedminster, New Jersey",
+  "activities": [
+    {
+      "name": "AI Summit at Andrew W. Mellon Auditorium",
+      "cost": 0,
+      "category": "Official Event",
+      "description": "President Trump delivered remarks and signed executive orders at the AI Summit held at the Andrew W. Mellon Auditorium on July 23, 2025."
+    },
+    {
+      "name": "Travel to Bedminster Golf Course",
+      "cost": 177843,
+      "category": "Air Force One Usage",
+      "description": "President Trump departed from the White House and traveled to Bedminster golf course, likely using Air Force One and Marine One on July 23, 2025. The estimated Air Force One flight hour cost was applied."
+    },
+    {
+      "name": "Golfing at Bedminster",
+      "cost": 10000,
+      "category": "Local Motorcade & Security",
+      "description": "President Trump spent time golfing at his Bedminster, New Jersey golf course. Estimated local motorcade and incidentals including law enforcement and transport costs were applied."
+    }
+  ],
+  "total_cost": 187843,
+  "social_description": "On July 23, 2025, President Trump participated in the AI Summit at the Mellon Auditorium before traveling to his Bedminster golf course for recreation.",
+  "tags": "trump,golf,bedminster,ai summit,white house,travel",
+  "confidence_level": "medium",
+  "model_confidence": 0.95,
+  "model_check": "Cost estimates are based on typical Air Force One hourly rates and known local transport costs for Bedminster. Some event details, such as exact transportation durations or additional security specifics, are not detailed in sources, resulting in medium confidence.",
+  "source_urls": [
+    "https://www.mcall.com/2025/08/01/air-force-one-allentown-airport-lvia/",
+    "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates",
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
