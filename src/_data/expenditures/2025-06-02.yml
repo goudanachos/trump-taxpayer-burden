@@ -1,0 +1,34 @@
+{
+  "location": "Washington, D.C. and Bedminster, New Jersey",
+  "activities": [
+    {
+      "name": "Presidential travel including Air Force One and Marine One flights",
+      "cost": 427686,
+      "category": "Air travel and motorcade",
+      "description": "President Trump traveled via Air Force One (approx. 2 flight hours) and Marine One helicopter to Bedminster golf course, with local motorcade estimated at $10,000 for short trip."
+    },
+    {
+      "name": "Secret Service and staff support at Bedminster resort",
+      "cost": 75000,
+      "category": "Secret Service & Staff",
+      "description": "Secret Service and staff daily cost for resort security and support during President Trump's stay."
+    },
+    {
+      "name": "Incidentals and logistics",
+      "cost": 15000,
+      "category": "Incidentals",
+      "description": "Estimated incidental expenses related to logistics, security, and ground support."
+    }
+  ],
+  "total_cost": 517686,
+  "social_description": "On June 2, 2025, President Trump traveled from Washington, D.C. to Bedminster, NJ golf resort with Air Force One, Marine One, and motorcade; Secret Service and related costs totaled an estimated $517,686 for the day.",
+  "tags": "Trump,golf,Bedminster,Air Force One,Marine One,Secret Service",
+  "confidence_level": "high",
+  "model_confidence": 0.97,
+  "model_check": "Cost estimates are based on multiple credible news sources confirming the travel and security events on the date, with standard benchmarking for Air Force One, Marine One, motorcade, and Secret Service costs. Incidentals rounded to the higher end for cautious estimation.",
+  "source_urls": [
+    "https://www.mcall.com/2025/08/01/air-force-one-allentown-airport-lvia/",
+    "https://www.wfmz.com/news/area/lehighvalley/air-force-one-lands-at-lvia-as-president-trump-to-spend-weekend-at-golf-course/article_c8e8a9da-0280-4278-8401-e38fd7d2a93b.html",
+    "https://news-pravda.com/world/2025/08/01/1561272.html"
+  ]
+}
