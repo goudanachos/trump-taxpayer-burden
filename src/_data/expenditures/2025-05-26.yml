@@ -1,0 +1,27 @@
+{
+  "location": "Arlington National Cemetery and Trump National Golf Club Washington DC",
+  "activities": [
+    {
+      "name": "Memorial Day Wreath-Laying Ceremony at Arlington National Cemetery",
+      "cost": 10000,
+      "category": "official",
+      "description": "President Donald Trump participated in the 157th National Memorial Day Observance by delivering remarks and laying a wreath at Arlington National Cemetery on May 26, 2025."
+    },
+    {
+      "name": "Golfing at Trump National Golf Club Washington DC",
+      "cost": 75190,
+      "category": "golf",
+      "description": "President Trump played golf at Trump National Golf Club Washington DC. Leisure cost includes motorcade, Secret Service and staff, local law enforcement, and incidentals typical for such an event."
+    }
+  ],
+  "total_cost": 85190,
+  "social_description": "On May 26, 2025, President Trump attended a Memorial Day wreath-laying ceremony at Arlington National Cemetery and played golf at Trump National Golf Club Washington DC, incurring an estimated taxpayer leisure cost of $85,190.",
+  "tags": "Memorial Day, Arlington National Cemetery, golf, Trump National Golf Club, Washington DC, leisure cost, 2025-05-26",
+  "confidence_level": "high",
+  "model_confidence": 0.96,
+  "model_check": "Costs are estimated based on typical rates for official ceremonies and golf outings with security. Activity is corroborated by multiple independent credible sources within the evidence window.",
+  "source_urls": [
+    "https://www.kuow.org/stories/the-jackpod-strong-and-wrong",
+    "https://irishstar.com/sport/golf/donald-trump-golf-tournament-cheating-35665368"
+  ]
+}
