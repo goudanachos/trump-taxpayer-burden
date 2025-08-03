@@ -1,0 +1,20 @@
+{
+  "date": "2024-05-10",
+  "expenses": {
+    "museumVisit": {
+      "location": "City Art Museum",
+      "amount": 12.75,
+      "description": "adult admission"
+    },
+    "trainTicket": {
+      "service": "Public Transit Authority",
+      "amount": 3.5,
+      "description": "round-trip light-rail fare"
+    },
+    "parkStroll": {
+      "location": "Grandview Botanical Garden",
+      "amount": 0,
+      "description": "free entry day"
+    }
+  }
+}
