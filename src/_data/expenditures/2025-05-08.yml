@@ -1,0 +1,13 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [],
+  "total_cost": 0,
+  "social_description": "On May 8, 2025, President Trump stayed at The White House without public leisure or recreational activities, resulting in no taxpayer-funded recreational spending.",
+  "tags": "trump,the white house,no leisure spending,2025-05-08",
+  "confidence_level": "high",
+  "model_confidence": 0.95,
+  "model_check": "Schedule and news sources show no leisure or recreational activities incurring additional taxpayer costs beyond normal operations at The White House.",
+  "source_urls": [
+    "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=124128895"
+  ]
+}
