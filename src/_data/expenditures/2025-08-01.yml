@@ -1,0 +1,33 @@
+{
+  "location": "Bedminster, New Jersey",
+  "activities": [
+    {
+      "name": "Air Force One Flight to Lehigh Valley International Airport",
+      "cost": 177843,
+      "category": "VC-25A Air Force One flight",
+      "description": "President Trump's VC-25A Air Force One flight from The White House to Lehigh Valley International Airport near Allentown, PA en route to Bedminster, NJ."
+    },
+    {
+      "name": "Marine One Flight to Bedminster",
+      "cost": 24000,
+      "category": "Marine One flight",
+      "description": "President Trump's Marine One helicopter flight from Lehigh Valley International Airport to Trump National Golf Club Bedminster, New Jersey."
+    },
+    {
+      "name": "Local Motorcade in Bedminster",
+      "cost": 10000,
+      "category": "Local motorcade",
+      "description": "President Trump's local motorcade transportation around Bedminster, including travel between the airport and golf club."
+    }
+  ],
+  "total_cost": 211843,
+  "social_description": "On August 1, 2025, President Trump traveled from The White House to Bedminster, NJ. He took Air Force One to Lehigh Valley International Airport near Allentown, then Marine One to Trump National Golf Club Bedminster, followed by local motorcade travel.",
+  "tags": "Trump,travel,Bedminster,golf,Air Force One,Marine One,local motorcade",
+  "confidence_level": "high",
+  "model_confidence": 0.98,
+  "model_check": "All costs are estimated using standard benchmarks for VC-25A, Marine One, and local motorcade as per August 2025 data. Multiple credible sources confirm travel itinerary and locations. No conflicting information found.",
+  "source_urls": [
+    "https://www.mcall.com/2025/08/01/air-force-one-allentown-airport-lvia/",
+    "https://news-pravda.com/world/2025/08/01/1561336.html"
+  ]
+}
