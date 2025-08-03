@@ -1,0 +1,30 @@
+{
+  "location": "Washington, DC",
+  "activities": [
+    {
+      "name": "Secret Service and Staff Protection",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Daily cost for Secret Service personnel and staff supporting President Trump at the White House on July 21, 2025."
+    },
+    {
+      "name": "Local Motorcade Transportation",
+      "cost": 10000,
+      "category": "Local motorcade",
+      "description": "Motorcade transportation for President Trump within Washington, DC, including travel to and from lunch and other activities."
+    },
+    {
+      "name": "Incidentals",
+      "cost": 8000,
+      "category": "Incidentals",
+      "description": "Miscellaneous incidentals related to security, logistics, and operational costs for the day's activities."
+    }
+  ],
+  "total_cost": 93000,
+  "social_description": "On July 21, 2025, President Trump conducted activities at the White House in Washington, DC including a lunch with the Vice President. Estimated public costs for security, motorcade, and incidentals amount to approximately $93,000.",
+  "tags": "Trump,White House,Washington DC,President,Secret Service,Motorcade,Security,Lunch",
+  "confidence_level": "medium",
+  "model_confidence": 0.95,
+  "model_check": "The cost estimates are benchmarked based on typical Secret Service, motorcade, and incidentals rates for White House days. There were no direct news reports on exact costs for this date; confidence is medium due to reliance on standard benchmarks without explicit source cost confirmation.",
+  "source_urls": []
+}
