@@ -1,0 +1,53 @@
+{
+  "location": "The White House; Walter Reed National Military Medical Center; Mar-a-Lago, Palm Beach, FL",
+  "activities": [
+    {
+      "name": "VC-25A (Air Force One) travel: Andrews–Palm Beach",
+      "cost": 338401,
+      "description": "President Trump traveled from Joint Base Andrews (Washington DC area) to Palm Beach International Airport. Estimated direct flight time ~1.9 hours. VC-25A (Air Force One) at $177,843/hr x 1.9 hr ≈ $338,401 (no support multiplier; single-leg only for this day).",
+      "category": "travel"
+    },
+    {
+      "name": "Secret Service & staff (peak off-site)",
+      "cost": 300000,
+      "description": "Full day included both residence and high-profile off-site activities, culminating in Mar-a-Lago overnight stay, April 11. GAO-19-178 upper-bound applies.",
+      "category": "security"
+    },
+    {
+      "name": "Local motorcade (WH–Walter Reed, JBA–Mar-a-Lago)",
+      "cost": 20000,
+      "description": "Motorcade support for two short local trips (WH–Walter Reed, then Palm Beach Airport–Mar-a-Lago), using $10,000 per short run precedent.",
+      "category": "local-transport"
+    },
+    {
+      "name": "Local law-enforcement assist (Palm Beach)",
+      "cost": 60000,
+      "description": "Palm Beach County/city police provided additional security and escort for Mar-a-Lago arrival. $60,000/day benchmark (see Frankel House, GAO-19-178).",
+      "category": "security"
+    },
+    {
+      "name": "Incidentals (cap 15%)",
+      "cost": 104760,
+      "description": "Incidentals capped at 15% of (travel + security), for federal logistics, tactical, and non-itemized costs specific to presidential overnight trip.",
+      "category": "incidentals"
+    }
+  ],
+  "total_cost": 823161,
+  "social_description": "April 11, 2025: Trump traveled from DC to Palm Beach, with stops at Walter Reed and Mar-a-Lago. Estimated taxpayer cost: ≈ $823k for flight, security, motorcade & police.",
+  "tags": [
+    "mar-a-lago",
+    "travel",
+    "presidential-leisure",
+    "walter-reed"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://time.com/4885934/white-house-helicopter-cost/",
+    "https://yahoo.com/news/articles/big-beautiful-bill-cover-pbsos-144833840.html"
+  ],
+  "social_title": "$823,161 for One Trip: Trump's DC to Palm Beach Vacation Cost More Than Most Americans Earn in 3 Years"
+}
