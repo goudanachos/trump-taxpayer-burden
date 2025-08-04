@@ -1,0 +1,48 @@
+{
+  "location": "Palm Beach, FL to Washington, D.C.",
+  "activities": [
+    {
+      "name": "VC-25A (Air Force One) flight PBI to JBA",
+      "cost": 106706,
+      "description": "Trump traveled from Palm Beach International Airport to Joint Base Andrews on Air Force One (VC-25A). The flight is approximately 0.6 hours, calculated at $177,843 per flight hour as per the 2025 benchmark, no additional support factor required.",
+      "category": "presidential-aircraft"
+    },
+    {
+      "name": "Secret Service and Staff (peak off-site day)",
+      "cost": 300000,
+      "description": "Full off-site peak Secret Service and federal staff support while President Trump was at Mar-a-Lago, golf club, and associated motorcade movements. This covers the high security needs of a Palm Beach leisure weekend, confirmed by recent budgeting and watchdog analyses.",
+      "category": "security"
+    },
+    {
+      "name": "Local law-enforcement (Palm Beach)",
+      "cost": 60000,
+      "description": "Palm Beach County and local police provided assistance for the visit and motorcade, with overtime compensation benchmarked at ~$60,000 per full-activation day. Federal funding reimbursed under new congressional appropriations for extraordinary security costs.",
+      "category": "local-police-assist"
+    },
+    {
+      "name": "Motorcade and incidentals",
+      "cost": 10000,
+      "description": "Short in-town motorcade for the Mar-a-Lago to golf club roundtrip, return to airport, and airport motorcade in D.C., estimated at $10,000 for all ground movements. Incidentals kept below 15% cap as no extraordinary event reported.",
+      "category": "transport"
+    }
+  ],
+  "total_cost": 476706,
+  "social_description": "On March 30, 2025, Trump flew Air Force One from Palm Beach to D.C. after a golf day: $477K in taxpayer costs—flight ($107K), peak Secret Service ($300K), Palm Beach police ($60K), and motorcade/incidentals ($10K).",
+  "tags": [
+    "mar-a-lago",
+    "golf",
+    "air-force-one",
+    "peak-security",
+    "local-police"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.helsinkitimes.fi/world-int/27567-trump-s-golf-habits-cost-taxpayers-over-60-million.html",
+    "https://the-independent.com/bulletin/news/trump-presidency-golf-properties-visit-b2798480.html",
+    "https://yahoo.com/news/articles/big-beautiful-bill-cover-pbsos-144833840.html",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://www.whitehouse.gov/briefings-statements/"
+  ],
+  "social_title": "$476,706 for One Day of Golf: $300,000 Just for Secret Service Protection"
+}
