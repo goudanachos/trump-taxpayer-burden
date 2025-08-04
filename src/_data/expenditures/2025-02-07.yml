@@ -1,0 +1,53 @@
+{
+  "location": "Washington, DC to Mar-a-Lago, Palm Beach, FL",
+  "activities": [
+    {
+      "name": "VC-25A (Air Force One): Andrews to Palm Beach",
+      "cost": 355686,
+      "description": "Estimated 2 hours of presidential jet transit from Washington, DC to Palm Beach per DoD/GAO cost guidelines.",
+      "category": "air-travel"
+    },
+    {
+      "name": "Marine One and motorcade transfers (DC and Palm Beach)",
+      "cost": 16000,
+      "description": "Helicopter and ground transport for president and entourage between White House, Joint Base Andrews, and Mar-a-Lago (includes both DC and Florida).",
+      "category": "transportation"
+    },
+    {
+      "name": "Secret Service and staff (peak off-site)",
+      "cost": 300000,
+      "description": "Security and logistical support for travel and Mar-a-Lago overnight (continued high posture).",
+      "category": "security"
+    },
+    {
+      "name": "Local law enforcement (Palm Beach County) assist",
+      "cost": 60000,
+      "description": "Palm Beach local police outlays supporting presidential stay, based on reimbursement precedent.",
+      "category": "security"
+    },
+    {
+      "name": "Incidentals (15% cap)",
+      "cost": 65000,
+      "description": "Miscellaneous logistics, staff meals, and handling, within federal reporting thresholds.",
+      "category": "incidentals"
+    }
+  ],
+  "total_cost": 797000,
+  "social_description": "On Feb 7, 2025, President Trump traveled from DC to Mar-a-Lago after bilateral meetings, with federal leisure outlays estimated at $797K for air, security, and logistics.",
+  "tags": [
+    "mar-a-lago",
+    "air-force-one",
+    "security-detail",
+    "travel-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://police1.com/legal/feds-will-pay-for-local-police-sheriffs-office-costs-for-trumps-visits-to-mar-a-lago",
+    "https://helsinkitimes.fi/world-int/27567-trump-s-golf-habits-cost-taxpayers-over-60-million.html",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive"
+  ],
+  "social_title": "$797,000 for One Day: Trump's Trip to Mar-a-Lago Costs as Much as 30 Average American Homes"
+}
