@@ -1,0 +1,42 @@
+{
+  "location": "Mar-a-Lago & Trump International Golf Club, West Palm Beach, FL",
+  "activities": [
+    {
+      "name": "Secret Service & staff (peak off-site security)",
+      "cost": 300000,
+      "description": "Secret Service presence at Mar-a-Lago and golf club at peak off-site rate, per GAO-19-178 and recent Palm Beach County security benchmarks.",
+      "category": "security"
+    },
+    {
+      "name": "Local law enforcement assist (Palm Beach County)",
+      "cost": 60000,
+      "description": "Estimated Palm Beach County sheriff and police activation per federal benchmarks; local agencies are reimbursed by federal funds for Trump’s visits to Mar-a-Lago and for motorcade security to the golf club.",
+      "category": "security"
+    },
+    {
+      "name": "Incidentals (transport, golf carts, minor logistics)",
+      "cost": 54000,
+      "description": "Capped at 15% of major travel + security, covers golf-related transportation, additional logistics, and miscellaneous federal incidentals for a full Mar-a-Lago/golf day.",
+      "category": "incidental"
+    }
+  ],
+  "total_cost": 414000,
+  "social_description": "Feb 1, 2025: Trump’s Mar-a-Lago & Palm Beach golf day cost taxpayers $414k in federal outlays—security, local police, and travel logistics. #TrumpCosts",
+  "tags": [
+    "mar-a-lago",
+    "golf",
+    "palm-beach",
+    "secret-service",
+    "leisure-spending"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://police1.com/legal/feds-will-pay-for-local-police-sheriffs-office-costs-for-trumps-visits-to-mar-a-lago",
+    "https://yahoo.com/news/articles/big-beautiful-bill-cover-pbsos-144833840.html",
+    "https://www.helsinkitimes.fi/world-int/27567-trump-s-golf-habits-cost-taxpayers-over-60-million.html"
+  ],
+  "social_title": "$414,000 Per Golf Day: Your Tax Dollars Cover Trump's Mar-a-Lago Trips"
+}
