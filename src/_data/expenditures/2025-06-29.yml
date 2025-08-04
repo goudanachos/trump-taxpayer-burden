@@ -1,0 +1,40 @@
+{
+  "location": "Trump National Golf Club Washington, D.C. / The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Peak Secret Service and presidential staff detail (off-site)",
+      "cost": 300000,
+      "description": "Full-day, off-site Secret Service and staff detail to protect President Trump during his visit to Trump National Golf Club Washington, D.C., per GAO and Congressional precedent for leisure trips to private properties.",
+      "category": "security"
+    },
+    {
+      "name": "Local law enforcement support (D.C. metro area)",
+      "cost": 60000,
+      "description": "Federal reimbursement for activated local law enforcement support to the Secret Service during presidential leisure outings, based on Palm Beach and Bedminster precedents.",
+      "category": "security-assist"
+    },
+    {
+      "name": "Routine on-site White House security (residual team)",
+      "cost": 75000,
+      "description": "Baseline White House Operations/Secret Service staffing even when President is away, per GAO-19-178 standard.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 435000,
+  "social_description": "On June 29, 2025, President Trump visited his D.C. golf club. Taxpayers paid about $435,000 for Secret Service, local law enforcement, and routine White House security.",
+  "tags": [
+    "golf",
+    "washington-dc",
+    "trump-property",
+    "secret-service",
+    "law-enforcement",
+    "presidential-leisure"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://helsinkitimes.fi/world-int/27567-trump-s-golf-habits-cost-taxpayers-over-60-million.html",
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927"
+  ],
+  "social_title": "$435,000 for one golf trip to his own property: The taxpayer security bill for Trump's leisure day"
+}
