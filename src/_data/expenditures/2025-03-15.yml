@@ -1,0 +1,49 @@
+{
+  "location": "Mar-a-Lago and Trump International Golf Club, West Palm Beach, FL",
+  "activities": [
+    {
+      "name": "Peak Secret Service & Security Operations (Mar-a-Lago/Palm Beach)",
+      "cost": 300000,
+      "description": "Full Secret Service and federal support staff for Trump’s presence at Mar-a-Lago and travels to the Trump golf club. Reflects documented $200,000–$300,000 daily federal outlay for Palm Beach security after assassination attempt.",
+      "category": "peak off-site security"
+    },
+    {
+      "name": "Local Law Enforcement Assist (Palm Beach)",
+      "cost": 60000,
+      "description": "Coordinated local police and Palm Beach Sheriff's Office details for presidential routes (Mar-a-Lago, golf club event). Recent federal budgets confirm routine reimbursement at or above $60,000/day for these outlays.",
+      "category": "local law-enforcement"
+    },
+    {
+      "name": "Local Motorcade (multiple short trips)",
+      "cost": 15000,
+      "description": "Estimated three motorcade operations (Mar-a-Lago⇄Golf Club, fundraising event), using GAO’s $5–10K/short trip and recent reporting.",
+      "category": "motorcade"
+    },
+    {
+      "name": "Incidentals (logistics, OT, ops; capped)",
+      "cost": 55500,
+      "description": "Logistics, overtime, and other minor expenses, capped at 15% of sum of primary travel, security, and law enforcement categories, per federal guidance.",
+      "category": "incidentals"
+    }
+  ],
+  "total_cost": 430500,
+  "social_description": "Mar 15, 2025: President Trump golfed and hosted a fundraising dinner at Mar-a-Lago. Estimated taxpayer cost: $430K for peak security, police, and motorcades. No Air Force One use recorded.",
+  "tags": [
+    "mar-a-lago",
+    "palm-beach",
+    "golf",
+    "fundraiser",
+    "motorcade",
+    "security"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.palmbeachpost.com/story/news/trump/2025/07/29/big-beautiful-bill-to-repay-pbso-some-costs-for-protecting-president-donald-trump/84479225007/",
+    "https://police1.com/legal/feds-will-pay-for-local-police-sheriffs-office-costs-for-trumps-visits-to-mar-a-lago",
+    "https://www.jsonline.com/story/news/2025/07/24/palm-beach-will-apply-for-federal-funds-to-cover-trump-security-costs/85321518007/",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://finance-monthly.com/trump-motorcade-security-costs"
+  ],
+  "social_title": "$430,500 for a Day of Golf: How Trump's Mar-a-Lago Visits Cost More Than Most People's Homes"
+}
