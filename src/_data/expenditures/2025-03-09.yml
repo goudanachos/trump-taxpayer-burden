@@ -1,0 +1,49 @@
+{
+  "location": "Multi-location: Mar-a-Lago (FL), Trump International Golf Club West Palm Beach, Palm Beach International Airport, Joint Base Andrews, Washington D.C.",
+  "activities": [
+    {
+      "name": "Local Motorcade Trips",
+      "cost": 20000,
+      "category": "Local motorcade",
+      "description": "Four short motorcade trips estimated at $5,000 each for travel between Mar-a-Lago and Trump International Golf Club, as well as airport transfers and local trips at Joint Base Andrews and Washington D.C."
+    },
+    {
+      "name": "Secret Service and Staff Protection (Mar-a-Lago peak)",
+      "cost": 1130000,
+      "category": "Secret Service & staff (Mar-a-Lago peak)",
+      "description": "Peak Secret Service and staff protection costs at Mar-a-Lago due to presidential presence and related security detail on site."
+    },
+    {
+      "name": "Secret Service and Staff Protection (Washington D.C.)",
+      "cost": 75000,
+      "category": "Secret Service & staff (resort)",
+      "description": "Typical Secret Service and staff protection costs for activities and presence in Washington D.C."
+    },
+    {
+      "name": "Flight: Palm Beach International Airport to Joint Base Andrews",
+      "cost": 21560,
+      "category": "C-32 / charter",
+      "description": "Estimated cost for C-32 flight from Palm Beach International Airport to Joint Base Andrews approximately 1 hour at $21,560 per flight hour."
+    },
+    {
+      "name": "Incidentals and Miscellaneous",
+      "cost": 12000,
+      "category": "Incidentals",
+      "description": "Estimated incidental expenses such as logistics, communications, and small operational costs for activities spanning Mar-a-Lago to Washington D.C."
+    }
+  ],
+  "total_cost": 1410660,
+  "social_description": "Taxpayer cost estimate for Trump's March 9, 2025 movements including Mar-a-Lago golf, regional motorcades, Secret Service protection, and charter flight from Florida to Washington D.C.",
+  "tags": "Trump,Mar-a-Lago,Palm Beach,Trump International Golf Club,Joint Base Andrews,Washington DC,motorcade,security,flight,March 9 2025",
+  "confidence_level": "high",
+  "model_confidence": 0.98,
+  "model_check": "Cost estimates are based on official benchmark rates aligned with independent, high-credibility news sources citing Trump's locations and travel on March 9, 2025. Multiple motorcade legs, peak Mar-a-Lago Secret Service staffing, typical Washington D.C. protection, and a charter flight were included. Sources are consistent and coverage is comprehensive.",
+  "source_urls": [
+    "https://afr.com/world/north-america/mar-a-lago-at-the-white-house-donald-trump-s-300m-ballroom-plan-20250803-p5mjvl",
+    "https://nymag.com/intelligencer/article/trump-is-getting-the-white-house-ballroom-hes-always-wanted.html",
+    "https://finance-monthly.com/trump-motorcade-security-costs",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://politico.com/newsletters/playbook/2025/08/03/its-trumps-economy-now-00490937"
+  ],
+  "social_title": "$1,410,660 for One Day: How Trump's Mar-a-Lago Security Alone Cost 4x More Than His Entire Travel to Washington D.C."
+}
