@@ -1,0 +1,56 @@
+{
+  "location": "Trump National Doral Miami to The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Air Force One flight from Miami to Andrews",
+      "cost": 400147,
+      "description": "Operation of VC-25A (Air Force One) for the President's flight from Miami International Airport to Joint Base Andrews (approx. 2.25 flight hours, no cargo), based on published government rates.",
+      "category": "air-transport"
+    },
+    {
+      "name": "Secret Service (peak off-site, Doral Miami)",
+      "cost": 300000,
+      "description": "Peak daily U.S. Secret Service and staff outlays for high-profile presidential presence and event at Trump Doral, per GAO-19-178.",
+      "category": "security"
+    },
+    {
+      "name": "Local law enforcement assist (Miami)",
+      "cost": 60000,
+      "description": "Estimated local police support expenditures for presidential visit and crowd control in Miami.",
+      "category": "security"
+    },
+    {
+      "name": "Motorcade and White House in-town movements",
+      "cost": 10000,
+      "description": "Motorcade and local security associated with travel to the White House upon return from Andrews.",
+      "category": "transport"
+    },
+    {
+      "name": "Incidentals (15% cap applied to travel and security)",
+      "cost": 115523,
+      "description": "Standard incidentals estimate reflecting per diem, logistics, and miscellaneous operational outlays per federal cost guidelines.",
+      "category": "incidental"
+    }
+  ],
+  "total_cost": 890000,
+  "social_description": "On Jan 27, 2025, Trump’s Miami-to-DC trip cost taxpayers $890k—covering Air Force One, full Secret Service security at Doral, motorcade, law enforcement, and incidentals.",
+  "tags": [
+    "air-force-one",
+    "secret-service",
+    "miami",
+    "doral",
+    "law-enforcement",
+    "motorcade",
+    "incidentals"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.theguardian.com/us-news/2025/mar/09/trump-golf-trips"
+  ],
+  "social_title": "$890,000 for Trump's Flight Home: $300,000 Alone for Security at His Own Florida Resort"
+}
