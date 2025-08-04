@@ -1,0 +1,41 @@
+{
+  "location": "Trump National Golf Club Washington DC; White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Secret Service & staff (peak off-site)",
+      "cost": 300000,
+      "description": "High-level off-site Secret Service and support costs for presidential golf travel, consistent with peak single-day federal outlays for off-site protection according to GAO and 2025 reporting.",
+      "category": "security"
+    },
+    {
+      "name": "Local police & law-enforcement assist",
+      "cost": 60000,
+      "description": "Local police security detail for presidential presence at Trump National Golf Club Washington DC; Palm Beach and recent 2025 benchmarks indicate $60,000+ per day when presidentially activated.",
+      "category": "security"
+    },
+    {
+      "name": "Motorcade operations",
+      "cost": 10000,
+      "description": "Motorcade deployment for round-trip transit between White House and golf club; standard short-trip cost based on federal benchmarks.",
+      "category": "operations"
+    }
+  ],
+  "total_cost": 370000,
+  "social_description": "On May 31, 2025, Trump's golf outing to his DC club cost taxpayers an estimated $370,000 in Secret Service, police, and motorcade expenses.",
+  "tags": [
+    "trump-golf",
+    "secret-service",
+    "motorcade",
+    "local-police",
+    "trump-national-dc",
+    "leisure-spending",
+    "2025"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://finance-monthly.com/trump-motorcade-security-costs",
+    "https://thespun.com/golf/white-house-makes-190000-president-trump-golf-announcement",
+    "https://www.gao.gov/assets/gao-19-178.pdf"
+  ],
+  "social_title": "$370,000 for One Day of Golf: That's More Than the Average Price of an American Home"
+}
