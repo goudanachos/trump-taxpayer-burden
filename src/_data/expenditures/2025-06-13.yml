@@ -1,0 +1,27 @@
+{
+  "location": "The White House, Washington, DC",
+  "activities": [
+    {
+      "name": "Secret Service & White House staff support (on-site)",
+      "cost": 75000,
+      "description": "Standard daily federal cost for on-site Secret Service and key White House operational staff supporting the President's activities.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "June 13, 2025: Trump remained at the White House for meetings—$75K spent on daily on-site security and operational support, with no leisure travel recorded.",
+  "tags": [
+    "on-site",
+    "white-house",
+    "no-travel"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://apnews.com/article/6885c172b11d972920f8fb60869868ac",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927"
+  ]
+}
