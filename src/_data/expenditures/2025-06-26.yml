@@ -1,0 +1,24 @@
+{
+  "location": "The White House, Washington, DC",
+  "activities": [
+    {
+      "name": "On-site Secret Service and staff (routine presidential operations)",
+      "cost": 75000,
+      "description": "Daily on-site Secret Service and White House Operations staff allocation while President Trump is in residence. Calculated per GAO-19-178 and NTU presidential travel cost analysis benchmarks.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "On June 26, 2025, President Trump remained at the White House. The only taxpayer outlay was the routine daily cost of $75,000 for on-site Secret Service and staff.",
+  "tags": [
+    "white-house",
+    "security",
+    "no-travel",
+    "routine-operations"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive"
+  ]
+}
