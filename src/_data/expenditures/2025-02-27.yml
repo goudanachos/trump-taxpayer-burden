@@ -1,0 +1,24 @@
+{
+  "location": "The White House, Washington, DC",
+  "activities": [
+    {
+      "name": "Secret Service & staff (on-site White House)",
+      "cost": 75000,
+      "description": "Costs for Secret Service protective detail and staff security on-site at the White House for President Trump during a day with official business and bilateral meetings. No confirmed off-site events or extraordinary travel.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "Feb 27, 2025: Routine security and staff costs at the White House as President Trump held meetings with the UK Prime Minister and press (est. $75K in taxpayer-funded outlays).",
+  "tags": [
+    "white-house",
+    "security",
+    "official-business"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
