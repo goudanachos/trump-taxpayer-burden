@@ -1,0 +1,54 @@
+{
+  "location": "Washington D.C. to Mar-a-Lago, Palm Beach, FL",
+  "activities": [
+    {
+      "name": "VC-25A (Air Force One) Flight: Joint Base Andrews (D.C.) to Palm Beach Intl",
+      "cost": 370906,
+      "description": "2.08 flight hours at $177,843/hr, based on D.C.–Palm Beach typical leg duration (~2h05–2h10) as per GCMAP and Cost Benchmarks. No international or support uplift on this domestic flight per cost appendix (NTU/GAO/Comptroller).",
+      "category": "vc-25a"
+    },
+    {
+      "name": "Secret Service & Federal Security (peak off-site)",
+      "cost": 300000,
+      "description": "Secret Service provides full-day coverage in Palm Beach as President transitions to off-site status. $300k/day per GAO-19-178, Frankel.gov, and 2025 incident reporting.",
+      "category": "secret-service"
+    },
+    {
+      "name": "Local Law Enforcement Assistance (Palm Beach County)",
+      "cost": 60000,
+      "description": "Palm Beach County Sheriff and municipal police provide presidential perimeter and crowd security. Confirmed $60k/day in multiple FOIA and House Oversight reports (Frankel.gov, GAO, Finance Monthly).",
+      "category": "law-enforcement"
+    },
+    {
+      "name": "Motorcade and Ground Transport (Palm Beach International–Mar-a-Lago)",
+      "cost": 6000,
+      "description": "Full presidential motorcade, $6k for short local movement (Finance Monthly, press, and federal cost guides).",
+      "category": "motorcade"
+    },
+    {
+      "name": "Incidentals (logistics, support, meals)",
+      "cost": 110387,
+      "description": "Federal spending for extra logistics, support services, and unitemized incidentals, capped at 15% of subtotal travel and security.",
+      "category": "incidentals"
+    }
+  ],
+  "total_cost": 847293,
+  "social_description": "On Feb 14, 2025, Trump’s White House–to–Mar-a-Lago flight cost U.S. taxpayers ~$847,000, covering Air Force One, security, Palm Beach police, motorcade, and federal logistics.",
+  "tags": [
+    "white-house",
+    "air-force-one",
+    "mar-a-lago",
+    "presidential-travel",
+    "security"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://finance-monthly.com/trump-motorcade-security-costs/",
+    "https://helsinkitimes.fi/world-int/27567-trump-s-golf-habits-cost-taxpayers-over-60-million.html",
+    "https://www.yahoo.com/news/articles/big-beautiful-bill-cover-pbsos-144833840.html"
+  ],
+  "social_title": "Trump's Single-Day Trip to Mar-a-Lago Cost Taxpayers $847,293"
+}
