@@ -1,0 +1,25 @@
+{
+  "location": "White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Secret Service protection (on-site)",
+      "cost": 75000,
+      "description": "Routine on-site Secret Service and staff costs for a non-travel, in-town presidential day with no extraordinary events or off-campus movements. Uses established GAO-19-178 benchmark.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "May 17, 2025: No public events. Standard taxpayer cost for Secret Service on-site protection at the White House, estimated at $75k; no travel, golf, or off-site leisure costs.",
+  "tags": [
+    "white-house",
+    "secret-service",
+    "no-leisure-cost",
+    "in-town"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive"
+  ]
+}
