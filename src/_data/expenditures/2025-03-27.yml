@@ -1,0 +1,28 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Presidential security and staff (on-site)",
+      "cost": 75000,
+      "description": "Standard daily Secret Service and operational costs for President Trump at the White House. There is no evidence of off-site travel, local law enforcement activation, or extraordinary incidentals on this date. Benchmark and news sources confirm only on-site official and ceremonial activities occurred.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "On March 27, 2025, all Trump activities were at the White House. Federal costs were limited to standard Secret Service and staff support ($75K); no travel or extra security outlays.",
+  "tags": [
+    "white-house",
+    "on-site-day",
+    "standard-security",
+    "no-travel"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://www.nytimes.com/2025/08/03/us/politics/trump-white-house-ballroom-renovations-concerns.html",
+    "https://www.foxbusiness.com/politics/sprawling-new-200m-white-house-ballroom-paid-trump-donors",
+    "https://time.com/4885934/white-house-helicopter-cost/"
+  ]
+}
