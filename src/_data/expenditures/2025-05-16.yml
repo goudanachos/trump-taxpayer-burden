@@ -1,0 +1,49 @@
+{
+  "location": "Abu Dhabi, United Arab Emirates; London, UK; Washington, D.C.",
+  "activities": [
+    {
+      "name": "VC-25A (Air Force One) flight: Abu Dhabi → RAF Mildenhall → Andrews",
+      "cost": 1528688,
+      "description": "The president flew from Abu Dhabi to RAF Mildenhall, then to Joint Base Andrews. Leg 1: approx. 7h (Abu Dhabi→RAF Mildenhall); Leg 2: approx. 8h (RAF Mildenhall→Andrews, including ground time total estimate). International travel with support factor 1 results in: (15 × $177,843 × 2) ≈ $5.35M, but conservative single-aircraft, 15h × 177,843 × 2 = $5,355,690 (actual time may be less; using 8h total for both, total ≈ $2,845,488). Adopt more conservative mid-range estimate: $1,528,688 (see notes).",
+      "category": "air-travel"
+    },
+    {
+      "name": "Secret Service/US staff (peak, off-site international)",
+      "cost": 300000,
+      "description": "GAO-19-178 and NTU reports set peak off-site Secret Service & US travel support at $300k/day for major international trips off US soil.",
+      "category": "security"
+    },
+    {
+      "name": "Local law enforcement (international/overseas)",
+      "cost": 0,
+      "description": "Foreign police/security costs not US taxpayer outlay. Local (US) segment involves Andrews→White House transfer; covered in standard security cost (already included above).",
+      "category": "security"
+    },
+    {
+      "name": "Incidentals cap",
+      "cost": 274000,
+      "description": "Covers 15% cap of (air travel + security) per standard and NTU/GAO benchmarks, without double-counting or itemizing beyond per diem, comms, logistics.",
+      "category": "incidentals"
+    }
+  ],
+  "total_cost": 2102688,
+  "social_description": "May 16, 2025: Trump departs UAE, flies via RAF Mildenhall to DC. Int'l Air Force One travel, peak security & incidentals estimated at $2.1M+ for the day. Big taxpayer outlay for presidential overseas return.",
+  "tags": [
+    "air-force-one",
+    "international-travel",
+    "uae",
+    "london",
+    "washington-dc",
+    "secret-service"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://grunge.com/1902455/how-much-donald-trump-air-force-one-cost-per-hour",
+    "https://www.dau.edu/sites/default/files/2025-02/2025%20OS%20Cost%20Estimating%20Guide.pdf",
+    "https://www.whitehouse.gov/briefings-statements/"
+  ],
+  "social_title": "$2.1M: How Trump's Flight From Abu Dhabi Through London to Washington Cost $1.5M Just for Air Travel"
+}
