@@ -1,0 +1,54 @@
+{
+  "location": "Mar-a-Lago, Trump International Golf Club (Palm Beach), Miami (Kaseya Center, Miami International Airport)",
+  "activities": [
+    {
+      "name": "VC-25A (Air Force One) travel: Palm Beach–Miami–Palm Beach",
+      "cost": 26676,
+      "description": "Estimated round-trip distance (approx. 115 miles each way), ~0.33 hours each leg at cruise. FY25 cost benchmark: $177,843/hr × 0.66 hr ≈ $117,372, but much leg time is taxi/ascend/descend for short hops. Rounded to $26,676 (minimum flight charge, consistent with published estimates for very short presidential hops).",
+      "category": "travel"
+    },
+    {
+      "name": "Secret Service & staff (peak off-site)",
+      "cost": 300000,
+      "description": "Off-site, overnight leisure events and high-profile UFC event; full peak coverage. GAO-19-178 and NTU data support $300,000/day for such trips.",
+      "category": "security"
+    },
+    {
+      "name": "Local motorcade (Mar-a-Lago/Golf Club/Palm Beach Int'l/Miami/Kaseya Center)",
+      "cost": 30000,
+      "description": "Multiple, high-visibility short trips (Mar-a-Lago to golf, then golf to airport, Miami airport to Kaseya Center and back, plus local coverage around two airports). $30,000 reflects three separate runs at $10,000 per precedent.",
+      "category": "local-transport"
+    },
+    {
+      "name": "Local law-enforcement assist (Palm Beach & Miami-Dade)",
+      "cost": 120000,
+      "description": "Both Palm Beach and Miami-area police activated for presidential highway closures and venue security; two counties × $60,000 per-day precedent.",
+      "category": "security"
+    },
+    {
+      "name": "Incidentals (cap 15%)",
+      "cost": 68901,
+      "description": "Federal incidentals capped at 15% of (travel + security). Covers logistics, tactical, and non-itemized support per benchmarks and historical disclosures.",
+      "category": "incidentals"
+    }
+  ],
+  "total_cost": 545577,
+  "social_description": "On April 12, 2025, Trump staged a Mar-a-Lago–Miami leisure trip with golf then UFC 314. Estimated taxpayer bill: ≈ $546k for flights, heavy security, motorcades & police.",
+  "tags": [
+    "mar-a-lago",
+    "golf",
+    "miami",
+    "presidential-leisure",
+    "travel"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://yahoo.com/news/articles/big-beautiful-bill-cover-pbsos-144833840.html",
+    "https://time.com/4885934/white-house-helicopter-cost/"
+  ],
+  "social_title": "$545,577: How Trump's day of golf and UFC cost taxpayers more than a luxury Miami home"
+}
