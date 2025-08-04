@@ -1,0 +1,28 @@
+{
+  "location": "White House, Washington, DC",
+  "activities": [
+    {
+      "name": "Standard White House on-site presence (security, staff)",
+      "cost": 75000,
+      "description": "Routine security and residence/operational staffing for the president at the White House. No confirmed offsite leisure, recreation, or travel on this date per press pool and schedule.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "On July 30, 2025, President Trump remained at the White House with no confirmed taxpayer-funded travel or leisure-related extracurricular costs. Routine Secret Service and staff presence incurred a standard daily expenditure of $75,000.",
+  "tags": [
+    "white-house",
+    "security",
+    "in-town",
+    "schedule-verified"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.state.gov/releases/office-of-the-spokesperson/2025/07/public-schedule-july-30-2025/",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://www.dau.edu/sites/default/files/2025-02/2025%20OS%20Cost%20Estimating%20Guide.pdf",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://usatoday.com/story/news/politics/2025/07/31/trump-white-house-renovations-changes/85465892007"
+  ]
+}
