@@ -1,0 +1,32 @@
+{
+  "location": "White House & U.S. Capitol, Washington, DC",
+  "activities": [
+    {
+      "name": "On-site Secret Service & Staff (White House + US Capitol)",
+      "cost": 75000,
+      "description": "Daily cost for routine protection of the president during official duties at the White House and for a short off-site Capitol visit per standard budget benchmarks. No evidence of peak off-site security activation or foreign travel/large event surges.",
+      "category": "security"
+    },
+    {
+      "name": "Motorcade movements (White House → Capitol → White House)",
+      "cost": 10000,
+      "description": "Local motorcade cost for two short DC legs. No reported extraordinary security, local police mobilization, or notable traffic disruption costs. Benchmarked at high end of short-trip rate per event formulas.",
+      "category": "transportation"
+    }
+  ],
+  "total_cost": 85000,
+  "social_description": "On Mar 12, 2025, President Trump's St. Patrick's events (White House, Capitol) cost taxpayers an estimated $85,000—mainly for routine Secret Service and DC motorcade support. No extraordinary travel or outside police activation.",
+  "tags": [
+    "white-house",
+    "us-capitol",
+    "motorcade",
+    "secret-service",
+    "routine-security",
+    "no-extraordinary-cost"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927"
+  ]
+}
