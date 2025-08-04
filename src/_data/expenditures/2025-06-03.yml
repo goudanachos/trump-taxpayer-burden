@@ -1,0 +1,31 @@
+{
+  "location": "Bedminster, New Jersey; White House, Washington D.C.",
+  "activities": [
+    {
+      "name": "Golf event at Bedminster",
+      "cost": 87500,
+      "category": "Golf, staff, law enforcement, incidentals",
+      "description": "President Trump played and won a Senior Men's Club Championship at his Bedminster course on June 3, 2025. Federal outlays include $75k (Secret Service/staff), $12k (local law enforcement at Bedminster), $3.5k (incidentals per event benchmarks)."
+    },
+    {
+      "name": "White House official business (duty day)",
+      "cost": 75000,
+      "category": "Secret Service & staff (White House)",
+      "description": "President Trump conducted routine official business at the White House. Standard daily rate covers Secret Service and White House operational staff."
+    }
+  ],
+  "total_cost": 162500,
+  "social_description": "On June 3, 2025, Trump won a club championship at Bedminster and managed White House business. Taxpayer costs: approx. $162,500.",
+  "tags": "Trump,golf,Bedminster,White House,Secret Service,law enforcement,club championship",
+  "confidence_level": "high",
+  "model_confidence": 0.97,
+  "model_check": "Golf win cross-confirmed by Irish Star, GolfMagic, Mediaite, and multiple White House/social media reports. Law enforcement and staff rates based on federal benchmarks. White House ballroom project excluded—funded privately—not a federal outlay on this date. Sufficient independent reporting (>5) within evidence window.",
+  "source_urls": [
+    "https://www.golfmagic.com/news/golf-fans-react-donald-trump-goes-low-win-another-senior-mens-championship",
+    "https://www.irishstar.com/sport/golf/donald-trump-golf-handicap-scrutinized-35666410",
+    "https://www.irishstar.com/sport/golf/donald-trump-golf-tournament-cheating-35665368",
+    "https://www.mediaite.com/media/sports/trump-won-his-sixth-club-championship-of-the-year-by-a-whopping-10-strokes-with-sparkling-3-under-par-round-white-house-claims/",
+    "https://www.nytimes.com/live/2025/08/01/us/trump-news"
+  ],
+  "social_title": "Trump's Day Trip: $162,500 in Taxpayer Costs for Bedminster Golf Championship and White House Duties"
+}
