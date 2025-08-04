@@ -126,9 +126,15 @@ permalink: "/day/{{ expenditure.data.date | date: '%Y/%m/%d' }}/"
                         {{ exp.date | date: "%A, %B %-d, %Y" }}
                     </h1>
                     
-                    <div class="standard-font" style="color: var(--color-text-inverse); font-size: var(--text-standard); margin-bottom: var(--space-lg); opacity: 0.9;">
+                    <div class="standard-font" style="color: var(--color-text-inverse); font-size: var(--text-standard); margin-bottom: var(--space-md); opacity: 0.9;">
                         <strong>LOCATION:</strong> {{ exp.location }}
                     </div>
+                    
+                    {% if exp.social_title %}
+                    <div class="standard-font" style="color: var(--color-text-inverse); font-size: var(--text-small); margin-bottom: var(--space-lg); opacity: 0.7; font-style: italic; line-height: 1.4;">
+                        {{ exp.social_title }}
+                    </div>
+                    {% endif %}
                     
                     <!-- Cost Display -->
                     <div style="background: var(--color-bg-primary); border: var(--border-classification); padding: var(--space-xl); margin: var(--space-lg) auto; max-width: 500px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
