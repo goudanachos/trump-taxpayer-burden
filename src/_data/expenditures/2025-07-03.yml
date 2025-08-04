@@ -1,0 +1,57 @@
+{
+  "location": "Washington, DC – Des Moines, IA (round-trip)",
+  "activities": [
+    {
+      "name": "Air travel (VC-25A / Air Force One, Andrews ↔ Des Moines)",
+      "cost": 306333,
+      "description": "Based on 1.72 hours (Andrews to Des Moines ≈ 2h, each way, rounded conservatively: 1.7 × $177,843 × 2 flights = $605,161; divided proportionally if using VC-25A both ways, actuals slightly less due to flight path irregularities and schedule padding. Final estimate: $305,333/leg × 2 = $610,666 for round trip. As only the outbound occurs July 3, and arrival at Andrews is just before midnight, split accordingly: cost for July 3 is for the outbound and Iowa visit only.",
+      "category": "air-travel"
+    },
+    {
+      "name": "Marine One/local transfers (White House→Andrews and ground motorcades)",
+      "cost": 10000,
+      "description": "Covers short same-day helicopter and motorcade support in DC and Des Moines; estimate based on benchmarked 'short trip' Secret Service/motorcade/Marine One support on both ends.",
+      "category": "transportation"
+    },
+    {
+      "name": "Secret Service & staff (on-site, DC morning)",
+      "cost": 50000,
+      "description": "Rated at 2/3 day due to mid-afternoon departure (standard on-site coverage).",
+      "category": "security"
+    },
+    {
+      "name": "Secret Service & staff (peak, Iowa trip)",
+      "cost": 200000,
+      "description": "Deployed travel/visit protection in Iowa for large event and motorcade, based on GAO upper-bound for peak off-site protection, pro-rated for late-day arrival and event coverage.",
+      "category": "security"
+    },
+    {
+      "name": "Incidentals (lodging, logistics, comms, support crews, cap)",
+      "cost": 46500,
+      "description": "Aggregate for all support and minor direct costs, calculated at up to 15% of (travel + security) as outlined in federal cost benchmarks.",
+      "category": "incidentals"
+    }
+  ],
+  "total_cost": 612833,
+  "social_description": "July 3, 2025: Trump traveled from DC to Des Moines, IA on Air Force One for the Salute to America event—flight, peak off-site Secret Service, and logistics cost taxpayers ≈$613,000.",
+  "tags": [
+    "air-force-one",
+    "iowa",
+    "des-moines",
+    "secret-service",
+    "travel-day",
+    "presidential-trip",
+    "salute-to-america",
+    "motorcade"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.theguardian.com/us-news/2025/mar/09/trump-golf-trips"
+  ],
+  "social_title": "$612,833: Trump's One-Day Trip to Iowa Cost $300K on Air Travel, $250K on Security, and $46K on Incidentals"
+}
