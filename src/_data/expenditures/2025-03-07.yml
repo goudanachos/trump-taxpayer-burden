@@ -1,0 +1,44 @@
+{
+  "location": "White House, Joint Base Andrews, Palm Beach International Airport, Mar-a-Lago (Palm Beach)",
+  "activities": [
+    {
+      "name": "On-site Secret Service & Staff (White House & travel day)",
+      "cost": 75000,
+      "description": "Standard Secret Service and staff costs for routine on-site protection and domestic travel days per GAO benchmarks. No evidence of surges, but Palm Beach visit implies partial off-site resource allocation.",
+      "category": "security"
+    },
+    {
+      "name": "Motorcade (White House ↔ Andrews; Airport ↔ Mar-a-Lago)",
+      "cost": 20000,
+      "description": "Two short DC motorcade legs (White House to Andrews, round trip) and two in Palm Beach (Airport to Mar-a-Lago, round trip), consistent with high end of local trip rates per federal expenditure benchmarks.",
+      "category": "transportation"
+    },
+    {
+      "name": "VC-25A (Air Force One) domestic flight (Andrews ↔ Palm Beach)",
+      "cost": 71137,
+      "description": "0.4 hr flight time per leg (per GCMAP/GAO), roundtrip: 0.8 hr × $177,843; no mixed-jet or international uplift. Counted only actual single-day roundtrip cost incurred March 7, per cost formulas.",
+      "category": "transportation"
+    }
+  ],
+  "total_cost": 166000,
+  "social_description": "On Mar 7, 2025, President Trump's trip to Mar-a-Lago cost taxpayers an estimated $166,000—mainly Air Force One and motorcade travel with regular Secret Service costs for a domestic weekend getaway.",
+  "tags": [
+    "white-house",
+    "mar-a-lago",
+    "air-force-one",
+    "motorcade",
+    "secret-service",
+    "travel-day",
+    "palm-beach"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://www.dau.edu/sites/default/files/2025-02/2025%20OS%20Cost%20Estimating%20Guide.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://apnews.com/article/6885c172b11d972920f8fb60869868ac"
+  ],
+  "social_title": "$166,000 for a Weekend: Trump's Mar-a-Lago Trip Costs as Much as Two Average American Salaries"
+}
