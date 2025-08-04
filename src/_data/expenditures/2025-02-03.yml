@@ -1,0 +1,34 @@
+{
+  "location": "The White House",
+  "activities": [
+    {
+      "name": "Signing Executive Order for Sovereign Wealth Fund",
+      "cost": 0,
+      "category": "administrative",
+      "description": "President Trump signed an executive order directing the creation of a sovereign wealth fund in the Oval Office on 2025-02-03."
+    },
+    {
+      "name": "Phone Call with Justin Trudeau, Prime Minister of Canada",
+      "cost": 0,
+      "category": "administrative",
+      "description": "President Trump spoke with Canadian Prime Minister Justin Trudeau in the Oval Office on 2025-02-03."
+    },
+    {
+      "name": "Welcoming Stanley Cup Champion Florida Panthers",
+      "cost": 0,
+      "category": "administrative",
+      "description": "President Trump welcomed the Stanley Cup Champion Florida Panthers to the White House on 2025-02-03."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "On February 3, 2025, President Trump signed a sovereign wealth fund executive order, spoke with Canadian PM Trudeau, and welcomed the Stanley Cup Champion Florida Panthers at the White House with no recorded leisure or travel expenses.",
+  "tags": "Trump,White House,executive order,Canada,Justin Trudeau,Florida Panthers,ceremony",
+  "confidence_level": "high",
+  "model_confidence": 0.98,
+  "model_check": "All events were administrative and at the White House, no travel or recreational costs identified. Multiple credible sources confirm event details.",
+  "source_urls": [
+    "https://rollcall.com/factbase/trump/topic/calendar/",
+    "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates?entryId=124287884&id=124128895",
+    "https://www.nytimes.com/live/2025/07/31/us/trump-news"
+  ]
+}
