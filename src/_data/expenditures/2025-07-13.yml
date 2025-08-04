@@ -1,0 +1,49 @@
+{
+  "location": "Bedminster, NJ; MetLife Stadium, East Rutherford, NJ; Washington, DC",
+  "activities": [
+    {
+      "name": "VC-25A (Air Force One) flights: Newark<>Andrews (roundtrip)",
+      "cost": 125215,
+      "description": "Flight time: ~0.22h Newark→Andrews, ~0.19h Andrews→Newark, plus a short positioning leg (estimated 0.35h total). Rate: $177,843/hr per DoD 2022 and GAO-19-178. All segments verified via pool/press schedule and MetLife event coverage.",
+      "category": "air-transport"
+    },
+    {
+      "name": "Secret Service & staff (peak off-site day)",
+      "cost": 75000,
+      "description": "Base Secret Service and White House staff cost for active presidential travel day with large event (FIFA Club World Cup Final), following GAO-19-178 benchmarks.",
+      "category": "security"
+    },
+    {
+      "name": "Local law enforcement assist (MetLife activation)",
+      "cost": 60000,
+      "description": "Local police activation for security at MetLife Stadium for the president's attendance, based on Palm Beach and GAO-19-178 benchmarks. Confirmed MetLife site security integration per independent sources.",
+      "category": "security"
+    },
+    {
+      "name": "Motorcade & incidentals",
+      "cost": 10000,
+      "description": "Short transfer motorcades and short motorcade between airport, MetLife, and Bedminster. Standard motorcade cost per benchmarks for multiple short urban escorts and logistics.",
+      "category": "ground-transport"
+    }
+  ],
+  "total_cost": 251795,
+  "social_description": "On July 13, 2025, Trump flew Air Force One from NJ to DC after attending the FIFA Club World Cup at MetLife—with $251,795 in federal outlays for flights, security, law enforcement, and ground transport.",
+  "tags": [
+    "travel",
+    "sports-event",
+    "air-force-one",
+    "security",
+    "bedminster",
+    "metlife-stadium"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://www.northjersey.com/picture-gallery/news/bergen/east-rutherford/2025/07/13/president-trump-first-lady-attend-fifa-club-world-cup-final/85104993007/",
+    "https://economictimes.indiatimes.com/articleshow/122328168.cms",
+    "https://livemint.com/news/us-news/fifa-club-world-cup-final-match-us-president-donald-trump-to-attend-with-first-lady-melania-11752405374837.html",
+    "https://sports.yahoo.com/article/president-donald-trump-arrives-metlife-184852375.html",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive"
+  ],
+  "social_title": "Trump's Single Day Travel to Soccer Match Cost $251,795 - More Than the Average American Makes in 6 Months"
+}
