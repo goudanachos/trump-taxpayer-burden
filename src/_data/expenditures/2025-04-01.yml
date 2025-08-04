@@ -1,0 +1,28 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Presidential security and staff (on-site)",
+      "cost": 75000,
+      "description": "Standard daily Secret Service and White House operational costs for President Trump in-residence; no evidence of extraordinary travel, local boosts, or extraordinary federal outlays. No multi-site activity or special local enforcement costs identified. Major announced construction (ballroom) remains solely privately/donor funded; no federal appropriations reported for April 1, 2025. Public schedule and news confirm typical on-site day.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "On April 1, 2025, President Trump remained at the White House: standard Secret Service and staff protection ($75K/day); no travel or special taxpayer outlays. Big spending for the new East Wing ballroom is privately/donor funded, not federal.",
+  "tags": [
+    "white-house",
+    "standard-security",
+    "no-travel",
+    "private-funding"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.foxbusiness.com/politics/sprawling-new-200m-white-house-ballroom-paid-trump-donors",
+    "https://allsides.com/news/2025-08-02-0937/donald-trump-whos-paying-new-white-house-golden-ballroom-what-we-know",
+    "https://newsweek.com/map-images-show-how-trumps-golden-ballroom-will-change-white-house-2107417",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.nytimes.com/2025/08/03/us/politics/trump-white-house-ballroom-renovations-concerns.html"
+  ]
+}
