@@ -1,0 +1,41 @@
+{
+  "location": "Florida: Mar-a-Lago, Palm Beach International Airport, Daytona Beach International Airport, Daytona International Speedway",
+  "activities": [
+    {
+      "name": "Air Force One Flights",
+      "cost": 399083,
+      "category": "Air Travel",
+      "description": "Estimated about 2.25 flight hours on Air Force One for flights between Mar-a-Lago, Palm Beach International Airport, and Daytona Beach International Airport, charged at $177,843 per flight hour."
+    },
+    {
+      "name": "Local Motorcade Trips",
+      "cost": 80000,
+      "category": "Motorcade",
+      "description": "Estimated 8 short motorcade trips at $10,000 each for local travel between airport, Mar-a-Lago, and Daytona International Speedway."
+    },
+    {
+      "name": "Secret Service & Staff (Mar-a-Lago peak)",
+      "cost": 1130000,
+      "category": "Security",
+      "description": "Estimation of full day Secret Service and staff protection at Mar-a-Lago peak rate."
+    },
+    {
+      "name": "Incidentals",
+      "cost": 15000,
+      "category": "Incidentals",
+      "description": "Estimated incidentals including minor miscellaneous expenses."
+    }
+  ],
+  "total_cost": 1536183,
+  "social_description": "On Feb 16, 2025, Trump traveled between Mar-a-Lago, Palm Beach International Airport, Daytona Beach International Airport, and Daytona International Speedway for the Daytona 500, with estimated taxpayer costs of approximately $1.54 million for flights, motorcades, Secret Service protection, and incidentals.",
+  "tags": "Trump,Mar-a-Lago,Daytona,Daytona500,Palm Beach,Air Force One,Secret Service,Motorcade,2025",
+  "confidence_level": "medium",
+  "model_confidence": 0.95,
+  "model_check": "Costs are estimated using event schedule and official rate benchmarks; no direct spending reports found but calculations follow standardized cost models.",
+  "source_urls": [
+    "https://afr.com/world/north-america/mar-a-lago-at-the-white-house-donald-trump-s-300m-ballroom-plan-20250803-p5mjvl",
+    "https://www.simflight.com/2025/07/30/verticalsim-kpbi-palm-beach-international-airport-preview-for-msfs/",
+    "https://hendrickmotorsports.com/news/articles/139291/rick-hendrick-eyes-big-2025-nascar-season-10th-daytona-500-win"
+  ],
+  "social_title": "Trump's Daytona 500 Day Trip Cost More Than Most Americans Make in a Lifetime"
+}
