@@ -1,0 +1,28 @@
+{
+  "location": "The White House, Washington, DC",
+  "activities": [
+    {
+      "name": "Secret Service & Staff (On-Site White House Coverage)",
+      "cost": 75000,
+      "description": "Daily federal outlay for full on-site security and operational White House staffing for in-residence, non-travel day (no offsite activity). Benchmarked per GAO and FY22 DoD cost references.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "May 9, 2025: Trump's White House day with no trips cost taxpayers an estimated $75,000 for routine security and staff.",
+  "tags": [
+    "white-house",
+    "security-cost",
+    "in-residence",
+    "2025"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://apnews.com/article/6885c172b11d972920f8fb60869868ac",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive"
+  ]
+}
