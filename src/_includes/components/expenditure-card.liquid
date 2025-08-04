@@ -1,179 +1,348 @@
-<!-- CLASSIFICATION FILE - Government Document Format -->
-<article style="background: var(--color-bg-primary); border: var(--border-authority); margin-bottom: var(--space-lg); box-shadow: 0 4px 16px rgba(0,0,0,0.1); position: relative;">
-    <!-- Classification Bar -->
-    <div style="background: var(--color-text-alert); height: var(--border-width-classification); width: 100%;"></div>
+<!-- CLASSIFICATION FILE - Government Document Format with Mobile Accordion -->
+<details class="expenditure-card" style="background: var(--color-bg-primary); border: var(--border-authority); margin-bottom: var(--space-lg); box-shadow: 0 4px 16px rgba(0,0,0,0.1); position: relative; overflow: hidden; border-radius: 8px;">
     
-    <div style="padding: var(--space-lg);">
-        <!-- Document Header -->
-        <div style="display: flex; justify-content: between; align-items: flex-start; margin-bottom: var(--space-md); border-bottom: var(--border-light); padding-bottom: var(--space-md);">
-            <div style="flex: 1;">
-                <!-- Classification Stamp -->
-                <div style="display: flex; align-items: center; gap: var(--space-sm); margin-bottom: var(--space-sm);">
-                    <div style="display: inline-block; background: var(--color-bg-secondary); border: var(--border-width-thin) solid var(--color-text-secondary); padding: var(--space-xs) var(--space-sm);">
-                        <div class="classification-font" style="color: var(--color-text-secondary); font-size: 10px; letter-spacing: 0.1em;">
-                            UNCLASSIFIED
-                        </div>
-                    </div>
-                    {% if expenditure.confidence_level %}
-                    <div style="display: inline-block; background: var(--color-bg-secondary); border: var(--border-width-thin) solid var(--color-text-secondary); padding: var(--space-xs) var(--space-sm);">
-                        <div class="classification-font" style="color: var(--color-text-secondary); font-size: 10px; letter-spacing: 0.1em;">
-                            CONFIDENCE: {{ expenditure.confidence_level | upcase }}
-                        </div>
-                    </div>
-                    {% endif %}
+    <!-- Collapsed Summary (One-line) -->
+    <summary class="expenditure-summary" style="padding: 16px 24px; cursor: pointer; min-height: 48px; display: flex; align-items: center; justify-content: space-between; list-style: none; position: relative;" tabindex="0">
+        <!-- Mobile: Single column grid for collapsed state -->
+        <div style="display: grid; grid-template-columns: 1fr auto; gap: 16px; align-items: center; width: 100%;">
+            <div>
+                <!-- Date and Location Combined -->
+                <div class="mobile-title-case" style="font-size: clamp(14px, 4vw, 16px); color: var(--color-text-primary); font-weight: 600; margin-bottom: 4px;">
+                    {{ expenditure.date | date: "%B %-d" }} • {{ expenditure.location | truncate: 50 }}
                 </div>
-                
-                <!-- Date Stamp -->
-                <div class="classification-font" style="color: var(--color-text-secondary); font-size: var(--text-detail); margin-bottom: var(--space-xs); text-transform: uppercase;">
-                    DATE: {{ expenditure.date }}
+                <div style="font-size: clamp(12px, 3vw, 14px); color: var(--color-text-secondary);">
+                    {{ expenditure.activities.size }} {% if expenditure.activities.size == 1 %}activity{% else %}activities{% endif %}
                 </div>
-                
-                <!-- Location - Primary Identifier -->
-                <h2 class="command-font" style="color: var(--color-text-primary); font-size: var(--text-command); margin: 0; text-transform: uppercase; letter-spacing: 0.02em;">
-                    {{ expenditure.location }}
-                </h2>
             </div>
             
-            <!-- Cost Alert Panel -->
-            <div style="background: var(--color-bg-secondary); border: var(--border-width-standard) solid var(--color-text-alert); padding: var(--space-md); min-width: 200px; text-align: center;">
-                <div class="standard-font" style="color: var(--color-text-secondary); font-size: var(--text-detail); margin-bottom: var(--space-xs); text-transform: uppercase; letter-spacing: 0.05em;">
-                    TOTAL EXPENDITURE
-                </div>
-                <div class="classification-font" style="color: var(--color-text-alert); font-size: var(--text-command); font-weight: 700; line-height: 1;">
-                    {{ expenditure.total_cost | currency }}
-                </div>
+            <!-- Price Pill (positioned inside card edge) -->
+            <div class="price-pill" style="background: var(--color-text-alert); color: white; padding: 8px 12px; border-radius: 20px; font-size: clamp(12px, 3vw, 14px); font-weight: 700; box-shadow: 0 2px 8px rgba(220,20,60,0.3); white-space: nowrap;">
+                {{ expenditure.total_cost | currency }}
             </div>
-        </div>
-
-        <!-- Activity Breakdown - Government List Format -->
-        <div style="margin-bottom: var(--space-md);">
-            <div class="standard-font" style="color: var(--color-text-primary); font-size: var(--text-detail); margin-bottom: var(--space-sm); text-transform: uppercase; letter-spacing: 0.05em; font-weight: 600;">
-                ITEMIZED BREAKDOWN:
-            </div>
-            
-            {% for activity in expenditure.activities %}
-                <div style="display: flex; justify-content: space-between; align-items: flex-start; padding: var(--space-sm) 0; border-bottom: var(--border-width-thin) solid var(--color-bg-secondary);">
-                    <div style="flex: 1; padding-right: var(--space-md);">
-                        <div class="standard-font" style="color: var(--color-text-primary); font-size: var(--text-standard); font-weight: 500; margin-bottom: var(--space-xs);">
-                            {% if activity.name contains 'No leisure' or activity.name contains 'NO LEISURE' %}
-                                NO TAXPAYER-FUNDED LEISURE ACTIVITIES
-                            {% else %}
-                                {{ activity.name | upcase }}
-                            {% endif %}
-                        </div>
-                        <div class="standard-font" style="color: var(--color-text-secondary); font-size: var(--text-detail); line-height: 1.4;">
-                            {% if activity.name contains 'No leisure' or activity.name contains 'NO LEISURE' %}
-                                All reported activities were official government business. No personal travel, golf, or recreational activities at private properties incurred taxpayer costs.
-                            {% else %}
-                                {{ activity.description }}
-                            {% endif %}
-                        </div>
-                    </div>
-                    <div style="min-width: 120px; text-align: right;">
-                        <div class="classification-font" style="color: var(--color-text-alert); font-size: var(--text-standard); font-weight: 600;">
-                            {{ activity.cost | currency }}
-                        </div>
-                    </div>
-                </div>
-            {% endfor %}
         </div>
         
-        <!-- Authority Footer -->
-        <div style="display: flex; justify-content: space-between; align-items: center; padding-top: var(--space-md); border-top: var(--border-light);">
-            <div style="display: flex; align-items: center; gap: var(--space-md);">
-                <div class="standard-font" style="color: var(--color-text-secondary); font-size: var(--text-detail); text-transform: uppercase; letter-spacing: 0.05em;">
-                    /// TAXPAYER FUNDED ACTIVITY ///
+        <!-- Chevron indicator -->
+        <svg class="chevron" width="12" height="12" viewBox="0 0 24 24" fill="currentColor" style="color: var(--color-text-secondary); transition: transform 0.25s ease; margin-left: 8px;">
+            <path d="M7.41 8.59L12 13.17l4.59-4.58L18 10l-6 6-6-6 1.41-1.41z"/>
+        </svg>
+    </summary>
+    
+    <!-- Expanded Details (Lazy-loaded content) -->
+    <div class="expenditure-details">
+        <div style="padding: 0 24px 24px;">
+            <!-- Document Header (Full version) -->
+            <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 16px; border-bottom: 1px solid var(--color-neutral-200); padding-bottom: 16px;">
+                <div style="flex: 1;">
+                    <!-- Classification Stamps -->
+                    <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 8px; flex-wrap: wrap;">
+                        <div style="display: inline-block; background: var(--color-bg-secondary); border: 1px solid var(--color-text-secondary); padding: 4px 8px;">
+                            <div class="classification-font" style="color: var(--color-text-secondary); font-size: 10px; letter-spacing: 0.1em;">
+                                UNCLASSIFIED
+                            </div>
+                        </div>
+                        {% if expenditure.confidence_level %}
+                        <div style="display: inline-block; background: var(--color-bg-secondary); border: 1px solid var(--color-text-secondary); padding: 4px 8px;">
+                            <div class="classification-font" style="color: var(--color-text-secondary); font-size: 10px; letter-spacing: 0.1em;">
+                                CONFIDENCE: {{ expenditure.confidence_level | upcase }}
+                            </div>
+                        </div>
+                        {% endif %}
+                    </div>
+                    
+                    <!-- Date Stamp -->
+                    <div class="classification-font mobile-title-case" style="color: var(--color-text-secondary); font-size: clamp(12px, 3vw, 14px); margin-bottom: 4px;">
+                        Date: {{ expenditure.date }}
+                    </div>
+                    
+                    <!-- Location - Primary Identifier -->
+                    <h2 class="command-font mobile-title-case" style="color: var(--color-text-primary); font-size: clamp(16px, 4vw, 20px); margin: 0;">
+                        {{ expenditure.location }}
+                    </h2>
                 </div>
                 
-                <!-- Citations -->
+                <!-- Cost Alert Panel (Mobile optimized) -->
+                <div style="background: var(--color-bg-secondary); border: 2px solid var(--color-text-alert); padding: 12px; min-width: 140px; text-align: center;">
+                    <div class="standard-font mobile-title-case" style="color: var(--color-text-secondary); font-size: clamp(10px, 2.5vw, 12px); margin-bottom: 4px; letter-spacing: 0.05em;">
+                        Total Expenditure
+                    </div>
+                    <div class="classification-font" style="color: var(--color-text-alert); font-size: clamp(16px, 4vw, 20px); font-weight: 700; line-height: 1;">
+                        {{ expenditure.total_cost | currency }}
+                    </div>
+                </div>
+            </div>
+
+            <!-- Activity Breakdown - Mobile Grid -->
+            <div style="margin-bottom: 16px;">
+                <div class="standard-font mobile-title-case" style="color: var(--color-text-primary); font-size: clamp(12px, 3vw, 14px); margin-bottom: 8px; font-weight: 600;">
+                    Itemized Breakdown:
+                </div>
+                
+                {% for activity in expenditure.activities %}
+                    <div style="display: grid; grid-template-columns: 1fr min-content; gap: 16px; padding: 12px 0; border-bottom: 1px solid var(--color-neutral-200); align-items: start;">
+                        <div>
+                            <div class="standard-font mobile-title-case" style="color: var(--color-text-primary); font-size: clamp(14px, 3.5vw, 16px); font-weight: 500; margin-bottom: 4px;">
+                                {% if activity.name contains 'No leisure' or activity.name contains 'NO LEISURE' %}
+                                    No Taxpayer-Funded Leisure Activities
+                                {% else %}
+                                    {{ activity.name }}
+                                {% endif %}
+                            </div>
+                            <div class="standard-font" style="color: var(--color-text-secondary); font-size: clamp(12px, 3vw, 14px); line-height: 1.4;">
+                                {% if activity.name contains 'No leisure' or activity.name contains 'NO LEISURE' %}
+                                    All reported activities were official government business. No personal travel, golf, or recreational activities at private properties incurred taxpayer costs.
+                                {% else %}
+                                    {{ activity.description }}
+                                {% endif %}
+                            </div>
+                        </div>
+                        <div style="text-align: right;">
+                            <div class="classification-font" style="color: var(--color-text-alert); font-size: clamp(14px, 3.5vw, 16px); font-weight: 600;" aria-labelledby="activity-{{ forloop.index }}">
+                                {{ activity.cost | currency }}
+                            </div>
+                        </div>
+                    </div>
+                {% endfor %}
+            </div>
+            
+            <!-- Authority Footer -->
+            <div style="display: flex; flex-direction: column; gap: 12px; padding-top: 16px; border-top: 1px solid var(--color-neutral-200);">
+                <div class="standard-font mobile-title-case" style="color: var(--color-text-secondary); font-size: clamp(10px, 2.5vw, 12px); letter-spacing: 0.05em;">
+                    /// Taxpayer Funded Activity ///
+                </div>
+                
+                <!-- Sources (Mobile optimized) -->
                 {% if expenditure.source_urls %}
-                    <div style="display: flex; align-items: center; gap: var(--space-xs);">
-                        <div class="standard-font" style="color: var(--color-text-secondary); font-size: 10px; opacity: 0.7; text-transform: uppercase;">
+                    <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
+                        <div class="standard-font" style="color: var(--color-text-secondary); font-size: 10px; opacity: 0.7;">
                             SOURCES:
                         </div>
                         {% for source in expenditure.source_urls %}
                             {% assign domain = source | replace: 'https://', '' | replace: 'http://', '' | split: '/' | first %}
                             <a href="{{ source }}" target="_blank" rel="noopener" 
-                               style="color: var(--color-text-secondary); text-decoration: none; opacity: 0.6; transition: opacity 0.2s ease;"
+                               style="color: var(--color-text-secondary); text-decoration: none; opacity: 0.6; transition: opacity 0.2s ease; padding: 4px; min-height: 32px; display: flex; align-items: center;"
                                onmouseover="this.style.opacity='1';" onmouseout="this.style.opacity='0.6';"
                                title="{{ domain }}">
-                               {% if domain contains 'nytimes.com' %}
-                                   {% render 'icons/nytimes' %}
-                               {% elsif domain contains 'cnn.com' %}
-                                   {% render 'icons/cnn' %}
-                               {% elsif domain contains 'foxnews.com' %}
-                                   {% render 'icons/foxnews' %}
-                               {% elsif domain contains 'reuters.com' %}
-                                   {% render 'icons/reuters' %}
-                               {% elsif domain contains 'apnews.com' %}
-                                   {% render 'icons/apnews' %}
-                               {% elsif domain contains 'cnbc.com' %}
-                                   {% render 'icons/cnbc' %}
-                               {% else %}
-                                   {% render 'icons/generic-news' %}
-                               {% endif %}
+                               <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
+                                   <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/>
+                               </svg>
                             </a>
                         {% endfor %}
                     </div>
                 {% endif %}
-            </div>
-            
-            <!-- Share Actions & Classification -->
-            <div style="display: flex; align-items: center; gap: var(--space-md);">
-                <!-- Share Button Section -->
-                <div style="display: flex; align-items: center; gap: var(--space-xs);" 
-                     data-share-url="https://trumptaxburden.com/day/{{ expenditure.date | date: '%Y/%m/%d' }}/"
-                     data-share-title="{{ expenditure.date | date: '%B %-d, %Y' }} - Trump Cost {{ expenditure.total_cost | currency }}"
-                     data-share-text="On {{ expenditure.date | date: '%B %-d, %Y' }}, Trump's activities at {{ expenditure.location }} cost taxpayers {{ expenditure.total_cost | currency }}. See the breakdown at"
-                     data-share-hashtags="TrumpTaxBurden,TaxpayerMoney">
-                    
-                    <!-- Primary Share Button (Web Share API) -->
-                    <button onclick="shareExpenditure(this)" 
-                            class="share-btn-primary standard-font" 
-                            style="color: var(--color-text-primary); background: var(--color-bg-secondary); font-size: var(--text-detail); padding: var(--space-xs) var(--space-sm); border: var(--border-width-thin) solid var(--color-text-secondary); text-transform: uppercase; letter-spacing: 0.05em; font-weight: 500; cursor: pointer; transition: all 0.2s ease; display: none;"
-                            onmouseover="this.style.backgroundColor='var(--color-text-primary)'; this.style.color='var(--color-text-inverse)'; this.style.borderColor='var(--color-text-primary)';"
-                            onmouseout="this.style.backgroundColor='var(--color-bg-secondary)'; this.style.color='var(--color-text-primary)'; this.style.borderColor='var(--color-text-secondary)';"
-                            title="Share this expenditure record">
-                        <svg width="10" height="10" viewBox="0 0 24 24" fill="currentColor" style="margin-right: var(--space-xs);">
-                            <path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81 1.66 0 3-1.34 3-3s-1.34-3-3-3-3 1.34-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9c-1.66 0-3 1.34-3 3s1.34 3 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.16c-.05.21-.08.43-.08.65 0 1.61 1.31 2.92 2.92 2.92s2.92-1.31 2.92-2.92-1.31-2.92-2.92-2.92z"/>
-                        </svg>
-                        SHARE
-                    </button>
-                    
-                    <!-- Fallback Share Buttons -->
-                    <div class="fallback-share-buttons" style="display: none; gap: var(--space-xs);">
-                        <button onclick="copyShareLink(this)" 
-                                class="share-btn-fallback standard-font" 
-                                style="color: var(--color-text-primary); background: var(--color-bg-secondary); font-size: var(--text-detail); padding: var(--space-xs) var(--space-sm); border: var(--border-width-thin) solid var(--color-text-secondary); text-transform: uppercase; letter-spacing: 0.05em; font-weight: 500; cursor: pointer; transition: all 0.2s ease;"
-                                onmouseover="this.style.backgroundColor='var(--color-text-primary)'; this.style.color='var(--color-text-inverse)'; this.style.borderColor='var(--color-text-primary)';"
-                                onmouseout="this.style.backgroundColor='var(--color-bg-secondary)'; this.style.color='var(--color-text-primary)'; this.style.borderColor='var(--color-text-secondary)';"
-                                title="Copy link to clipboard">
-                            <svg width="9" height="9" viewBox="0 0 24 24" fill="currentColor" style="margin-right: var(--space-xs);">
-                                <path d="M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2zm0 16H8V7h11v14z"/>
-                            </svg>
-                            COPY
-                        </button>
-                        
-                        <button onclick="shareToTwitter(this)" 
-                                class="share-btn-fallback standard-font" 
-                                style="color: var(--color-text-primary); background: var(--color-bg-secondary); font-size: var(--text-detail); padding: var(--space-xs) var(--space-sm); border: var(--border-width-thin) solid var(--color-text-secondary); text-transform: uppercase; letter-spacing: 0.05em; font-weight: 500; cursor: pointer; transition: all 0.2s ease;"
-                                onmouseover="this.style.backgroundColor='var(--color-text-primary)'; this.style.color='var(--color-text-inverse)'; this.style.borderColor='var(--color-text-primary)';"
-                                onmouseout="this.style.backgroundColor='var(--color-bg-secondary)'; this.style.color='var(--color-text-primary)'; this.style.borderColor='var(--color-text-secondary)';"
-                                title="Share on X/Twitter">
-                            <svg width="9" height="9" viewBox="0 0 24 24" fill="currentColor" style="margin-right: var(--space-xs);">
-                                <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>
-                            </svg>
-                            X
-                        </button>
-                    </div>
-                </div>
                 
-                <div style="display: inline-block; background: var(--color-bg-secondary); border: var(--border-width-thin) solid var(--color-text-secondary); padding: var(--space-xs) var(--space-sm);">
-                    <div class="classification-font" style="color: var(--color-text-secondary); font-size: 10px; letter-spacing: 0.1em;">
-                        FOR OFFICIAL USE ONLY
+                <!-- Share Actions -->
+                <div style="display: flex; justify-content: space-between; align-items: center; gap: 12px;">
+                    <div style="display: inline-block; background: var(--color-bg-secondary); border: 1px solid var(--color-text-secondary); padding: 4px 8px;">
+                        <div class="classification-font" style="color: var(--color-text-secondary); font-size: 10px; letter-spacing: 0.1em;">
+                            FOR OFFICIAL USE ONLY
+                        </div>
+                    </div>
+                    
+                    <!-- Mobile-optimized share buttons -->
+                    <div style="display: flex; gap: 8px;">
+                        <button onclick="shareExpenditure(this)" 
+                                class="share-btn-primary standard-font" 
+                                style="color: var(--color-text-primary); background: var(--color-bg-secondary); font-size: clamp(10px, 2.5vw, 12px); padding: 8px 12px; border: 1px solid var(--color-text-secondary); letter-spacing: 0.05em; font-weight: 500; cursor: pointer; transition: all 0.2s ease; min-height: 32px;"
+                                data-share-url="https://trumptaxburden.com/day/{{ expenditure.date | date: '%Y/%m/%d' }}/"
+                                data-share-title="{{ expenditure.date | date: '%B %-d, %Y' }} - Trump Cost {{ expenditure.total_cost | currency }}"
+                                title="Share this expenditure record">
+                            SHARE
+                        </button>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-</article>
+</details>
+
+<style>
+/* Mobile container and grid */
+@media (max-width: 768px) {
+    .mobile-container {
+        padding: 48px 16px 0 !important; /* 16px gutters, 24px margins equivalent */
+    }
+    
+    .expenditure-card {
+        margin-bottom: 16px !important; /* 16px gutters between cards */
+    }
+    
+    /* Single column grid enforced */
+    .expenditure-card {
+        width: 100%;
+        max-width: none;
+    }
+}
+
+/* Mobile responsive typography with clamp() */
+.mobile-title-case {
+    font-size: clamp(14px, 4vw, 16px);
+}
+
+@media (max-width: 768px) {
+    .mobile-title-case {
+        text-transform: none !important;
+    }
+    
+    .mobile-title-case::first-letter {
+        text-transform: uppercase;
+    }
+    
+    /* Typography scaling */
+    .command-font {
+        font-size: clamp(20px, 5vw, 28px) !important;
+    }
+    
+    .standard-font {
+        font-size: clamp(14px, 4vw, 16px) !important;
+    }
+    
+    .classification-font {
+        font-size: clamp(16px, 4vw, 20px) !important;
+    }
+}
+
+/* Accordion animation */
+.expenditure-card {
+    transition: all 0.25s ease;
+    position: relative;
+    isolation: isolate; /* Creates a new stacking context */
+    transform: translateZ(0); /* Force hardware acceleration */
+    will-change: contents; /* Hint browser about changes */
+}
+
+.expenditure-card[open] .chevron {
+    transform: rotate(180deg);
+}
+
+.expenditure-card[open] {
+    transform: translateZ(0) translateY(0.001px); /* Force repaint on open */
+}
+
+.expenditure-card:not([open]) .expenditure-details {
+    display: none;
+}
+
+/* Fix for red line artifact - proper stacking */
+.expenditure-card summary {
+    position: relative;
+    z-index: 2;
+    background: var(--color-bg-primary);
+}
+
+.expenditure-details {
+    position: relative;
+    z-index: 1;
+    background: var(--color-bg-primary);
+}
+
+/* Motion respect */
+@media (prefers-reduced-motion: reduce) {
+    .expenditure-details,
+    .chevron {
+        transition: none;
+    }
+}
+
+/* Price pill styling */
+.price-pill {
+    flex-shrink: 0;
+}
+
+/* Tap target improvements */
+.expenditure-summary {
+    min-height: 48px;
+    padding-block: 12px;
+}
+
+/* Remove webkit details marker */
+.expenditure-card summary::-webkit-details-marker {
+    display: none;
+}
+
+.expenditure-card summary::marker {
+    display: none;
+}
+
+/* Focus states */
+.expenditure-card summary:focus {
+    outline: 2px solid var(--color-text-alert);
+    outline-offset: 2px;
+}
+
+.expenditure-card summary:focus:not(:focus-visible) {
+    outline: none;
+}
+
+.expenditure-card[open] summary:focus {
+    outline: none !important;
+}
+
+button:focus {
+    outline: 2px solid var(--color-text-alert);
+    outline-offset: 2px;
+}
+
+/* Hover states for better affordances */
+.expenditure-summary:hover {
+    background-color: var(--color-bg-secondary);
+}
+
+.expenditure-summary::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 24px;
+    right: 24px;
+    height: 1px;
+    background: var(--color-neutral-200);
+    z-index: 1;
+}
+
+.expenditure-card[open] .expenditure-summary::after {
+    display: none !important;
+    visibility: hidden !important;
+}
+</style>
+
+<script>
+// Lazy loading for expanded content
+document.addEventListener('DOMContentLoaded', function() {
+    const cards = document.querySelectorAll('.expenditure-card');
+    
+    cards.forEach((card, index) => {
+        // First card open by default
+        if (index === 0) {
+            card.setAttribute('open', '');
+        }
+        
+        card.addEventListener('toggle', function() {
+            if (this.hasAttribute('open')) {
+                // Lazy load content here if needed
+                // For now, content is already present
+            }
+        });
+    });
+});
+
+// Share functionality
+function shareExpenditure(button) {
+    const data = {
+        title: button.dataset.shareTitle,
+        text: button.dataset.shareText,
+        url: button.dataset.shareUrl
+    };
+    
+    if (navigator.share) {
+        navigator.share(data);
+    } else {
+        // Fallback: copy to clipboard
+        navigator.clipboard.writeText(data.url).then(() => {
+            const originalText = button.textContent;
+            button.textContent = 'COPIED!';
+            setTimeout(() => {
+                button.textContent = originalText;
+            }, 2000);
+        });
+    }
+}
+</script>

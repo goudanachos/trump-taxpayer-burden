@@ -1,10 +1,10 @@
 <header style="background: var(--color-bg-command); border-bottom: var(--border-classification); padding: var(--space-lg) 0;">
-    <div class="max-w-5xl mx-auto px-4 flex items-center justify-between">
+    <div class="max-w-5xl mx-auto px-4 flex items-center justify-between" style="flex-wrap: wrap; gap: var(--space-md);">
         <!-- Left: Federal Identity with Eagle Silhouette -->
         <div class="flex items-center" style="gap: var(--space-md);">
             <!-- Federal Authority Eagle Seal - Maximum Precision -->
-            <div style="width: 44px; height: 44px; opacity: 1; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
-                <svg width="44" height="44" viewBox="0 0 44 44" fill="none" xmlns="http://www.w3.org/2000/svg" style="shape-rendering: geometricPrecision;">
+            <div style="width: clamp(36px, 8vw, 44px); height: clamp(36px, 8vw, 44px); opacity: 1; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+                <svg width="100%" height="100%" viewBox="0 0 44 44" fill="none" xmlns="http://www.w3.org/2000/svg" style="shape-rendering: geometricPrecision;">
                     <!-- Outer Authority Ring -->
                     <circle cx="22" cy="22" r="21" stroke="var(--color-text-inverse)" stroke-width="2" fill="transparent"/>
                     <circle cx="22" cy="22" r="18.5" stroke="var(--color-text-inverse)" stroke-width="0.5" fill="transparent" opacity="0.6"/>
@@ -57,30 +57,30 @@
             </div>
             
             <!-- Site Name - Government Authority Style -->
-            <h1 class="authority-font" style="color: var(--color-text-inverse); font-size: var(--text-command); margin: 0;">
+            <h1 class="authority-font" style="color: var(--color-text-inverse); font-size: clamp(1rem, 4vw, var(--text-command)); margin: 0; white-space: nowrap;">
                 TRUMP TAX BURDEN
             </h1>
         </div>
         
         <!-- Right: Command Navigation -->
-        <nav class="flex items-center" style="gap: var(--space-lg);" aria-label="Command navigation">
-            <a href="/" class="standard-font" style="color: var(--color-text-inverse); font-size: var(--text-detail); text-decoration: none; padding: var(--space-xs) var(--space-sm); border: var(--border-width-thin) solid transparent; text-transform: uppercase; letter-spacing: 0.05em; transition: all 0.2s ease;"
+        <nav class="flex items-center" style="gap: clamp(var(--space-sm), 3vw, var(--space-lg)); flex-wrap: wrap;" aria-label="Command navigation">
+            <a href="/" class="standard-font" style="color: var(--color-text-inverse); font-size: clamp(10px, 2.5vw, var(--text-detail)); text-decoration: none; padding: var(--space-xs) var(--space-sm); border: var(--border-width-thin) solid transparent; text-transform: uppercase; letter-spacing: 0.05em; transition: all 0.2s ease; min-height: 44px; display: flex; align-items: center;"
                onmouseover="this.style.backgroundColor='var(--color-text-inverse)'; this.style.color='var(--color-bg-command)'; this.style.borderColor='var(--color-text-inverse)';"
                onmouseout="this.style.backgroundColor='transparent'; this.style.color='var(--color-text-inverse)'; this.style.borderColor='transparent';">
                 STATUS
             </a>
-            <a href="/archive" class="standard-font" style="color: var(--color-text-inverse); font-size: var(--text-detail); text-decoration: none; padding: var(--space-xs) var(--space-sm); border: var(--border-width-thin) solid transparent; text-transform: uppercase; letter-spacing: 0.05em; transition: all 0.2s ease;"
+            <a href="/archive" class="standard-font" style="color: var(--color-text-inverse); font-size: clamp(10px, 2.5vw, var(--text-detail)); text-decoration: none; padding: var(--space-xs) var(--space-sm); border: var(--border-width-thin) solid transparent; text-transform: uppercase; letter-spacing: 0.05em; transition: all 0.2s ease; min-height: 44px; display: flex; align-items: center;"
                onmouseover="this.style.backgroundColor='var(--color-text-inverse)'; this.style.color='var(--color-bg-command)'; this.style.borderColor='var(--color-text-inverse)';"
                onmouseout="this.style.backgroundColor='transparent'; this.style.color='var(--color-text-inverse)'; this.style.borderColor='transparent';">
                 ARCHIVE
             </a>
-            <a href="/about" class="standard-font" style="color: var(--color-text-inverse); font-size: var(--text-detail); text-decoration: none; padding: var(--space-xs) var(--space-sm); border: var(--border-width-thin) solid transparent; text-transform: uppercase; letter-spacing: 0.05em; transition: all 0.2s ease;"
+            <a href="/about" class="standard-font" style="color: var(--color-text-inverse); font-size: clamp(10px, 2.5vw, var(--text-detail)); text-decoration: none; padding: var(--space-xs) var(--space-sm); border: var(--border-width-thin) solid transparent; text-transform: uppercase; letter-spacing: 0.05em; transition: all 0.2s ease; min-height: 44px; display: flex; align-items: center;"
                onmouseover="this.style.backgroundColor='var(--color-text-inverse)'; this.style.color='var(--color-bg-command)'; this.style.borderColor='var(--color-text-inverse)';"
                onmouseout="this.style.backgroundColor='transparent'; this.style.color='var(--color-text-inverse)'; this.style.borderColor='transparent';">
                 INTEL
             </a>
             <!-- RSS Feed Link -->
-            <a href="/rss.xml" class="flex items-center" style="color: var(--color-text-inverse); font-size: var(--text-detail); text-decoration: none; padding: var(--space-xs) var(--space-sm); border: var(--border-width-thin) solid transparent; text-transform: uppercase; letter-spacing: 0.05em; transition: all 0.2s ease; gap: var(--space-xs);"
+            <a href="/rss.xml" class="flex items-center" style="color: var(--color-text-inverse); font-size: clamp(10px, 2.5vw, var(--text-detail)); text-decoration: none; padding: var(--space-xs) var(--space-sm); border: var(--border-width-thin) solid transparent; text-transform: uppercase; letter-spacing: 0.05em; transition: all 0.2s ease; gap: var(--space-xs); min-height: 44px;"
                onmouseover="this.style.backgroundColor='var(--color-text-inverse)'; this.style.color='var(--color-bg-command)'; this.style.borderColor='var(--color-text-inverse)';"
                onmouseout="this.style.backgroundColor='transparent'; this.style.color='var(--color-text-inverse)'; this.style.borderColor='transparent';"
                title="RSS Feed - Government Data Stream">
@@ -98,3 +98,43 @@
         </nav>
     </div>
 </header>
+
+<style>
+/* Mobile responsive header */
+@media (max-width: 768px) {
+    header {
+        padding: var(--space-md) 0 !important;
+    }
+    
+    header .flex.items-center.justify-between {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: var(--space-md);
+    }
+    
+    header nav {
+        width: 100%;
+        justify-content: center;
+    }
+    
+    header nav a {
+        padding: var(--space-sm) var(--space-md) !important;
+        font-size: 12px !important;
+    }
+}
+
+@media (max-width: 480px) {
+    header h1 {
+        font-size: 0.9rem !important;
+    }
+    
+    header nav {
+        gap: var(--space-xs) !important;
+    }
+    
+    header nav a {
+        padding: var(--space-xs) var(--space-sm) !important;
+        font-size: 10px !important;
+    }
+}
+</style>

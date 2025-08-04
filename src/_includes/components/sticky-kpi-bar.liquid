@@ -1,0 +1,100 @@
+<!-- Sticky Revenue KPI Bar -->
+<div id="sticky-kpi-bar" class="sticky-kpi-bar" style="position: fixed; top: 0; left: 0; right: 0; background: var(--color-bg-command); border-bottom: var(--border-authority); padding: 12px 16px; transform: translateY(-100%); transition: transform 0.3s ease; z-index: 100; box-shadow: 0 2px 8px rgba(0,0,0,0.2);">
+    <div style="max-width: min(100vw - 32px, 1200px); margin: 0 auto; display: grid; grid-template-columns: 1fr auto; gap: 16px; align-items: center;">
+        <!-- KPI Info -->
+        <div>
+            <div class="mobile-title-case" style="color: var(--color-text-inverse); font-size: clamp(12px, 3vw, 14px); font-weight: 600; margin-bottom: 2px;">
+                Last 30 Days Taxpayer Cost
+            </div>
+            <div class="classification-font" style="color: var(--color-text-alert); font-size: clamp(16px, 4vw, 20px); font-weight: 700;">
+                {% assign thirty_day_total = 0 %}
+                {% assign current_date = "now" | date: "%s" | plus: 0 %}
+                {% assign thirty_days_ago = current_date | minus: 2592000 %}
+                {% for expenditure_data in collections.expenditures %}
+                    {% assign expenditure = expenditure_data.data %}
+                    {% assign expenditure_date = expenditure.date | date: "%s" | plus: 0 %}
+                    {% if expenditure_date >= thirty_days_ago %}
+                        {% assign thirty_day_total = thirty_day_total | plus: expenditure.total_cost %}
+                    {% endif %}
+                {% endfor %}
+                {{ thirty_day_total | currency }}
+            </div>
+        </div>
+        
+        <!-- Status Indicator -->
+        <div style="text-align: right;">
+            <div style="display: inline-block; background: var(--color-text-alert); color: white; padding: 6px 12px; border-radius: 4px; font-size: clamp(10px, 2.5vw, 12px); font-weight: 600; letter-spacing: 0.05em;">
+                ACTIVE
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+/* Sticky KPI bar styling */
+.sticky-kpi-bar.visible {
+    transform: translateY(0);
+}
+
+/* Mobile responsive adjustments */
+@media (max-width: 768px) {
+    .sticky-kpi-bar {
+        padding: 8px 16px;
+    }
+    
+    .sticky-kpi-bar .mobile-title-case {
+        text-transform: none !important;
+    }
+}
+
+/* Motion respect */
+@media (prefers-reduced-motion: reduce) {
+    .sticky-kpi-bar {
+        transition: none;
+    }
+}
+</style>
+
+<script>
+// Sticky KPI bar functionality
+document.addEventListener('DOMContentLoaded', function() {
+    const stickyBar = document.getElementById('sticky-kpi-bar');
+    const hero = document.querySelector('section'); // First section (hero)
+    
+    if (!stickyBar || !hero) return;
+    
+    let heroBottom = hero.offsetTop + hero.offsetHeight;
+    let isVisible = false;
+    
+    function updateStickyBar() {
+        const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+        
+        if (scrollTop > heroBottom && !isVisible) {
+            stickyBar.classList.add('visible');
+            isVisible = true;
+        } else if (scrollTop <= heroBottom && isVisible) {
+            stickyBar.classList.remove('visible');
+            isVisible = false;
+        }
+    }
+    
+    // Throttle scroll events for performance
+    let ticking = false;
+    function requestTick() {
+        if (!ticking) {
+            requestAnimationFrame(updateStickyBar);
+            ticking = true;
+        }
+    }
+    
+    window.addEventListener('scroll', function() {
+        requestTick();
+        ticking = false;
+    });
+    
+    // Recalculate on resize
+    window.addEventListener('resize', function() {
+        heroBottom = hero.offsetTop + hero.offsetHeight;
+    });
+});
+</script>
