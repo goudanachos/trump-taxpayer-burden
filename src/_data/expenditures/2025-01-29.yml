@@ -1,0 +1,33 @@
+{
+  "location": "White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Secret Service & staff (on-site at White House)",
+      "cost": 75000,
+      "description": "Provision of standard White House daily security coverage for President Trump, staff, guests, and events as per official schedule on January 29, 2025.",
+      "category": "security"
+    },
+    {
+      "name": "Local motorcade and security (short in-town movements)",
+      "cost": 10000,
+      "description": "Motorcade and local security associated with President's official events and intra-campus movements on White House grounds.",
+      "category": "transportation"
+    }
+  ],
+  "total_cost": 85000,
+  "social_description": "On Jan 29, 2025, federal taxpayers funded $85k for Secret Service and security support at Trump’s White House; no travel or special leisure outlays reported.",
+  "tags": [
+    "white-house",
+    "security",
+    "secret-service",
+    "presidential-daily-cost"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://usnews.com/news/us/articles/2025-07-31/construction-on-200-million-white-house-ballroom-to-begin-in-september"
+  ]
+}
