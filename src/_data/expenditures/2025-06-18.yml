@@ -1,0 +1,25 @@
+{
+  "location": "The White House, Washington, DC",
+  "activities": [
+    {
+      "name": "Secret Service & White House staff support (on-site)",
+      "cost": 75000,
+      "description": "Standard daily cost for on-site security, logistics, and staff support for a full day of presidential events at the White House (including ceremonies and flag-related events).",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "June 18, 2025: Trump held in-town meetings, ceremonies, and a Juventus FC visit at the White House—no off-site taxpayer travel. Standard federal spending: $75K for White House security and staff.",
+  "tags": [
+    "on-site",
+    "white-house",
+    "presidential-schedule"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://www.cnbctv18.com/photos/world/trump-white-house-ballroom-200-million-donor-funded-to-host-650-guests-2025-19647102.htm",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
