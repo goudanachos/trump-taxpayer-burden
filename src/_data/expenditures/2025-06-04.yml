@@ -1,0 +1,30 @@
+{
+  "location": "White House, Washington D.C.; Bedminster, New Jersey",
+  "activities": [
+    {
+      "name": "Presidential Senior Men's Club Golf Championship at Bedminster",
+      "cost": 10100,
+      "category": "Golf (motorcade, local law enforcement, incidentals)",
+      "description": "President Trump played and won the Senior Men's Golf Club Championship at his Bedminster, NJ club. Costs include motorcade support ($10k), local law enforcement ($1.2k high estimate), and incidentals ($3k minimum)."
+    },
+    {
+      "name": "White House official events and Summer Soirée",
+      "cost": 75000,
+      "category": "Secret Service & staff (official residence)",
+      "description": "President was at the White House for intelligence briefings, meetings, proclamations, and a Summer Soirée. Secret Service & staff rate for on-site day expenses used as standard benchmark."
+    }
+  ],
+  "total_cost": 85100,
+  "social_description": "June 4, 2025: Trump won his own Bedminster golf championship and hosted a White House soirée. Federal taxpayer costs: at least $85,100.",
+  "tags": "Trump,golf,Bedminster,White House,social,Secret Service,soiree",
+  "confidence_level": "high",
+  "model_confidence": 0.96,
+  "model_check": "Cross-confirmed golf win via Irish Star (syndicated), GolfMagic, Mediaite, and newswires; White House soirée/official day corroborated by schedule and major outlets (CNN, NYT). Used highest plausible benchmarks for all categories. No credible evidence of federal costs for the separately-announced ballroom project (private-funded, not taxpayer).",
+  "source_urls": [
+    "https://www.irishstar.com/sport/golf/donald-trump-golf-tournament-cheating-35665368",
+    "https://www.golfmagic.com/news/golf-fans-react-donald-trump-goes-low-win-another-senior-mens-championship",
+    "https://mediaite.com/media/sports/trump-won-his-sixth-club-championship-of-the-year-by-a-whopping-10-strokes-with-sparkling-3-under-par-round-white-house-claims",
+    "https://www.cnn.com/2025/08/02/politics/white-house-renovations-trump-ballroom",
+    "https://www.yahoo.com/news/articles/construction-200-million-white-house-182913785.html"
+  ]
+}
