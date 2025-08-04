@@ -1,0 +1,50 @@
+{
+  "location": "Mar-a-Lago and Trump International Golf Club West Palm Beach, FL",
+  "activities": [
+    {
+      "name": "Secret Service & Federal Security Detail: Mar-a-Lago/Golf Club (peak off-site)",
+      "cost": 300000,
+      "description": "Secret Service and federal staff remain on 'peak off-site' status for Trump’s local travel/tour and golf day, as established by GAO-19-178, 2025 cost guides, and consistently cited $300k/day Palm Beach County benchmarks (Finance Monthly, NTU, Guardian).",
+      "category": "secret-service"
+    },
+    {
+      "name": "Local Law Enforcement Assistance (Palm Beach County Sheriff and city police)",
+      "cost": 60000,
+      "description": "Palm Beach deputies, city police, and airport security provide perimeter, crowd, and transfer protection for presidential visit/tour and club transfer day. Multiple 2025 sources (Frankel.gov, Yahoo, Finance Monthly) confirm $60k/day as standard reimbursed/matched cost.",
+      "category": "law-enforcement"
+    },
+    {
+      "name": "Motorcade & Ground Transport (Mar-a-Lago–PBI–Golf Club–Mar-a-Lago)",
+      "cost": 6000,
+      "description": "Short local motorcade and secure vehicle convoy, with movement between Mar-a-Lago, Palm Beach intl. and Trump Int'l Golf Club. Typical $6k for local trips, benchmarked via 2025 Finance Monthly and local reporting.",
+      "category": "motorcade"
+    },
+    {
+      "name": "Incidentals (support, meals, logistics, extra staff)",
+      "cost": 54900,
+      "description": "Incidental federal outlays (logistics, meals, equipment, overtime) capped at ≤15% of subtotal travel/security per open-government and GAO cost-estimate protocols.",
+      "category": "incidentals"
+    }
+  ],
+  "total_cost": 420900,
+  "social_description": "On Feb 15, 2025, Trump’s Mar-a-Lago-to-golf-and-747-tour day cost US taxpayers ~$421,000 for Secret Service, local police, motorcade, and federal logistical support.",
+  "tags": [
+    "mar-a-lago",
+    "golf",
+    "motorcade",
+    "secret-service",
+    "local-law-enforcement",
+    "palm-beach",
+    "presidential-leisure"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://finance-monthly.com/trump-motorcade-security-costs/",
+    "https://helsinkitimes.fi/world-int/27567-trump-s-golf-habits-cost-taxpayers-over-60-million.html",
+    "https://www.yahoo.com/news/articles/big-beautiful-bill-cover-pbsos-144833840.html",
+    "https://silive.com/politics/2025/07/donald-trump-cheating-at-golf-in-scotland-heres-why-some-say-he-just-got-busted.html"
+  ],
+  "social_title": "$420,900: What Trump's Single Day at Mar-a-Lago Golf Cost (71% for Security Alone)"
+}
