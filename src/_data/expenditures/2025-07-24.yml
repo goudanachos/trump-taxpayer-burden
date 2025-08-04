@@ -1,0 +1,34 @@
+{
+  "location": "Washington, DC (White House & Federal Reserve)",
+  "activities": [
+    {
+      "name": "Presidential motorcade: White House to Federal Reserve (short trip)",
+      "cost": 10000,
+      "description": "Motorcade for round-trip between White House and Federal Reserve, with required Secret Service and local police traffic support for principal in city. No air travel or major off-site event this date.",
+      "category": "motorcade"
+    },
+    {
+      "name": "Secret Service & staff (on-site White House)",
+      "cost": 75000,
+      "description": "Standard security and staff while President is at the White House and official in-town outings. No peak off-site or overseas protection required.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 85000,
+  "social_description": "July 24, 2025: Trump stayed in DC, with only motorcade costs to the Federal Reserve and normal White House security; ~$85k in federal spending, no major leisure expenses.",
+  "tags": [
+    "white-house",
+    "federal-reserve",
+    "motorcade",
+    "in-town"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://www.dau.edu/sites/default/files/2025-02/2025%20OS%20Cost%20Estimating%20Guide.pdf",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://apnews.com/article/6885c172b11d972920f8fb60869868ac",
+    "https://www.washingtonpost.com/politics/2025/07/25/trump-federal-reserve-visit-white-house-schedule/"
+  ]
+}
