@@ -1,0 +1,50 @@
+{
+  "location": "Washington, DC to Trump Turnberry, Scotland (via Glasgow Prestwick)",
+  "activities": [
+    {
+      "name": "International Presidential Flight—Andrews to Glasgow Prestwick (VC-25A x2)",
+      "cost": 2390898,
+      "description": "Transatlantic flight: Andrews to Glasgow (6.7 hrs × $177,843 × 2 for multi-jet international support per GAO/usual practice).",
+      "category": "air-transport"
+    },
+    {
+      "name": "Ground transfer motorcade: Glasgow Prestwick to Turnberry (with police/security)",
+      "cost": 10000,
+      "description": "Short motorcade between airport and resort, with UK/Scottish security coordination, consistent with routine presidential landings in the region.",
+      "category": "motorcade"
+    },
+    {
+      "name": "Secret Service & staff (peak off-site, US/UK)",
+      "cost": 300000,
+      "description": "Full-day peak Secret Service and staff presence at both US departure and UK arrival/Turnberry property sites for high-security international trip.",
+      "category": "security"
+    },
+    {
+      "name": "Local law enforcement assist (Scotland)",
+      "cost": 60000,
+      "description": "Police Scotland activation for motorcade, perimeter, and crowd management, following Palm Beach and past UK/Scotland benchmarks.",
+      "category": "local-police"
+    }
+  ],
+  "total_cost": 2760898,
+  "social_description": "On July 25, 2025, Trump's flight to Turnberry, Scotland cost U.S. taxpayers ~$2.76M: 2 VC-25A jets (Andrews–Glasgow), full US/UK security, and Scottish police for the landing/motorcade.",
+  "tags": [
+    "international-trip",
+    "vc-25a",
+    "turnberry",
+    "air-force-one",
+    "motorcade",
+    "police",
+    "secret-service"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://www.dau.edu/sites/default/files/2025-02/2025%20OS%20Cost%20Estimating%20Guide.pdf",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://gcmap.com/mapui?P=ADW-PIK&MS=wls&DU=mi",
+    "https://www.bbc.co.uk/news/articles/cy40dwe1m84o",
+    "https://www.whitehouse.gov/briefings-statements/"
+  ],
+  "social_title": "$2.76M for ONE DAY to Scotland: Trump's trip cost more than the average American home—and that was just the jets."
+}
