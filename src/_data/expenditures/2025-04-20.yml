@@ -1,0 +1,36 @@
+{
+  "location": "Trump National Golf Club Washington DC / White House",
+  "activities": [
+    {
+      "name": "Motorcade to/from Trump National Golf Club",
+      "cost": 20000,
+      "description": "Local motorcade for the President's round-trip between the White House and Trump National Golf Club Washington DC. Standard cost benchmark (~$10,000 per trip) for short, non-prime distance motorcade within the DC metro area.",
+      "category": "local-motorcade"
+    },
+    {
+      "name": "Secret Service & staff (peak, off-site leisure)",
+      "cost": 300000,
+      "description": "Peak expenditure for Secret Service protection and staff while the President is off-site, including planning, overtime, and perimeter for both club and transit—reflecting GAO-referenced rates and average costs for similar off-site trips to Trump properties.",
+      "category": "secret-service-staff-off-site"
+    }
+  ],
+  "total_cost": 320000,
+  "social_description": "On April 20, 2025, President Trump visited his DC-area golf club. Taxpayer cost: ~$320,000 for motorcade and peak Secret Service protection.",
+  "tags": [
+    "golf",
+    "motorcade",
+    "secret-service",
+    "trump-national-gc",
+    "off-site-leisure"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://helsinkitimes.fi/world-int/27567-trump-s-golf-habits-cost-taxpayers-over-60-million.html",
+    "https://thespun.com/golf/white-house-makes-190000-president-trump-golf-announcement",
+    "https://autoevolution.com/news/secret-service-debuts-armored-golf-force-one-to-protect-trump-on-the-golf-course-255151.html",
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive"
+  ],
+  "social_title": "Taxpayers Spent $320,000 on Trump's Golf Trip: $300,000 Just for Secret Service at His Own Club"
+}
