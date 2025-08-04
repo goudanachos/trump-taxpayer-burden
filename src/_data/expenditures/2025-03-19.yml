@@ -1,0 +1,23 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "White House Operations (On-site Security and Staff Support)",
+      "cost": 75000,
+      "description": "Standard daily Secret Service and White House operational costs for a full workday, with the President present on-site and no off-site or significant travel activities.",
+      "category": "on-site security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "March 19, 2025: President Trump remained at the White House, incurring a standard on-site security and staffing cost of ~$75,000. No off-site travel or leisure activities recorded.",
+  "tags": [
+    "white-house",
+    "security",
+    "no-travel"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
