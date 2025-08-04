@@ -1,0 +1,51 @@
+{
+  "location": "Bedminster, NJ to Washington, DC",
+  "activities": [
+    {
+      "name": "Secret Service and staff (peak off-site, Bedminster)",
+      "cost": 300000,
+      "description": "Full-day protective detail at Trump National Golf Club Bedminster, calculated based on GAO and typical security benchmarks for presidential stays at private property.",
+      "category": "security"
+    },
+    {
+      "name": "Air travel (VC-25A Morristown→Andrews)",
+      "cost": 71137,
+      "description": "Flight from Morristown Municipal Airport to Joint Base Andrews on VC-25A (Air Force One), calculated from direct distance and standard federal per-hour rates (approx. 0.4 hours × $177,843).",
+      "category": "travel"
+    },
+    {
+      "name": "Helicopter travel (Marine One: Bedminster→Morristown + Andrews→White House)",
+      "cost": 24000,
+      "description": "Two short Marine One flights (Bedminster to Morristown, then Andrews to White House), estimated at a total combined 1 hour per DoD cost tables.",
+      "category": "travel"
+    },
+    {
+      "name": "Local motorcade and incidentals",
+      "cost": 10000,
+      "description": "Costs for ground transportation, local security augments, and minor incidentals for arrival/departure movements at both New Jersey and DC endpoints.",
+      "category": "incidentals"
+    }
+  ],
+  "total_cost": 405137,
+  "social_description": "On July 6, 2025, President Trump traveled from Bedminster to DC with VC-25A, Marine One, peak security, and motorcade. Estimated taxpayer cost: ~$405K.",
+  "tags": [
+    "bedminster",
+    "washington-dc",
+    "air-force-one",
+    "marine-one",
+    "motorcade",
+    "secret-service",
+    "travel-day",
+    "july-2025"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.finance-monthly.com/trump-motorcade-security-costs/",
+    "https://www.theguardian.com/us-news/2025/mar/09/trump-golf-trips",
+    "https://www.rollcall.com/factbase/trump/transcript/donald-trump-press-gaggle-after-air-force-one-arrival-july-4-2025/"
+  ],
+  "social_title": "$405,000 for a Day Trip: 74% of Trump's Bill Was Just Security Expenses, Not Travel"
+}
