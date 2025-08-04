@@ -1,0 +1,31 @@
+{
+  "location": "Trump National Golf Club Washington DC / Washington, D.C.",
+  "activities": [
+    {
+      "name": "Golf trip to Trump National Golf Club Washington DC",
+      "cost": 75000,
+      "description": "Secret Service and staff provide on-site protection for the president during an off-site leisure trip (golf), with typical off-site day rate as indicated by GAO-19-178 and congressional benchmarks. No Marine One or VC-25A (Air Force One) used; motorcade cost unverified and presumed standard/included in Secret Service day rate.",
+      "category": "security"
+    },
+    {
+      "name": "Local law enforcement assist (if activated)",
+      "cost": 0,
+      "description": "No direct evidence of D.C. police activation or extraordinary city expenditure for this event; included in standard Secret Service daily rate unless further evidence arises.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "On May 18, 2025, President Trump golfed at his Washington DC club. The day's primary taxpayer outlay was in-town Secret Service protection (~$75k), with no confirmed extraordinary security or travel costs.",
+  "tags": [
+    "golf",
+    "trump-national-golf-club-washington-dc",
+    "secret-service",
+    "leisure-cost"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive"
+  ]
+}
