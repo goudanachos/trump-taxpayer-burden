@@ -1,0 +1,28 @@
+{
+  "location": "The White House, Washington, DC",
+  "activities": [
+    {
+      "name": "Secret Service & Staff (On-Site White House Coverage)",
+      "cost": 75000,
+      "description": "Full on-site Secret Service and federal staff support for official activities at the White House, based on daily federal outlay benchmarks (GAO-19-178, FY22 DoD).",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "May 8, 2025: Trump's full day of official events at the White House cost taxpayers about $75,000 in security and support.",
+  "tags": [
+    "white-house",
+    "security-cost",
+    "in-residence",
+    "2025"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://apnews.com/article/6885c172b11d972920f8fb60869868ac",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive"
+  ]
+}
