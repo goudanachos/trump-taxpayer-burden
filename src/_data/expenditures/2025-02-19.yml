@@ -1,0 +1,55 @@
+{
+  "location": "Palm Beach County (Mar-a-Lago → Miami, FL → D.C.)",
+  "activities": [
+    {
+      "name": "VC-25A (Air Force One) Flight: Palm Beach Intl to Miami Intl to Joint Base Andrews",
+      "cost": 212347,
+      "description": "0.6 hours of VC-25A flight (Palm Beach-Miami 0.25h, Miami-DC 0.35h) at $177,843/hr; no documented international support factors this trip.",
+      "category": "vc-25a"
+    },
+    {
+      "name": "Motorcade and Motorcade Support (Palm Beach, Miami)",
+      "cost": 12000,
+      "description": "Multiple short local motorcades in Palm Beach and Miami; estimate combined $12,000 (2 cities at $6,000 each, based on local benchmarks and Finance Monthly reporting).",
+      "category": "motorcade"
+    },
+    {
+      "name": "Secret Service and White House security (off-site/peak, Mar-a-Lago & Miami)",
+      "cost": 300000,
+      "description": "Secret Service/White House staff at Mar-a-Lago and Miami sites, full-day 'peak off-site' rate per GAO and Finance Monthly ($300,000), includes overtime and additional federal on-site agents.",
+      "category": "secret-service"
+    },
+    {
+      "name": "Local Law Enforcement Assistance (Palm Beach, Miami)",
+      "cost": 120000,
+      "description": "Palm Beach County and Miami-Dade costs, using $60,000 per activation (Finance Monthly, Frankel.gov, Yahoo News, GAO/NTU baselines); both counties likely activated due to presidential moves and press pool confirmation.",
+      "category": "law-enforcement"
+    },
+    {
+      "name": "Incidentals (support, logistics, extra staff)",
+      "cost": 96950,
+      "description": "Incidentals (lodging, meals, extra logistics) estimated at ≤15% of travel+security subtotal.",
+      "category": "incidentals"
+    }
+  ],
+  "total_cost": 741297,
+  "social_description": "On Feb 19, 2025, President Trump’s Mar-a-Lago-to-Miami trip incurred an estimated $741K in federal outlays: Air Force One, motorcades, Secret Service, local law enforcement, and incidentals.",
+  "tags": [
+    "air-force-one",
+    "motorcade",
+    "secret-service",
+    "law-enforcement",
+    "mar-a-lago",
+    "doral-miami",
+    "presidential-travel"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.finance-monthly.com/trump-motorcade-security-costs/",
+    "https://www.yahoo.com/news/articles/big-beautiful-bill-cover-pbsos-144833840.html",
+    "https://helsinkitimes.fi/world-int/27567-trump-s-golf-habits-cost-taxpayers-over-60-million.html",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive"
+  ],
+  "social_title": "$300,000 for Security vs. $212,347 for a 36-Minute Flight - The Shocking Cost of Trump's Day Trip"
+}
