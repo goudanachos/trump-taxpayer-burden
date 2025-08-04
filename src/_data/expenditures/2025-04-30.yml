@@ -1,0 +1,25 @@
+{
+  "location": "The White House, Washington, DC",
+  "activities": [
+    {
+      "name": "On-site Secret Service & Staff Security",
+      "cost": 75000,
+      "description": "Daily security and support provided by Secret Service and White House staff for the President’s activities on-site.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "On April 30, 2025, President Trump remained at the White House. Federal leisure-related spending was limited to routine on-site security, totaling about $75,000.",
+  "tags": [
+    "white-house",
+    "on-site",
+    "security",
+    "routine-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
