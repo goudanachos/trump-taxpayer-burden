@@ -1,0 +1,40 @@
+{
+  "location": "Trump National Golf Club Bedminster, NJ / White House, Washington DC",
+  "activities": [
+    {
+      "name": "Senior Men’s Golf Championship at Bedminster (President Trump)",
+      "cost": 300000,
+      "description": "Full-day peak Secret Service and staff detail while President Trump was off-site at his private Bedminster club for the Senior Men's Golf Championship, based on GAO high-cost estimate for off-site protection.",
+      "category": "security"
+    },
+    {
+      "name": "Local law enforcement support (Bedminster)",
+      "cost": 60000,
+      "description": "Estimated federal reimbursement for local police and sheriffs assisting Secret Service during presidential visit to Bedminster, per Palm Beach precedent and congressional record.",
+      "category": "security-assist"
+    },
+    {
+      "name": "Routine on-site White House security (vacant principal)",
+      "cost": 75000,
+      "description": "Normal White House operations and security required even in the President's absence, per GAO and historic practice.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 435000,
+  "social_description": "On June 30, 2025, President Trump spent the day at Trump Bedminster for the Senior Men’s Golf Championship. Taxpayers paid an estimated $435,000 for security and support, including peak Secret Service and local law enforcement.",
+  "tags": [
+    "bedminster",
+    "golf",
+    "trump-property",
+    "off-site-security",
+    "federal-law-enforcement"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.golfmagic.com/news/golf-fans-react-donald-trump-goes-low-win-another-senior-mens-championship",
+    "https://meidasnews.com/news/white-house-announces-another-trump-golf-club-weekend",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive"
+  ],
+  "social_title": "$435,000 for Trump's golf day: Taxpayers fund security for BOTH his club AND empty White House"
+}
