@@ -1,0 +1,25 @@
+{
+  "location": "Washington, DC",
+  "activities": [
+    {
+      "name": "Secret Service & Staffing (Inauguration Events)",
+      "cost": 300000,
+      "description": "Peak staffing and Secret Service protection for President Trump's inauguration and associated official events across multiple federal venues (Capitol, White House, arena, balls), aligning with GAO-19-178 benchmarks for peak off-site/official day.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 300000,
+  "social_description": "On Jan 20, 2025, Trump's DC Inauguration required max Secret Service staffing. Federal security tab: $300k. No Air Force One/motorcade travel costs evident.",
+  "tags": [
+    "inauguration",
+    "security",
+    "peak-staffing",
+    "dc"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://www.whitehouse.gov/briefings-statements/"
+  ],
+  "social_title": "$300,000: What One Day of Trump's Secret Service Protection Actually Cost - Equal to 5 Years of Average American Income"
+}
