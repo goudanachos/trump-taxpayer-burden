@@ -1,0 +1,42 @@
+{
+  "location": "Washington, D.C. → Joint Base Andrews, MD → Morristown, NJ → Bedminster, NJ",
+  "activities": [
+    {
+      "name": "VC-25A (Air Force One) flight: Joint Base Andrews to Morristown",
+      "cost": 71137,
+      "description": "Flight from Joint Base Andrews (Andrews AFB) to Morristown, NJ estimated at 0.4 hours at the $177,843/hr benchmark for Air Force One (VC-25A) domestic travel with no cargo.",
+      "category": "aircraft"
+    },
+    {
+      "name": "Motorcade & ground support (local transport)",
+      "cost": 10000,
+      "description": "Motorcade and logistics support in D.C., Morristown, and Bedminster for to-and-from airport (upper-bound benchmark for short/urban trip).",
+      "category": "transport"
+    },
+    {
+      "name": "Secret Service & staff protection (off-site day)",
+      "cost": 300000,
+      "description": "Off-site Secret Service protection for high-profile presidential movements and leisure-related Bedminster overnight stay, based on GAO high-end off-site rate.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 381000,
+  "social_description": "On June 6, 2025, Trump's move from DC to Bedminster including an Air Force One hop, local transport, and peak security cost taxpayers ≈ $381k.",
+  "tags": [
+    "vc25a",
+    "morristown",
+    "bedminster",
+    "air-force-one",
+    "motorcade",
+    "secret-service"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://time.com/4885934/white-house-helicopter-cost/"
+  ],
+  "social_title": "$381,000 for Bedminster Overnight: More Than What 20 US Teachers Make All Year Combined"
+}
