@@ -1,0 +1,45 @@
+{
+  "location": "White House, Joint Base Andrews, Morristown, and Trump National Golf Club Bedminster",
+  "activities": [
+    {
+      "name": "VC-25A (Air Force One) flight: Joint Base Andrews → Morristown Municipal Airport",
+      "cost": 147608,
+      "description": "Presidential flight, estimated 0.83 hours (Andrews to Morristown), using VC-25A at $177,843/hr. No cargo/support jets indicated (domestic/no tag-along).",
+      "category": "airlift"
+    },
+    {
+      "name": "Marine One transfer (White House → Andrews; Morristown → Bedminster)",
+      "cost": 48000,
+      "description": "Two short Marine One helicopter legs (~1 hr total) at $24,000/hr (pick-up and drop-off, per DoD rate PDF).",
+      "category": "helicopter"
+    },
+    {
+      "name": "Secret Service & staff (on-site WH+Bedminster)",
+      "cost": 75000,
+      "description": "Secret Service and White House staff support for partial day, as president transitions between on-site (WH) and Bedminster (off-site) presence. Prorated to main on-site cost; no public high-security event requiring 'peak' off-site rate.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 270610,
+  "social_description": "May 23, 2025: President Trump flew from DC to Bedminster via Air Force One and Marine One, incurring ~$270K in federal flight and basic security costs for the day.",
+  "tags": [
+    "air-force-one",
+    "marine-one",
+    "bedminster",
+    "presidential-travel",
+    "secret-service"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://apnews.com/article/6885c172b11d972920f8fb60869868ac",
+    "https://www.theguardian.com/us-news/2025/mar/09/trump-golf-trips",
+    "https://time.com/4885934/white-house-helicopter-cost/",
+    "https://www.dau.edu/sites/default/files/2025-02/2025%20OS%20Cost%20Estimating%20Guide.pdf"
+  ],
+  "social_title": "Trump's One Day Trip: $270,610 - Nearly 4 Years of Median American Household Income"
+}
