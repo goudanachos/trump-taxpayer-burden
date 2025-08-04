@@ -1,0 +1,24 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "White House Operations (On-site Security and Staff Support)",
+      "cost": 75000,
+      "description": "Standard daily Secret Service and White House staffing cost for a workday with the President present and no off-site or travel activities, as per GAO documented rate.",
+      "category": "on-site security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "March 13, 2025: President Trump remained at the White House, hosting NATO's Secretary General. Standard on-site security and staffing cost: ~$75,000. No travel or special leisure spending noted.",
+  "tags": [
+    "white-house",
+    "security",
+    "no-travel",
+    "nato-meeting"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
