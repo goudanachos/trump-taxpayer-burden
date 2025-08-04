@@ -1,0 +1,35 @@
+{
+  "location": "White House & Trump National Golf Club Washington DC",
+  "activities": [
+    {
+      "name": "Motorcade roundtrip: White House ↔ Trump National Golf Club DC",
+      "cost": 20000,
+      "description": "Roundtrip local motorcade for the President (two short trips in DC metro) at $10,000 per trip per cost benchmark.",
+      "category": "ground-transport"
+    },
+    {
+      "name": "Secret Service & staff (on-site White House)",
+      "cost": 75000,
+      "description": "Standard daily security and White House staff support, no peak off-site event detected.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 95000,
+  "social_description": "On May 22, 2025, President Trump commuted from the White House to Trump National Golf Club DC and back, with total federal cost estimated at $95K for motorcade and security.",
+  "tags": [
+    "motorcade",
+    "white-house",
+    "golf-club-dc",
+    "leisure",
+    "security"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://apnews.com/article/6885c172b11d972920f8fb60869868ac"
+  ]
+}
