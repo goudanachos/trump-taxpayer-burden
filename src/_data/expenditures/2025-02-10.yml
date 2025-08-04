@@ -1,0 +1,25 @@
+{
+  "location": "The White House, Washington, DC",
+  "activities": [
+    {
+      "name": "Routine on-site security and staff—White House official day",
+      "cost": 75000,
+      "description": "Standard federal outlay for Secret Service and staff operations at the White House. No evidence of off-site travel or local law enforcement activation; all schedule events were in-town, on-premises.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "On February 10, 2025, President Trump remained at the White House for official duties. Leisure-related taxpayer spending was limited to routine on-site security and staff.",
+  "tags": [
+    "white-house",
+    "in-town",
+    "security",
+    "no-travel"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://rollcall.com/factbase/trump/topic/calendar/"
+  ]
+}
