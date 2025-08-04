@@ -1,0 +1,31 @@
+{
+  "location": "White House & Kennedy Center, Washington, DC",
+  "activities": [
+    {
+      "name": "On-site White House staff & Secret Service protection",
+      "cost": 75000,
+      "description": "Standard daily on-site White House security and staff expenditure. No evidence of off-site overnight costs or extraordinary security activation beyond standard detail.",
+      "category": "security"
+    },
+    {
+      "name": "Evening attendance at Kennedy Center event (motorcade)",
+      "cost": 10000,
+      "description": "Local presidential motorcade for round trip from White House to Kennedy Center and back; no Air Force One, Marine One, or C-32 usage reported for this 1-day window.",
+      "category": "transportation"
+    }
+  ],
+  "total_cost": 85000,
+  "social_description": "On June 11, 2025, President Trump's local DC movements (White House + Kennedy Center event) incurred an estimated $85,000 in taxpayer security and transportation costs. No evidence of major travel or extraordinary security activation.",
+  "tags": [
+    "dc-local",
+    "no-flight",
+    "kennedy-center",
+    "white-house",
+    "security"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive"
+  ]
+}
