@@ -38,7 +38,7 @@ permalink: "/day/{{ expenditure.data.date | date: '%Y/%m/%d' }}/"
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="article">
     <meta property="og:url" content="{{ site.url }}{{ page.url }}">
-    <meta property="og:title" content="{{ exp.date | date: '%B %-d, %Y' }} - Trump Cost Taxpayers {{ exp.total_cost | currency }}">
+    <meta property="og:title" content="{{ exp.date | date: '%B %-d, %Y' }} - {% if exp.social_title %}{{ exp.social_title }}{% else %}Trump Cost Taxpayers {{ exp.total_cost | currency }}{% endif %}">
     <meta property="og:description" content="{% if exp.social_description %}{{ exp.social_description | truncate: 200 }}{% else %}Detailed breakdown of Trump's taxpayer-funded activities on {{ exp.date | date: '%B %-d, %Y' }} at {{ exp.location }}.{% endif %}">
     <meta property="og:image" content="https://trumptaxburden.com/images/social/day-{{ exp.date }}.svg">
     <meta property="og:image:width" content="1200">
@@ -53,7 +53,7 @@ permalink: "/day/{{ expenditure.data.date | date: '%Y/%m/%d' }}/"
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="{{ site.url }}{{ page.url }}">
-    <meta property="twitter:title" content="{{ exp.date | date: '%B %-d, %Y' }} - Trump Cost {{ exp.total_cost | currency }}">
+    <meta property="twitter:title" content="{{ exp.date | date: '%B %-d, %Y' }} - {% if exp.social_title %}{{ exp.social_title }}{% else %}Trump Cost {{ exp.total_cost | currency }}{% endif %}">
     <meta property="twitter:description" content="{% if exp.social_description %}{{ exp.social_description | truncate: 200 }}{% else %}Trump's taxpayer-funded activities on {{ exp.date | date: '%B %-d, %Y' }} at {{ exp.location }}.{% endif %}">
     <meta property="twitter:image" content="https://trumptaxburden.com/images/social/day-{{ exp.date }}.svg">
     <meta property="twitter:site" content="@TaxpayerBurden">
@@ -319,7 +319,7 @@ permalink: "/day/{{ expenditure.data.date | date: '%Y/%m/%d' }}/"
     
     <script>
         function shareOnTwitter() {
-            const text = "{{ exp.date | date: '%B %-d, %Y' }} - Trump cost taxpayers {{ exp.total_cost | currency }} {% if exp.social_description %}{{ exp.social_description | truncate: 100 | escape }}{% endif %}";
+            const text = "{{ exp.date | date: '%B %-d, %Y' }} - {% if exp.social_title %}{{ exp.social_title }}{% else %}Trump cost taxpayers {{ exp.total_cost | currency }}{% endif %} {% if exp.social_description %}{{ exp.social_description | truncate: 100 | escape }}{% endif %}";
             const url = "{{ site.url }}{{ page.url }}";
             const twitterUrl = `https://twitter.com/intent/tweet?text=${encodeURIComponent(text)}&url=${encodeURIComponent(url)}&hashtags=TrumpTaxBurden,TaxpayerMoney`;
             window.open(twitterUrl, '_blank', 'width=550,height=420');
