@@ -1,0 +1,27 @@
+{
+  "location": "The White House, Washington, DC",
+  "activities": [
+    {
+      "name": "Secret Service & White House staff support (on-site)",
+      "cost": 75000,
+      "description": "Standard daily federal outlay for on-site Secret Service protection and White House operational staff support during all in-town official events and evening Congressional Picnic.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "June 12, 2025: Trump and First Lady hosted a Congressional Picnic at the White House—$75K for security and daily staff. No out-of-town travel or leisure costs reported.",
+  "tags": [
+    "on-site",
+    "white-house",
+    "congressional-picnic"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://apnews.com/article/6885c172b11d972920f8fb60869868ac"
+  ]
+}
