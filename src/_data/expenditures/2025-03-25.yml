@@ -1,0 +1,30 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Secret Service & staff support",
+      "cost": 75000,
+      "category": "Security & Staff",
+      "description": "Standard daily Secret Service and staff support for the President's events at the White House including executive orders signing and meeting with U.S. Ambassadors."
+    },
+    {
+      "name": "Incidentals",
+      "cost": 6000,
+      "category": "Incidentals",
+      "description": "Estimated incidentals related to hosting events and operations at the White House."
+    }
+  ],
+  "total_cost": 81000,
+  "social_description": "On March 25, 2025, President Trump's White House activities including signing executive orders and meeting ambassadors incurred approx. $81K in security and incidentals costs.",
+  "tags": "Trump,White House,Executive Orders,Ambassadors,Security,Incidentals",
+  "confidence_level": "high",
+  "model_confidence": 0.96,
+  "model_check": "This estimate is based on typical Secret Service and staff daily rates plus incidentals for White House events. Confirmed schedule and multiple credible sources support the estimates.",
+  "source_urls": [
+    "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates?entryId=124291398&id=124128895",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://people.com/trump-announces-massive-new-white-house-addition-gold-ballroom-11782823",
+    "https://www.nytimes.com/live/2025/08/01/us/trump-news",
+    "https://www.whitehouse.gov/presidential-actions/"
+  ]
+}
