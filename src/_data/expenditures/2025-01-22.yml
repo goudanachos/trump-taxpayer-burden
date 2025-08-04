@@ -1,0 +1,24 @@
+{
+  "location": "White House, Washington, DC",
+  "activities": [
+    {
+      "name": "Presidential Staffing and Security (on-site)",
+      "cost": 75000,
+      "description": "Daily on-site presence of Secret Service, core White House support staff, and required incidentals for an in-residence day with no motorcade or travel events. No local law enforcement activation or transportation costs incurred.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "On Jan 22, 2025, President Trump remained at the White House all day with no travel. Taxpayer costs: $75k for on-site Secret Service and staff.",
+  "tags": [
+    "white-house",
+    "no-travel",
+    "security",
+    "in-residence"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://rollcall.com/factbase/trump/topic/calendar/",
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
