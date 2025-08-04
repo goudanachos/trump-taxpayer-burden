@@ -1,0 +1,24 @@
+{
+  "location": "The White House, Washington, DC",
+  "activities": [
+    {
+      "name": "On-site security and staff (routine White House operations)",
+      "cost": 75000,
+      "description": "Daily baseline Secret Service and White House Operations staff allocation while the President is in residence, per GAO-19-178 benchmark.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "On July 2, 2025, President Trump remained at the White House without travel or public events. The only documented taxpayer-funded cost was standard on-site security and staff expenses: $75,000 for the day.",
+  "tags": [
+    "white-house",
+    "security",
+    "no-travel",
+    "routine-operations"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://helsinkitimes.fi/world-int/27567-trump-s-golf-habits-cost-taxpayers-over-60-million.html"
+  ]
+}
