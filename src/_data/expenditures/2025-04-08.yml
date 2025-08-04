@@ -1,0 +1,32 @@
+{
+  "location": "White House and National Building Museum, Washington, DC",
+  "activities": [
+    {
+      "name": "On-site Secret Service and staff (White House and official off-site events)",
+      "cost": 75000,
+      "description": "Standard daily security, screening, and staff presence for POTUS at the White House and for a short off-site evening trip to the National Building Museum. No evidence of exceptional costs or local law enforcement activation.",
+      "category": "security"
+    },
+    {
+      "name": "Local Motorcade (White House to National Building Museum, round trip)",
+      "cost": 10000,
+      "description": "Brief presidential motorcade for a round-trip between the White House and the National Building Museum in DC. Based on the upper-end estimate for short in-city motorcades.",
+      "category": "transportation"
+    }
+  ],
+  "total_cost": 85000,
+  "social_description": "On April 8, 2025, President Trump remained in DC with only minor leisure costs: standard Secret Service on-site security and a short motorcade to the National Building Museum for the NRCC Dinner. Total taxpayer cost: ~$85,000.",
+  "tags": [
+    "white-house",
+    "motorcade",
+    "nrcc-dinner",
+    "secret-service",
+    "official-event"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
