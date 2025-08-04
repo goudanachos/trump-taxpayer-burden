@@ -1,0 +1,33 @@
+{
+  "location": "Trump National Golf Club Bedminster & US Military Academy, West Point, NY",
+  "activities": [
+    {
+      "name": "Helicopter travel Bedminster ↔ West Point",
+      "cost": 48000,
+      "description": "Estimated 2 hours (roundtrip) by Marine One at $24,000 per flight hour for presidential trip from Trump National Golf Club Bedminster to US Military Academy, West Point, for commencement address.",
+      "category": "transport"
+    },
+    {
+      "name": "Secret Service Protection (off-site, event)",
+      "cost": 300000,
+      "description": "Peak day Secret Service and support staff for off-site high-security event (president at West Point commencement) at $300,000/day (GAO, NTU).",
+      "category": "security"
+    }
+  ],
+  "total_cost": 348000,
+  "social_description": "May 24, 2025: President Trump flew Marine One roundtrip from Bedminster to West Point for a commencement speech, incurring ~$48K in helicopter costs and $300K for off-site Secret Service protection.",
+  "tags": [
+    "marine-one",
+    "west-point",
+    "commencement",
+    "presidential-travel",
+    "secret-service"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.gao.gov/assets/gao-19-178.pdf"
+  ],
+  "social_title": "$348,000 for a Day Trip: Trump's Helicopter & $300K Security at West Point Speech"
+}
