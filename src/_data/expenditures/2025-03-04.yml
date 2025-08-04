@@ -1,0 +1,22 @@
+{
+  "location": "The White House and U.S. Capitol, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Joint Address to Congress and Related Travel",
+      "cost": 15000,
+      "category": "Travel and Security",
+      "description": "On March 4, 2025, the President and First Lady traveled by motorcade between the White House and U.S. Capitol for the Joint Address to Congress. The event and motorcade trips incurred estimated costs of approximately $15,000 for local motorcade travel and associated Secret Service security."
+    }
+  ],
+  "total_cost": 15000,
+  "social_description": "On March 4, 2025, the President delivered the Joint Address to Congress at the U.S. Capitol. Travel and security costs for motorcade trips between the White House and Capitol are estimated at $15,000.",
+  "tags": "White House,Capitol,Joint Address,Motorcade,Travel,Security",
+  "confidence_level": "high",
+  "model_confidence": 0.97,
+  "model_check": "The cost estimate is based on typical rates for local motorcade trips and Secret Service security for short-distance travel in Washington, D.C. Multiple credible news sources confirm the event and travel schedule. No additional leisure or travel costs were found.",
+  "source_urls": [
+    "https://nytimes.com/live/2025/08/01/us/trump-news",
+    "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?entryId=124254203&id=124128895",
+    "https://www.whitehouse.gov/presidential-actions/"
+  ]
+}
