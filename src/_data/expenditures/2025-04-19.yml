@@ -1,0 +1,24 @@
+{
+  "location": "Trump National Golf Club Washington DC, Potomac Falls, VA",
+  "activities": [
+    {
+      "name": "Presidential Golf Outing",
+      "cost": 75000,
+      "category": "Secret Service & staff",
+      "description": "Secret Service and staff support for President Trump's golf outing at Trump National Golf Club Washington DC on April 19, 2025."
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "On April 19, 2025, President Trump played golf at Trump National Golf Club Washington DC with Secret Service and staff support, costing taxpayers an estimated $75,000 for security and staffing.",
+  "tags": "Trump,golf,Trump National Golf Club,Secret Service,April 19 2025",
+  "confidence_level": "medium",
+  "model_confidence": 0.8,
+  "model_check": "The cost is estimated using standard daily rates for Secret Service and staff during golf outings. Evidence from multiple golf-related news sources confirms the event but lacks detailed cost breakdown, so confidence is medium.",
+  "source_urls": [
+    "https://mediaite.com/media/sports/trump-won-his-sixth-club-championship-of-the-year-by-a-whopping-10-strokes-with-sparkling-3-under-par-round-white-house-claims",
+    "https://www.irishstar.com/sport/golf/donald-trump-golf-tournament-cheating-35665368",
+    "https://yahoo.com/news/articles/eric-trump-calls-aberdeen-scotland-161840634.html",
+    "https://meidasnews.com/news/white-house-announces-another-trump-golf-club-weekend",
+    "https://thehill.com/homenews/administration/5424896-donald-trump-new-golf-course-scotland/"
+  ]
+}
