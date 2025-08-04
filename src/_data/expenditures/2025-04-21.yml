@@ -1,0 +1,15 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [],
+  "total_cost": 0,
+  "social_description": "On April 21, 2025, President Trump participated in the White House Easter Egg Roll and related activities with no additional taxpayer-funded leisure or recreational costs identified.",
+  "tags": "Trump,White House,Easter Egg Roll,April 21 2025",
+  "confidence_level": "high",
+  "model_confidence": 1,
+  "model_check": "No evidence found indicating taxpayer-funded leisure or recreational costs for Trump on this date. All activities were official White House events with no travel or additional expenditure reported.",
+  "source_urls": [
+    "https://people.com/trump-announces-massive-new-white-house-addition-gold-ballroom-11782823",
+    "https://democrats.org/news/let-them-eat-cake-trump-announces-200-million-white-house-ballroom-after-ripping-away-health-care-and-food-assistance-for-working-americans",
+    "https://whitehouse.gov/presidential-actions/executive-orders"
+  ]
+}
