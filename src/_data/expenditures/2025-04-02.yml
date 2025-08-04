@@ -1,0 +1,28 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Presidential security and staff support (on-site)",
+      "cost": 75000,
+      "description": "Standard daily Secret Service and staff costs for President Trump remaining on White House grounds for all official and press events. No evidence of travel, local boosts, or supplemental federal security measures. All major sources confirm no extraordinary activity, and major expenditures (e.g., ballroom announcement) were privately funded, not federal spending.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "On April 2, 2025, President Trump spent the day at the White House; only standard federal costs ($75K) for Secret Service/staff applied—no travel or extra security. Major event spending (e.g., new WH ballroom) was privately/donor funded, not taxpayer-paid.",
+  "tags": [
+    "white-house",
+    "on-site-day",
+    "standard-security",
+    "no-travel"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.nytimes.com/live/2025/07/31/us/trump-news",
+    "https://bloomberg.com/news/articles/2025-07-31/white-house-unveils-plans-for-200-million-east-wing-ballroom",
+    "https://foxbusiness.com/politics/sprawling-new-200m-white-house-ballroom-paid-trump-donors",
+    "https://newsweek.com/map-images-show-how-trumps-golden-ballroom-will-change-white-house-2107417"
+  ]
+}
