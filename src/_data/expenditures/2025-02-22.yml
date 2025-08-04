@@ -1,0 +1,30 @@
+{
+  "location": "Washington, DC and National Harbor, MD",
+  "activities": [
+    {
+      "name": "On-Site Secret Service and Staff Security (White House Day)",
+      "cost": 75000,
+      "description": "Routine security and staff presence at the White House for a high-profile event day with public travel to National Harbor and a major evening reception, according to GAO and Congressional norms.",
+      "category": "security"
+    },
+    {
+      "name": "Marine One (Helicopter) Round Trip - White House to National Harbor (est. 0.33 flight hours total)",
+      "cost": 8000,
+      "description": "The President used Marine One for round-trip transport from the White House to National Harbor and back. Total estimated flight time 0.33 hours (~20 minutes each way). Benchmarked at $24,000 per flight hour (DoD FY22 rate).",
+      "category": "travel"
+    }
+  ],
+  "total_cost": 83000,
+  "social_description": "Feb 22, 2025: President used Marine One for a round trip to National Harbor for CPAC and meetings. Security costs for White House staff per usual norms.",
+  "tags": [
+    "marine-one",
+    "white-house",
+    "national-harbor",
+    "security"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive"
+  ]
+}
