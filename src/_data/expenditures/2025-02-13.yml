@@ -1,0 +1,36 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Secret Service & Staff Protection (on-site, White House)",
+      "cost": 75000,
+      "description": "Full-day federal security, Secret Service and White House support, for official OECD, ceremonial, and press events on-site. GAO and NTU cite $75,000/day baseline rate for in-residence White House operations, even on high-profile bilateral days.",
+      "category": "secret-service"
+    },
+    {
+      "name": "Incidentals (logistics, meals, extra staffing)",
+      "cost": 11250,
+      "description": "Federal outlays for incidentals (catering for bilateral dinner, equipment, overtime), capped at ≤15% of travel+security ($75,000 × 0.15) as per federal cost guidelines and GAO-19-178.",
+      "category": "incidentals"
+    }
+  ],
+  "total_cost": 86250,
+  "social_description": "On Feb 13, 2025, Trump's hosting of PM Modi at the White House incurred about $86k in federal taxpayer costs for dedicated security and incidentals, per agency cost standards.",
+  "tags": [
+    "white-house",
+    "security",
+    "diplomacy",
+    "secret-service",
+    "modi",
+    "official-event"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://finance-monthly.com/trump-motorcade-security-costs/",
+    "https://helsinkitimes.fi/world-int/27567-trump-s-golf-habits-cost-taxpayers-over-60-million.html",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.dau.edu/sites/default/files/2025-02/2025%20OS%20Cost%20Estimating%20Guide.pdf"
+  ]
+}
