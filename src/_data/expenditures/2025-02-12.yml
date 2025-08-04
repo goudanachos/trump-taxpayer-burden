@@ -1,0 +1,25 @@
+{
+  "location": "The White House, Washington, DC",
+  "activities": [
+    {
+      "name": "Routine in-town presidential business (on-site staff and security)",
+      "cost": 75000,
+      "description": "Daily Secret Service and White House staff/support while President Trump remained at the White House with no off-site travel or leisure spending reported.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "On February 12, 2025, President Trump remained at the White House for official business. Federal leisure spending was limited to routine staff and Secret Service costs only.",
+  "tags": [
+    "white-house",
+    "routine-day",
+    "no-travel",
+    "security-only"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
