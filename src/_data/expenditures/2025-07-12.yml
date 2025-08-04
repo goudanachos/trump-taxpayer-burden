@@ -1,0 +1,41 @@
+{
+  "location": "Trump National Golf Club Bedminster, NJ",
+  "activities": [
+    {
+      "name": "Secret Service & Staff protection (Bedminster full-day in-residence)",
+      "cost": 75000,
+      "description": "Standard in-residence Secret Service and White House staff security cost. No off-site travel, matching GAO-19-178 and press lid issued before 10am. No event-specific spikes detected in in-window sources.",
+      "category": "security"
+    },
+    {
+      "name": "Golf cart and facility rentals (Secret Service support)",
+      "cost": 8300,
+      "description": "Estimated pro-rata daily cost for golf cart/portable restroom and related facility fees provided for Secret Service/WH staff at Bedminster (annualized recent $550,000 contract, see July 2025 Independent report); rounded in keeping with NTU/GAO golf-trip per-day cost norms.",
+      "category": "security-logistics"
+    },
+    {
+      "name": "Incidentals",
+      "cost": 12450,
+      "description": "Miscellaneous staff and operational incidentals up to 15% cap per benchmark (travel + security).",
+      "category": "incidentals"
+    }
+  ],
+  "total_cost": 95800,
+  "social_description": "On July 12, 2025, Trump stayed in-residence at Bedminster: taxpayers paid $95,800 for routine Secret Service, on-property staff, support facility rentals, and incidentals—no off-site travel or event costs.",
+  "tags": [
+    "bedminster",
+    "security",
+    "secret-service",
+    "golf",
+    "in-residence"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://independent.co.uk/news/world/americas/us-politics/trump-golf-carts-secret-service-bedminster-b2779793.html",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://yahoo.com/news/articles/trump-spent-almost-third-presidency-224657644.html",
+    "https://pennlive.com/sports/2025/07/donald-trump-went-golfing-again-taxpayer-cost-for-the-trips-just-hit-an-incredible-new-milestone.html"
+  ]
+}
