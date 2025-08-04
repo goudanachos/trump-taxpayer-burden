@@ -1,0 +1,39 @@
+{
+  "location": "White House and Trump National Golf Club Washington, D.C.",
+  "activities": [
+    {
+      "name": "On-Site Security and Support (Secret Service, Staff)",
+      "cost": 75000,
+      "description": "Standard daily cost for maintaining security and essential staff while President Trump was on-site at the White House for most of May 5, 2025.",
+      "category": "security"
+    },
+    {
+      "name": "Presidential Motorcade to/from Trump National Golf Club (Washington, D.C. Suburbs)",
+      "cost": 10000,
+      "description": "Motorcade transfer between the White House and Trump National Golf Club Washington, D.C.—a routine short trip. $10,000 cost benchmark per GAO and Palm Beach police reimbursement reporting; covers local/federal coordination, vehicles, planning, traffic disruptions, and security. No public reporting of substantial law enforcement activation for a local DC metro trip.",
+      "category": "travel"
+    },
+    {
+      "name": "Secret Service & Staff - Off-Site Evening Event Coverage (Peak)",
+      "cost": 300000,
+      "description": "Secret Service and staff peak off-site surge rate for presidential movement to a private property (Trump National Golf Club) with a public event, meal, and return late evening within the DC region. Applies for the golfing/fundraising dinner event; based on GAO-19-178 documentation of $300,000/day upper bound for Secret Service and support per off-site day. No evidence of local police activation exceeding incidental federal planning costs for this short trip.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 385000,
+  "social_description": "May 5, 2025: President Trump traveled from the White House to Trump National Golf Club (Washington, D.C. area) for a golf/fundraiser dinner. Taxpayer outlay: $385,000, mostly for peak Secret Service off-site security. No air travel required.",
+  "tags": [
+    "golf",
+    "motorcade",
+    "off-site",
+    "secret-service",
+    "trump-property"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927"
+  ],
+  "social_title": "$300,000 for Security Alone: Trump's One-Day Golf Outing At His Property Cost Taxpayers $385,000"
+}
