@@ -1,0 +1,25 @@
+{
+  "location": "White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "On-site White House staff & Secret Service protection",
+      "cost": 75000,
+      "description": "Standard daily on-site security and staff expenditure at the White House during meetings/official business. No evidence for off-site or travel-related additional costs.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "On June 5, 2025, Trump's activities at the White House with no reported travel incurred typical $75,000 in taxpayer security costs.",
+  "tags": [
+    "white-house",
+    "on-site",
+    "security"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf"
+  ]
+}
