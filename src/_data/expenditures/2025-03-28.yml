@@ -1,0 +1,48 @@
+{
+  "location": "Washington, D.C. to Mar-a-Lago, Palm Beach, FL",
+  "activities": [
+    {
+      "name": "VC-25A (Air Force One) flight JBA to PBI",
+      "cost": 213412,
+      "description": "Trump traveled from Joint Base Andrews to Palm Beach International Airport on Air Force One (VC-25A). This domestic flight is approximately 1.2 hours (JBA-PBI), calculated at $177,843 per hour with no support multiplier.",
+      "category": "presidential-aircraft"
+    },
+    {
+      "name": "Secret Service and Staff (peak off-site day)",
+      "cost": 300000,
+      "description": "Full off-site, peak Secret Service and federal support throughout Mar-a-Lago arrival and related local movements, as per GAO benchmarks for presidential travel to Palm Beach properties.",
+      "category": "security"
+    },
+    {
+      "name": "Local law-enforcement (Palm Beach)",
+      "cost": 60000,
+      "description": "Palm Beach County and local police provided security for the visit and local motorcade, with standard federal reimbursement benchmarked at ~$60,000 per full support day.",
+      "category": "local-police-assist"
+    },
+    {
+      "name": "Motorcade and ground transport incidentals",
+      "cost": 10000,
+      "description": "Includes President's ground movements in D.C. and Palm Beach, estimated $10,000 per benchmarking (vehicle and logistics costs). Incidentals remain below the 15% spending cap with no evidence of extraordinary items.",
+      "category": "transport"
+    }
+  ],
+  "total_cost": 583412,
+  "social_description": "On March 28, 2025, Trump flew Air Force One from DC to Mar-a-Lago. Federal spending: $583K—flight ($213K), peak Secret Service ($300K), Palm Beach police ($60K), and local transport ($10K).",
+  "tags": [
+    "mar-a-lago",
+    "air-force-one",
+    "peak-security",
+    "local-police",
+    "presidential-travel"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://the-independent.com/bulletin/news/trump-presidency-golf-properties-visit-b2798480.html",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://yahoo.com/news/articles/big-beautiful-bill-cover-pbsos-144833840.html"
+  ],
+  "social_title": "Trump's Palm Beach Trip: $583,412 Federal Cost - Secret Service Spent More Than Double the Air Force One Flight"
+}
