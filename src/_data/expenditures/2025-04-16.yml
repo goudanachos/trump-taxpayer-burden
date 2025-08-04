@@ -1,0 +1,23 @@
+{
+  "location": "White House, Washington, DC",
+  "activities": [
+    {
+      "name": "Secret Service and staff (on-site)",
+      "cost": 75000,
+      "description": "Provision of daily security, logistical, and staff support for the President onsite at the White House. No evidence of travel, peak/off-site events, or police activation on April 16, 2025. Benchmark per GAO-19-178 and DoD FY-22/25.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "On April 16, 2025, Trump remained onsite at the White House. Taxpayer cost: $75,000 for Secret Service & staff. No travel or extra law enforcement costs reported.",
+  "tags": [
+    "white-house",
+    "onsite",
+    "security-only"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf"
+  ]
+}
