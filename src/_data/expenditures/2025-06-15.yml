@@ -1,0 +1,47 @@
+{
+  "location": "Pomeroy Kananaskis Mountain Lodge & transit, Alberta, Canada",
+  "activities": [
+    {
+      "name": "VC-25A (Air Force One): Andrews to Calgary (international, multi-jet)",
+      "cost": 1532458,
+      "description": "Trump's flight from Joint Base Andrews to Calgary on Air Force One, using international support factor (4.3 h × $177,843 × 2 per formula).",
+      "category": "air-travel"
+    },
+    {
+      "name": "Secret Service & staff (peak off-site, Summit day)",
+      "cost": 300000,
+      "description": "Maximum peak daily expenditure for overseas Secret Service and executive support during major summit, as per GAO/official benchmarks.",
+      "category": "security"
+    },
+    {
+      "name": "Local law-enforcement assist (Calgary, motorcade)",
+      "cost": 60000,
+      "description": "Estimated activation of city/police resources in Calgary for presidential arrival and summit motorcade within host city.",
+      "category": "security"
+    },
+    {
+      "name": "Incidentals (capped at 15%)",
+      "cost": 271491,
+      "description": "Expenses for meals, hotels, logistics, and supplies during international travel day, capped by DCT formula.",
+      "category": "incidentals"
+    }
+  ],
+  "total_cost": 2163949,
+  "social_description": "June 15, 2025: Trump flew Air Force One to Canada for the G7 in Kananaskis—~$2.16M in taxpayer travel, security, and incidentals for the day.",
+  "tags": [
+    "g7-summit",
+    "air-force-one",
+    "international-travel",
+    "secret-service"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://apnews.com/article/6885c172b11d972920f8fb60869868ac"
+  ],
+  "social_title": "$2.16M for One Day: Trump's G7 Trip Cost More Than Most Homes With $1.5M Just For Air Force One"
+}
