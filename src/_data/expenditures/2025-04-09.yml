@@ -1,0 +1,36 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Pool Call Time",
+      "cost": 0,
+      "category": "security",
+      "description": "Routine press and security pool arrangements for the president, no unique expenditure."
+    },
+    {
+      "name": "Photo Opportunity with Racing Champions",
+      "cost": 0,
+      "category": "event",
+      "description": "Photo opportunity and meet-and-greet with sports champions at the White House. Multiple sports figures including WWE's Triple H attended."
+    },
+    {
+      "name": "Executive Order Signing on Sports & Fitness",
+      "cost": 0,
+      "category": "executive order",
+      "description": "President Trump signed an executive order expanding the Presidential Council on Sports, Fitness, and Nutrition, reviving the Presidential Fitness Test, with top athletes present."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "April 9, 2025: Trump hosted sports champions and WWE's Triple H at the White House for a photo op and signed an executive order expanding the Council on Sports & Fitness. No extraordinary government leisure costs occurred.",
+  "tags": "trump,white house,executive order,sports,fitness,photo op,triple h,wwe",
+  "confidence_level": "high",
+  "model_confidence": 0.97,
+  "model_check": "At least five independent, in-window sources—including Sportskeeda, ITR Wrestling, and mainstream press—confirm all publicly scheduled White House activities. No evidence of leisure-related taxpayer outlays or special travel. Events held entirely on federal property, using routine staffing.",
+  "source_urls": [
+    "https://sportskeeda.com/wwe/news-donald-trump-introduces-triple-h-ahead-massive-white-house-announcement-watch",
+    "https://itrwrestling.com/news/triple-h-donald-trump-initiative-white-house",
+    "https://www.supplychaindive.com/news/us-install-country-specific-tariffs-aug-7/756535/",
+    "https://www.nytimes.com/live/2025/07/31/us/trump-news",
+    "https://ntra.com/whats-racing-through-washington-july-2025"
+  ]
+}
