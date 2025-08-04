@@ -1,0 +1,29 @@
+{
+  "location": "Trump National Golf Club Bedminster, NJ",
+  "activities": [
+    {
+      "name": "Secret Service and staff (peak off-site)",
+      "cost": 300000,
+      "description": "Full-day protective detail for President Trump's stay at Trump National Golf Club Bedminster. This represents the GAO-verified upper-bound daily federal cost for off-site presidential security at a private property.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 300000,
+  "social_description": "On July 5, 2025, President Trump remained at Bedminster. Estimated taxpayer cost: $300,000 for maximum Secret Service/security at his private club.",
+  "tags": [
+    "bedminster",
+    "off-site-security",
+    "trump-golf",
+    "july-2025"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://www.theguardian.com/us-news/2025/mar/09/trump-golf-trips",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927"
+  ],
+  "social_title": "$300,000 a Day: Taxpayer Security Detail Covers Trump at His Own Golf Club"
+}
