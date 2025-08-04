@@ -1,0 +1,25 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "On-site security (Secret Service & staff)",
+      "cost": 75000,
+      "description": "Daily standard protection for the President at the White House. No offsite or extraordinary activation evident from the schedule or public feeds.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "March 24, 2025: President Trump remained at the White House with a full slate of official events. Standard on-site Secret Service protection cost taxpayers $75,000 today. No offsite or leisure/personal travel observed.",
+  "tags": [
+    "white-house",
+    "routine-day",
+    "security"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
