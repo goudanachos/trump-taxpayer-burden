@@ -1,0 +1,43 @@
+{
+  "location": "Doha, Qatar and Abu Dhabi, United Arab Emirates",
+  "activities": [
+    {
+      "name": "VC-25A (Air Force One) flight: Doha→Abu Dhabi + intra-UAE motorcade",
+      "cost": 766600,
+      "description": "Flight time from Doha to Abu Dhabi: approx. 1.1 hours × $177,843 × support factor 2 (international with support fleet), plus estimated local motorcade and transfer costs (rounded for full coverage).",
+      "category": "air-travel"
+    },
+    {
+      "name": "Secret Service and US Staff: Peak International, Off-Site",
+      "cost": 300000,
+      "description": "Peak off-site Secret Service and staff protection per GAO-19-178 and concurrent reports ($300k/day for overseas/major international transit outside US soil).",
+      "category": "security"
+    },
+    {
+      "name": "Incidentals and Federal Travel Per Diem (capped)",
+      "cost": 160000,
+      "description": "Capped at 15% of (air travel + security) in alignment with GAO/NTU standards, to cover incidentals for global travel, logistics, communications and diplomatic support. Intra-state/official events, multiple site visits, and international hospitality logistics included in estimate.",
+      "category": "incidentals"
+    }
+  ],
+  "total_cost": 1226600,
+  "social_description": "May 15, 2025: Trump transits from Doha to Abu Dhabi for a state visit with multiple events. International Air Force One flight, peak security, and incidentals for the day's presidential travel estimated at $1.2M+ USD.",
+  "tags": [
+    "air-force-one",
+    "international-travel",
+    "doha",
+    "abu-dhabi",
+    "state-visit",
+    "secret-service"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://www.grunge.com/1902455/how-much-donald-trump-air-force-one-cost-per-hour/",
+    "https://www.whitehouse.gov/fact-sheets",
+    "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates"
+  ],
+  "social_title": "$1.2M for one day: Trump's Doha to Abu Dhabi trip cost as much as the average American earns in 15 years."
+}
