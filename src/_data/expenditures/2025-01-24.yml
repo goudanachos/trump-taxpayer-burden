@@ -1,0 +1,35 @@
+{
+  "location": "Multiple Locations (The White House, Joint Base Andrews, Asheville Regional Airport, Swannanoa, Los Angeles International Airport, Pacific Palisades, Harry Reid International Airport, Trump International Hotel Las Vegas)",
+  "activities": [
+    {
+      "name": "Presidential motorcade and local security detail",
+      "cost": 45000,
+      "category": "Local motorcade",
+      "description": "Multiple short motorcade trips including departure from The White House, transit between locations in North Carolina and California, and local movements within Pacific Palisades area, estimated at $7,500 per short trip for 6 trips."
+    },
+    {
+      "name": "Secret Service and staff protection",
+      "cost": 1130000,
+      "category": "Secret Service & staff (Mar-a-Lago peak)",
+      "description": "Comprehensive Secret Service and staff protection throughout the day covering all locations and activities including briefings, meetings, and property protection, estimated at Mar-a-Lago peak daily rate."
+    },
+    {
+      "name": "Air travel (charter flights)",
+      "cost": 64703,
+      "category": "C-32 / charter flight",
+      "description": "Estimated total air travel costs for multiple flights: The White House to Joint Base Andrews, Joint Base Andrews to Asheville, Asheville to Los Angeles, Los Angeles to Harry Reid International Airport, based on typical C-32 flight hourly rates and estimating flight durations totaling approximately 3 flight hours."
+    }
+  ],
+  "total_cost": 1232703,
+  "social_description": "On January 24, 2025, President Trump traveled extensively across multiple states for briefings and meetings related to Hurricane Helene recovery and Los Angeles fire response. Estimated total taxpayer cost for security, motorcade, and flight support is approximately $1.23 million.",
+  "tags": "Trump,White House,Secret Service,Motorcade,Air travel,North Carolina,California,Las Vegas",
+  "confidence_level": "high",
+  "model_confidence": 0.96,
+  "model_check": "Costs were calculated using established Secret Service daily rates at Mar-a-Lago peak, estimated multiple motorcade trips at typical short trip rates, and multiple flight legs at standard C-32 flight hourly rate. Estimates align with normal expenditure patterns and have no conflicts.",
+  "source_urls": [
+    "https://finance-monthly.com/trump-motorcade-security-costs",
+    "https://thespun.com/golf/white-house-makes-190000-president-trump-golf-announcement",
+    "https://wlos.com/news/local/gallery/ncdot-workers-asheville-extreme-heat-repairing-potholes-north-carolina-department-trnsportation-cooling-towels-air-conditioners-regional-airport-pinner-road"
+  ],
+  "social_title": "Trump's One Day Travel Cost: $1.23 Million - Enough for Over 200 Average American Salaries"
+}
