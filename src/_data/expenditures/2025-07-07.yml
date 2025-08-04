@@ -1,0 +1,28 @@
+{
+  "location": "The White House, Washington, DC",
+  "activities": [
+    {
+      "name": "Secret Service and security operations for on-site workday (President at White House)",
+      "cost": 75000,
+      "description": "Standard daily cost for Secret Service and staff to protect the President on-site at the White House, covering residential, meeting, and official hosting duties including dinner with Israeli Prime Minister Netanyahu.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "On July 7, 2025, President Trump remained at the White House. Estimated taxpayer cost: $75,000 for Secret Service on-site security. No off-site travel or additional local costs documented.",
+  "tags": [
+    "white-house",
+    "on-site-day",
+    "security-cost",
+    "july-2025"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://www.timesofisrael.com/liveblog_entry/netanyahu-leaves-blair-house-heads-to-dinner-with-trump-at-white-house",
+    "https://npr.org/transcripts/1269458991",
+    "https://www.theguardian.com/us-news/2025/jul/25/trump-administration-news-updates-today",
+    "https://www.state.gov/releases/office-of-the-spokesperson/2025/07/public-schedule-july-7-2025"
+  ]
+}
