@@ -1,0 +1,39 @@
+{
+  "location": "Mar-a-Lago and Trump International Golf Club West Palm Beach, Florida",
+  "activities": [
+    {
+      "name": "Motorcade (Mar-a-Lago \u0014 Golf Club \u0014 Mar-a-Lago)",
+      "cost": 10000,
+      "description": "Short Palm Beach motorcade to and from Mar-a-Lago and Trump International Golf Club. $5,000 per short trip benchmark based on prior Palm Beach law enforcement reimbursements and GAO methodology.",
+      "category": "travel"
+    },
+    {
+      "name": "Secret Service & Staff, Off-Site Deployment (Mar-a-Lago/Trump Golf Club)",
+      "cost": 300000,
+      "description": "Full-day Secret Service & staff protection at Mar-a-Lago and golf club, covering presidential off-site movements and leisure activities. $300,000/day benchmark from GAO-19-178 and Palm Beach precedent, cited in NTU Foundation and Helsinki Times summaries.",
+      "category": "security"
+    },
+    {
+      "name": "Incidentals (logistics, overtime, support capped at 15%)",
+      "cost": 46500,
+      "description": "Coverage for minor logistics and overtime, capped at 15% per federal incidentals rule. Includes incremental expenses from local agency support as confirmed by case studies in GAO and Helsinki Times reporting.",
+      "category": "incidentals"
+    }
+  ],
+  "total_cost": 356500,
+  "social_description": "May 3, 2025: President Trump golfed and stayed at Mar-a-Lago, with local motorcades and all-day off-site Secret Service. No air travel. Estimated taxpayer cost: $356,500.",
+  "tags": [
+    "mar-a-lago",
+    "golf",
+    "motorcade",
+    "secret-service",
+    "leisure"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://helsinkitimes.fi/world-int/27567-trump-s-golf-habits-cost-taxpayers-over-60-million.html",
+    "https://www.gao.gov/assets/gao-19-178.pdf"
+  ],
+  "social_title": "Trump's Golf Day Cost Taxpayers $356,500—$300,000 Was Just Secret Service Protection While He Played"
+}
