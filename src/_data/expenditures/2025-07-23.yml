@@ -1,0 +1,35 @@
+{
+  "location": "The White House, Washington, DC / Andrew W. Mellon Auditorium",
+  "activities": [
+    {
+      "name": "Secret Service protection (White House official day)",
+      "cost": 75000,
+      "description": "Routine daily security for Trump at White House plus local official movement. No overnight off-site travel or heightened activation reported.",
+      "category": "security"
+    },
+    {
+      "name": "Incidental government operating costs (meals, supplies, minor contingency)",
+      "cost": 11250,
+      "description": "Allowed up to 15% incidentals over core security cost, as no travel/motorcade/external site activation identified beyond standard local pool.",
+      "category": "incidentals"
+    }
+  ],
+  "total_cost": 86250,
+  "social_description": "On July 23, 2025, President Trump remained in Washington, DC for scheduled White House events and brief off-site remarks—incurring an estimated $86,250 in security and government support costs. No major travel or extraordinary law enforcement outlays recorded.",
+  "tags": [
+    "white-house",
+    "security",
+    "no-major-travel",
+    "washington-dc",
+    "official-business"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/presidential-actions/",
+    "https://mondaq.com/unitedstates/new-technology/1657794/understanding-the-trump-administrations-three-new-ai-executive-orders",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://www.dau.edu/sites/default/files/2025-02/2025%20OS%20Cost%20Estimating%20Guide.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf"
+  ]
+}
