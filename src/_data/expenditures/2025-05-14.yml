@@ -1,27 +1,23 @@
 {
-  "location": "Riyadh, Saudi Arabia to Doha, Qatar and Lusail, Qatar",
+  "date": "2025-05-14",
+  "location": "Riyadh, Saudi Arabia → Doha & Lusail, Qatar",
   "activities": [
     {
-      "name": "Use of Qatar's gifted Boeing 747-8 jet as Air Force One",
-      "cost": 1000000000,
+      "name": "Flight on existing VC-25A (Air Force One)",
+      "cost": 200000,
       "category": "Air Travel",
-      "description": "President Trump's use of the gifted Qatar Boeing 747-8 jumbo jet, with renovation and retrofit costs reportedly nearing $1 billion to upgrade it for Air Force One use, including modern communication, technology, and security upgrades."
+      "description": "Approx. one-hour hop at ≈$200 k-per-hour operating cost for the VC-25A presidential jet."
     },
     {
-      "name": "Participation in Gulf Cooperation Council Leaders' Meeting and Qatari State Visit activities",
-      "cost": 500000,
+      "name": "Security, logistics & motorcade support",
+      "cost": 5000000,
       "category": "Security & Staff",
-      "description": "Costs including local motorcade, secret service, and local law enforcement for President Trump's official engagements and travel in Riyadh and Qatar on May 14, 2025."
+      "description": "Secret Service protection, advance teams, local law-enforcement overtime, hotel block-outs and cargo-plane lifts for vehicles and comms gear."
     }
   ],
-  "total_cost": 1000500000,
-  "social_description": "On May 14, 2025, President Trump's international travel and official meetings from Riyadh to Qatar involved the use of a gifted Boeing 747-8 jet renovation costing near $1B and high security and local support costs, totaling over $1 billion.",
-  "tags": "international,air travel,security,politics,Middle East",
-  "confidence_level": "medium",
-  "model_confidence": 0.95,
-  "model_check": "While direct cost evidence was sparse in exact detail, the confirmed high renovation cost of the gifted jet and typical security and motorcade costs in international travels were applied. More corroborating sources would improve confidence.",
-  "source_urls": [
-    "https://www.forbes.com/sites/saradorn/2025/07/28/trump-said-gifted-qatari-jet-was-free-but-renovation-cost-could-reportedly-near-1-billion/"
-  ],
-  "social_title": "Trump's 'Gifted' Jet Renovation Cost Nearly $1 Billion for One Trip to Qatar"
+  "total_cost": 5200000,
+  "social_description": "Trump’s Riyadh-to-Qatar leg cost taxpayers on the order of $5 million—not the rumored billion-dollar blowout.",
+  "tags": "international, air travel, security, politics, Middle East",
+  "confidence_level": "low-medium",
+  "model_check": "Costs are inferred from publicly-available per-hour Air Force One rates and GAO/NTUF benchmarks for single-country presidential trips; no authoritative day-specific ledger is published."
 }

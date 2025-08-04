@@ -1,47 +1,27 @@
 {
-  "location": "Alligator Alcatraz, Dade-Collier Training and Transition Airport, Ochopee, Florida",
+  "date": "2025-07-01",
+  "location": "Dade-Collier Training and Transition Airport, Ochopee, FL",
   "activities": [
     {
-      "name": "Tour of Alligator Alcatraz migrant detention center",
-      "cost": 245000000,
-      "category": "Immigration Detention",
-      "description": "President Donald Trump toured the newly opened Alligator Alcatraz detention facility at the Dade-Collier Training and Transition Airport in Ochopee, Florida on July 1, 2025. The facility is designed to detain, process, and deport up to 3,000 immigrants and includes temporary structures in a remote location."
+      "name": "Round-trip Air Force One (ADW ⇄ TNT)",
+      "cost": 890000,
+      "category": "Air Travel",
+      "description": "≈5 flight-hours on VC-25A at $177,843/hr."
     },
     {
-      "name": "Air Force One flight from Joint Base Andrews to Florida",
-      "cost": 355686,
-      "category": "Flight",
-      "description": "President Trump's flight on Air Force One departing from Joint Base Andrews to Florida on July 1, 2025. Estimated flight duration approx. 4.5 hours at rate $177,843 per flight hour for VC-25A."
+      "name": "Marine One shuttle & site hops",
+      "cost": 15000,
+      "category": "Helicopter",
+      "description": "≈45 minutes of total rotor time for on-site movements."
     },
     {
-      "name": "Marine One helicopter transfer to Bedminster",
-      "cost": 48000,
-      "category": "Flight",
-      "description": "President Trump used Marine One helicopter for local transfers after arriving at Lehigh Valley International Airport near Allentown en route to his Bedminster, New Jersey golf course on August 1, 2025."
-    },
-    {
-      "name": "Local motorcade travel in Florida and Washington D.C.",
-      "cost": 10000,
-      "category": "Transportation",
-      "description": "Local motorcade and security transportation usage estimated for in-town movements on July 1, 2025."
-    },
-    {
-      "name": "Secret Service and staff presence",
-      "cost": 75000,
-      "category": "Security",
-      "description": "Secret Service and staff security presence for the President during the day on July 1, 2025."
+      "name": "Secret Service, advance team & motorcades",
+      "cost": 3000000,
+      "category": "Security & Logistics",
+      "description": "Based on GAO per-trip averages for a domestic day visit."
     }
   ],
-  "total_cost": 245735686,
-  "social_description": "On July 1, 2025, President Trump toured Alligator Alcatraz migrant detention center in Florida. Travel included Air Force One and Marine One flights. Total estimated expenditure approximately $245.7 million, driven largely by immigration detention setup and logistics.",
-  "tags": "Alligator Alcatraz,Immigration,Trump,Air Force One,Marine One,Florida,Security,Transportation",
-  "confidence_level": "high",
-  "model_confidence": 0.96,
-  "model_check": "The estimate is based on detailed news reporting and official cost benchmarks for presidential travel and security. The largest cost is the documented $245 million contract for immigration detention operations. Costs of Air Force One and Marine One use are benchmarked based on flight hours and known rates. Confidence is high with multiple independent reports and official contract data.",
-  "source_urls": [
-    "https://orlandosentinel.com/2025/08/02/alligator-alcatraz-and-hurricanes-heres-what-would-put-the-site-at-particular-risk",
-    "https://wusf.org/politics-issues/2025-08-01/timeline-of-alligator-alcatraz-immigrant-detention-center",
-    "https://mcall.com/2025/08/01/air-force-one-allentown-airport-lvia/",
-    "https://clickorlando.com/news/politics/2025/07/27/its-a-year-of-rapid-change-except-when-it-comes-to-trumps-approval-numbers-ap-norc-polling-finds"
-  ]
+  "total_cost": 3905000,
+  "note": "The $245M Florida contracts to set up 'Alligator Alcatraz' are state spending, not a presidential day charge.",
+  "confidence": "medium"
 }

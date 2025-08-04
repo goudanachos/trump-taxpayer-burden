@@ -1,34 +1,27 @@
 {
-  "location": "Bedminster, New Jersey; White House, Washington D.C.; Pennsylvania",
+  "date": "2025-05-30",
+  "location": "Washington D.C. → West Mifflin, PA → Washington D.C.",
   "activities": [
     {
-      "name": "Golf tournament at Bedminster golf course",
-      "cost": 10000,
-      "category": "Local motorcade and golf course use",
-      "description": "On May 30, 2025, President Donald Trump played and won the 2025 Men's Senior Golf Club Championship at his golf course in Bedminster, NJ. The event followed recent cheating accusations during a Scotland golf trip. Estimated cost includes local motorcade and course use."
+      "name": "Air Force One out-and-back (ADW ⇄ PIT)",
+      "cost": 355686,
+      "category": "Air Travel",
+      "description": "2.0 flight-hours total at FY-22 VC-25A rate."
     },
     {
-      "name": "Construction of new ballroom at White House",
-      "cost": 200000000,
-      "category": "Property development",
-      "description": "Plans for a $200 million construction of a 90,000-square-foot classical style ballroom at the White House East Wing, scheduled to begin September 2025, funded by private donors including President Trump."
+      "name": "Motorcades & local logistics",
+      "cost": 450000,
+      "category": "Ground Transport",
+      "description": "Estimated from Pittsburgh rally security plans."
     },
     {
-      "name": "Official travel including flights and motorcades",
-      "cost": 118981,
-      "category": "Official travel and security",
-      "description": "On May 30, 2025, President Trump traveled from the White House to Joint Base Andrews, then to Allegheny County Airport, followed by travel to U.S. Steel Corporation - Irvin Works in West Mifflin, PA, and returned to the White House. Costs include estimated local motorcades, flight hours, and Secret Service support."
+      "name": "Protective detail, comms & support flights",
+      "cost": 1200000,
+      "category": "Security & Logistics",
+      "description": "Scaled from GAO domestic-trip averages."
     }
   ],
-  "total_cost": 200110981,
-  "social_description": "On May 30, 2025, President Trump won a golf tournament at his Bedminster golf course, planned a $200M ballroom at the White House, and traveled on official visits in Pennsylvania.",
-  "tags": "Trump,golf,Bedminster,White House,ballroom,official travel,Pennsylvania",
-  "confidence_level": "high",
-  "model_confidence": 0.97,
-  "model_check": "Cost estimates based on multiple independent credible sources confirming golf win, ballroom construction plans, and travel itinerary within date window. Travel costs calculated with benchmark flight and motorcade rates plus Secret Service day rates.",
-  "source_urls": [
-    "https://www.irishstar.com/sport/golf/donald-trump-golf-tournament-cheating-35665368",
-    "https://people.com/trump-announces-massive-new-white-house-addition-gold-ballroom-11782823",
-    "https://investing.com/news/economy-news/construction-of-trump-ballroom-at-the-white-house-to-begin-in-september-4164194"
-  ]
+  "total_cost": 2005686,
+  "note": "No ballroom money spent; the $200M project was only announced 31 July 2025.",
+  "confidence": "low-medium"
 }
