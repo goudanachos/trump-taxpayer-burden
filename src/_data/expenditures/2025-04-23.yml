@@ -1,0 +1,23 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Routine in-town presidential protection (Secret Service and staff)",
+      "cost": 75000,
+      "description": "Standard daily expenditure for on-site Secret Service and White House support staff while the President remained at the White House, based on GAO and DoD publicly documented rates.",
+      "category": "Secret Service & staff (on-site WH)"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "On April 23, 2025, President Trump remained at the White House; taxpayer costs were limited to routine protection and operational support, totaling ~$75,000 for the day.",
+  "tags": [
+    "white-house",
+    "no-travel",
+    "routine-security"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927"
+  ]
+}
