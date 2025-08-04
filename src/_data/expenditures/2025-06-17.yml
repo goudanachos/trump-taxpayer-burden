@@ -1,0 +1,53 @@
+{
+  "location": "Calgary, Alberta, and Washington, DC (White House)",
+  "activities": [
+    {
+      "name": "VC-25A (Air Force One): Calgary to Andrews (international w/support)",
+      "cost": 1532458,
+      "description": "Trump flew from Calgary to Joint Base Andrews on Air Force One, with full international support (4.3 h × $177,843 × 2). Formula per DCT benchmarks.",
+      "category": "air-travel"
+    },
+    {
+      "name": "Secret Service/peak support (off-site, Calgary+in-transit)",
+      "cost": 300000,
+      "description": "Maximum daily Secret Service and staff, given international overnight transit and off-site presence.",
+      "category": "security"
+    },
+    {
+      "name": "Local law-enforcement support (Calgary)",
+      "cost": 60000,
+      "description": "Benchmark city/county police support cost for presidential movement at Calgary airport.",
+      "category": "security"
+    },
+    {
+      "name": "Incidentals (capped at 15% total travel+security)",
+      "cost": 271491,
+      "description": "Meals, logistics, airport fees, supplies, limited to 15% of combined travel and security as per rules.",
+      "category": "incidentals"
+    },
+    {
+      "name": "Secret Service/White House security (on-site, after 5:31 AM)",
+      "cost": 75000,
+      "description": "Standard on-site presidential security and staff for the remainder of 6/17 following return to the White House.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 2233949,
+  "social_description": "June 17, 2025: Trump returned overnight from Calgary to DC (Air Force One), triggering ~$2.2M in taxpayer costs for flights, international security, and incidentals.",
+  "tags": [
+    "air-force-one",
+    "international-travel",
+    "secret-service",
+    "white-house"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://apnews.com/article/6885c172b11d972920f8fb60869868ac"
+  ],
+  "social_title": "$2.2M Tab: Taxpayers Foot Bill for Trump's Calgary Return, With $1.5M Just For Air Force One"
+}
