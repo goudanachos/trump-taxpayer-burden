@@ -1,0 +1,24 @@
+{
+  "location": "The White House, Washington, DC",
+  "activities": [
+    {
+      "name": "On-Site Security and Support (Secret Service, Staff)",
+      "cost": 75000,
+      "description": "Standard daily cost for maintaining security and essential staff while the President is on-site at the White House. Benchmarked by GAO and DoD FY-22 rates. No travel or off-site peak security required per the official schedule and lack of news about off-site or leisure excursions.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "May 6, 2025: President Trump remained at the White House for official meetings and events. Taxpayer cost: $75,000 for routine on-site security and staff. No extra travel or leisure outlays reported.",
+  "tags": [
+    "white-house",
+    "security",
+    "no-travel"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
