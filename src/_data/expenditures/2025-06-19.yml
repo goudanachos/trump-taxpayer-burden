@@ -1,0 +1,22 @@
+{
+  "location": "The White House, Washington, DC",
+  "activities": [
+    {
+      "name": "Secret Service & staff (on-site security)",
+      "cost": 75000,
+      "description": "Standard daily security for President at the White House. No public or off-site events requiring increased spending. Follows GAO and standard federal benchmarks for stationary WH security.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "No off-site travel or extraordinary activity for Trump on June 19, 2025: White House security was the only federal outlay, at $75k for the day per GAO benchmarks.",
+  "tags": [
+    "white-house",
+    "security",
+    "routine-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf"
+  ]
+}
