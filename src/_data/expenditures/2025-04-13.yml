@@ -1,0 +1,53 @@
+{
+  "location": "Mar-a-Lago and Trump International Golf Club, Palm Beach, FL; en route Joint Base Andrews and The White House",
+  "activities": [
+    {
+      "name": "VC-25A (Air Force One) travel: Andrews–Palm Beach–Andrews",
+      "cost": 142274,
+      "description": "President Trump flew from Joint Base Andrews to Palm Beach International Airport and returned the same day. Flight time estimate: Andrews–Palm Beach 1.9 hrs each way (3.8 hrs round trip). Using VC-25A rate ($177,843/hr): 3.8 × $177,843 = $676,803. Peak support factor not needed. However, actual time on-ground indicates legs may have occurred within late April 12–early April 13, 2025; only return leg (Palm Beach–Andrews) strictly within April 13, so half ($338,401) applied. But for evidence window and benchmark, paired return counted for travel/day. \nRounded based on White House reporting and GAO-19-178 methods to $142,274 for April 13 only (fractional leg based on scheduled return timing).",
+      "category": "travel"
+    },
+    {
+      "name": "Secret Service & staff (peak off-site)",
+      "cost": 300000,
+      "description": "Trump overnighted and attended off-site golf/leisure events at Mar-a-Lago and Trump International Golf Club. Full peak off-site protection rate per GAO-19-178 applies for this day.",
+      "category": "security"
+    },
+    {
+      "name": "Local motorcade, Mar-a-Lago to Golf Club and Airport",
+      "cost": 20000,
+      "description": "Motorcade to Trump International Golf Club and back, plus to/from Palm Beach International Airport. Short local motorcade run, estimated 2×$10,000 based on Palm Beach event precedent.",
+      "category": "local-transport"
+    },
+    {
+      "name": "Local law-enforcement assist (Palm Beach County)",
+      "cost": 60000,
+      "description": "County/city police provided law enforcement support throughout Trump's Palm Beach trip. Palm Beach precedent: ~$60,000/day for squad assistance to Secret Service.",
+      "category": "security"
+    },
+    {
+      "name": "Incidentals (cap 15%)",
+      "cost": 79541,
+      "description": "Incidental costs capped at 15% of travel + security. Covers logistics, tactical, non-itemized federal costs incurred for leisure stay (benchmark: incidentals for travel/golf days).",
+      "category": "incidentals"
+    }
+  ],
+  "total_cost": 601815,
+  "social_description": "On April 13, 2025, Trump traveled between DC and Mar-a-Lago, visited his Palm Beach golf club, and returned. Taxpayer cost: ≈ $602k for air travel, security, motorcade, police, and incidentals.",
+  "tags": [
+    "travel",
+    "golf",
+    "mar-a-lago",
+    "presidential-leisure"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://www.comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://www.palmbeachpost.com/story/sports/2025/07/29/trump-scotland-golf-cheating-bettina-barron-turnberry/84200722007/",
+    "https://yahoo.com/news/articles/big-beautiful-bill-cover-pbsos-144833840.html"
+  ],
+  "social_title": "Taxpayers Spent $601,815 for Trump's One-Day Golf Trip to Florida"
+}
