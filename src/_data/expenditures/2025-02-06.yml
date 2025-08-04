@@ -1,0 +1,35 @@
+{
+  "location": "Washington, DC (The White House, The Capitol, Washington Hilton)",
+  "activities": [
+    {
+      "name": "Local motorcade and short-route security",
+      "cost": 10000,
+      "description": "Short motorcade trips between the White House, Capitol, and Washington Hilton for National Prayer Breakfast and budget meetings. Standard city-local travel security posture applied.",
+      "category": "transportation"
+    },
+    {
+      "name": "Secret Service & staff (on-site/official business)",
+      "cost": 75000,
+      "description": "Routine in-town Secret Service and White House staff support throughout the day, covering all locations for scheduled official and ceremonial duties.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 85000,
+  "social_description": "On Feb 6, 2025, President Trump attended the National Prayer Breakfast and other events in DC, with federal outlays estimated at $85K for routine security and local travel.",
+  "tags": [
+    "white-house",
+    "motorcade",
+    "national-prayer-breakfast",
+    "security",
+    "official-business"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://whitehouse.gov/briefings-statements/",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://apnews.com/article/6885c172b11d972920f8fb60869868ac"
+  ]
+}
