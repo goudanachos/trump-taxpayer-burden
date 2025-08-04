@@ -1,0 +1,28 @@
+{
+  "location": "The White House, Washington, DC",
+  "activities": [
+    {
+      "name": "Official White House day: bilateral meetings and routine business",
+      "cost": 75000,
+      "description": "Secret Service and staff for in-town, on-site White House protection and operations. No reported off-site events, motorcade, or activated law enforcement. Bilateral meeting with King of Jordan and other official duties all on-premises.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "On February 11, 2025, President Trump held a bilateral meeting with the King of Jordan and attended a series of events, all at the White House. Leisure-related federal outlays were limited to routine security and staff costs.",
+  "tags": [
+    "white-house",
+    "official-business",
+    "routine-security",
+    "no-travel"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://apnews.com/article/6885c172b11d972920f8fb60869868ac"
+  ]
+}
