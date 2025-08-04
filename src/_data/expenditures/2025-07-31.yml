@@ -1,0 +1,23 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Routine White House security and staff operations",
+      "cost": 75000,
+      "description": "Secret Service and White House operational security for President Trump while on-site for a full day. No off-site leisure or travel events identified. Baseline daily cost per GAO-19-178 benchmark.",
+      "category": "on-site security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "On July 31, 2025, President Trump remained at the White House with no travel or off-site leisure. Routine taxpayer cost: $75,000 for baseline security and staff.",
+  "tags": [
+    "white-house",
+    "no-travel",
+    "routine-security"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://conservativedailynews.com/2025/07/president-donald-trumps-schedule-for-thursday-july-31-2025/",
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
