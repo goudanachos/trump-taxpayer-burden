@@ -1,0 +1,32 @@
+{
+  "location": "Washington, DC (The White House & U.S. Capitol)",
+  "activities": [
+    {
+      "name": "Secret Service & staff (on-site White House + event)",
+      "cost": 75000,
+      "description": "Routine on-site Secret Service protective detail for President Trump and staff throughout the day, including during the Joint Address to Congress.",
+      "category": "security"
+    },
+    {
+      "name": "Local motorcade (White House to Capitol and return)",
+      "cost": 10000,
+      "description": "Short in-town motorcade deployment and related local DC law enforcement support for evening travel to and from the U.S. Capitol.",
+      "category": "transportation"
+    }
+  ],
+  "total_cost": 85000,
+  "social_description": "On March 4, 2025, President Trump remained in Washington for the Joint Address to Congress, with leisure/security spending limited to standard Secret Service and brief motorcade costs (est. $85K, taxpayer-funded).",
+  "tags": [
+    "white-house",
+    "congress-address",
+    "motorcade",
+    "secret-service",
+    "security"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
