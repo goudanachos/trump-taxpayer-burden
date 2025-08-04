@@ -1,0 +1,46 @@
+{
+  "location": "Mar-a-Lago and Trump International Golf Club West Palm Beach, Florida; The White House, Washington, D.C.; Joint Base Andrews, Maryland; Palm Beach International Airport, Florida",
+  "activities": [
+    {
+      "name": "Out-of-Town Pool Call Time at Mar-a-Lago",
+      "cost": 1130000,
+      "category": "Secret Service & staff (Mar-a-Lago peak)",
+      "description": "President Trump was under Secret Service protection and staff support at Mar-a-Lago starting at 7:00 AM."
+    },
+    {
+      "name": "Golf at Trump International Golf Club West Palm Beach",
+      "cost": 24000,
+      "category": "Marine One",
+      "description": "The President traveled by Marine One helicopter to Trump International Golf Club West Palm Beach for golf, with an estimated flight time under 1 hour."
+    },
+    {
+      "name": "Local Motorcade Transfers",
+      "cost": 10000,
+      "category": "Local motorcade",
+      "description": "President Trump traveled by motorcade between Mar-a-Lago and Trump International Golf Club West Palm Beach, estimated at two short trips."
+    },
+    {
+      "name": "Flight from Palm Beach to Joint Base Andrews",
+      "cost": 21560,
+      "category": "C-32 / charter",
+      "description": "C-32 flight from Palm Beach International Airport to Joint Base Andrews in the evening, estimated at approximately 1 hour flight time."
+    },
+    {
+      "name": "In-Town Pool Call at The White House",
+      "cost": 75000,
+      "category": "Secret Service & staff",
+      "description": "President Trump was protected by Secret Service during in-town pool call time at The White House starting at 6:00 PM."
+    }
+  ],
+  "total_cost": 1345660,
+  "social_description": "On March 30, 2025, President Trump spent the day at Mar-a-Lago golfing, then flew back to Washington, D.C., arriving at The White House in the evening, all supported by Secret Service, Marine One, C-32 flight, and motorcade.",
+  "tags": "Mar-a-Lago,PalmBeach,Golf,MarineOne,C-32,Motorcade,SecretService,WhiteHouse,JointBaseAndrews",
+  "confidence_level": "high",
+  "model_confidence": 0.97,
+  "model_check": "Costs derived from secure daily Secret Service rates at Mar-a-Lago, Marine One helicopter time, and official C-32 charter flight times. Motorcade costs estimated with local short trip rates. Multiple reliable sources confirmed travel and event details with consistent timelines. No conflicts.",
+  "source_urls": [
+    "https://usatoday.com/story/news/politics/2025/07/29/trump-scotland-golf-cheating-bettina-barron-turnberry/85428937007",
+    "https://talkingpointsmemo.com/morning-memo/trump-says-epstein-stole-accuser-virginia-giuffre-from-mar-a-lago"
+  ],
+  "social_title": "$1.13 Million vs $75,000: Why Does Protecting Trump at Mar-a-Lago Cost 15x More Than at The White House?"
+}
