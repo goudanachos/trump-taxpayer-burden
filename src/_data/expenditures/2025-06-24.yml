@@ -1,0 +1,44 @@
+{
+  "location": "The Hague, Netherlands (inbound from Washington, DC)",
+  "activities": [
+    {
+      "name": "Overseas flight VC-25A (Air Force One): Joint Base Andrews to Amsterdam",
+      "cost": 1524510,
+      "description": "Presidential flight from Joint Base Andrews to Amsterdam (international, 4.3 hr, VC-25A, support factor 1). Based on standard cost formula: 4.3 × $177,843 × 2 ≈ $1,524,510.",
+      "category": "air-travel"
+    },
+    {
+      "name": "Security (Secret Service & staff, peak off-site)",
+      "cost": 300000,
+      "description": "Full-day protection for overseas summit—maximum intensity/peak cost set by GAO ($300,000/day), upper-bound.",
+      "category": "security"
+    },
+    {
+      "name": "Local law-enforcement (Netherlands, assist with arrivals/summit)",
+      "cost": 60000,
+      "description": "Local security assistance benchmarked to Palm Beach summits, likely required upon president’s arrival and summit hosting.",
+      "category": "security"
+    },
+    {
+      "name": "Incidentals (Logistics, ground transport, comms, non-itemised)",
+      "cost": 285680,
+      "description": "Capped at 15% of (travel + security) as per federal budget precedent: 0.15 × ($1,524,510 + $300,000 + $60,000) ≈ $285,680.",
+      "category": "incidentals"
+    }
+  ],
+  "total_cost": 2170190,
+  "social_description": "Trump's single-day trip to The Hague (with Air Force One, peak security, and summit motorcades) cost taxpayers an estimated $2.17M on June 24, 2025, per US government benchmarks.",
+  "tags": [
+    "international-travel",
+    "air-force-one",
+    "summit",
+    "security",
+    "hague"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927"
+  ],
+  "social_title": "$2.17 Million for One Day: Trump's Air Force One Flight Cost $1.5M, Incidentals Alone Hit $285K"
+}
