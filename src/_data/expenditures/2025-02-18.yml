@@ -1,0 +1,50 @@
+{
+  "location": "Mar-a-Lago, Palm Beach County, FL",
+  "activities": [
+    {
+      "name": "Secret Service & Federal Security Detail: Mar-a-Lago/Trump Golf Club",
+      "cost": 300000,
+      "description": "Peak off-site Secret Service and federal staff cost for presidential travel and golf day at Mar-a-Lago and Trump International Golf Club, at $300k per day (GAO-19-178, Finance Monthly, Helsinki Times, Frankel.gov).",
+      "category": "secret-service"
+    },
+    {
+      "name": "Local Law Enforcement Assistance (Palm Beach County Sheriff's Office)",
+      "cost": 60000,
+      "description": "Palm Beach deputies provide local perimeter, traffic, and crowd security throughout the president’s Mar-a-Lago and golf movements; benchmarked to $60k/day (Frankel.gov, GAO-19-178, Yahoo/Finance Monthly reports).",
+      "category": "law-enforcement"
+    },
+    {
+      "name": "Motorcade & Local Transport (Mar-a-Lago–Golf Club–Mar-a-Lago)",
+      "cost": 6000,
+      "description": "Short local trips require full presidential motorcade escort, vehicles, and driver costs. Estimated at $6k for intra-county presidential movement (Finance Monthly, Best-fit to benchmarks).",
+      "category": "motorcade"
+    },
+    {
+      "name": "Incidentals (support, meals, extra logistics)",
+      "cost": 54900,
+      "description": "Capped at ≤15% of total travel and security ($366,000 subtotal × 0.15), covering incidental expenses not otherwise itemized (benchmarked via Cost Estimating Guide).",
+      "category": "incidentals"
+    }
+  ],
+  "total_cost": 420900,
+  "social_description": "On Feb 18, 2025, Trump’s Mar-a-Lago golf outing cost taxpayers an estimated $421k, covering Secret Service, local police, motorcade, and support staff for a day at his Palm Beach club.",
+  "tags": [
+    "mar-a-lago",
+    "golf",
+    "secret-service",
+    "local-law-enforcement",
+    "motorcade",
+    "palm-beach",
+    "presidential-leisure"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://helsinkitimes.fi/world-int/27567-trump-s-golf-habits-cost-taxpayers-over-60-million.html",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://finance-monthly.com/trump-motorcade-security-costs/",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://www.yahoo.com/news/articles/big-beautiful-bill-cover-pbsos-144833840.html",
+    "https://silive.com/politics/2025/07/donald-trump-cheating-at-golf-in-scotland-heres-why-some-say-he-just-got-busted.html"
+  ],
+  "social_title": "$421,000 of Taxpayer Money for Trump's Golf Day at His Own Mar-a-Lago Resort"
+}
