@@ -1,0 +1,30 @@
+{
+  "location": "White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "In-residence official workday: meetings with Bahrain and Qatar delegations",
+      "cost": 75000,
+      "description": "Secret Service and White House on-site staffing and protection for an in-residence workday with official meetings involving foreign dignitaries, without off-site motorcades or extraordinary deployments. Based on GAO-19-178 and standard White House daily costs.",
+      "category": "security"
+    },
+    {
+      "name": "Incidentals",
+      "cost": 11250,
+      "description": "Incidentals and miscellaneous expenses capped at 15% of security and staffing base, per benchmark formulas.",
+      "category": "incidentals"
+    }
+  ],
+  "total_cost": 86250,
+  "social_description": "On July 16, 2025, President Trump hosted Bahrain and Qatar leaders at the White House; taxpayers covered an estimated $86,250 for routine security, staff, and incidentals. No extra travel or off-site costs incurred.",
+  "tags": [
+    "white-house",
+    "security",
+    "diplomacy",
+    "routine-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927"
+  ]
+}
