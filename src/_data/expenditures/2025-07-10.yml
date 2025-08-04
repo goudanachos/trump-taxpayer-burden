@@ -1,0 +1,33 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Secret Service & staff (on-site White House routine day)",
+      "cost": 75000,
+      "description": "Standard cost for full on-site Secret Service and White House staff protection, per GAO-19-178 (see also Rep. Frankel/NTU/White House press calendars). No off-site travel or extraordinary deployment detected.",
+      "category": "security"
+    },
+    {
+      "name": "Incidentals",
+      "cost": 11250,
+      "description": "Incidentals capped at 15% of baseline travel and security for a routine White House day. No additional itemized expenses reported.",
+      "category": "incidentals"
+    }
+  ],
+  "total_cost": 86250,
+  "social_description": "On July 10, 2025, Trump worked a routine day at the White House; $86,250 taxpayer dollars covered baseline security, staff, and incidentals.",
+  "tags": [
+    "white-house",
+    "security",
+    "routine-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://apnews.com/article/6885c172b11d972920f8fb60869868ac",
+    "https://www.dau.edu/sites/default/files/2025-02/2025%20OS%20Cost%20Estimating%20Guide.pdf"
+  ]
+}
