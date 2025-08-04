@@ -1,0 +1,23 @@
+{
+  "location": "White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "On-site Secret Service & Staff Protection (standard operations)",
+      "cost": 75000,
+      "description": "Standard daily security and White House support provided for the president and staff. Routine, fixed cost; no extraordinary travel or public event activity.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "On May 28, 2025, President Trump remained at the White House. No off-site travel or special events: taxpayer costs limited to standard $75K for on-site White House security.",
+  "tags": [
+    "white-house",
+    "on-site-security",
+    "no-leisure-travel"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
