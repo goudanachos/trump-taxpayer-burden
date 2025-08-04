@@ -1,0 +1,32 @@
+{
+  "location": "White House & Business Roundtable Office, Washington, DC",
+  "activities": [
+    {
+      "name": "On-site Secret Service & Staff (White House + short off-site)",
+      "cost": 75000,
+      "description": "Daily cost for standard security and staff cover at the White House and for brief off-site movement to Business Roundtable. No evidence of peak deployment or unusual security measures.",
+      "category": "security"
+    },
+    {
+      "name": "Motorcade movement (White House ↔ Business Roundtable)",
+      "cost": 10000,
+      "description": "Estimated cost for two short, in-town motorcade legs (to and from Business Roundtable Office). No evidence of local DC police activation or large-scale disruption.",
+      "category": "transportation"
+    }
+  ],
+  "total_cost": 85000,
+  "social_description": "On Mar 11, 2025, President Trump's meeting with business leaders (White House & DC office) cost taxpayers an estimated $85,000 for routine Secret Service and DC motorcade support—no evidence of unusual travel or security.",
+  "tags": [
+    "white-house",
+    "business-roundtable",
+    "motorcade",
+    "secret-service",
+    "routine-security"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://rollcall.com/factbase/trump/topic/calendar/"
+  ]
+}
