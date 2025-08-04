@@ -1,0 +1,33 @@
+{
+  "location": "Bedminster, NJ & Prudential Center, Newark, NJ",
+  "activities": [
+    {
+      "name": "Motorcade and travel (Bedminster to Prudential Center and return)",
+      "cost": 20000,
+      "description": "Estimated cost for presidential motorcade to and from UFC event in Newark, NJ. Calculated using two legs (Bedminster–Prudential and return), each at $10,000 (upper end for short-range high-visibility movements in NY/NJ metro), as per 2025 benchmarks.",
+      "category": "transportation"
+    },
+    {
+      "name": "Secret Service protection (peak off-site, public event)",
+      "cost": 300000,
+      "description": "High-profile off-site security provided by Secret Service and support staff for UFC event attendance, based on GAO 2019 reference rate for peak off-site engagement.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 320000,
+  "social_description": "Trump's UFC 316 outing on June 7, 2025, cost taxpayers an estimated $320,000 in transportation and security for motorcade and Secret Service protection.",
+  "tags": [
+    "off-site-event",
+    "motorcade",
+    "secret-service",
+    "new-jersey",
+    "ufc"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://www.gao.gov/assets/gao-19-178.pdf"
+  ],
+  "social_title": "$320,000 for a UFC Night: How Trump's Motorcade and Security Bill Matched the Price of a Medium-Sized House"
+}
