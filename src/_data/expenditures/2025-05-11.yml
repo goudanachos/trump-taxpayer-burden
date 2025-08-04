@@ -1,0 +1,25 @@
+{
+  "location": "The White House, Washington, DC",
+  "activities": [
+    {
+      "name": "Secret Service & Staff (On-Site White House Coverage)",
+      "cost": 75000,
+      "description": "Daily federal cost estimate for full on-site security and operational staffing during in-residence day at the White House, per GAO-19-178 and standing benchmarks.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "May 11, 2025: Trump's in-residence day at the White House cost taxpayers approx. $75,000 for security and staff, per GAO benchmarks.",
+  "tags": [
+    "white-house",
+    "in-residence",
+    "security-cost",
+    "2025"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
