@@ -1,0 +1,54 @@
+{
+  "location": "Palm Beach, FL; New Orleans, LA; en route",
+  "activities": [
+    {
+      "name": "Local motorcade & short Marine One transfers",
+      "cost": 16000,
+      "description": "Marine One transfers to/from Mar-a-Lago and motorcade in Palm Beach as part of travel to golf and airport.",
+      "category": "transportation"
+    },
+    {
+      "name": "Air Force One (VC-25A): Palm Beach→New Orleans→Andrews",
+      "cost": 506853,
+      "description": "Presidential jet travel for Super Bowl trip and return to Washington, calculated at 2.85 hours of flight time at the current benchmark rate.",
+      "category": "air-travel"
+    },
+    {
+      "name": "Secret Service and staff (peak off-site)",
+      "cost": 300000,
+      "description": "Protection detail and travel staff while President Trump was at Mar-a-Lago and New Orleans.",
+      "category": "security"
+    },
+    {
+      "name": "Local law enforcement assist (Palm Beach)",
+      "cost": 60000,
+      "description": "Palm Beach County police expenses activated for president's presence and movement on the day.",
+      "category": "security"
+    },
+    {
+      "name": "Incidentals and logistics (capped at 15%)",
+      "cost": 36000,
+      "description": "Unitemized logistics and incidentals, capped as 15% of travel plus security benchmark."
+    }
+  ],
+  "total_cost": 960000,
+  "social_description": "On Feb 9, 2025, Trump played golf with Tiger Woods and attended Super Bowl LIX in New Orleans, with taxpayer costs for travel, security, and logistics estimated at $960,000 for the day.",
+  "tags": [
+    "golf",
+    "super-bowl",
+    "air-force-one",
+    "mar-a-lago",
+    "leisure",
+    "off-site-security"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://helsinkitimes.fi/world-int/27567-trump-s-golf-habits-cost-taxpayers-over-60-million.html",
+    "https://www.yahoo.com/news/articles/big-beautiful-bill-cover-pbsos-144833840.html",
+    "https://thespun.com/golf/white-house-makes-190000-president-trump-golf-announcement",
+    "https://www.usatoday.com/story/news/politics/2025/07/29/trump-air-force-one-qatar-timeline/85426238007",
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf"
+  ],
+  "social_title": "$960,000 of Your Taxpayer Dollars: Trump's Day of Golf with Tiger Woods and Super Bowl Trip"
+}
