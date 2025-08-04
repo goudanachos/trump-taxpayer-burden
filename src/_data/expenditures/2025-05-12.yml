@@ -1,0 +1,42 @@
+{
+  "location": "Washington, DC to Royal Air Force Mildenhall (UK)",
+  "activities": [
+    {
+      "name": "VC-25A (Air Force One) flight: Andrews to RAF Mildenhall",
+      "cost": 766600,
+      "description": "Intercontinental VC-25A flight, estimated 4.3 hours, international with full support (Andrews, DC to RAF Mildenhall, UK), per US government rates. Benchmarked at $177,843/hour × 4.3 hours × 2 (international support).",
+      "category": "aviation"
+    },
+    {
+      "name": "Secret Service & Support (Peak Off-Site Detail)",
+      "cost": 300000,
+      "description": "Secret Service and federal staff travel/coverage for an overseas presidential visit involving multiple venues and international movements, using upper-bound GAO daily rate.",
+      "category": "security"
+    },
+    {
+      "name": "Local Motorcades and Incidentals",
+      "cost": 29000,
+      "description": "Estimate for multiple ground movements (to/from WH, Andrews, venues abroad, minor incidentals ≤15% cap), rounded within guidelines.",
+      "category": "logistics"
+    }
+  ],
+  "total_cost": 1096600,
+  "social_description": "On May 12, 2025, taxpayer travel costs for Air Force One and support on Trump's Andrews→England trip: approx. $1.1M for flights, security, and motorcades.",
+  "tags": [
+    "air-force-one",
+    "international-travel",
+    "secret-service",
+    "2025",
+    "trump"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://time.com/4885934/white-house-helicopter-cost/",
+    "https://grunge.com/1902455/how-much-donald-trump-air-force-one-cost-per-hour"
+  ],
+  "social_title": "$766,600 for One Flight: Trump's Costly UK Trip totaled Nearly $1.1 Million"
+}
