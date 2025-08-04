@@ -1,0 +1,58 @@
+{
+  "location": "Washington, DC / Trump National Golf Club DC / Bedminster, NJ",
+  "activities": [
+    {
+      "name": "Secret Service protection (on-site, DC)",
+      "cost": 75000,
+      "description": "On-site White House security (until 9:45 PM departure for NJ), standardized rate per GAO-19-178.",
+      "category": "security"
+    },
+    {
+      "name": "Motorcade & local law enforcement (DC & transit to Joint Base Andrews)",
+      "cost": 10000,
+      "description": "Standard cost for short in-town motorcade and transfers in DC, both to/from golf club and to airbase.",
+      "category": "transportation"
+    },
+    {
+      "name": "Marine One flights (White House ⇄ National Golf Club DC, Andrews ⇄ White House, Morristown ⇄ Bedminster)",
+      "cost": 24000,
+      "description": "(1) White House to/from Trump National Golf Club DC, (2) White House to Joint Base Andrews, (3) Morristown to Bedminster. Total combined ≈1 hr of flight time as per federal cost benchmarks.",
+      "category": "flight"
+    },
+    {
+      "name": "VC-25A (Air Force One) flight: Andrews to Morristown",
+      "cost": 71137,
+      "description": "Approx. 0.4 hours (per historical legs) × $177,843. Covers the primary evening interstate flight for Trump and staff.",
+      "category": "flight"
+    },
+    {
+      "name": "Secret Service & staff (peak off-site, Bedminster)",
+      "cost": 300000,
+      "description": "Full activation for golf property arrival late-night; applies for day of arrival under GAO peak off-site cost guidance.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 480137,
+  "social_description": "July 4, 2025: Trump spent the day in DC, golfed at his club, attended White House picnic/fireworks, then flew to Bedminster, NJ. Total cost: ≈$480K (security, Air Force One, Marine One, motorcades).",
+  "tags": [
+    "july-4th",
+    "bedminster",
+    "golf",
+    "air-force-one",
+    "marine-one",
+    "motorcade",
+    "secret-service",
+    "security",
+    "wh-events"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://rollcall.com/factbase/trump/transcript/donald-trump-press-gaggle-after-air-force-one-arrival-july-4-2025",
+    "https://www.hindustantimes.com/world-news/us-news/11-dangerous-aircraft-incursions-at-donald-trumps-bedminster-golf-course-over-july-4-weekend-101751827506626.html",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://www.whitehouse.gov/briefings-statements/"
+  ],
+  "social_title": "Trump's $480,000 July 4th Trip: $71,137 for an Air Force One Flight That Cost More Than the Average Household's Annual Income"
+}
