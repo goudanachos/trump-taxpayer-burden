@@ -1,0 +1,50 @@
+{
+  "location": "Mar-a-Lago and Trump International Golf Club West Palm Beach, FL",
+  "activities": [
+    {
+      "name": "Secret Service & Federal Security Detail: Mar-a-Lago / Trump Golf Club (peak off-site)",
+      "cost": 300000,
+      "description": "Secret Service provides full-day, peak off-site security at Mar-a-Lago and the West Palm Beach golf club. This includes overtime, per-diem, and logistics, based on GAO-19-178 and repeated confirmation in Frankel, Finance Monthly, Helsinki Times.",
+      "category": "secret-service"
+    },
+    {
+      "name": "Local Law Enforcement (Palm Beach County Sheriff’s Office)",
+      "cost": 60000,
+      "description": "Palm Beach County Sheriff's Office assists with traffic, perimeter, crowd control, and Presidential protection around Mar-a-Lago and golf course. Documented cost benchmark from Frankel.gov, Yahoo News, and Finance Monthly.",
+      "category": "law-enforcement"
+    },
+    {
+      "name": "Motorcade & Ground Transport (short trip)",
+      "cost": 6000,
+      "description": "Full motorcade for Mar-a-Lago–Trump International Golf Club–Mar-a-Lago roundtrip. Estimated at $6k total per best-fit with Finance Monthly and security press.",
+      "category": "motorcade"
+    },
+    {
+      "name": "Incidentals (support, logistics, meals, equipment)",
+      "cost": 54900,
+      "description": "Incidental federal outlays for logistics, meals, and extra staffing, capped at ≤15% of travel+security ($366k*0.15). Follows Cost Estimating Guide and GAO reporting standards.",
+      "category": "incidentals"
+    }
+  ],
+  "total_cost": 420900,
+  "social_description": "On Feb 17, 2025, Trump’s local Mar-a-Lago golf day cost U.S. taxpayers ~$421k for Secret Service, local police, motorcade, and incidentals, per open government reports and 2025 cost benchmarks.",
+  "tags": [
+    "mar-a-lago",
+    "golf",
+    "secret-service",
+    "local-law-enforcement",
+    "motorcade",
+    "palm-beach",
+    "presidential-leisure"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://helsinkitimes.fi/world-int/27567-trump-s-golf-habits-cost-taxpayers-over-60-million.html",
+    "https://finance-monthly.com/trump-motorcade-security-costs/",
+    "https://www.yahoo.com/news/articles/big-beautiful-bill-cover-pbsos-144833840.html",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://silive.com/politics/2025/07/donald-trump-cheating-at-golf-in-scotland-heres-why-some-say-he-just-got-busted.html"
+  ],
+  "social_title": "$420,900 in Taxpayer Dollars: Trump spent more on one round of golf than most Americans earn in a full year."
+}
