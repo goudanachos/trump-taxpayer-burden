@@ -1,0 +1,47 @@
+{
+  "location": "Washington, DC to Pittsburgh, PA and return / U.S. Steel Corp Irvin Works",
+  "activities": [
+    {
+      "name": "VC-25A (Air Force One) flight: Joint Base Andrews – Allegheny County Airport, PA (roundtrip)",
+      "cost": 159454,
+      "description": "Estimated 1.6 hr total roundtrip flight time for VC-25A at published $177,843/hr domestic rate. No support jet/service legs required for this domestic trip, per cost guidelines and recent DOD/NTUF historical benchmarks.",
+      "category": "transportation"
+    },
+    {
+      "name": "Secret Service & staff (peak off-site)",
+      "cost": 300000,
+      "description": "Standard single-day off-site protection benchmarked from GAO-19-178 and multi-year agency reports for President's out-of-town events (includes advance, on-site, and embedded staff).",
+      "category": "security"
+    },
+    {
+      "name": "Local law-enforcement assist: Allegheny County, PA",
+      "cost": 60000,
+      "description": "Law enforcement activation cost typical for high-profile presidential site visits, using contemporary Palm Beach, FL and agency benchmarks for event security.",
+      "category": "security"
+    },
+    {
+      "name": "Motorcade (in Pittsburgh metro-area + DC)",
+      "cost": 10000,
+      "description": "Multiple short-trip deployments in DC and Pittsburgh metro for airport and site transfers. Benchmark: upper-bound per current Secret Service expenditure reporting.",
+      "category": "operations"
+    }
+  ],
+  "total_cost": 529000,
+  "social_description": "Taxpayer cost for Trump's May 30, 2025 roundtrip DC–Pittsburgh/US Steel visit: est. $529k covering Air Force One, security, police and motorcades.",
+  "tags": [
+    "air-force-one",
+    "secret-service",
+    "motorcade",
+    "local-police",
+    "us-steel",
+    "pittsburgh",
+    "leisure-spending",
+    "2025"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927"
+  ],
+  "social_title": "$529,000 for one day trip: Trump's Pittsburgh visit to U.S. Steel costs the average American a full year's salary."
+}
