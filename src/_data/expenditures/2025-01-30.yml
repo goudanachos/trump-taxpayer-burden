@@ -1,0 +1,27 @@
+{
+  "location": "White House, Washington, DC",
+  "activities": [
+    {
+      "name": "On-site Secret Service and staff security",
+      "cost": 75000,
+      "description": "Daily protective detail for the president at the White House, including support staff. Routine on-site rate applies as no off-site travel or public events requiring peak staffing occurred.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "Jan 30, 2025: Routine $75k taxpayer cost for Secret Service & staff at the White House—no travel or special event charges. #TrumpCosts",
+  "tags": [
+    "white-house",
+    "secret-service",
+    "routine-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://apnews.com/article/6885c172b11d972920f8fb60869868ac",
+    "https://www.theguardian.com/us-news/2025/mar/09/trump-golf-trips"
+  ]
+}
