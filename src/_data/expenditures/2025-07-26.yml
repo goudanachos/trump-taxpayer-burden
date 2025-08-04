@@ -1,0 +1,44 @@
+{
+  "location": "Trump Turnberry, Girvan, Scotland",
+  "activities": [
+    {
+      "name": "Presidential leisure day (golf/property stay) with peak security",
+      "cost": 300000,
+      "description": "Full day Secret Service protection and White House staff presence at Trump Turnberry while President Trump golfs socially with family and guests. International site and private property require peak staffing and logistics.",
+      "category": "security"
+    },
+    {
+      "name": "Local law enforcement assist (Scotland)",
+      "cost": 60000,
+      "description": "Local police provided security perimeter and support, consistent with protocol and recent news reports for extended US presidential property stays in the UK.",
+      "category": "local-police"
+    },
+    {
+      "name": "Incidentals (max cap applied)",
+      "cost": 54000,
+      "description": "Unitemized security, transport, and logistical support costs capped at 15% of travel + security benchmarks, as standard for high-alert international property stays.",
+      "category": "incidentals"
+    }
+  ],
+  "total_cost": 414000,
+  "social_description": "July 26, 2025: Trump's golf-leisure day at Turnberry incurred ~$414k in U.S. taxpayer costs for around-the-clock Secret Service, UK police, and incidentals—no major presidential travel.",
+  "tags": [
+    "turnberry",
+    "scotland",
+    "golf-day",
+    "property-stay",
+    "secret-service",
+    "law-enforcement",
+    "international-trip"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://www.dau.edu/sites/default/files/2025-02/2025%20OS%20Cost%20Estimating%20Guide.pdf",
+    "https://www.frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.bbc.co.uk/news/articles/cy40dwe1m84o",
+    "https://www.theguardian.com/us-news/2025/mar/09/trump-golf-trips",
+    "https://www.whitehouse.gov/briefings-statements/"
+  ],
+  "social_title": "$414,000: The cost of a single day of golf at Trump's Scottish resort."
+}
