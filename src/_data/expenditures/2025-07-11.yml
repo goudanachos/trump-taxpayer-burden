@@ -1,0 +1,49 @@
+{
+  "location": "The White House; Kerrville & San Antonio, TX; Bedminster, NJ",
+  "activities": [
+    {
+      "name": "VC-25A (Air Force One) flights: Andrews–San Antonio–Newark",
+      "cost": 1013705,
+      "description": "Total 5.7 flight hours (2.6 h Andrews→TX, 3.1 h TX→Newark) using $177,843/hr DoD/GAO rate. Schedules and in-window news confirm direct presidential travel for Texas disaster response and then Bedminster arrival.",
+      "category": "air-transport"
+    },
+    {
+      "name": "Motorcade/ground transport (multiple cities)",
+      "cost": 20000,
+      "description": "Motorcade deployments in DC, Kerrville/San Antonio area (with significant presidential convoy, news visuals, and pool confirmations), and New Jersey (airport to Bedminster) – approx. $10,000 per metro area, rounded.",
+      "category": "ground-transport"
+    },
+    {
+      "name": "Secret Service, White House, and support (peak off-site day)",
+      "cost": 300000,
+      "description": "Peak, multi-site security detail and staffing due to high-alert Texas disaster visit and travel to New Jersey, following GAO-19-178 benchmarks for off-site presidential trips with large public event and out-of-state movement.",
+      "category": "security"
+    },
+    {
+      "name": "Incidentals and logistics",
+      "cost": 200055,
+      "description": "Capped at 15% of combined travel and security/ground expenses (benchmarks). Covers on-site incidentals, shelter rental/communications, additional operational and contingency costs per major active federal disaster trip.",
+      "category": "incidentals"
+    }
+  ],
+  "total_cost": 1533760,
+  "social_description": "On July 11, 2025, Trump flew to Texas for disaster response, then to Bedminster—federal outlays were ~$1.53M for Air Force One, security, motorcades, and support.",
+  "tags": [
+    "air-force-one",
+    "disaster-response",
+    "texas",
+    "bedminster",
+    "major-travel",
+    "security"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://wvnews.com/newsfeed/us/trump/image_8509aa83-7f73-52d9-9e01-8f298c6109a7.html",
+    "https://gov.texas.gov/news/post/governor-abbott-president-trump-visit-with-impacted-texans-in-kerrville",
+    "https://www.npr.org/2025/07/12/nx-s1-5464888/president-trump-visits-kerrville-texas-as-residents-lay-their-loved-ones-to-rest",
+    "https://spectrumlocalnews.com/tx/san-antonio/news/2025/07/14/capital-tonight-july-11",
+    "https://www.usatoday.com/picture-gallery/news/nation/2025/07/11/president-trump-texas-flooding-aftermath-photos/84611595007/",
+    "https://www.whitehouse.gov/articles/2025/07/president-trump-first-lady-see-unbreakable-spirit-in-texas/"
+  ],
+  "social_title": "24 Hours, $1.53 Million: Trump Flew from Disaster Response in Texas to New Jersey"
+}
