@@ -1,0 +1,44 @@
+{
+  "location": "Trump International Golf Links Aberdeen to The White House, Washington, DC",
+  "activities": [
+    {
+      "name": "International Presidential Flight—RAF Lossiemouth to Joint Base Andrews (VC-25A x2)",
+      "cost": 2598350,
+      "description": "Flight hours Scotland to Washington DC (7.3 hours; round up based on typical leg). Formula: VC-25A × 2 (international multi-jet support).",
+      "category": "air-transport"
+    },
+    {
+      "name": "Secret Service & Staff (peak off-site coverage)",
+      "cost": 300000,
+      "description": "High-alert overseas travel day for principal and entourage for both Scottish and US legs, including transfer and site security.",
+      "category": "security"
+    },
+    {
+      "name": "Local law enforcement/Police Scotland support",
+      "cost": 60000,
+      "description": "Cooperation with UK/Scottish police for event perimeter, traffic control, protest management (Operation Roll 2 estimate, single-event day only).",
+      "category": "local-police"
+    }
+  ],
+  "total_cost": 2957000,
+  "social_description": "On July 29, 2025, Trump's return from Scotland cost taxpayers ~$2.96M: two VC-25A jets for the transatlantic flight, offsite Secret Service, and major Scottish police support for the Aberdeen golf event and departure day.",
+  "tags": [
+    "international-travel",
+    "vc-25a",
+    "aberdeen",
+    "air-force-one",
+    "secret-service",
+    "law-enforcement",
+    "golf"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.bbc.com/news/articles/c0kz8dd2k3lo",
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://www.dau.edu/sites/default/files/2025-02/2025%20OS%20Cost%20Estimating%20Guide.pdf",
+    "https://aberdeenlive.news/news/aberdeen-news/four-people-arrested-after-donald-10385602",
+    "https://aberdeenlive.news/news/aberdeen-news/donald-trump-flies-back-after-10385005",
+    "https://www.usatoday.com/story/news/politics/2025/07/30/secret-service-agent-spouse-trump-scotland-trip/85445487007/"
+  ],
+  "social_title": "$2.96M for One Day: How Trump's Return From Scottish Golf Trip Cost Enough for 30 Average American Homes"
+}
