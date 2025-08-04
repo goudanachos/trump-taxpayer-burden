@@ -1,0 +1,45 @@
+{
+  "location": "Washington, DC, Selfridge ANGB (MI), Macomb, MI",
+  "activities": [
+    {
+      "name": "VC-25A (Air Force One) flight: Andrews–Selfridge, MI RT",
+      "cost": 313004,
+      "description": "Round-trip presidential flight from Andrews AFB to Selfridge ANGB (MI), calculated at 1.76 flight hours, domestic rate.",
+      "category": "transportation"
+    },
+    {
+      "name": "Secret Service & staff (peak off-site)",
+      "cost": 300000,
+      "description": "Secret Service protection and travel support during official off-site presidential visit, per GAO upper-bound.",
+      "category": "security"
+    },
+    {
+      "name": "Local law-enforcement assistance (MI)",
+      "cost": 60000,
+      "description": "Assistance from Michigan state/local police for presidential events, using Palm Beach reimbursement as benchmark.",
+      "category": "security"
+    },
+    {
+      "name": "Incidentals (≤ 15% cap)",
+      "cost": 100951,
+      "description": "Covers incidentals (logistics, communications, and unitemized travel/security) within federal cap guidelines.",
+      "category": "incidentals"
+    }
+  ],
+  "total_cost": 770000,
+  "social_description": "On April 29, 2025, President Trump traveled roundtrip to Michigan for events. Estimated taxpayer cost for flights, security, and incidentals: $770,000.",
+  "tags": [
+    "air-force-one",
+    "secret-service",
+    "michigan",
+    "law-enforcement",
+    "travel-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.gao.gov/assets/gao-19-178.pdf"
+  ],
+  "social_title": "$770,000 for One Day in Michigan: Trump's Secret Service Cost More Than His Flight to the State"
+}
