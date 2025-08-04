@@ -1,0 +1,55 @@
+{
+  "location": "Mar-a-Lago and Trump International Golf Club, West Palm Beach, FL; En route to The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Peak Secret Service & Security Operations (Mar-a-Lago/Palm Beach)",
+      "cost": 300000,
+      "description": "Full-scale Secret Service and support staff presence during the President’s Palm Beach area activities, consistent with published $200,000–$300,000/day federal reimbursement benchmarks for heightened security post-assassination attempt.",
+      "category": "peak off-site security"
+    },
+    {
+      "name": "Local Law Enforcement Assist (Palm Beach)",
+      "cost": 60000,
+      "description": "Coordinated local police and sheriff’s office support for presidential motorcade and event security during Trump’s Mar-a-Lago and golf club movements. Expense eligible for federal reimbursement as per HMSA/FEMA cost programs.",
+      "category": "local law-enforcement"
+    },
+    {
+      "name": "VC-25A (Air Force One) flight, Palm Beach→Andrews (2.15h)",
+      "cost": 382352,
+      "description": "One-way VC-25A flight from Palm Beach International Airport to Joint Base Andrews (estimated 2.15 hours). Cost based on FY25 per-hour rate, consistent with GAO and NTU cost reporting. Support factor = 0 (domestic, no cargo).",
+      "category": "air travel"
+    },
+    {
+      "name": "Local Motorcade (multiple short trips)",
+      "cost": 20000,
+      "description": "Presidential motorcades to/from Mar-a-Lago, the Trump golf club, and airport. Estimated costs for four discrete, high-security short-trip escorts as per GAO motorcade benchmarks.",
+      "category": "motorcade"
+    },
+    {
+      "name": "Incidentals (logistics, overtime, minor ops)",
+      "cost": 114000,
+      "description": "Aggregate of incidentals, capped at 15% of travel + security per federal cost accounting guidance. Includes logistics, staff overtime, and operational surcharges not itemized elsewhere.",
+      "category": "incidentals"
+    }
+  ],
+  "total_cost": 876352,
+  "social_description": "Mar 16, 2025: Trump’s Palm Beach golf day and evening, capped by Air Force One return to DC. Estimated taxpayer cost: $876K for flights, security, law enforcement, and motorcade operations.",
+  "tags": [
+    "mar-a-lago",
+    "palm-beach",
+    "golf",
+    "air-force-one",
+    "motorcade",
+    "security"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://police1.com/legal/feds-will-pay-for-local-police-sheriffs-office-costs-for-trumps-visits-to-mar-a-lago",
+    "https://palmbeachpost.com/story/news/trump/2025/07/29/big-beautiful-bill-to-repay-pbso-some-costs-for-protecting-president-donald-trump/84479225007",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://helsinkitimes.fi/world-int/27567-trump-s-golf-habits-cost-taxpayers-over-60-million.html",
+    "https://thespun.com/golf/white-house-makes-190000-president-trump-golf-announcement"
+  ],
+  "social_title": "$876,352 for One Golf Day: How Trump's Florida Trip Split Between $382K Flight and Half a Million in Security Costs"
+}
