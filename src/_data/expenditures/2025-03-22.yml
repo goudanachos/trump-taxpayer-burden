@@ -1,0 +1,59 @@
+{
+  "location": "Bedminster, NJ; Morristown, NJ; Philadelphia, PA; Washington, DC",
+  "activities": [
+    {
+      "name": "Local helicopter leg: Bedminster to Morristown",
+      "cost": 6000,
+      "description": "Estimated 0.25 hours by Marine One helicopter.",
+      "category": "travel-helicopter"
+    },
+    {
+      "name": "Air travel: Morristown to Philadelphia (VC-25A/Air Force One)",
+      "cost": 29700,
+      "description": "Estimated 0.167 hours on VC-25A, domestic no support.",
+      "category": "travel-air"
+    },
+    {
+      "name": "Ground motorcade/security (Philadelphia events)",
+      "cost": 10000,
+      "description": "Estimated motorcade/event security for NCAA championship and transfers.",
+      "category": "security-ground"
+    },
+    {
+      "name": "Air travel: Philadelphia to Andrews (VC-25A/Air Force One)",
+      "cost": 74100,
+      "description": "Estimated 0.417 hours on VC-25A, domestic no support.",
+      "category": "travel-air"
+    },
+    {
+      "name": "Air travel: Andrews to White House (VC-25A/Air Force One)",
+      "cost": 29700,
+      "description": "Estimated 0.167 hours on VC-25A, domestic no support.",
+      "category": "travel-air"
+    },
+    {
+      "name": "On-site Secret Service (peak off-site)",
+      "cost": 75000,
+      "description": "Coverage required at peak offsite locations per event schedule.",
+      "category": "security-peak"
+    }
+  ],
+  "total_cost": 224560,
+  "social_description": "March 22, 2025: Trump traveled from Bedminster, NJ to Philadelphia for the NCAA Wrestling Championship, then returned to DC. Multi-mode transport and security cost taxpayers an estimated $224k.",
+  "tags": [
+    "travel",
+    "air-force-one",
+    "marine-one",
+    "motorcade",
+    "bedminster",
+    "philadelphia",
+    "ncaa"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://wfmz.com/news/area/lehighvalley/northampton-county/bethlehem-area/president-trump-departs-from-lvia-on-air-force-one-after-spending-weekend-in-nj/article_7f30851f-f41c-48bc-b719-6982967fa5dc.html"
+  ],
+  "social_title": "$224,560 for One Day: Trump's Short-Flight Trip Costs More Than the Average American Makes in 5 Years"
+}
