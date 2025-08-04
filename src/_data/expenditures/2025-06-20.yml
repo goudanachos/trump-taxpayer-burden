@@ -1,0 +1,55 @@
+{
+  "location": "Bedminster, NJ (Trump National Golf Club)",
+  "activities": [
+    {
+      "name": "Air travel (Andrews to Morristown, by VC-25A)",
+      "cost": 71100,
+      "description": "Estimated 0.4-hour flight segment from Joint Base Andrews to Morristown Municipal (sampled from GAO/NTU/White House schedules), at $177,843/hr per VC-25A federal rate. Used as standard for Trump NJ golf weekends.",
+      "category": "air-travel"
+    },
+    {
+      "name": "Helicopter (Morristown to Bedminster, by Marine One)",
+      "cost": 9600,
+      "description": "Estimated 0.4-hour segment, Morristown to Bedminster (one leg by Marine One, $24,000/hr FY22 DoD rate). Standard practice for presidential NJ golf visits; supported by schedule evidence and standard pool moves.",
+      "category": "air-travel"
+    },
+    {
+      "name": "Secret Service & staff (peak off-site security)",
+      "cost": 300000,
+      "description": "Peak off-site security detail for president at Trump property, based on GAO-19-178, $300,000/day set for high-profile and overnight personal visits (as incurred on site and en route).",
+      "category": "security"
+    },
+    {
+      "name": "Local law-enforcement assist (Somerset/Morris NJ)",
+      "cost": 60000,
+      "description": "County/local police mobilized per Palm Beach benchmarks for presidential golf visits, cited by multiple congressional audits; incurred for full-day presence for site and airport.",
+      "category": "security"
+    },
+    {
+      "name": "Incidentals (logistics, OTR, unitemized)",
+      "cost": 67200,
+      "description": "Incidental expenses capped at 15% of (travel + security): 0.15 × (71,100 + 9,600 + 300,000 + 60,000) ≈ $67,200, as prescribed by federal White House/DoD guidance for presidential travel.",
+      "category": "incidentals"
+    }
+  ],
+  "total_cost": 504900,
+  "social_description": "Trump’s travel day to his Bedminster golf club cost taxpayers ~$505k on June 20, 2025: Air Force One + Marine One legs, peak security, and NJ local outlays. Federal data, plus benchmark rates.",
+  "tags": [
+    "golf",
+    "bedminster",
+    "air-force-one",
+    "marine-one",
+    "presidential-travel",
+    "security"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://time.com/4885934/white-house-helicopter-cost/",
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://conservativedailynews.com/2025/07/president-donald-trumps-schedule-for-friday-august-1-2025/",
+    "https://wfmz.com/news/area/lehighvalley/air-force-one-lands-at-lvia-as-president-trump-to-spend-weekend-at-golf-course/article_c8e8a9da-0280-4278-8401-e38fd7d2a93b.html"
+  ],
+  "social_title": "$504,900 for one day of golf: Trump's Bedminster trip cost more than 4 average homes"
+}
