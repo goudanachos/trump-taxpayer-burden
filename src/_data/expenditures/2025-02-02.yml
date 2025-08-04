@@ -1,0 +1,48 @@
+{
+  "location": "Palm Beach, FL → Washington, DC (Mar-a-Lago, Trump Intl Golf Club, Joint Base Andrews, White House)",
+  "activities": [
+    {
+      "name": "VC-25A (Air Force One) Palm Beach to Andrews",
+      "cost": 177843,
+      "description": "Estimated 1.0-hour domestic VC-25A flight, Palm Beach to JBA per published benchmarks.",
+      "category": "air-travel"
+    },
+    {
+      "name": "Secret Service & staff (peak, Mar-a-Lago/off-site golf)",
+      "cost": 300000,
+      "description": "Secret Service at peak off-site rate; day included presidential presence at private property/golf and transit.",
+      "category": "security"
+    },
+    {
+      "name": "Local law enforcement (Palm Beach County)",
+      "cost": 60000,
+      "description": "Benchmark for county/city support when presidential presence activates local agencies for security (Palm Beach sheriff).",
+      "category": "security"
+    },
+    {
+      "name": "Incidentals (transport, comms)",
+      "cost": 82000,
+      "description": "Estimated cap (15% of major travel + security costs); covers local motorcade and incidentals for Mar-a-Lago and golf club movements.",
+      "category": "incidental"
+    }
+  ],
+  "total_cost": 619843,
+  "social_description": "Feb 2, 2025: Trump's Mar-a-Lago weekend & West Palm golf with Air Force One return cost taxpayers an estimated $620k in flight, security, and local police. #TrumpCosts",
+  "tags": [
+    "mar-a-lago",
+    "golf",
+    "air-force-one",
+    "palm-beach-county",
+    "secret-service"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://helsinkitimes.fi/world-int/27567-trump-s-golf-habits-cost-taxpayers-over-60-million.html",
+    "https://yahoo.com/news/articles/big-beautiful-bill-cover-pbsos-144833840.html",
+    "https://sports.yahoo.com/article/white-house-makes-190-000-003903000.html"
+  ],
+  "social_title": "Trump's Single Day from Mar-a-Lago to DC: $620,000 at Taxpayer Expense, $300,000 Just for Secret Service"
+}
