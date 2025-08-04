@@ -1,0 +1,24 @@
+{
+  "location": "White House, Washington, DC",
+  "activities": [
+    {
+      "name": "On-site Secret Service and staff (White House, public event)",
+      "cost": 75000,
+      "description": "Standard daily security for the President at the White House, including coverage of multiple high-visibility events (sports champion visit, major foreign leader press conference). No evidence of peak/off-site or special law enforcement activation.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "On April 7, 2025, President Trump hosted events for the LA Dodgers and Israel's Prime Minister at the White House. Federal outlays were for standard security and staff (~$75,000); no evidence of external law enforcement or special travel costs.",
+  "tags": [
+    "white-house",
+    "secret-service",
+    "official-event"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
