@@ -1,0 +1,54 @@
+{
+  "location": "Palm Beach, FL and Daytona Beach, FL (Mar-a-Lago, Daytona 500)",
+  "activities": [
+    {
+      "name": "VC-25A (Air Force One) Flight: Palm Beach Intl to Daytona Beach Intl and Return",
+      "cost": 147610,
+      "description": "Estimated 0.83 flight hours (0.42h each way, based on GCMAP distance [170 mi/leg, plus taxi]) at $177,843/hr, per DoD/Finance Monthly/NTU standards. Domestic, no support factor.",
+      "category": "vc-25a"
+    },
+    {
+      "name": "Secret Service & Federal Security Detail (off-site, full day)",
+      "cost": 300000,
+      "description": "Peak off-site Secret Service protection and federal support for Mar-a-Lago and Daytona 500 venues per GAO-19-178, Finance Monthly, Helsinki Times, often cited at $300k/day for such events.",
+      "category": "secret-service"
+    },
+    {
+      "name": "Local Law Enforcement (Palm Beach + Daytona Beach)",
+      "cost": 60000,
+      "description": "Sheriff and city police pivotal for crowd, traffic, and event security at both Mar-a-Lago and Daytona 500 (see Frankel.gov, Yahoo reporting, Guardian March 2025, Finance Monthly).",
+      "category": "law-enforcement"
+    },
+    {
+      "name": "Motorcade & Ground Transport (Mar-a-Lago, airport, Daytona)",
+      "cost": 12000,
+      "description": "Short and high-profile motorcades at Mar-a-Lago, PBI, Daytona Beach airports, plus Daytona 500 event transfer. Typical cost per benchmarks, doubled for multi-venue day.",
+      "category": "motorcade"
+    },
+    {
+      "name": "Incidentals (support/meals/logistics)",
+      "cost": 77940,
+      "description": "Incidentals include meals, logistics, and unitemized federal support at 15% cap of subtotaled travel + security costs.",
+      "category": "incidentals"
+    }
+  ],
+  "total_cost": 597550,
+  "social_description": "On Feb 16, 2025, Trump’s trip from Mar-a-Lago to the Daytona 500 and back racked up ~$598k in federal taxpayer costs: Air Force One, security, police, and logistics for this single high-profile leisure outing.",
+  "tags": [
+    "air-force-one",
+    "motorcade",
+    "secret-service",
+    "daytona-500",
+    "mar-a-lago",
+    "presidential-travel"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://finance-monthly.com/trump-motorcade-security-costs/",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://helsinkitimes.fi/world-int/27567-trump-s-golf-habits-cost-taxpayers-over-60-million.html",
+    "https://www.yahoo.com/news/articles/big-beautiful-bill-cover-pbsos-144833840.html"
+  ],
+  "social_title": "$597,550 for One Day at the Races: Trump's Trip to Daytona 500 Costs More Than Most Americans Make in a Year"
+}
