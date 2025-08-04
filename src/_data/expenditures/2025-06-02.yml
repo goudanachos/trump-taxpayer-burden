@@ -1,0 +1,25 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Secret Service protection (on-site)",
+      "cost": 75000,
+      "description": "Standard daily Secret Service staffing and security presence at the White House. No travel or off-site protection recorded in schedule or media for this date.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "On June 2, 2025, federal taxpayer costs for presidential leisure/security at the White House were ~$75,000, covering routine on-site Secret Service staffing. No golf or property travel noted.",
+  "tags": [
+    "white-house",
+    "secret-service",
+    "on-site",
+    "no-leisure-travel"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
