@@ -1,0 +1,58 @@
+{
+  "location": "Trump Turnberry (Girvan) to Aberdeen, Scotland",
+  "activities": [
+    {
+      "name": "Presidential land transfer: Turnberry to Prestwick Airport (motorcade/security)",
+      "cost": 10000,
+      "description": "Local Scottish security and motorcade for the President's transfer from Trump Turnberry to Glasgow Prestwick Airport, consistent with major US presidential visits and Operation Roll 2 precedent.",
+      "category": "motorcade"
+    },
+    {
+      "name": "Domestic flight: Glasgow Prestwick to Aberdeen (VC-25A)",
+      "cost": 88788,
+      "description": "Presidential jet repositioning from Glasgow to Aberdeen (0.5 hr × $177,843 domestic) using conservative single-jet estimate. No tag-along support jets confirmed for this intranational hop.",
+      "category": "air-transport"
+    },
+    {
+      "name": "Secret Service & staff (peak off-site)",
+      "cost": 300000,
+      "description": "High-alert, off-site Secret Service detail and White House/security staffing on the ground at both Turnberry and Aberdeen throughout the day, as is routine for international site moves and public events.",
+      "category": "security"
+    },
+    {
+      "name": "Local law enforcement assist (Scotland)",
+      "cost": 60000,
+      "description": "Activation of Scottish local police for traffic and protest perimeter at Trump Turnberry and Aberdeen, benchmarked to Palm Beach precedent and confirmed by contemporary news on Operation Roll 2 and arrest reports.",
+      "category": "local-police"
+    },
+    {
+      "name": "Incidentals (max cap applied)",
+      "cost": 68900,
+      "description": "Unitemized costs including support vehicles, overtime, and logistics capped at 15% of travel + security, following guideline maximum.",
+      "category": "incidentals"
+    }
+  ],
+  "total_cost": 529700,
+  "social_description": "On July 28, 2025, Trump traveled between his Scottish resorts incurring ~$530k in taxpayer costs: VC-25A jet hop Turnberry→Aberdeen, high-alert US/UK security, motorcade, police, and incidentals.",
+  "tags": [
+    "aberdeen",
+    "turnberry",
+    "scotland",
+    "international-trip",
+    "vc-25a",
+    "motorcade",
+    "police",
+    "secret-service",
+    "golf"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://www.dau.edu/sites/default/files/2025-02/2025%20OS%20Cost%20Estimating%20Guide.pdf",
+    "https://www.bbc.co.uk/news/articles/cy40dwe1m84o",
+    "https://glasgowtimes.co.uk/news/25351144.five-arrests-made-donald-trumps-visit-scotland",
+    "https://www.gov.uk/government/news/pm-meeting-with-president-trump-of-the-united-states-28-july-2025",
+    "https://thepavlovictoday.com/trumps-day-in-office-july-28-2025/"
+  ],
+  "social_title": "$529,700 for Trump's Day Trip to His Own Scottish Resorts - $88,788 for Just a Half-Hour Flight"
+}
