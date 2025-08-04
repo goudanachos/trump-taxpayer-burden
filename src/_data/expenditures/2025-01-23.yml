@@ -1,0 +1,34 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Secret Service & staff (on-site at White House)",
+      "cost": 75000,
+      "description": "Daily cost for on-site Secret Service and support staff protecting the President and staff during routine in-town activity, including multiple public and private events.",
+      "category": "security"
+    },
+    {
+      "name": "Local motorcade and security (intra-campus movements)",
+      "cost": 10000,
+      "description": "Typical motorcade and on-site vehicle security for short intra-campus moves tied to event logistics at the White House.",
+      "category": "transportation"
+    }
+  ],
+  "total_cost": 85000,
+  "social_description": "On Jan 23, 2025, Trump’s official duties at the White House incurred $85k in taxpayer costs for security and intra-campus ops—no travel or special events reported.",
+  "tags": [
+    "white-house",
+    "security",
+    "motorcade",
+    "daily-cost"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://www.theguardian.com/us-news/2025/mar/09/trump-golf-trips",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927"
+  ]
+}
