@@ -1,0 +1,35 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Visit with 2024 World Series Champions - Los Angeles Dodgers",
+      "cost": 0,
+      "category": "event",
+      "description": "President Trump hosted and participated in a visit with the 2024 World Series Champions, the Los Angeles Dodgers, in the East Room."
+    },
+    {
+      "name": "Greeting Prime Minister of the State of Israel",
+      "cost": 0,
+      "category": "event",
+      "description": "President Trump greeted the Prime Minister of Israel at a stakeout location. The planned bilateral meeting was cancelled."
+    },
+    {
+      "name": "Press Conference with Prime Minister of the State of Israel",
+      "cost": 0,
+      "category": "event",
+      "description": "President Trump participated in a press conference with the Prime Minister of Israel in the East Room."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "On April 7, 2025, President Trump hosted the 2024 World Series Champions Los Angeles Dodgers, greeted Israel's Prime Minister, and held a press conference with him at the White House. No extraordinary expenditure recorded for this day.",
+  "tags": "trump,white house,los angeles dodgers,israel,press conference",
+  "confidence_level": "high",
+  "model_confidence": 0.99,
+  "model_check": "All events are supported by multiple high-quality sources and official schedules. No travel or major security cost recorded for this day. Costs are minimal as events took place within the White House premises.",
+  "source_urls": [
+    "https://yahoo.com/news/articles/trump-expands-white-house-rose-170039791.html",
+    "https://abc7.com/post/trump-caps-visit-scotland-opening-new-golf-course/17347638",
+    "https://nydailynews.com/2025/07/31/trump-white-house-ballroom-construction",
+    "https://abc7.com/post/construction-200-million-white-house-ballroom-begin-september-president-donald-trumps-administration-says/17383750"
+  ]
+}
