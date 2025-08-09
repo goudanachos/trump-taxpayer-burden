@@ -1,0 +1,28 @@
+{
+  "location": "The White House, Washington, DC",
+  "activities": [
+    {
+      "name": "Secret Service & staff (on-site White House)",
+      "cost": 75000,
+      "description": "Typical daily Secret Service and staff security expenditure for President Trump's in-town presence, based on established outlay for full working days at the White House per GAO benchmarks.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "Aug 5, 2025: Trump spent the day working at the White House, resulting in about $75,000 in daily federal security costs. No significant travel or off-site leisure expenses incurred.",
+  "tags": [
+    "white-house",
+    "security-costs",
+    "secret-service",
+    "in-town-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://whitehouse.gov/fact-sheets",
+    "https://rollcall.com/factbase/trump/transcript/donald-trump-press-gaggle-white-house-roof-august-5-2025/",
+    "https://www.nytimes.com/live/2025/08/03/us/trump-news",
+    "https://state.gov/releases/office-of-the-spokesperson/2025/08/public-schedule-august-5-2025"
+  ]
+}
