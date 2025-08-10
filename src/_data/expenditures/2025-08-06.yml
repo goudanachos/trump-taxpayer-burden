@@ -1,0 +1,28 @@
+{
+  "location": "The White House, Washington, DC",
+  "activities": [
+    {
+      "name": "Secret Service & staff (on-site White House)",
+      "cost": 75000,
+      "description": "Standard daily expense for Secret Service and staff providing security for President Trump's in-town schedule at the White House, in accordance with GAO and established cost benchmarks.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "Aug 6, 2025: Trump remained at the White House for scheduled meetings and an announcement, resulting in about $75,000 in federal security expenditures. No travel or golf-related leisure costs logged.",
+  "tags": [
+    "white-house",
+    "security-costs",
+    "secret-service",
+    "in-town-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://whitehouse.gov/fact-sheets",
+    "https://www.nytimes.com/live/2025/08/06/us/trump-news",
+    "https://www.dau.edu/sites/default/files/2025-02/2025%20OS%20Cost%20Estimating%20Guide.pdf",
+    "https://state.gov/releases/office-of-the-spokesperson/2025/08/public-schedule-august-6-2025"
+  ]
+}
