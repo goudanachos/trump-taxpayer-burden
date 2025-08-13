@@ -1,0 +1,41 @@
+{
+  "location": "Washington, DC / Sterling, VA (Trump National Golf Club)",
+  "activities": [
+    {
+      "name": "On-site Secret Service and support staff at the White House and golf club",
+      "cost": 75000,
+      "description": "Secret Service and key staff providing direct security and operational support during a routine presidential day at the White House with travel to/from an off-site (local) golf club, based on cost benchmarks and the absence of off-site 'peak' security indications.",
+      "category": "security"
+    },
+    {
+      "name": "Motorcade operations (White House ↔️ Trump National Golf Club, Sterling, VA)",
+      "cost": 10000,
+      "description": "White House motorcade, including prep and escort to Sterling, VA (approx. 25 mi). Cost assumes roundtrip short motorcade as in GAO/NTU benchmarks and routine operations noted in news coverage.",
+      "category": "transport"
+    },
+    {
+      "name": "Incidentals (meals, logistics, minor overtime)",
+      "cost": 12750,
+      "description": "Incidentals capped at 15% of (travel + security), covering unitemized support typical for local presidential leisure outings.",
+      "category": "incidentals"
+    }
+  ],
+  "total_cost": 97750,
+  "social_description": "On Aug. 9, 2025, President Trump traveled by motorcade from the White House to Trump National Golf Club in VA for a day of golf. Taxpayer cost: ~$98K for security, transport, and incidentals. No helicopter or law enforcement surge reported.",
+  "tags": [
+    "trump-golf",
+    "local-motorcade",
+    "white-house",
+    "sterling-va",
+    "routine-security"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://meidasnews.com/news/trump-slips-off-to-golf-club-in-off-schedule-trip",
+    "https://pennlive.com/news/2025/08/donald-trumps-golf-tab-nears-new-milestone-heres-the-latest-estimate.html",
+    "https://timesofindia.indiatimes.com/sports/international-sports/donald-trump-urgently-orders-homeless-to-leave-washington-dc-after-golf-course-drive/articleshow/123226429.cms",
+    "https://www.joemygod.com/2025/08/trump-assault-on-dcs-homeless-came-because-they-were-on-his-regular-route-to-his-virginia-golf-resort/",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://insidenova.com/headlines/liv-golf-returning-to-trump-national-in-sterling-in-2026/article_e318efa1-bd33-4791-93d5-e2d49c1db659.html"
+  ]
+}
