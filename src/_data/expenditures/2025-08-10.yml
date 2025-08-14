@@ -1,0 +1,41 @@
+{
+  "location": "Washington, DC / Sterling, VA (Trump National Golf Club)",
+  "activities": [
+    {
+      "name": "On-site Secret Service and support staff at White House and golf club",
+      "cost": 75000,
+      "description": "Standard protective staffing for an official offsite day-travel leisure activity—White House plus local offsite club, as established by cost benchmarks and news tracking of local (not overnight/peak) Secret Service footprint.",
+      "category": "security"
+    },
+    {
+      "name": "Presidential motorcade operations (White House ↔️ Trump National Golf Club, Sterling, VA)",
+      "cost": 10000,
+      "description": "Standard roundtrip White House motorcade and escort, costed at upper bound for short local trips as in official GAO and news benchmarks.",
+      "category": "transport"
+    },
+    {
+      "name": "Incidentals (meals, logistics, minor overtime)",
+      "cost": 12750,
+      "description": "Capped at 15% of (travel + security) for routine incidentals related to support, meals, and sundry costs on a short local golf trip.",
+      "category": "incidentals"
+    }
+  ],
+  "total_cost": 97750,
+  "social_description": "On Aug. 10, 2025, President Trump traveled from the White House to Trump National Golf Club in VA by motorcade for a second day of golf. Taxpayer cost: ~$98K for security, transport, and incidentals—matching established benchmarks for in-town leisure travel.",
+  "tags": [
+    "trump-golf",
+    "local-motorcade",
+    "white-house",
+    "sterling-va",
+    "routine-security"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://meidasnews.com/news/back-to-back-golf-trips-for-trump-on-taxpayer-dime",
+    "https://www.pennlive.com/entertainment/2025/08/donald-trumps-estimated-golf-tab-for-second-term-surpasses-70-million.html",
+    "https://www.golf365.com/news/donald-trump-golf-bill-hits-70m-landmark",
+    "https://timesofindia.indiatimes.com/sports/international-sports/donald-trump-urgently-orders-homeless-to-leave-washington-dc-after-golf-course-drive/articleshow/123226429.cms",
+    "https://www.webpronews.com/trump-deploys-fbi-national-guard-to-clear-d-c-homeless-encampments/",
+    "https://northernvirginiamag.com/news/2025/08/07/liv-golfs-2026-tournament-returns-to-trump-national-in-sterling"
+  ]
+}
