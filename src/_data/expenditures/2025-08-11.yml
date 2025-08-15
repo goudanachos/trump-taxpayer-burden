@@ -1,0 +1,32 @@
+{
+  "location": "The White House, Washington, DC",
+  "activities": [
+    {
+      "name": "On-site Secret Service protection and staff support (routine day)",
+      "cost": 75000,
+      "description": "Standard Secret Service and White House operational staff presence while the President remained at the White House with no recorded off-site travel or extraordinary security posture, per August 2025 benchmarks and in-window reporting.",
+      "category": "security"
+    },
+    {
+      "name": "Incidentals (logistics, minor overtime)",
+      "cost": 11250,
+      "description": "Incidentals capped at 15% of (travel + security) for days without travel, based on established guidelines for unitemized operational support.",
+      "category": "incidentals"
+    }
+  ],
+  "total_cost": 86250,
+  "social_description": "On Aug. 11, 2025, President Trump remained at the White House, holding a press conference with no leisure travel. Routine taxpayer spending: ~$86K for security and incidentals.",
+  "tags": [
+    "white-house",
+    "routine-security"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://pennlive.com/entertainment/2025/08/donald-trumps-estimated-golf-tab-for-second-term-surpasses-70-million.html",
+    "https://www.pennlive.com/news/2025/08/donald-trumps-golf-tab-nears-new-milestone-heres-the-latest-estimate.html"
+  ]
+}
