@@ -1,0 +1,32 @@
+{
+  "location": "The White House, Washington, DC",
+  "activities": [
+    {
+      "name": "On-site Secret Service protection and operational support",
+      "cost": 75000,
+      "description": "Routine daily Secret Service and operational staffing while the President remained at the White House; no indication of off-site surge, based on cost benchmarks and in-window news sources.",
+      "category": "security"
+    },
+    {
+      "name": "Incidentals (logistics, minor overtime)",
+      "cost": 11250,
+      "description": "Incidentals capped at 15% of (security), covering meals, overtime, and support for normal operational days without travel.",
+      "category": "incidentals"
+    }
+  ],
+  "total_cost": 86250,
+  "social_description": "On Aug. 12, 2025, President Trump stayed at the White House. Routine security/support cost taxpayers an estimated $86K, as confirmed by press briefings and news coverage.",
+  "tags": [
+    "white-house",
+    "routine-security"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://rollcall.com/factbase/trump/transcript/donald-trump-press-conference-briefing-karoline-leavitt-august-12-2025",
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://biztoc.com/x/bfb96e978d6662ff"
+  ]
+}
