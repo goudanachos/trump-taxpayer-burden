@@ -1,0 +1,41 @@
+{
+  "location": "The White House, Washington, DC / John F. Kennedy Center for the Performing Arts",
+  "activities": [
+    {
+      "name": "On-site Secret Service protection and staff support (White House and Kennedy Center)",
+      "cost": 75000,
+      "description": "Secret Service and staff for a routine presidential movement within DC, with no evidence of off-site or overnight surge; Kennedy Center detail under standard DC event protocol per GAO and multiple DC motorcade benchmarks.",
+      "category": "security"
+    },
+    {
+      "name": "Presidential motorcade operations (White House ↔️ Kennedy Center)",
+      "cost": 10000,
+      "description": "Estimated cost for roundtrip short presidential motorcade within DC for a non-emergency occasion, as benchmarked by GAO and news sources for local trips to external venues.",
+      "category": "transport"
+    },
+    {
+      "name": "Incidentals (meals, logistics, minor overtime)",
+      "cost": 12750,
+      "description": "Capped at 15% of (travel + security) for typical miscellaneous expenses on a non-extraordinary, in-city White House event day.",
+      "category": "incidentals"
+    }
+  ],
+  "total_cost": 97750,
+  "social_description": "On Aug. 13, 2025, President Trump made a local trip to the Kennedy Center for an official event. Estimated taxpayer cost: ~$98K, covering security, a DC motorcade, and incidentals per routine benchmarks.",
+  "tags": [
+    "white-house",
+    "kennedy-center",
+    "motorcade",
+    "routine-security",
+    "presidential-event"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.washingtonpost.com/entertainment/2025/08/13/trump-kennedy-center-honorees/",
+    "https://edition.cnn.com/2025/08/13/politics/kennedy-center-honorees-donald-trump",
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://pennlive.com/entertainment/2025/08/donald-trumps-estimated-golf-tab-for-second-term-surpasses-70-million.html"
+  ]
+}
