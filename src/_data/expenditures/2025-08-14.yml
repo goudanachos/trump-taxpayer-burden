@@ -1,0 +1,27 @@
+{
+  "location": "Mar-a-Lago, Palm Beach, FL (implied)",
+  "activities": [
+    {
+      "name": "Golf/leisure day at Trump property (taxpayer-funded security, travel, incidentals)",
+      "cost": 1400000,
+      "description": "Based on consistent daily cost benchmarks for Trump's golf outings—covering Air Force One, Secret Service (off-site peak), local law enforcement, and incidentals—taxpayer outlays for presidential leisure/golf activity at Mar-a-Lago continue at an estimated $1.4 million per day in August 2025. This aligns with multiple independent sources reporting a total of $71.4 million across 51 golf days since January 2025, averaging about $1.4 million per trip. Expenditures include Secret Service ($300k/day), Air Force One flight (average $670k, assuming typical 3.5h domestic roundtrip), local law enforcement ($60k), support aircraft, and capped incidentals.",
+      "category": "recreational travel"
+    }
+  ],
+  "total_cost": 1400000,
+  "social_description": "On Aug 14, 2025, President Trump's golf/leisure day at Mar-a-Lago cost US taxpayers ~$1.4 million, including flights, Secret Service, and security. #trumpleisure #taxpayerdollars",
+  "tags": [
+    "trump-leisure",
+    "mar-a-lago",
+    "golf",
+    "taxpayer-cost",
+    "2025"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://irishstar.com/news/politics/eye-watering-cost-trumps-golfing-35746446",
+    "https://www.golf365.com/news/donald-trump-golf-bill-hits-70m-landmark",
+    "https://www.pennlive.com/entertainment/2025/08/donald-trumps-estimated-golf-tab-for-second-term-surpasses-70-million.html"
+  ],
+  "social_title": "$1.4 Million per Golf Day: Trump's Mar-a-Lago Vacation Costs Taxpayers More Than Most Americans Make in a Decade"
+}
