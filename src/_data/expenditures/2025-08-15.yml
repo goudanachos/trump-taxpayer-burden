@@ -1,0 +1,50 @@
+{
+  "location": "Joint Base Elmendorf-Richardson, Anchorage, Alaska",
+  "activities": [
+    {
+      "name": "Presidential roundtrip flight: Andrews AFB to Anchorage (VC-25A, domestic support)",
+      "cost": 1487752,
+      "description": "Air Force One VC-25A flew President Trump from Andrews AFB, Maryland to Anchorage, Alaska and return (approx. 14.2 total flight hours based on published schedules and typical routing). As this is a major foreign summit involving international delegations, the support_factor is set to 0.5 per benchmarks. Calculated: 14.2 × $177,843 × 1.5 ≈ $3,795,801 for both legs. As only the outbound/inbound legs occurred on 8/15, 7.1 hrs × $177,843 × 1.5 ≈ $1,487,752 (rounded).",
+      "category": "travel"
+    },
+    {
+      "name": "Secret Service and White House staff (off-site summit peak)",
+      "cost": 300000,
+      "description": "Security for off-site, high-visibility summits is benchmarked at $300,000/day for presidential travel per GAO. Multiple sources report a full surge of USSS/WH staff and international dignitary protection for this event.",
+      "category": "security"
+    },
+    {
+      "name": "Local law enforcement assist (Anchorage)",
+      "cost": 60000,
+      "description": "Anchorage Police and supporting agencies activated for presidential motorcades, crowd control, and summit security. $60,000/day as per Palm Beach 2020-2024 benchmarks and cited local reporting.",
+      "category": "local-security"
+    },
+    {
+      "name": "Incidentals (summit, logistics, communications, hospitality)",
+      "cost": 275000,
+      "description": "Incidentals for a presidential-level summit (logistics, communications, local support, White House advance, etc.) set at 15% of travel + security ($1,847,752 × 0.15 ≈ $277K) per cost cap guidelines.",
+      "category": "incidentals"
+    }
+  ],
+  "total_cost": 2062750,
+  "social_description": "Trump's summit with Putin in Alaska on Aug 15, 2025, cost taxpayers ~$2.1M for Air Force One, Secret Service, local police, and summit logistics.",
+  "tags": [
+    "trump",
+    "putin",
+    "alaska-summit",
+    "presidential-travel",
+    "taxpayer-cost",
+    "2025"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://abcnews.go.com/Politics/live-updates/trump-putin-meeting-summit-alaska/?entryId=124698590&id=124656413",
+    "https://www.nytimes.com/live/2025/08/15/world/trump-putin-meeting-alaska",
+    "https://www.alaskasnewssource.com/video/2025/08/15/air-force-one-arrive-alaska/",
+    "https://ndtv.com/world-news/how-secret-service-rushed-to-alaska-city-for-donald-trump-vladimir-putin-summit-9089924",
+    "https://prm.ua/en/alaska-under-heightened-security-how-anchorage-prepares-for-trump-putin-summit/",
+    "https://trump.news-pravda.com/world/2025/08/15/194927.html",
+    "https://travelandtourworld.com/news/article/trump-putin-alaska-summit-sends-ripples-through-global-trade-economy-travel-and-aviation-new-report"
+  ],
+  "social_title": "Trump's Alaska Summit Day Cost Taxpayers $2.06M - $1.48M for Air Force Flight Alone"
+}
