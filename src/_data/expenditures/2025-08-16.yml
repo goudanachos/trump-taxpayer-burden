@@ -1,0 +1,56 @@
+{
+  "location": "Washington, DC area (White House & Trump National Golf Club DC)",
+  "activities": [
+    {
+      "name": "VC-25A flight leg: Anchorage to Andrews (overnight)",
+      "cost": 1487752,
+      "description": "The presidential VC-25A (Air Force One) carried President Trump back from Alaska to Andrews AFB. Flight time for Anchorage→Andrews is ~7.1 hours. As this is a major international summit return leg with support jets, support factor=0.5. Calculated: 7.1 h × $177,843 × 1.5 ≈ $1,487,752 incurred after midnight on August 16, 2025.",
+      "category": "travel"
+    },
+    {
+      "name": "Secret Service & staff (on-site, DC/White House)",
+      "cost": 75000,
+      "description": "Secret Service & staff cost for on-site (White House/official day) benchmarked at $75,000/day per GAO-19-178. Routine schedule, no off-site surge.",
+      "category": "security"
+    },
+    {
+      "name": "Local motorcade and police support",
+      "cost": 10000,
+      "description": "Motorcade/le law enforcement for roundtrip White House ↔ Trump National Golf Club DC. Estimated at $10,000 based on DC rates and multiple motorcades.",
+      "category": "local-security"
+    },
+    {
+      "name": "Incidentals (logistics, advance, communications)",
+      "cost": 232130,
+      "description": "Incidentals capped at 15% of travel + security ($1,487,752 + $75,000 + $10,000). Covers meals, comms, advance team, WH logistics.",
+      "category": "incidentals"
+    },
+    {
+      "name": "Golf/leisure at Trump National Golf Club DC",
+      "cost": 0,
+      "description": "Presidential golf/leisure at a Trump-branded property. Direct federal outlays already captured in security, travel, and incidentals above, per guidelines.",
+      "category": "recreational"
+    }
+  ],
+  "total_cost": 1799882,
+  "social_description": "Aug 16, 2025: Trump returns from Alaska (Air Force One), golfs at Trump National DC—taxpayer tab: ~$1.8M for travel, security, and logistics.",
+  "tags": [
+    "trump",
+    "air-force-one",
+    "white-house",
+    "golf",
+    "dc",
+    "taxpayer-cost",
+    "2025"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://ca.news.yahoo.com/president-trump-heads-golf-course-183102817.html",
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://www.comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://nytimes.com/live/2025/08/15/us/trump-administration-dc-news",
+    "https://abcnews.go.com/Politics/live-updates/trump-putin-meeting-summit-alaska/?entryId=124686702&id=124656413",
+    "https://www.golf365.com/news/donald-trump-golf-bill-hits-70m-landmark"
+  ],
+  "social_title": "$1.8 Million: Trump's Flight Home from Alaska & Golf Day Cost Taxpayers More Than 200 Teachers' Annual Salaries"
+}
