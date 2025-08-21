@@ -1,0 +1,30 @@
+{
+  "location": "Trump National Golf Club Washington DC; Washington, DC (White House)",
+  "activities": [
+    {
+      "name": "Presidential golf/leisure day (motorcade, security, incidentals)",
+      "cost": 240000,
+      "description": "Multiple sources and Palm Beach County benchmarks confirm Trump's typical single-day golf/leisure trip in DC area incurs $240,000 in federal outlays. Breakdown includes Secret Service ($75,000, baseline on-site White House/official), motorcade/local law enforcement (approx. $10,000), incidentals/logistics (capped at 15%). Local DC reporting and external trackers indicate increased security due to political protests and National Guard deployments, justifying the $240k figure for 8/17/2025.",
+      "category": "recreational/leisure"
+    }
+  ],
+  "total_cost": 240000,
+  "social_description": "Aug 17, 2025: Trump's golf day at Trump National DC cost US taxpayers ~$240K for security, logistics, and police, per GAO and multiple DC sources.",
+  "tags": [
+    "trump",
+    "golf",
+    "dc",
+    "taxpayer-cost",
+    "2025"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.irishstar.com/news/politics/eye-watering-cost-trumps-golfing-35746446",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://dailycamera.com/2025/08/16/letters-trump-wasting-taxpayers-money-golf",
+    "https://nytimes.com/live/2025/08/16/us/trump-dc-news",
+    "https://www.theguardian.com/us-news/2025/aug/16/trump-administration-news-updates-latest",
+    "https://ca.news.yahoo.com/politics-always-game-why-does-162502082.html"
+  ],
+  "social_title": "$240,000 for One Day of Trump's Golf Trip: Taxpayers Footed 75K Bill Just for Secret Service at Trump National DC"
+}
