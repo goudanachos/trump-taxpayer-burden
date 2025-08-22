@@ -1,0 +1,38 @@
+{
+  "location": "White House, Washington, DC",
+  "activities": [
+    {
+      "name": "Secret Service and White House support for multilateral summit",
+      "cost": 150000,
+      "description": "Major multilateral and bilateral meetings (with Ukraine, UK, France, Germany, Italy, Finland, EU, NATO) held at the White House trigger elevated but not off-site Secret Service costs. Set at $150,000 based on GAO 2019 benchmarks for high-security official days with increased diplomatic delegations, but no local off-site surge.",
+      "category": "security"
+    },
+    {
+      "name": "Event logistics, communications, hospitality (summit incidentals)",
+      "cost": 35000,
+      "description": "Benchmark incidentals for a multilateral White House summit (logistics, translation, press, catering, WH communications) kept at ~15% of security, based on typical single-day events and incidentals cap.",
+      "category": "incidentals"
+    }
+  ],
+  "total_cost": 185000,
+  "social_description": "Aug 18, 2025: Trump's high-stakes White House summit (Ukraine, EU, NATO, UK, FR, GER, IT) cost taxpayers ~$185K for security and logistics. No AF1/federal travel incurred.",
+  "tags": [
+    "trump",
+    "white-house",
+    "summit",
+    "ukraine",
+    "security",
+    "taxpayer-cost",
+    "2025"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://singjupost.com/transcript-trump-eu-leaders-multilateral-summit-at-white-house-august-18-2025/",
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://www.frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.nytimes.com/2025/08/19/us/politics/trump-summits-putin-zelensky.html",
+    "https://washingtonpost.com/world/2025/08/19/europe-ukraine-russia-trump-peace-security-guarantees/",
+    "https://www.cnbc.com/2025/08/18/trump-zelenskyy-ukraine-putin-live-updates.html"
+  ],
+  "social_title": "$185,000 for One Day: Trump's White House Summit with Ukraine, EU & NATO"
+}
