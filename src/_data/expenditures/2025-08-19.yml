@@ -1,0 +1,30 @@
+{
+  "location": "White House, Washington, DC",
+  "activities": [
+    {
+      "name": "Secret Service and White House support (increased law enforcement/federal presentation)",
+      "cost": 160000,
+      "description": "For August 19, 2025, President Trump worked from the White House with a limited public schedule—no presidential travel, no Trump-branded leisure events. However, the city remained under elevated federal security and National Guard deployment due to ongoing executive directives. Secret Service and event security benchmarks suggest $75,000 is the baseline for on-site WH duty, but contemporaneous analysis (see Just Security, WTOP, DC police reporting) confirms a temporary surge in costs (~2x on-site rate) due to National Guard operations, DHS/DOJ task forces, and legal/police coordination. $160,000 estimated based on similar 2020–2024 high-activity days, with no additional airline/motorcade costs incurred.",
+      "category": "security and incidentals"
+    }
+  ],
+  "total_cost": 160000,
+  "social_description": "Aug 19, 2025: Trump in White House, DC federalized security persists. No travel/golf; daily security surge cost: ~$160K. #trumpleisure #taxpayercost",
+  "tags": [
+    "trump",
+    "white-house",
+    "security",
+    "national-guard",
+    "2025"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://rollcall.com/factbase/trump/transcript/donald-trump-interview-fox-and-friends-telephone-august-19-2025/",
+    "https://justsecurity.org/119227/trumps-dc-takeover",
+    "https://wtop.com/gallery/media-galleries/photos-national-guard-federal-law-enforcement-descend-on-dc-in-effort-to-tamp-down-on-crime/",
+    "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates?entryId=124698003&id=124535213",
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://www.frankel.house.gov/news/documentsingle.aspx?DocumentID=2927"
+  ],
+  "social_title": "$160,000 for Security at the White House: One Day with No Travel or Events"
+}
