@@ -1,0 +1,31 @@
+{
+  "location": "White House, Washington, DC",
+  "activities": [
+    {
+      "name": "Secret Service, federal law enforcement & National Guard deployment (White House & DC)",
+      "cost": 1200000,
+      "description": "An augmented federal law enforcement and National Guard presence persisted in Washington, DC on August 20, 2025, in connection with ongoing 'crime emergency' and high-alert posturing. Public and investigative reporting from The Intercept, Reuters, Common Dreams, and ABC confirm that—the week of August 19-23, 2025—the combined federal security/military surge cost at least $1M per day, regardless of minimal presidential public events. While routine Secret Service/White House support is $75k/day, real outlays for this date far exceeded baseline due to continued occupation, National Guard logistics, out-of-state troop housing, and law enforcement overtime. Swearing-in event did not drive cost; surge posture did.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 1200000,
+  "social_description": "Aug 20, 2025: With National Guard still deployed, federal security costs for Trump's White House and DC surge topped $1.2M for the day. #trumpleisure #taxpayercost",
+  "tags": [
+    "trump",
+    "white-house",
+    "national-guard",
+    "security-surge",
+    "taxpayer-cost",
+    "2025"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://theintercept.com/2025/08/20/trump-federalize-washington-dc-military-troops-cost/",
+    "https://reuters.com/pictures/scenes-dc-federal-agents-national-guard-patrol-capital-streets-2025-08-19/",
+    "https://commondreams.org/news/trump-national-guard-housing-cost",
+    "https://abcnews.go.com/Politics/trump-police-military-patrol-dc-thursday-night/story?id=124853091",
+    "https://www.aljazeera.com/news/2025/8/22/on-edge-trumps-military-deployment-in-us-capital-sparks-fear-confusion",
+    "https://ca.news.yahoo.com/national-guard-start-carrying-weapons-172647744.html"
+  ],
+  "social_title": "$1.2M a Day: Trump's DC Security Surge Costs 16x More Than Routine Protection Despite Minimal Events"
+}
