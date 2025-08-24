@@ -31,10 +31,10 @@ description: Complete archive of daily taxpayer burden expenditures
 
 <!-- ARCHIVE STATISTICS -->
 <div class="max-w-4xl mx-auto px-4" style="padding: var(--space-xl) 0; border-bottom: var(--border-authority); margin-bottom: var(--space-xxl);">
-    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: var(--space-lg); text-align: center;">
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: var(--space-lg); text-align: center;">
         <!-- Total Records -->
         <div style="background: var(--color-bg-secondary); border: var(--border-authority); padding: var(--space-lg);">
-            <div class="classification-font" style="color: var(--color-text-alert); font-size: var(--text-command); font-weight: 700; margin-bottom: var(--space-sm);">
+            <div class="classification-font" style="color: var(--color-text-alert); font-size: clamp(1.5rem, 4vw, var(--text-command)); font-weight: 700; margin-bottom: var(--space-sm); white-space: nowrap;">
                 {{ collections.expenditures.size }}
             </div>
             <div class="standard-font" style="color: var(--color-text-primary); font-size: var(--text-detail); text-transform: uppercase; letter-spacing: 0.05em;">
@@ -49,22 +49,24 @@ description: Complete archive of daily taxpayer burden expenditures
                 {% assign expenditure = expenditure_data.data %}
                 {% assign total_cost = total_cost | plus: expenditure.total_cost %}
             {% endfor %}
-            <div class="classification-font" style="color: var(--color-text-alert); font-size: var(--text-command); font-weight: 700; margin-bottom: var(--space-sm);">
-                ${{ total_cost }}
+            <div class="classification-font" style="color: var(--color-text-alert); font-size: clamp(1.5rem, 4vw, var(--text-command)); font-weight: 700; margin-bottom: var(--space-sm); white-space: nowrap;">
+                {{ total_cost | currency }}
             </div>
             <div class="standard-font" style="color: var(--color-text-primary); font-size: var(--text-detail); text-transform: uppercase; letter-spacing: 0.05em;">
                 TOTAL EXPENDITURE
             </div>
         </div>
         
-        <!-- Classification Status -->
+        <!-- Highest Daily Cost -->
         <div style="background: var(--color-bg-secondary); border: var(--border-authority); padding: var(--space-lg);">
-            <div class="classification-font" style="color: var(--color-text-alert); font-size: var(--text-command); font-weight: 700; margin-bottom: var(--space-sm);">
-                ACTIVE
+            {% assign highest_expenditure = collections.expenditures | map: 'data' | sort: 'total_cost' | reverse | first %}
+            <div class="classification-font" style="color: var(--color-text-alert); font-size: clamp(1.5rem, 4vw, var(--text-command)); font-weight: 700; margin-bottom: var(--space-sm); white-space: nowrap;">
+                {{ highest_expenditure.total_cost | currency }}
             </div>
-            <div class="standard-font" style="color: var(--color-text-primary); font-size: var(--text-detail); text-transform: uppercase; letter-spacing: 0.05em;">
-                MONITORING STATUS
-            </div>
+            <a href="/day/{{ highest_expenditure.date | date: '%Y/%m/%d' }}/" class="standard-font" style="color: var(--color-text-primary); font-size: var(--text-detail); text-transform: uppercase; letter-spacing: 0.05em; text-decoration: none; display: block;">
+                HIGHEST DAILY COST
+                <div style="font-size: 0.9em; opacity: 0.7; margin-top: 4px;">{{ highest_expenditure.date | date: '%B %-d, %Y' }}</div>
+            </a>
         </div>
     </div>
 </div>

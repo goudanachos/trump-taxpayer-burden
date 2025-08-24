@@ -17,33 +17,47 @@ description: Track daily recreational and leisure costs for Donald J. Trump, pai
             /// CLASSIFIED: TAXPAYER EXPENDITURE MONITORING ///
         </div>
         
-        <!-- Alert Status -->
-        <h1 class="command-font" style="color: var(--color-text-inverse); font-size: var(--text-command); margin-bottom: var(--space-lg); text-transform: uppercase; letter-spacing: 0.05em;">
-            30-DAY TAXPAYER BURDEN STATUS
-        </h1>
-        
-        <!-- Cost Display - Maximum Visual Impact -->
-        <div style="background: var(--color-bg-primary); border: var(--border-classification); padding: var(--space-xl); margin: var(--space-lg) auto; max-width: 600px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
+        <!-- Cost Display - Container Query Enabled -->
+        <div class="hero-cost-container">
             <!-- Alert Indicator -->
             <div class="standard-font" style="color: var(--color-text-secondary); font-size: var(--text-detail); margin-bottom: var(--space-sm); text-transform: uppercase; letter-spacing: 0.05em;">
                 30-DAY EXPENDITURE TOTAL
             </div>
             
-            <!-- The Money Shot -->
-            <div class="classification-font" style="color: var(--color-text-alert); font-size: var(--text-classification); font-weight: 700; line-height: 1; text-shadow: 2px 2px 4px rgba(220,20,60,0.3);">
-                {% assign thirty_day_total = 0 %}
-                {% assign current_date = "now" | date: "%s" | plus: 0 %}
-                {% assign thirty_days_ago = current_date | minus: 2592000 %}
-                {% for expenditure_data in collections.expenditures %}
-                    {% assign expenditure = expenditure_data.data %}
-                    {% assign expenditure_date = expenditure.date | date: "%s" | plus: 0 %}
-                    {% if expenditure_date >= thirty_days_ago %}
-                        {% assign thirty_day_total = thirty_day_total | plus: expenditure.total_cost %}
-                    {% endif %}
-                {% endfor %}
-                {{ thirty_day_total | currency }}
+            <!-- The Money Shot - Container Query Responsive -->
+            {% assign thirty_day_total = 0 %}
+            {% assign current_date = "now" | date: "%s" | plus: 0 %}
+            {% assign thirty_days_ago = current_date | minus: 2592000 %}
+            {% for expenditure_data in collections.expenditures %}
+                {% assign expenditure = expenditure_data.data %}
+                {% assign expenditure_date = expenditure.date | date: "%s" | plus: 0 %}
+                {% if expenditure_date >= thirty_days_ago %}
+                    {% assign thirty_day_total = thirty_day_total | plus: expenditure.total_cost %}
+                {% endif %}
+            {% endfor %}
+            {% assign hero_cost_text = thirty_day_total | currency %}
+            {% assign hero_cost_length = hero_cost_text | size %}
+            {% if hero_cost_length <= 7 %}
+                {% assign hero_cost_class = "cost-short" %}
+            {% elsif hero_cost_length <= 10 %}
+                {% assign hero_cost_class = "cost-medium" %}
+            {% else %}
+                {% assign hero_cost_class = "cost-long" %}
+            {% endif %}
+            <!-- Container Query Solution (Default) -->
+            <div class="hero-cost-display {{ hero_cost_class }}" style="color: var(--color-text-alert); padding: 0 var(--space-md);">
+                {{ hero_cost_text }}
             </div>
             
+            <!-- SVG ViewBox Fallback (100% Browser Support) -->
+            <!-- To activate: add 'use-svg-fallback' class to .hero-cost-container -->
+            <div class="hero-cost-svg-container">
+                <svg viewBox="0 0 100 20" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg">
+                    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="hero-cost-svg-text">
+                        {{ hero_cost_text }}
+                    </text>
+                </svg>
+            </div>
             
             <!-- Sub-indicators -->
             <div style="display: flex; justify-content: space-between; margin-top: var(--space-md); padding-top: var(--space-md); border-top: var(--border-light);">

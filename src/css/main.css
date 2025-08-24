@@ -104,12 +104,120 @@
   font-feature-settings: "tnum" 1, "lnum" 1;
   /* Monospace baseline precision */
   line-height: 1.375;
+  /* Responsive containment */
+  max-width: 100%;
+  /* Default fallback font-size - components can override */
+  font-size: 1rem;
+  overflow-wrap: break-word;
+  word-break: break-word;
 }
 
 /* Currency formatting with proper spacing */
 .currency-format {
   /* Use thin space (U+2009) for thousands separator in CSS content */
   white-space: nowrap;
+}
+
+/* Hero cost container - Enable container queries */
+.hero-cost-container {
+  container-type: inline-size;
+  container-name: hero-cost;
+  max-width: 600px;
+  margin: var(--space-lg) auto;
+  background: var(--color-bg-primary);
+  border: var(--border-classification);
+  padding: var(--space-xl);
+  box-shadow: 0 8px 32px rgba(0,0,0,0.3);
+}
+
+/* Hero section cost display - Modern Container Query Units */
+.hero-cost-display {
+  font-family: 'SF Mono', 'Monaco', 'Menlo', monospace;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  font-variant-numeric: tabular-nums lining-nums;
+  font-feature-settings: "tnum" 1, "lnum" 1;
+  line-height: 1;
+  text-shadow: 2px 2px 4px rgba(220,20,60,0.3);
+  
+  /* Viewport-based fallback for older browsers */
+  font-size: clamp(1.4rem, 5vw, 3rem);
+  
+  /* Container Query Units for modern browsers - impactful but safe */
+  font-size: clamp(1.4rem, 7cqi, 3.2rem);
+  
+  /* Ensure text never exceeds container */
+  max-width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+/* Progressive enhancement with feature detection */
+@supports (font-size: 1cqi) {
+  .hero-cost-display.cost-short {
+    /* 12% of container inline size for short amounts - maximum impact */
+    font-size: clamp(2rem, 12cqi, 4rem);
+  }
+  
+  .hero-cost-display.cost-medium {
+    /* 10% of container inline size for medium amounts - strong presence */
+    font-size: clamp(1.8rem, 10cqi, 3.5rem);
+  }
+  
+  .hero-cost-display.cost-long {
+    /* 7% of container inline size for long amounts - still impactful */
+    font-size: clamp(1.4rem, 7cqi, 3rem);
+  }
+}
+
+/* Fallback sizing for browsers without container query support */
+@supports not (font-size: 1cqi) {
+  .hero-cost-display.cost-short {
+    font-size: clamp(2rem, 6vw, 3.8rem);
+  }
+  
+  .hero-cost-display.cost-medium {
+    font-size: clamp(1.8rem, 5.5vw, 3.2rem);
+  }
+  
+  .hero-cost-display.cost-long {
+    font-size: clamp(1.4rem, 5vw, 2.8rem);
+  }
+}
+
+/* SVG ViewBox Fallback - 100% Browser Support Option */
+.hero-cost-svg-container {
+  height: 4rem; /* Fixed height for consistent appearance */
+  width: 100%;
+  max-width: 100%;
+  padding: 0 var(--space-md);
+  
+  /* Hide by default, can be activated by adding .use-svg-fallback to hero-cost-container */
+  display: none;
+}
+
+.hero-cost-container.use-svg-fallback .hero-cost-display {
+  display: none;
+}
+
+.hero-cost-container.use-svg-fallback .hero-cost-svg-container {
+  display: block;
+}
+
+.hero-cost-svg-container svg {
+  width: 100%;
+  height: 100%;
+  overflow: visible;
+}
+
+.hero-cost-svg-text {
+  font-family: 'SF Mono', 'Monaco', 'Menlo', monospace;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  font-feature-settings: "tnum" 1, "lnum" 1;
+  fill: var(--color-text-alert);
+  filter: drop-shadow(2px 2px 4px rgba(220,20,60,0.3));
 }
 
 /* Icon precision - align to 0.5px boundaries */

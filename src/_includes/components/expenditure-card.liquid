@@ -16,8 +16,17 @@
             </div>
             
             <!-- Price Pill (positioned inside card edge) -->
-            <div class="price-pill" style="background: var(--color-text-alert); color: white; padding: 8px 12px; border-radius: 20px; font-size: clamp(12px, 3vw, 14px); font-weight: 700; box-shadow: 0 2px 8px rgba(220,20,60,0.3); white-space: nowrap;">
-                {{ expenditure.total_cost | currency }}
+            {% assign pill_cost_text = expenditure.total_cost | currency %}
+            {% assign pill_cost_length = pill_cost_text | size %}
+            {% if pill_cost_length <= 8 %}
+                {% assign pill_cost_class = "cost-short" %}
+            {% elsif pill_cost_length <= 12 %}
+                {% assign pill_cost_class = "cost-medium" %}
+            {% else %}
+                {% assign pill_cost_class = "cost-long" %}
+            {% endif %}
+            <div class="price-pill {{ pill_cost_class }}" style="background: var(--color-text-alert); color: white; padding: 8px 12px; border-radius: 20px; font-weight: 700; box-shadow: 0 2px 8px rgba(220,20,60,0.3); white-space: nowrap;">
+                {{ pill_cost_text }}
             </div>
         </div>
         
@@ -65,8 +74,17 @@
                     <div class="standard-font mobile-title-case" style="color: var(--color-text-secondary); font-size: clamp(10px, 2.5vw, 12px); margin-bottom: 4px; letter-spacing: 0.05em;">
                         Total Expenditure
                     </div>
-                    <div class="classification-font" style="color: var(--color-text-alert); font-size: clamp(16px, 4vw, 20px); font-weight: 700; line-height: 1;">
-                        {{ expenditure.total_cost | currency }}
+                    {% assign details_cost_text = expenditure.total_cost | currency %}
+                    {% assign details_cost_length = details_cost_text | size %}
+                    {% if details_cost_length <= 8 %}
+                        {% assign details_cost_class = "cost-short" %}
+                    {% elsif details_cost_length <= 12 %}
+                        {% assign details_cost_class = "cost-medium" %}
+                    {% else %}
+                        {% assign details_cost_class = "cost-long" %}
+                    {% endif %}
+                    <div class="classification-font {{ details_cost_class }}" style="color: var(--color-text-alert); font-weight: 700; line-height: 1;">
+                        {{ details_cost_text }}
                     </div>
                 </div>
             </div>
@@ -78,7 +96,7 @@
                 </div>
                 
                 {% for activity in expenditure.activities %}
-                    <div style="display: grid; grid-template-columns: 1fr min-content; gap: 16px; padding: 12px 0; border-bottom: 1px solid var(--color-neutral-200); align-items: start;">
+                    <div style="display: grid; grid-template-columns: 1fr auto; gap: clamp(8px, 2vw, 16px); padding: 12px 0; border-bottom: 1px solid var(--color-neutral-200); align-items: start;">
                         <div>
                             <div class="standard-font mobile-title-case" style="color: var(--color-text-primary); font-size: clamp(14px, 3.5vw, 16px); font-weight: 500; margin-bottom: 4px;">
                                 {% if activity.name contains 'No leisure' or activity.name contains 'NO LEISURE' %}
@@ -95,9 +113,18 @@
                                 {% endif %}
                             </div>
                         </div>
-                        <div style="text-align: right;">
-                            <div class="classification-font" style="color: var(--color-text-alert); font-size: clamp(14px, 3.5vw, 16px); font-weight: 600;" aria-labelledby="activity-{{ forloop.index }}">
-                                {{ activity.cost | currency }}
+                        <div style="text-align: right; flex-shrink: 0;">
+                            {% assign cost_text = activity.cost | currency %}
+                            {% assign cost_length = cost_text | size %}
+                            {% if cost_length <= 8 %}
+                                {% assign cost_class = "cost-short" %}
+                            {% elsif cost_length <= 12 %}
+                                {% assign cost_class = "cost-medium" %}
+                            {% else %}
+                                {% assign cost_class = "cost-long" %}
+                            {% endif %}
+                            <div class="classification-font {{ cost_class }}" style="color: var(--color-text-alert); font-weight: 600; white-space: nowrap;" aria-labelledby="activity-{{ forloop.index }}">
+                                {{ cost_text }}
                             </div>
                         </div>
                     </div>
@@ -170,6 +197,12 @@
     .expenditure-card {
         width: 100%;
         max-width: none;
+    }
+    
+    /* Better grid layout for mobile */
+    .expenditure-card .expenditure-details [style*="grid-template-columns: 1fr auto"] {
+        grid-template-columns: 1fr max-content;
+        gap: clamp(4px, 1vw, 8px);
     }
 }
 
@@ -301,6 +334,152 @@ button:focus {
 .expenditure-card[open] .expenditure-summary::after {
     display: none !important;
     visibility: hidden !important;
+}
+/* Currency amount size classes */
+.cost-short {
+    font-size: 16px;
+}
+
+.cost-medium {
+    font-size: 14px;
+}
+
+.cost-long {
+    font-size: 12px;
+}
+
+/* Component container query setup */
+.expenditure-details {
+    container-type: inline-size;
+    container-name: expenditure-details;
+}
+
+/* Classification font sizing with container queries - for card components */
+.expenditure-details .classification-font {
+    /* Viewport fallback for older browsers */
+    font-size: clamp(1rem, 4vw, 1.4rem);
+}
+
+/* Container query enhancement for modern browsers - scoped to expenditure details */
+@supports (font-size: 1cqi) {
+    .expenditure-details .classification-font.cost-short {
+        font-size: clamp(1.2rem, 6cqi, 1.8rem);
+    }
+    
+    .expenditure-details .classification-font.cost-medium {
+        font-size: clamp(1rem, 5cqi, 1.6rem);
+    }
+    
+    .expenditure-details .classification-font.cost-long {
+        font-size: clamp(0.9rem, 4cqi, 1.4rem);
+    }
+}
+
+/* Fallback for browsers without container query support - scoped to expenditure details */
+@supports not (font-size: 1cqi) {
+    .expenditure-details .classification-font.cost-short {
+        font-size: clamp(1.2rem, 4vw, 1.6rem);
+    }
+    
+    .expenditure-details .classification-font.cost-medium {
+        font-size: clamp(1rem, 3.5vw, 1.4rem);
+    }
+    
+    .expenditure-details .classification-font.cost-long {
+        font-size: clamp(0.9rem, 3vw, 1.2rem);
+    }
+}
+
+/* Price pill specific sizing */
+.price-pill.cost-short {
+    font-size: 14px;
+}
+
+.price-pill.cost-medium {
+    font-size: 12px;
+}
+
+.price-pill.cost-long {
+    font-size: 10px;
+}
+
+/* Enhanced responsive breakpoints */
+@media (max-width: 768px) {
+    .cost-short {
+        font-size: 14px;
+    }
+    
+    .cost-medium {
+        font-size: 12px;
+    }
+    
+    .cost-long {
+        font-size: 10px;
+    }
+    
+    .price-pill.cost-short {
+        font-size: 12px;
+    }
+    
+    .price-pill.cost-medium {
+        font-size: 10px;
+    }
+    
+    .price-pill.cost-long {
+        font-size: 9px;
+    }
+}
+
+@media (max-width: 480px) {
+    .cost-short {
+        font-size: 12px;
+    }
+    
+    .cost-medium {
+        font-size: 10px;
+    }
+    
+    .cost-long {
+        font-size: 9px;
+    }
+    
+    .price-pill.cost-short {
+        font-size: 10px;
+    }
+    
+    .price-pill.cost-medium {
+        font-size: 9px;
+    }
+    
+    .price-pill.cost-long {
+        font-size: 8px;
+    }
+}
+
+@media (max-width: 360px) {
+    .cost-short {
+        font-size: 10px;
+    }
+    
+    .cost-medium {
+        font-size: 9px;
+    }
+    
+    .cost-long {
+        font-size: 8px;
+    }
+    
+    .price-pill.cost-short {
+        font-size: 9px;
+    }
+    
+    .price-pill.cost-medium {
+        font-size: 8px;
+    }
+    
+    .price-pill.cost-long {
+        font-size: 7px;
+    }
 }
 </style>
 

@@ -135,8 +135,17 @@ permalink: "/week/{{ week.data.year }}/{{ week.data.weekNumber | padZeros: 2 }}/
                         <div class="standard-font" style="color: var(--color-text-secondary); font-size: var(--text-detail); margin-bottom: var(--space-sm); text-transform: uppercase; letter-spacing: 0.05em;">
                             TOTAL WEEKLY TAXPAYER COST
                         </div>
-                        <div class="classification-font" style="color: var(--color-text-alert); font-size: var(--text-classification); font-weight: 700; line-height: 1; text-shadow: 2px 2px 4px rgba(220,20,60,0.3);">
-                            {{ w.totalCost | currency }}
+                        {% assign weekly_cost_text = w.totalCost | currency %}
+                        {% assign weekly_cost_length = weekly_cost_text | size %}
+                        {% if weekly_cost_length <= 7 %}
+                            {% assign weekly_cost_class = "cost-short" %}
+                        {% elsif weekly_cost_length <= 10 %}
+                            {% assign weekly_cost_class = "cost-medium" %}
+                        {% else %}
+                            {% assign weekly_cost_class = "cost-long" %}
+                        {% endif %}
+                        <div class="hero-cost-display {{ weekly_cost_class }}" style="color: var(--color-text-alert); padding: 0 var(--space-md);">
+                            {{ weekly_cost_text }}
                         </div>
                     </div>
                 </div>

@@ -137,12 +137,21 @@ permalink: "/day/{{ expenditure.data.date | date: '%Y/%m/%d' }}/"
                     {% endif %}
                     
                     <!-- Cost Display -->
-                    <div style="background: var(--color-bg-primary); border: var(--border-classification); padding: var(--space-xl); margin: var(--space-lg) auto; max-width: 500px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
+                    <div class="hero-cost-container">
                         <div class="standard-font" style="color: var(--color-text-secondary); font-size: var(--text-detail); margin-bottom: var(--space-sm); text-transform: uppercase; letter-spacing: 0.05em;">
                             TOTAL TAXPAYER COST
                         </div>
-                        <div class="classification-font" style="color: var(--color-text-alert); font-size: var(--text-classification); font-weight: 700; line-height: 1; text-shadow: 2px 2px 4px rgba(220,20,60,0.3);">
-                            {{ exp.total_cost | currency }}
+                        {% assign day_cost_text = exp.total_cost | currency %}
+                        {% assign day_cost_length = day_cost_text | size %}
+                        {% if day_cost_length <= 7 %}
+                            {% assign day_cost_class = "cost-short" %}
+                        {% elsif day_cost_length <= 10 %}
+                            {% assign day_cost_class = "cost-medium" %}
+                        {% else %}
+                            {% assign day_cost_class = "cost-long" %}
+                        {% endif %}
+                        <div class="hero-cost-display {{ day_cost_class }}" style="color: var(--color-text-alert); padding: 0 var(--space-md);">
+                            {{ day_cost_text }}
                         </div>
                     </div>
                 </div>
