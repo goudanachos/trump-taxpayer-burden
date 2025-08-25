@@ -1,0 +1,30 @@
+{
+  "location": "Washington, D.C. (White House and U.S. Park Police Anacostia Operations Facility)",
+  "activities": [
+    {
+      "name": "Secret Service & White House Security (on-site)",
+      "cost": 75000,
+      "description": "Base daily cost for Secret Service and White House support during a predominantly in-town schedule, including on-site security presence with no peak off-site deployment.",
+      "category": "security"
+    },
+    {
+      "name": "Local Motorcade (WH ↔ Park Police Facility)",
+      "cost": 10000,
+      "description": "President Trump departed the White House for a police meeting at the U.S. Park Police operations center and returned; motorcade cost estimated at upper-bound for local (short) trip.",
+      "category": "transportation"
+    }
+  ],
+  "total_cost": 85000,
+  "social_description": "On August 21, 2025, President Trump remained in Washington, DC, with routine White House operations and a short off-site police visit. Estimated taxpayer cost: $85,000 (local security + motorcade).",
+  "tags": [
+    "white-house",
+    "motorcade",
+    "security",
+    "police-meeting"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://justsecurity.org/119227/trumps-dc-takeover",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive"
+  ]
+}
