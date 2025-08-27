@@ -1,0 +1,34 @@
+{
+  "location": "Washington, D.C. (White House and Trump National Golf Club Washington DC)",
+  "activities": [
+    {
+      "name": "Secret Service & White House Security (on-site)",
+      "cost": 75000,
+      "description": "Standard daily cost for Secret Service and White House security during in-town schedule, covering both the White House and the temporary off-site at the golf club.",
+      "category": "security"
+    },
+    {
+      "name": "Local Motorcade round trip (White House ↔ Trump National Golf Club)",
+      "cost": 10000,
+      "description": "Estimated upper-bound cost for the president's motorcade for a round-trip local journey between the White House and Trump National Golf Club, DC area.",
+      "category": "transportation"
+    }
+  ],
+  "total_cost": 85000,
+  "social_description": "On August 23, 2025, President Trump traveled locally to his DC-area golf club. Estimated cost to taxpayers: $85,000 (motorcade + security).",
+  "tags": [
+    "golf",
+    "motorcade",
+    "white-house",
+    "trump-national-dc"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.theguardian.com/us-news/2025/mar/09/trump-golf-trips",
+    "https://apnews.com/article/6885c172b11d972920f8fb60869868ac",
+    "https://time.com/4885934/white-house-helicopter-cost/"
+  ]
+}
