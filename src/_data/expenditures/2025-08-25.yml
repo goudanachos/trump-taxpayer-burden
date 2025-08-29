@@ -1,0 +1,28 @@
+{
+  "location": "Washington, D.C. (The White House)",
+  "activities": [
+    {
+      "name": "Secret Service & White House Security (on-site)",
+      "cost": 75000,
+      "description": "Base daily cost for Secret Service and White House support for routine in-town presidential activity, including official events with a visiting head of state.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "On August 25, 2025, President Trump hosted the South Korean president at the White House, with federal costs limited to standard security outlays. Estimate: $75,000.",
+  "tags": [
+    "white-house",
+    "state-visit",
+    "security",
+    "diplomacy"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://apnews.com/article/6885c172b11d972920f8fb60869868ac",
+    "https://www.theguardian.com/us-news/2025/mar/09/trump-golf-trips",
+    "https://time.com/4885934/white-house-helicopter-cost/"
+  ]
+}
