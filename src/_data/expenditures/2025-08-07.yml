@@ -1,0 +1,27 @@
+{
+  "location": "The White House, Washington, DC",
+  "activities": [
+    {
+      "name": "Standard White House security and staffing",
+      "cost": 75000,
+      "description": "Routine Secret Service protection and on-site White House operational staffing for the President during a non-travel, official workday per GAO-19-178 benchmark.",
+      "category": "security and staff"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "On August 7, 2025, President Trump remained at the White House for standard official duties. Taxpayer cost: $75,000 for the day, reflecting routine security and staffing only.",
+  "tags": [
+    "white-house",
+    "in-town-day",
+    "security",
+    "staff-cost",
+    "no-travel"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.whitehouse.gov/live/",
+    "https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates?entryId=125091538&id=124929306"
+  ]
+}
