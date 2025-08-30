@@ -1,0 +1,27 @@
+{
+  "location": "Washington, D.C. (The White House)",
+  "activities": [
+    {
+      "name": "Secret Service & White House Security (on-site)",
+      "cost": 75000,
+      "description": "Standard daily cost for Secret Service protection and White House security during routine on-site activities, including a Cabinet Meeting and full day of in-town presidential work.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "On August 26, 2025, President Trump worked in-town. Taxpayer cost: $75,000 (White House security).",
+  "tags": [
+    "white-house",
+    "cabinet-meeting",
+    "security"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://apnews.com/article/6885c172b11d972920f8fb60869868ac",
+    "https://www.theguardian.com/us-news/2025/mar/09/trump-golf-trips",
+    "https://time.com/4885934/white-house-helicopter-cost/"
+  ]
+}
