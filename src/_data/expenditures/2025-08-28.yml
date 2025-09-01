@@ -1,0 +1,24 @@
+{
+  "location": "White House, Washington, DC",
+  "activities": [
+    {
+      "name": "Presidential on-site official workday",
+      "cost": 75000,
+      "description": "Full day of official duties at the White House, including press briefings, intelligence briefing, executive order signings, and staff support. On-site Secret Service and support staff costs only—no travel, aviation, local law enforcement, or motorcade expenses incurred because the President remained at the White House.",
+      "category": "security-on-site-wh"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "On August 28, 2025, President Trump worked from the White House with no offsite travel. Federal costs: $75,000 for on-site Secret Service and staff.",
+  "tags": [
+    "white-house",
+    "no-travel",
+    "official-duties"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
