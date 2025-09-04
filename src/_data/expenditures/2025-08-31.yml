@@ -1,0 +1,37 @@
+{
+  "location": "Trump National Golf Club Washington, D.C. (Sterling, VA) and The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Local motorcade (WH ↔ Trump National GC DC, round trip)",
+      "cost": 20000,
+      "description": "Presidential motorcade for round trip between the White House and Trump National Golf Club in Sterling, Virginia. Typical cost for two short trips per secret service and local support estimates.",
+      "category": "local-motorcade"
+    },
+    {
+      "name": "Secret Service and staff (peak off-site day)",
+      "cost": 300000,
+      "description": "Secret Service, staff, and peak protection costs for a presidential off-site leisure day, per GAO and DHS/SS reimbursement benchmarks for presidential trips to personal properties.",
+      "category": "security-peak-offsite"
+    }
+  ],
+  "total_cost": 320000,
+  "social_description": "On August 31, 2025, President Trump played golf at his Virginia club, incurring approx. $320,000 in federal travel and security costs, per day-of reporting and GAO/DHS benchmarks.",
+  "tags": [
+    "golf",
+    "motorcade",
+    "secret-service",
+    "trump-national-virginia"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://wral.com/story/fact-check-did-the-white-house-suspend-trump-s-labor-day-weekend-schedule/22143963",
+    "https://newsweek.com/trump-health-rumors-images-2122993",
+    "https://thegolfnewsnet.com/golfnewsnetteam/2025/08/31/donald-trump-visited-the-golf-course-for-the-369th-time-as-president-138469/",
+    "https://hindustantimes.com/world-news/us-news/trumps-latest-smiling-photo-sparks-row-after-groks-bizarre-2024-claim-101756778935074.html",
+    "https://didtrumpgolftoday.com",
+    "https://100percentfedup.com/fact-check-yes-this-photo-is-this-weekend/",
+    "https://atlantablackstar.com/2025/09/02/trump-to-deliver-mystery-announcement",
+    "https://pennlive.com/news/2025/08/donald-trumps-golf-tab-for-taxpayers-continues-to-skyrocket-heres-the-eye-popping-new-estimate.html"
+  ],
+  "social_title": "$320,000 for a Day of Golf: Taxpayers Foot Bill for Trump's Virginia Club Visit with Security and Motorcade"
+}
