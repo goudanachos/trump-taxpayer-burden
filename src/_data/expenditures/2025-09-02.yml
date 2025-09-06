@@ -1,0 +1,27 @@
+{
+  "location": "The White House, Washington, DC",
+  "activities": [
+    {
+      "name": "Presidential on-site workday",
+      "cost": 75000,
+      "description": "Secret Service and staff costs for full-day official duties at the White House. No evidence of presidential travel; only standard on-site federal protection incurred. No local law-enforcement activation or motorcade costs triggered.",
+      "category": "security-on-site-wh"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "On Sept. 2, 2025, President Trump worked from the White House, incurring $75,000 in standard on-site Secret Service and staff costs. No travel or recreation expenses documented.",
+  "tags": [
+    "white-house",
+    "on-site",
+    "official-business"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://didtrumpgolftoday.com",
+    "https://newsweek.com/trump-health-rumors-images-2122993",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive"
+  ]
+}
