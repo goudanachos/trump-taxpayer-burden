@@ -1,0 +1,28 @@
+{
+  "location": "The White House, Washington, DC",
+  "activities": [
+    {
+      "name": "Official workday with state visit",
+      "cost": 75000,
+      "description": "Secret Service and staff costs for a full day of official White House duties, including meetings and a luncheon with the President of Poland. No presidential travel or local law-enforcement activation documented, so only standard on-site federal protection is included.",
+      "category": "security-on-site-wh"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "On Sept. 3, 2025, President Trump hosted Poland's president at the White House. Federal protection costs: $75,000 for Secret Service and staff (no travel outlays).",
+  "tags": [
+    "white-house",
+    "state-visit",
+    "on-site",
+    "official-business"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://apnews.com/article/6885c172b11d972920f8fb60869868ac"
+  ]
+}
