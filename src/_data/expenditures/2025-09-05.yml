@@ -1,0 +1,27 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Secret Service & White House Operations",
+      "cost": 75000,
+      "description": "Routine on-site security and support for all presidential activities, including media briefings, ambassador ceremonies, executive order signings, and evening social/diplomatic events. No travel or off-site activities scheduled; no motorcade or law enforcement augmentation noted.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "On Sept 5, 2025, federal taxpayer leisure and ops costs at the White House totaled ~$75k, covering routine Secret Service and staff support for on-site events only.",
+  "tags": [
+    "white-house",
+    "on-site",
+    "secret-service",
+    "security",
+    "2025",
+    "no-travel"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf"
+  ]
+}
