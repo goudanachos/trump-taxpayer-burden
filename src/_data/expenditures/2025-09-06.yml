@@ -1,0 +1,28 @@
+{
+  "location": "Trump National Golf Club Washington DC / The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Secret Service, Staff & Local Motorcade Support for Golf Excursion",
+      "cost": 85000,
+      "description": "President Trump traveled via motorcade from the White House to Trump National Golf Club Washington DC for a day of private leisure. Taxpayer costs included on-site Secret Service/White House staff support for the day ($75,000) and estimated round-trip motorcade costs ($10,000), with incidentals held below the benchmark cap given lack of activated local law enforcement or unusual expenditures.",
+      "category": "leisure-travel"
+    }
+  ],
+  "total_cost": 85000,
+  "social_description": "On Sept 6, 2025, estimated federal leisure costs for Trump's motorcade golf trip (DC↔️Sterling) were ~$85k, covering on-site Secret Service and transport only.",
+  "tags": [
+    "golf",
+    "motorcade",
+    "secret-service",
+    "leisure",
+    "white-house",
+    "2025",
+    "no-air-travel"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://trump.news-pravda.com/trump/2025/08/23/207529.html"
+  ]
+}
