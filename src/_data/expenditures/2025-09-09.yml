@@ -1,0 +1,32 @@
+{
+  "location": "Joe's Seafood, Prime Steak & Stone Crab, Washington D.C. / The White House",
+  "activities": [
+    {
+      "name": "Motorcade and Off-site Security for Presidential Dinner",
+      "cost": 90000,
+      "description": "President Trump traveled by motorcade to Joe's Seafood in downtown Washington, D.C. for a private dinner with cabinet and staff. Federal outlays include on-site Secret Service/White House staff support for the day ($75,000) and an estimated $15,000 for the round-trip motorcade, as off-site motorcades in an urban area with high protest risk may run at the upper end of the range. Independent reports indicate increased law enforcement presence due to protests; however, no explicit activation of city police exceeding standard coordination was found. Incidentals are presumed under the cap, given no uniquely itemized claims.",
+      "category": "leisure-travel"
+    }
+  ],
+  "total_cost": 90000,
+  "social_description": "On Sept 9, 2025, estimated federal leisure and security costs for Trump's motorcade dinner at Joe's Seafood (DC) were ~$90k, covering standard Secret Service and local travel.",
+  "tags": [
+    "motorcade",
+    "off-site",
+    "secret-service",
+    "protest",
+    "leisure",
+    "food",
+    "white-house",
+    "2025"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://apnews.com/article/trump-dinner-joes-dc-crime-crackdown-5057777d34234c31cf5928bc4b82a323",
+    "https://politico.com/newsletters/playbook/2025/09/10/donald-dines-out-00554974",
+    "https://abc17news.com/politics/national-politics/cnn-us-politics/2025/09/09/trump-dines-out-in-dc-for-first-time-in-his-second-term-asserting-crime-crackdown-made-city-safe",
+    "https://foxnews.com/media/trump-makes-surprise-d-c-restaurant-stop-showcase-virtually-no-crime-capital-faces-down-protesters",
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf"
+  ]
+}
