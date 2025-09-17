@@ -1,0 +1,26 @@
+{
+  "location": "Trump National Golf Club Bedminster, NJ",
+  "activities": [
+    {
+      "name": "Presidential golf with Rob Schmitt (private, off-duty leisure)",
+      "cost": 300000,
+      "description": "Secret Service peak off-site protection (full day) for presidential leisure activity, per GAO guidance and Palm Beach precedent. Local law enforcement support not confirmed or typically federally reimbursed for Bedminster. No air or other out-of-pocket federal travel recorded for this all-on-site leisure day.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 300000,
+  "social_description": "On Sept 13, 2025, President Trump spent the day golfing at Bedminster. Estimated peak Secret Service protection cost: $300k. No air travel or official events.",
+  "tags": [
+    "bedminster",
+    "golf",
+    "secret-service",
+    "leisure-costs"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://news-pravda.com/usa/2025/09/14/1684724.html"
+  ],
+  "social_title": "$300,000 for Trump's One Day of Golf: That's 30 Teachers' Salaries for a Year"
+}
