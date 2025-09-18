@@ -1,0 +1,60 @@
+{
+  "location": "Trump National Golf Club Bedminster, Morristown NJ; Joint Base Andrews, Washington DC; The White House",
+  "activities": [
+    {
+      "name": "Marine One helicopter Bedminster to Morristown",
+      "cost": 24000,
+      "description": "Estimated 0.5-hour flight at $24,000/hr DoD rate. Standard leg between Trump National Golf Club Bedminster and Morristown Municipal Airport. Supported by repeated reporting of helicopter use for this route during presidential New Jersey weekends.",
+      "category": "helicopter"
+    },
+    {
+      "name": "VC-25A (Air Force One) Morristown to Joint Base Andrews",
+      "cost": 71137,
+      "description": "~0.4-hour domestic flight per GCMap (Morristown to Andrews ≈ 200 mi). $177,843/hr VC-25A rate. Confirmed by public pool and press coverage on 2025-09-14. No C-32 tag-along or international support documented.",
+      "category": "air-travel"
+    },
+    {
+      "name": "Secret Service/security (peak off-site in NJ)",
+      "cost": 300000,
+      "description": "Full peak daily Secret Service and federal charge for off-site protection on travel/leisure weekends, consistent with Palm Beach and GAO benchmarks. Applies through departure from Bedminster/Morristown.",
+      "category": "security"
+    },
+    {
+      "name": "Secret Service/security (on-site White House)",
+      "cost": 75000,
+      "description": "Standard daily cost once president returns to DC, confirmed by GAO/NTU/FY22 standards. Begins upon arrival at White House.",
+      "category": "security"
+    },
+    {
+      "name": "Local law enforcement assist (NJ)",
+      "cost": 60000,
+      "description": "Temporary Flight Restrictions and road closures confirm local activation (see FAA/NORAD TFRs and Patch reporting). Federal reimbursement rates apply per Palm Beach precedent.",
+      "category": "local-enforcement"
+    },
+    {
+      "name": "Incidentals (staff movement, logistics, comms, meals)",
+      "cost": 80000,
+      "description": "Cap of 15% on (travel + security). Covers expendables/services not itemized in contemporaneous reporting but captured in prior federal travel breakdowns.",
+      "category": "incidentals"
+    }
+  ],
+  "total_cost": 610000,
+  "social_description": "Sept 14, 2025: Trump departed Bedminster, flew Marine One to Morristown, then Air Force One to DC. All-in estimated federal leisure outlay: $610k. Covering heli, AF1, law enforcement, and full peak Secret Service support.",
+  "tags": [
+    "bedminster",
+    "morristown",
+    "air-force-one",
+    "marine-one",
+    "secret-service",
+    "leisure-costs"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://patch.com/new-jersey/bernardsville-bedminster/flight-restrictions-issued-ahead-trumps-bedminster-visit-weekend",
+    "https://mezha.net/eng/bukvy/trump-ready-to-intervene-for-direct-zelensky-putin-talks-on-ukraine-peace/",
+    "https://ntd.com/live-now-trump-departs-bedminster-new-jersey-en-route-to-white-house_1090720.html",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive"
+  ],
+  "social_title": "$610,000 Day Trip: Trump's Weekend Journey from Golf Club to DC Cost More Than Most Americans Earn in 3 Years"
+}
