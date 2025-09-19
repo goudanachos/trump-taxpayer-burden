@@ -1,0 +1,24 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Secret Service and staff (on-site White House)",
+      "cost": 75000,
+      "description": "Standard daily Secret Service and staff cost for official and leisure activity at the White House. Covers routine staff, background security logistics, and facility support.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "September 15, 2025: Trump spent the day at the White House. Secret Service and staff outlay: $75,000. No travel or special leisure costs recorded.",
+  "tags": [
+    "white-house",
+    "secret-service",
+    "on-site"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive"
+  ]
+}
