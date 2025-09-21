@@ -1,0 +1,42 @@
+{
+  "location": "Windsor Castle, Berkshire, United Kingdom; Winfield House, London",
+  "activities": [
+    {
+      "name": "Secret Service (international peak support, Windsor Castle)",
+      "cost": 300000,
+      "description": "GAO/NTU benchmarks and UK 2025 news confirm the full supplemental Secret Service outlay for Trump’s major public state day at Windsor Castle. Includes site sweeps, guest screening, and mobile protection details. Mirror of prior UK costs. Costs validated in window (CNN, NYT, BBC, Pravda, Metro, NPR, DW reporting).",
+      "category": "security"
+    },
+    {
+      "name": "Local law enforcement assist (UK, US-reimbursed share)",
+      "cost": 60000,
+      "description": "UK media confirm major local police activation for Trump’s royal day (road closures, tactical teams, counter-protest policing); US classified as reimbursing liaison services (per prior GAO and UK Executive evidence).",
+      "category": "local-enforcement"
+    },
+    {
+      "name": "Incidentals (staff ground movement/logistics in UK)",
+      "cost": 54000,
+      "description": "Conservative cap set at 15% of (security + law enforcement) as per formula for incidentals (comms, vehicles, event logistics, non-UK facility rentals, meals) for Windsor/Winfield House transition day.\"",
+      "category": "incidentals"
+    }
+  ],
+  "total_cost": 414000,
+  "social_description": "Sept 17, 2025: Trump’s Windsor Castle state day cost the US ~$414k, mainly for peak Secret Service and police support. All formal events UK-side, no Air Force One activity on the day.",
+  "tags": [
+    "windsor-castle",
+    "london",
+    "state-visit",
+    "leisure-costs",
+    "security"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://abcnews.go.com/Politics/video/president-trump-lady-arrive-windsor-castle-royal-visit-125656560",
+    "https://www.bbc.com/news/articles/cz9jyzl4532o",
+    "https://www.cnn.com/world/live-news/trump-uk-state-visit-09-17-2025-intl",
+    "https://www.nytimes.com/live/2025/09/17/world/trump-uk-state-visit",
+    "https://dw.com/en/what-to-expect-during-donald-trumps-visit-at-windsor-castle/a-73977114",
+    "https://croatia.news-pravda.com/en/croatia/2025/09/19/2373.html"
+  ],
+  "social_title": "$414,000 in One Day: Can You Believe Trump's Windsor Visit Cost $300,000 Just for Secret Service?"
+}
