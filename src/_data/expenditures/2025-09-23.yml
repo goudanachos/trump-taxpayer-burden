@@ -1,0 +1,56 @@
+{
+  "location": "New York City (Trump Tower, United Nations, Manhattan) to Washington DC",
+  "activities": [
+    {
+      "name": "VC-25A (Air Force One) NY–DC",
+      "cost": 71137,
+      "description": "Short presidential air leg (JFK to Joint Base Andrews) estimated at 0.4 flight hours each way, $177,843/hr; total 0.8 hr = $142,274. Only DC segment counted since only per-day cost for 9/23/25 (return leg).",
+      "category": "air-transport"
+    },
+    {
+      "name": "Marine One/Helicopter operations (NYC)",
+      "cost": 24000,
+      "description": "Downtown Manhattan Heliport operations (arrival/departure). Assumes 1 hr helicopter ops total, matches standard press and operational pools.",
+      "category": "helicopter-transport"
+    },
+    {
+      "name": "Motorcade (Trump Tower–UN–helipads)",
+      "cost": 20000,
+      "description": "Multiple secured ground convoys for UNGA, receptions and inter-hotel/event movements. Estimated total for 2 major NYC deployments at $10,000 ea.",
+      "category": "ground-transport"
+    },
+    {
+      "name": "Secret Service & WH staff (peak off-site, NYC/UNGA)",
+      "cost": 300000,
+      "description": "Full day of peak Secret Service and White House staff for high-security UNGA and Manhattan events, per GAO-19-178 maximum for offsite ops.",
+      "category": "security"
+    },
+    {
+      "name": "Local law-enforcement assist (NYPD/Manhattan)",
+      "cost": 60000,
+      "description": "One full day law enforcement support, Palm Beach/NYC match for extraordinary citywide alert during presidential UNGA moves and events.",
+      "category": "security"
+    },
+    {
+      "name": "Incidentals (15% cap)",
+      "cost": 68500,
+      "description": "Covers non-itemized logistics, communications, per-diem, capped at 15% of base travel+security per benchmarks.",
+      "category": "incidentals"
+    }
+  ],
+  "total_cost": 543637,
+  "social_description": "Trump's 9/23/25 NYC-to-DC UN trip cost taxpayers ~$544k: AF1, helicopters, NYC security, major motorcades, and incidentals for UNGA.",
+  "tags": [
+    "air-force-one",
+    "un-general-assembly",
+    "nyc",
+    "motorcade",
+    "security"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927"
+  ],
+  "social_title": "$543,637 for One Day: Trump's NYC Trip Cost More Than Most Americans Make in 3 Years"
+}
