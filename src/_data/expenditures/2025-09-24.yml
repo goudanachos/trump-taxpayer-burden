@@ -1,0 +1,33 @@
+{
+  "location": "Washington, D.C. (The White House)",
+  "activities": [
+    {
+      "name": "Secret Service & White House staff (on-site)",
+      "cost": 75000,
+      "description": "Daily cost for standard on-site security and White House staffing, per GAO-19-178 and NTU benchmarks. Covers all in-town official and social activities.",
+      "category": "security"
+    },
+    {
+      "name": "Incidentals (15% cap)",
+      "cost": 11250,
+      "description": "Covers minor non-itemized outlays for Rose Garden dinner logistics and support, communications, up to 15% of base travel+security totals.",
+      "category": "incidentals"
+    }
+  ],
+  "total_cost": 86250,
+  "social_description": "9/24/25: Trump's Rose Garden dinner & routine at White House: $86k taxpayer cost for staff, security, and logistics—no major travel or offsite expenses.",
+  "tags": [
+    "white-house",
+    "rose-garden",
+    "in-town",
+    "security",
+    "incidental"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive"
+  ]
+}
