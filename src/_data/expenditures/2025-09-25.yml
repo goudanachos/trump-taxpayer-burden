@@ -1,0 +1,25 @@
+{
+  "location": "The White House, Washington, DC",
+  "activities": [
+    {
+      "name": "On-site Presidential operations (Secret Service & staff)",
+      "cost": 75000,
+      "description": "Standard daily security, staff support, and operational costs for a full day of in-town presidential duties. No travel or off-site protection reported.",
+      "category": "security-staff"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "On Sep 25, 2025, President Trump's in-town activities at the White House incurred standard taxpayer-funded costs: ~$75,000 for on-site Secret Service and staff. No travel or off-site security reported.",
+  "tags": [
+    "white-house",
+    "in-town-day",
+    "secret-service",
+    "no-travel"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
