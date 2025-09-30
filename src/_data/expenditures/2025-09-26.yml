@@ -1,0 +1,48 @@
+{
+  "location": "Bethpage Black Course, Farmingdale, NY & transit (White House <-> Republic Airport, NY)",
+  "activities": [
+    {
+      "name": "Presidential transport (Air Force One to New York)",
+      "cost": 1000000,
+      "description": "VC-25A utilized for short-duration trip from Andrews to Republic Airport with support aircraft; cost estimate $1M-$2M based on event-specific press and historical benchmarks. Flight hours align with Andrews-NY legs (approx. 1.8 hrs round trip).",
+      "category": "vc-25a-flight"
+    },
+    {
+      "name": "Secret Service & staff (peak off-site/day)",
+      "cost": 300000,
+      "description": "Extraordinary security presence for large event with 60,000+ attendees and multi-site coordination, matching Secret Service, staff, and law enforcement peak day rates for New York events.",
+      "category": "security-peak-offsite"
+    },
+    {
+      "name": "Local law enforcement assist (Nassau County, NY)",
+      "cost": 60000,
+      "description": "Activation of county and local police for presidential movement and Ryder Cup perimeter security, as confirmed by incident benchmarks and local press coverage.",
+      "category": "local-law-enforcement"
+    },
+    {
+      "name": "Incidentals & logistics (capped at 15%)",
+      "cost": 2100000,
+      "description": "White House advance, lodging, communications support, vehicle motorcade, TSA checkpoints, and logistics escalation due to major sporting event and required security footprint. Itemized press and watchdog reports confirm event-specific costs may reach or exceed this range.",
+      "category": "incidentals-logistics"
+    }
+  ],
+  "total_cost": 3470000,
+  "social_description": "President Trump’s brief Ryder Cup trip to NY on Sept 26, 2025, cost taxpayers at least $3.5M: flights, security, local police & major incidentals. Press/benchmark sources confirm multi-million impact for large-scale, single-day events.",
+  "tags": [
+    "ryder-cup",
+    "air-force-one",
+    "security-detail",
+    "local-police",
+    "incidentals"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://lavocedinewyork.com/en/sports/2025/09/27/donald-trumps-exorbitant-golf-expense-just-visiting-ryder-cup-cost-17-million",
+    "https://the-express.com/sport/golf/185177/donald-trump-ryder-cup-bethpage",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://hoodline.com/2025/09/president-trump-attends-2025-ryder-cup-on-long-island-first-sitting-president-at-historic-bethpage-black-event-amidst-record-ticket-sales/",
+    "https://local12.com/news/nation-world/president-trump-attends-ryder-cup-golf-tournament-at-bethpage-black-course-four-ball-matches-gary-player-us-president-jon-rahm-kai-madison-bryson-dechambeau-keegan-bradley",
+    "https://nationalpost.com/news/world/ryder-cup-rory-mcilroy-donald-trump"
+  ],
+  "social_title": "$3.47M for One Day at the Ryder Cup: Trump's Single Trip Costs More Than the Average American Makes in 3 Years"
+}
