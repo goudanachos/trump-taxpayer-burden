@@ -1,0 +1,48 @@
+{
+  "location": "White House & Marine Corps Base Quantico, VA",
+  "activities": [
+    {
+      "name": "Round-trip travel to Quantico via Marine One",
+      "cost": 48000,
+      "description": "Round-trip presidential transport between White House and Quantico (approx. 1 hour total flight time, using Marine One at published DoD rates).",
+      "category": "helicopter-transport"
+    },
+    {
+      "name": "Secret Service & peak security support (off-site event)",
+      "cost": 300000,
+      "description": "Robust, event-level Secret Service and security staff costs for high-profile, high-attendance off-site event involving all senior military leadership. GAO rates and security reporting confirm upper-tier spending for extraordinary meetings.",
+      "category": "security-peak-offsite"
+    },
+    {
+      "name": "Local law enforcement assist (Quantico/Prince William County)",
+      "cost": 60000,
+      "description": "Activation of county, state, and base police support, with local closures, per Palm Beach and Quantico event benchmarks and press accounts.",
+      "category": "local-law-enforcement"
+    },
+    {
+      "name": "Incidentals, support services, logistics (capped at 15%)",
+      "cost": 61800,
+      "description": "White House advance, communications, local base hospitality for 800+ VIPs, and key event logistics. Incidentals capped at 15% of (travel + security) as per guidelines and watchdog precedent.",
+      "category": "incidentals-logistics"
+    }
+  ],
+  "total_cost": 469800,
+  "social_description": "Trump's Quantico summit (Sept 30, 2025): Marine One flights + intense peak security, local police costs, and logistics = ~$470K in taxpayer spending for this unprecedented D.C.-area out-of-town event.",
+  "tags": [
+    "quantico",
+    "marine-one",
+    "secret-service",
+    "law-enforcement",
+    "incidentals"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://aljazeera.com/news/liveblog/2025/9/30/live-trump-hegseth-to-meet-top-us-military-officers-at-quantico",
+    "https://www.csis.org/analysis/takeaways-secretary-hegseths-quantico-meeting",
+    "https://potomaclocal.com/2025/09/29/trump-hegseth-to-address-military-leaders-at-quantico-amid-traffic-congressional-concerns"
+  ],
+  "social_title": "Trump's Single Day in Quantico: $470,000 in Taxpayer Dollars, with $300,000 Just for Security"
+}
