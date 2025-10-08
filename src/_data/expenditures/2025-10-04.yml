@@ -1,0 +1,30 @@
+{
+  "location": "Trump National Golf Club Washington DC, White House, Washington Dulles",
+  "activities": [
+    {
+      "name": "Local motorcade travel (White House to golf club and Dulles)",
+      "cost": 10000,
+      "description": "Estimated cost for motorcade support for President's travel to and from Trump National Golf Club and reviewing projects at Dulles International. Two short city trips plus security motorcade coverage (benchmark: $5k-$10k per short trip).",
+      "category": "local-motorcade"
+    },
+    {
+      "name": "Secret Service & staff (on-site WH/off-site)",
+      "cost": 75000,
+      "description": "Protection detail remained with the President for leisure golf outing, with day-rate for onsite/official covered.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 85000,
+  "social_description": "Estimated $85K in taxpayer spending on Trump’s Oct 4, 2025 DC golf outing—with motorcades and Secret Service protection. No flight costs incurred per open-source benchmarks.",
+  "tags": [
+    "motorcade",
+    "secret-service",
+    "golf",
+    "local-trip"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927"
+  ]
+}
