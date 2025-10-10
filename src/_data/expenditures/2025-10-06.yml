@@ -1,0 +1,23 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Secret Service & staff (on-site White House)",
+      "cost": 75000,
+      "description": "Standard daily security expenditures for presidential protection at the White House. Benchmarked by GAO and open sources; includes coverage for all official and leisure activities within the complex.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "Estimated $75K in federal outlays for Secret Service protection at the White House on Oct 6, 2025. No travel or unique incidentals incurred per public schedule.",
+  "tags": [
+    "white-house",
+    "security",
+    "no-travel"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927"
+  ]
+}
