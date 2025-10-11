@@ -1,0 +1,27 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Secret Service & staff (on-site White House)",
+      "cost": 75000,
+      "description": "Standard daily security expenditure for presidential protection at the White House, covering all official and social activity, including foreign leader meetings, as benchmarked by GAO and open sources.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "Estimated $75K in taxpayer expenses for Secret Service protection at the White House on Oct 7, 2025. No travel or local incidentals involved.",
+  "tags": [
+    "white-house",
+    "security",
+    "foreign-visit"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://apnews.com/article/6885c172b11d972920f8fb60869868ac",
+    "https://www.theguardian.com/us-news/2025/mar/09/trump-golf-trips"
+  ]
+}
