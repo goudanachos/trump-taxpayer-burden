@@ -1,0 +1,27 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Secret Service & staff (on-site White House)",
+      "cost": 75000,
+      "description": "Routine Secret Service and staff protection costs for President at the White House on a non-travel day, covering all official and personal activities as per GAO benchmarks.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "$75K estimated in Secret Service costs for Trump's Oct 8, 2025, White House day—no taxpayer travel or incidentals incurred, per public sources.",
+  "tags": [
+    "white-house",
+    "security",
+    "no-travel"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://apnews.com/article/6885c172b11d972920f8fb60869868ac",
+    "https://www.theguardian.com/us-news/2025/mar/09/trump-golf-trips"
+  ]
+}
