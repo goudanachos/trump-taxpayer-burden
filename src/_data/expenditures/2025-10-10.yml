@@ -1,0 +1,41 @@
+{
+  "location": "White House (Washington, DC) & Walter Reed National Military Medical Center (Bethesda, MD)",
+  "activities": [
+    {
+      "name": "Presidential motorcade and brief Marine One flight (WH to Walter Reed, return)",
+      "cost": 39000,
+      "description": "President Trump traveled from the White House to Walter Reed National Military Medical Center for a physical exam and routine vaccinations. Standard federal cost estimate: 1.5 cumulative Marine One flight-hrs @ $24,000/hr + two short local motorcades @ $7,500.",
+      "category": "motorcade-helicopter"
+    },
+    {
+      "name": "Secret Service and staff protective detail (split duty, on-site/off-site)",
+      "cost": 150000,
+      "description": "Protection detail for the President at both the White House (on-site) and off-site while at Walter Reed. Estimated rate: $75,000 at the White House + $75,000 peak off-site for a partial day (half-day each location, based on schedule duration).",
+      "category": "security"
+    },
+    {
+      "name": "Local police assist (Bethesda, MD, activated)",
+      "cost": 60000,
+      "description": "County/city police support for Walter Reed visit. Standard single-day assist rate per Palm Beach/GAO benchmarks.",
+      "category": "local-law-enforcement"
+    }
+  ],
+  "total_cost": 249000,
+  "social_description": "On Oct 10, 2025, President Trump traveled via helicopter and motorcade to Walter Reed for a routine physical, incurring ~$249k in federal travel and security costs. No leisure/personal outlays reported.",
+  "tags": [
+    "in-town",
+    "official-travel",
+    "security",
+    "local-enforcement"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://ground.news/article/trump-receives-covid-vaccine-and-flu-shot-during-visit-to-doctor",
+    "https://news-pravda.com/world/2025/10/10/1761810.html",
+    "https://prescottenews.com/2025/10/12/president-donald-trump-is-in-exceptional-health-his-doctor-says-after-visit-to-walter-reed-associated-press/",
+    "https://dvidshub.net/webcast/36975",
+    "https://www.whitehouse.gov/videos/president-trump-makes-an-announcement-oct-10-2025/",
+    "https://www.whitehouse.gov/videos/president-trump-delivers-remarks-on-charlie-kirk/"
+  ],
+  "social_title": "$249,000 for a Doctor's Visit: How Trump's In-Town Medical Trip Cost More Than Most Americans Make in a Year"
+}
