@@ -1,0 +1,43 @@
+{
+  "location": "Washington, DC (White House & Joint Base Andrews) to Tel Aviv, Israel (Ben Gurion Airport)",
+  "activities": [
+    {
+      "name": "VC-25A (Air Force One) transatlantic flight (Andrews to Tel Aviv)",
+      "cost": 3556860,
+      "description": "Estimated 10 flight hours one-way (Andrews to Tel Aviv) with full support package (multiple aircraft per standard presidential security), using benchmark $177,843/hr × 10 hr × 2. Based on Presidential departure logs and contemporaneous press coverage of the trip.",
+      "category": "air-travel"
+    },
+    {
+      "name": "Secret Service and staff (peak off-site/overseas)",
+      "cost": 300000,
+      "description": "Full-day protective detail, overseas/off-site peak cost per GAO-19-178 rate. Required for high-security international presidential travel. Sourced from investigative reporting and official statements for the visit.",
+      "category": "security"
+    },
+    {
+      "name": "Local Police/Host Nation Security (Israel, activated)",
+      "cost": 60000,
+      "description": "Host nation law enforcement provided extraordinary assist at arrival (Ben Gurion Airport, Tel Aviv). Follows the Palm Beach/GAO standard. Multiple news sources confirm local police/airport assist for Trump’s arrival and meetings.",
+      "category": "host-nation-law-enforcement"
+    }
+  ],
+  "total_cost": 3916860,
+  "social_description": "On Oct 12, 2025, President Trump flew VC-25A/Air Force One from DC to Tel Aviv for a ceasefire summit. Federal travel & security outlay: ~$3.9M (flight, US/host nation security).",
+  "tags": [
+    "international-travel",
+    "air-force-one",
+    "security",
+    "local-police",
+    "israel"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/videos/president-donald-j-trump-departs-for-his-historic-trip-to-israel-egypt-🇺🇸/",
+    "https://www.whitehouse.gov/videos/president-trump-arrives-tel-aviv-israel/",
+    "https://www.timesofisrael.com/liveblog_entry/ben-gurion-control-tower-thanks-trump-as-air-force-one-touches-down/",
+    "https://www.nytimes.com/live/2025/10/12/us/trump-news",
+    "https://thechenabtimes.com/2025/10/13/trump-arrives-in-israel-to-oversee-hostage-release-and-address-knesset-amid-gaza-ceasefire-milestone",
+    "https://report.az/en/other-countries/tel-aviv-airport-to-close-for-cargo-aircraft-during-trump-s-visit",
+    "https://moderndiplomacy.eu/2025/10/13/donald-trump-visits-israel-a-strong-commitment-from-the-united-states"
+  ],
+  "social_title": "$3.9M for one day: Trump's Tel Aviv flight cost $355,686 per hour. How many American schools could this have funded?"
+}
