@@ -1,0 +1,42 @@
+{
+  "location": "Israel (Tel Aviv, Jerusalem) and Egypt (Sharm El Sheikh)",
+  "activities": [
+    {
+      "name": "VC-25A (Air Force One) international flights (Ben Gurion – Sharm El Sheikh – DC)",
+      "cost": 4230768,
+      "description": "Air Force One flew approximately Tel Aviv → Sharm El Sheikh (1.0 hr, direct) and Sharm El Sheikh → DC (12.8 hr) at the international support rate ($177,843/hr × 2 legs, 13.8 hr × 2 = 27.6 hr equivalent). (Source: GCMAP estimates, multiplied for standard support package as per Appendix).",
+      "category": "air-travel"
+    },
+    {
+      "name": "Secret Service & staff (off-site, international summit and travel)",
+      "cost": 300000,
+      "description": "Peak Secret Service and staff cost (international, sustained full day, multiple venues including high-security Knesset, summit ceremony, and airport transits), per GAO-19-178.",
+      "category": "security"
+    },
+    {
+      "name": "Host-nation & local law enforcement (Israel, Egypt)",
+      "cost": 120000,
+      "description": "Local security assist in Israel for airport/Knesset (Tel Aviv, Jerusalem) and Egypt for summit/airport security (Sharm El Sheikh), calculated at $60k/location/day, Palm Beach and GAO benchmarks.",
+      "category": "local-law-enforcement"
+    }
+  ],
+  "total_cost": 4650768,
+  "social_description": "On Oct 13, 2025, President Trump traveled from Israel to Egypt for a Gaza summit, then departed for DC. Combined travel and security costs: ~$4.7M (Air Force One, security, local enforcement).",
+  "tags": [
+    "international-travel",
+    "air-force-one",
+    "summit",
+    "security",
+    "middle-east"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.timesofisrael.com/liveblog_entry/trump-departs-egypt-after-whirlwind-24-hours-in-mideast",
+    "https://www.npr.org/2025/10/12/nx-s1-5570768/trump-to-arrive-in-israel-and-speak-with-families-of-released-hostages",
+    "https://www.live5news.com/2025/10/13/pres-trump-travels-israel-egypt-ink-ceasefire/",
+    "https://washingtontimes.com/news/2025/oct/10/trump-confirms-trip-egypt-israel",
+    "https://news-pravda.com/world/2025/10/12/1765505.html",
+    "https://www.timesofisrael.com/liveblog_entry/netanyahu-arrives-at-ben-gurion-airport-to-welcome-trump-to-israel"
+  ],
+  "social_title": "Trump's 24-Hour Middle East Trip: $4.7 Million That Could Fund 400 Teachers' Salaries for a Year"
+}
