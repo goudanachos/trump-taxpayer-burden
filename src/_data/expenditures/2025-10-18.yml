@@ -1,0 +1,43 @@
+{
+  "location": "Palm Beach, FL (Mar-a-Lago and Trump International Golf Club West Palm Beach)",
+  "activities": [
+    {
+      "name": "Secret Service & staff (peak off-site security)",
+      "cost": 300000,
+      "description": "Secret Service and White House support staff for a day at an off-site location (peak rate per GAO). Applies during the President's full day at Mar-a-Lago and local travel to his golf club.",
+      "category": "security"
+    },
+    {
+      "name": "Local law enforcement assist",
+      "cost": 60000,
+      "description": "Palm Beach County Sheriff's Office activation for presidential motorcade routes, road closures, and perimeter security during President Trump's motorcade movements to/from the golf club and Mar-a-Lago.",
+      "category": "ground-security"
+    },
+    {
+      "name": "Motorcade operations (Mar-a-Lago – Trump International Golf Club)",
+      "cost": 10000,
+      "description": "Use of presidential motorcade (including security sweep) between Mar-a-Lago and Trump International Golf Club, both directions; covers all short ground trips for the day.",
+      "category": "transport"
+    }
+  ],
+  "total_cost": 370000,
+  "social_description": "On Oct 18, 2025, Trump spent the day at Mar-a-Lago and Trump International Golf Club. Federal costs for security, police, and motorcade operations in Palm Beach topped $370k.",
+  "tags": [
+    "mar-a-lago",
+    "trump-golf",
+    "secret-service",
+    "motorcade",
+    "law-enforcement",
+    "2025"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.palmbeachpost.com/story/news/trump/2025/10/17/trump-visit-traffic-delays-west-palm-beach/86753525007",
+    "https://golfweek.usatoday.com/story/news/trump/2025/10/17/training-at-trumps-mar-a-lago-in-palm-beach-draws-little-attention/86708268007/",
+    "https://www.palmbeachpost.com/story/news/trump/2025/10/16/what-time-kings-trump-protest-october-florida-mar-lago/86703380007/",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://www.palmbeachdailynews.com/picture-gallery/news/trump/2025/10/17/scenes-around-mar-a-lago-during-law-enforcement-training-in-palm-beach/86700161007/"
+  ],
+  "social_title": "$370,000 for a Single Day: Trump's Mar-a-Lago Trip Cost More Than Most Americans Make in a Year"
+}
