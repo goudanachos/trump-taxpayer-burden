@@ -1,0 +1,28 @@
+{
+  "location": "The White House, Washington, DC",
+  "activities": [
+    {
+      "name": "Secret Service & staff (on-site security)",
+      "cost": 75000,
+      "description": "Standard daily cost for on-site Secret Service and White House staff security. No off-site travel or leisure excursions recorded; all events occurred within the White House complex.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "Oct 21, 2025: All Trump events at the White House. Federal outlays for Secret Service and support staff totaled $75k; no off-site travel or leisure surcharges incurred.",
+  "tags": [
+    "white-house",
+    "on-site",
+    "security",
+    "2025"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://apnews.com/article/6885c172b11d972920f8fb60869868ac"
+  ]
+}
