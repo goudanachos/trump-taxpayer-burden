@@ -1,0 +1,25 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "On-site White House security and staff",
+      "cost": 75000,
+      "description": "Standard daily Secret Service and staff coverage for the President conducting activities exclusively within the White House complex.",
+      "category": "Secret Service & staff (on-site WH)"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "On Oct 23, 2025, President Trump remained at the White House; daily Secret Service and staff costs for on-site protection were $75,000.",
+  "tags": [
+    "white-house",
+    "on-site",
+    "secret-service",
+    "october-2025"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
