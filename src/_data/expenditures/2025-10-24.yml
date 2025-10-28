@@ -1,0 +1,44 @@
+{
+  "location": "Washington, DC; Joint Base Andrews (departure leg)",
+  "activities": [
+    {
+      "name": "On-site White House security and staff",
+      "cost": 75000,
+      "description": "Standard Secret Service and staffing costs for in-town duties before out-of-town travel commenced.",
+      "category": "Secret Service & staff (on-site WH)"
+    },
+    {
+      "name": "Motorcade from White House to Andrews",
+      "cost": 10000,
+      "description": "Motorcade and associated local law enforcement for President's transfer to Joint Base Andrews to board Air Force One.",
+      "category": "Local motorcade"
+    },
+    {
+      "name": "VC-25A (Air Force One) operational (Andrews→en route KL, 0.75 flight-hr on 10/24 Eastern)",
+      "cost": 133382,
+      "description": "Taxpayer costs for the fraction of outbound VC-25A flight that occurred on the calendar date Oct 24, 2025, before midnight US Eastern (0.75 flight hours x $177,843/hr). Balance of flight in next 24h reporting window.",
+      "category": "VC-25A (Air Force One)"
+    }
+  ],
+  "total_cost": 220000,
+  "social_description": "On Oct 24, 2025, President Trump began his Asia trip: White House security, motorcade, and U.S. share of Air Force One costs totaled an estimated $220,000 that day.",
+  "tags": [
+    "white-house",
+    "asia-trip",
+    "air-force-one",
+    "motorcade",
+    "october-2025",
+    "taxpayer-costs"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://apnews.com/article/6885c172b11d972920f8fb60869868ac",
+    "https://www.mk.co.kr/en/world/11451302",
+    "https://tradingview.com/news/macenews:0d9cac22d094b:0-friday-sunday-white-house-schedule-president-trump-travels-to-asean-conference-in-kuala-lumpur",
+    "https://www.yahoo.com/news/articles/trump-going-asia-know-president-172650261.html"
+  ],
+  "social_title": "$133K For 45 Minutes On Air Force One: Trump's Asia Trip Daily Cost Breakdown"
+}
