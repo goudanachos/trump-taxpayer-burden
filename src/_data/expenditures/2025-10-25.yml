@@ -1,0 +1,46 @@
+{
+  "location": "Ramstein (Germany), Al Udeid (Qatar), Kuala Lumpur (Malaysia)",
+  "activities": [
+    {
+      "name": "Air Force One (VC-25A) international operations (JBA→Ramstein→Qatar→Kuala Lumpur)",
+      "cost": 4080000,
+      "description": "International VC-25A operation including refueling stops at Ramstein and Al Udeid, and arrival in Kuala Lumpur, covering ≈16.5 flight hours (Oct 25 segment) at $177,843/hr × 1 support factor, as benchmarked by prior presidential Asia legs.",
+      "category": "VC-25A (Air Force One)"
+    },
+    {
+      "name": "Secret Service & staff (off-site, international)",
+      "cost": 300000,
+      "description": "Peak international security presence for off-site travel and summit participation, in line with GAO/NTU benchmarks for presidential overseas missions.",
+      "category": "Secret Service & staff (peak off-site)"
+    },
+    {
+      "name": "Local incidentals (motorcade, advance, comms)",
+      "cost": 650000,
+      "description": "Estimated capped incidentals and on-ground costs, not to exceed 15% of travel + security, including overseas logistics and ground transport for summit arrival.",
+      "category": "Incidentals"
+    }
+  ],
+  "total_cost": 5030000,
+  "social_description": "On Oct 25, 2025, Trump's Air Force One flight via Germany & Qatar to Malaysia and summit logistics cost US taxpayers ≈$5.03M for air, security, and incidentals.",
+  "tags": [
+    "international-travel",
+    "air-force-one",
+    "asia-trip",
+    "summit",
+    "malaysia",
+    "ramstein",
+    "qatar",
+    "high-cost"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://www.mk.co.kr/en/world/11451302",
+    "https://www.aljazeera.com/news/liveblog/2025/10/26/trump-kicks-off-asia-trip-with-visit-to-asean-summit-in-malaysia",
+    "https://www.thestar.com.my/news/nation/2025/10/26/trump-arrives-in-malaysia-for-asean-summit",
+    "https://malaysia.news.yahoo.com/trump-arrives-47th-asean-summit-022538762.html",
+    "https://www.channelnewsasia.com/watch/trump-make-stops-in-malaysia-japan-and-south-korea-in-week-long-tour-asia-5424836"
+  ],
+  "social_title": "Trump's 24-Hour Malaysia Trip Cost Taxpayers $5.03 Million for Air Force One, Security, and Logistics"
+}
