@@ -1,0 +1,42 @@
+{
+  "location": "Tokyo, Japan (arrival, Imperial Palace, The Okura Hotel, Akasaka Palace)",
+  "activities": [
+    {
+      "name": "VC-25A (Air Force One) ground and operational support, Tokyo",
+      "cost": 300000,
+      "description": "Ground handling, security, and local support for Air Force One at Haneda Airport for a full day international stop on Oct 27. Arrival flight operational costs attributed to prior calendar day per evidence window rules.",
+      "category": "VC-25A (Air Force One)"
+    },
+    {
+      "name": "Secret Service and staff (peak off-site, Tokyo)",
+      "cost": 300000,
+      "description": "U.S. Secret Service and White House operations supporting President Trump and aid staff at multiple sites (Imperial Palace, The Okura Hotel, Akasaka Palace), per GAO/NTUF peak off-site rates.",
+      "category": "Secret Service & staff (peak off-site)"
+    },
+    {
+      "name": "Incidentals (motorcade, ground logistics, capped)",
+      "cost": 90000,
+      "description": "Incidental day costs covering Presidential motorcade, communications, coordination, and incidentals, capped at 15% of travel + security as per standard international presidential summit benchmarks.",
+      "category": "Incidentals"
+    }
+  ],
+  "total_cost": 690000,
+  "social_description": "On Oct 27, 2025, President Trump’s Tokyo summit stop generated an estimated $690K in U.S. taxpayer costs for Air Force One ground support, security, and summit logistics.",
+  "tags": [
+    "tokyo",
+    "air-force-one",
+    "summit",
+    "presidential-travel",
+    "october-2025"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://apnews.com/live/donald-trump-news-updates-10-27-2025",
+    "https://whitehouse.gov/briefings-statements/2025/10/implementation-of-the-agreement-toward-a-new-golden-age-for-the-u-s-japan-alliance",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://channelnewsasia.com/watch/trump-make-stops-in-malaysia-japan-and-south-korea-in-week-long-tour-asia-5424836",
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf"
+  ],
+  "social_title": "Trump's Tokyo Day: $690K in Taxpayer Costs"
+}
