@@ -1,0 +1,45 @@
+{
+  "location": "Tokyo & Yokosuka, Japan; Gyeongju & Busan, South Korea (APEC Summit travel)",
+  "activities": [
+    {
+      "name": "VC-25A (Air Force One) international flight Tokyo→Busan (partial leg in window, ~0.6 flight-hr, 1 support factor)",
+      "cost": 213412,
+      "description": "Air Force One flight segment departing Tokyo Haneda to Busan Gimhae on Oct 28, 2025: ~0.6 hrs at $177,843/hr × 2 for international support.",
+      "category": "VC-25A (Air Force One)"
+    },
+    {
+      "name": "Secret Service & staff (peak off-site, Japan/South Korea)",
+      "cost": 300000,
+      "description": "Full international security posture for APEC summit and troop visit, with motorcade and transfer operations.",
+      "category": "Secret Service & staff (peak off-site)"
+    },
+    {
+      "name": "Incidentals (motorcade, ground advance/logistics, capped)",
+      "cost": 77000,
+      "description": "Logistical and motorcade incidentals for non-U.S. site operations, capped at 15% of travel + security as per global benchmarks.",
+      "category": "Incidentals"
+    }
+  ],
+  "total_cost": 590000,
+  "social_description": "Oct 28, 2025: Trump’s transfer from Tokyo to the APEC summit in Korea, Air Force One leg, security, and support cost taxpayers ≈$590,000.",
+  "tags": [
+    "apec-summit",
+    "air-force-one",
+    "tokyo",
+    "busan",
+    "gyeongju",
+    "presidential-travel",
+    "international"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://apnews.com/article/6885c172b11d972920f8fb60869868ac",
+    "https://www.channelnewsasia.com/asia/apec-summit-trump-korea-2025-5425573",
+    "https://www.usatoday.com/story/news/politics/2025/10/28/trump-apec-japan-korea-travel-costs/17742970002/",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf"
+  ],
+  "social_title": "$213,412 for 36 Minutes: Trump's Air Force One Flight Cost $177,843 Per Hour"
+}
