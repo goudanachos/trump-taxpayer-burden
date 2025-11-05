@@ -1,0 +1,50 @@
+{
+  "location": "Mar-a-Lago, Palm Beach, FL",
+  "activities": [
+    {
+      "name": "Golf at Trump International Golf Club West Palm Beach",
+      "cost": 25000,
+      "description": "Golf outing by the President at Trump-owned club (includes short motorcade costs, Secret Service, and on-site security per benchmarks; rate rounded for partial-day.",
+      "category": "leisure"
+    },
+    {
+      "name": "Secret Service and staff (peak off-site)",
+      "cost": 300000,
+      "description": "One-day maximum estimate for security at Mar-a-Lago/Trump golf-related off-site activities per GAO/benchmarks, with press and protest activity.",
+      "category": "security"
+    },
+    {
+      "name": "Local law enforcement assistance",
+      "cost": 60000,
+      "description": "Palm Beach police and sheriff overtime for road closures, motorcade & perimeter security near Mar-a-Lago and golf club (Palm Beach precedent).",
+      "category": "security"
+    },
+    {
+      "name": "Incidentals (capped at 15%)",
+      "cost": 58000,
+      "description": "Auxiliary transport, tactical drills, incidentals capped at 15% of direct travel+security costs per guidelines.",
+      "category": "incidentals"
+    }
+  ],
+  "total_cost": 443000,
+  "social_description": "Nov. 1, 2025: President Trump played golf at his West Palm club and attended a Mar-a-Lago event, with federal security and Palm Beach law enforcement support pushing taxpayer costs over $440K for the day.",
+  "tags": [
+    "mar-a-lago",
+    "golf",
+    "secret-service",
+    "local-police",
+    "incidentals",
+    "trump-leisure"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://citizensforethics.org/reports-investigations/crew-investigations/secret-service-has-spent-nearly-100k-at-trump-properties",
+    "https://www.yahoo.com/news/articles/trump-marks-full-month-government-215448949.html",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.palmbeachpost.com/story/news/trump/2025/10/06/new-florida-law-makes-it-a-felony-to-trespass-at-trumps-mar-a-lago-palm-beach/86522071007/",
+    "https://katu.com/news/nation-world/palm-beach-locked-down-for-pres-trumps-1-million-per-person-fundraiser-at-mar-a-lago-south-florida-palm-beach-county-us-secret-service-sheriffs-office-no-king-protest-president-donald-trump-maga-local-news-october-16-2025",
+    "https://www.yahoo.com/news/articles/trump-palm-beach-presidents-halloween-142643295.html",
+    "https://www.tradingview.com/news/macenews:eff09c7cc094b:0-friday-white-house-schedule-president-trump-heads-for-palm-beach-for-the-weekend/"
+  ],
+  "social_title": "$443,000: A day of golf and security at Trump's club costs more than most Americans make in a year"
+}
