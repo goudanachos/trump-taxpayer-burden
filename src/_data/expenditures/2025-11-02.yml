@@ -1,0 +1,51 @@
+{
+  "location": "Palm Beach, FL & White House, DC",
+  "activities": [
+    {
+      "name": "Air Force One travel (VC-25A) Palm Beach to Andrews",
+      "cost": 391254,
+      "description": "President departed Palm Beach International Airport at 5:30pm and flew on Air Force One (approx. 2.2 flight hours; $177,843/hr, no support factor for domestic, per official FY22 DoD/NTU/GAO/government benchmarks).",
+      "category": "travel"
+    },
+    {
+      "name": "Secret Service & staff (peak off-site, Palm Beach)",
+      "cost": 300000,
+      "description": "Provided full-day high-security coverage in Palm Beach for presidential movements, in line with GAO upper-bound cost ($300K/day) for off-site/peak protection during Trump visits, corroborated by local precedent.",
+      "category": "security"
+    },
+    {
+      "name": "Local law enforcement assist",
+      "cost": 60000,
+      "description": "Palm Beach County/City police provided significant security and traffic support during the president's departure, per standing federal reimbursement precedent and local reports.",
+      "category": "security"
+    },
+    {
+      "name": "Incidentals (15% cap on travel+security)",
+      "cost": 116689,
+      "description": "Costs for auxiliary vehicles, unitemized overtime, tactical/drill spend, per federal guideline/incidentals cap (≤15% of direct travel+security expenses).",
+      "category": "incidentals"
+    }
+  ],
+  "total_cost": 863943,
+  "social_description": "Nov. 2, 2025: President Trump departs Palm Beach for DC. Taxpayer costs for Air Force One, security, and local police surpass $860K for the day.",
+  "tags": [
+    "air-force-one",
+    "mar-a-lago",
+    "security",
+    "secret-service",
+    "law-enforcement",
+    "incidentals",
+    "trump-leisure"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://yahoo.com/news/articles/trump-palm-beach-presidents-halloween-142643295.html",
+    "https://katu.com/news/nation-world/palm-beach-locked-down-for-pres-trumps-1-million-per-person-fundraiser-at-mar-a-lago-south-florida-palm-beach-county-us-secret-service-sheriffs-office-no-king-protest-president-donald-trump-maga-local-news-october-16-2025",
+    "https://www.palmbeachpost.com/story/news/trump/2025/10/17/trump-visit-traffic-delays-west-palm-beach/86753525007"
+  ],
+  "social_title": "Trump's Single Day in Palm Beach: Taxpayers Foot $863,943 Bill for Air Force One and Security"
+}
