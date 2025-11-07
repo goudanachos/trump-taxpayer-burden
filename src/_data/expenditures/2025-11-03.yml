@@ -1,0 +1,25 @@
+{
+  "location": "The White House, Washington, DC",
+  "activities": [
+    {
+      "name": "Base-level Secret Service and staff support (on-site, official)",
+      "cost": 75000,
+      "description": "Standard daily cost for Secret Service and key staff at the White House, in line with GAO-19-178 and benchmark rates for routine/official days.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "Nov. 3, 2025: President Trump remained at the White House for official business. Standard security outlays brought the daily federal expenditure to $75,000.",
+  "tags": [
+    "white-house",
+    "official-day",
+    "secret-service"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
