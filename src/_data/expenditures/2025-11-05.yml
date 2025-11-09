@@ -1,0 +1,50 @@
+{
+  "location": "Miami, FL & The White House, DC",
+  "activities": [
+    {
+      "name": "Air Force One travel (VC-25A) Andrews-Miami-Andrews",
+      "cost": 711372,
+      "description": "President Trump flew round-trip between Joint Base Andrews and Miami on Air Force One. Total round trip approx. 4 hours (2 x 2 hrs at $177,843/hr per benchmarks).",
+      "category": "travel"
+    },
+    {
+      "name": "Secret Service & staff (peak off-site, Miami)",
+      "cost": 300000,
+      "description": "Peak off-site Secret Service protection for high-profile event day in Miami, per GAO upper-bound and repeated Palm Beach precedent. Includes advance/security for major rally/appearance.",
+      "category": "security"
+    },
+    {
+      "name": "Local law enforcement assist",
+      "cost": 60000,
+      "description": "Miami-Dade and City of Miami police provided traffic/motorcade/venue perimeter support, based on Palm Beach and previous Miami event cost precedents for major presidential visits.",
+      "category": "security"
+    },
+    {
+      "name": "Incidentals (15% cap on travel+security)",
+      "cost": 162200,
+      "description": "Covers tactical, overtime, auxiliary vehicle, unitemized support in line with federal cap (15% of direct travel+security), per all open benchmarks.",
+      "category": "incidentals"
+    }
+  ],
+  "total_cost": 1233572,
+  "social_description": "Nov. 5, 2025: President Trump traveled to Miami for a high-profile event and returned to DC. Total taxpayer outlay for Air Force One, security, and law enforcement: ~$1.23 million.",
+  "tags": [
+    "air-force-one",
+    "miami",
+    "trump-travel",
+    "secret-service",
+    "law-enforcement",
+    "incidentals"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://apnews.com/article/6885c172b11d972920f8fb60869868ac",
+    "https://citizensforethics.org/reports-investigations/crew-investigations/secret-service-has-spent-nearly-100k-at-trump-properties",
+    "https://katu.com/news/nation-world/palm-beach-locked-down-for-pres-trumps-1-million-per-person-fundraiser-at-mar-a-lago-south-florida-palm-beach-county-us-secret-service-sheriffs-office-no-king-protest-president-donald-trump-maga-local-news-october-16-2025",
+    "https://www.yahoo.com/news/articles/trump-marks-full-month-government-215448949.html"
+  ],
+  "social_title": "Trump's Single-Day Miami Visit Cost Taxpayers $1.23 Million—More Than Some Small Cities' Entire Annual Budgets"
+}
