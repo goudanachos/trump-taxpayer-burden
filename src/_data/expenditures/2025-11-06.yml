@@ -1,0 +1,30 @@
+{
+  "location": "White House, Washington, DC",
+  "activities": [
+    {
+      "name": "Secret Service & Staff (on-site)",
+      "cost": 75000,
+      "description": "Full-day on-site Secret Service and staff coverage at the White House for official business, including meetings and announcement events.",
+      "category": "security"
+    },
+    {
+      "name": "Local Motorcade (on campus only)",
+      "cost": 5000,
+      "description": "Presidential in-town motorcade and vehicle movement within the White House complex for events and meetings. No indication of off-campus travel.",
+      "category": "transportation"
+    }
+  ],
+  "total_cost": 80000,
+  "social_description": "On Nov 6, 2025, President conducted all official activities at the White House, incurring taxpayer-funded security and minimal local transport costs only (~$80K).",
+  "tags": [
+    "white-house",
+    "no-travel",
+    "security-only",
+    "official-function"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.gao.gov/assets/gao-19-178.pdf"
+  ]
+}
