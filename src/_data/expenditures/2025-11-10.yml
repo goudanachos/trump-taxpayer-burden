@@ -1,0 +1,30 @@
+{
+  "location": "The White House, Washington, DC",
+  "activities": [
+    {
+      "name": "Secret Service & Staff (on-site)",
+      "cost": 75000,
+      "description": "Full-day on-site Secret Service and staff coverage at the White House for official business, including bilateral meetings and ceremonies. No off-site security surge required.",
+      "category": "security"
+    },
+    {
+      "name": "Local Motorcade (on campus)",
+      "cost": 5000,
+      "description": "Standard in-town motorcade and vehicle movement within the White House complex; no external travel indicated.",
+      "category": "transportation"
+    }
+  ],
+  "total_cost": 80000,
+  "social_description": "Nov 10, 2025: All presidential activity was at the White House, with no travel. Taxpayer cost: ~$80K for security and minimal local vehicle support.",
+  "tags": [
+    "white-house",
+    "no-travel",
+    "security-only"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive"
+  ]
+}
