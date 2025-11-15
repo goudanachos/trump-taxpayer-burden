@@ -1,0 +1,32 @@
+{
+  "location": "Washington, DC: The White House / Arlington National Cemetery",
+  "activities": [
+    {
+      "name": "Secret Service & Staff (on-site & local travel)",
+      "cost": 75000,
+      "description": "Full-day on-site Secret Service and staff security coverage at the White House, with standard surge support for a short Arlington National Cemetery trip for Veterans Day ceremonies.",
+      "category": "security"
+    },
+    {
+      "name": "Local motorcade (White House–Arlington roundtrip)",
+      "cost": 10000,
+      "description": "Motorcade support for short, ceremonial roundtrip between the White House and Arlington National Cemetery.",
+      "category": "transportation"
+    }
+  ],
+  "total_cost": 85000,
+  "social_description": "Nov 11, 2025: Trump marked Veterans Day with a White House-to-Arlington motorcade & ceremony. Security and transport cost taxpayers ~$85K.",
+  "tags": [
+    "white-house",
+    "veterans-day",
+    "arlington-cemetery",
+    "local-travel"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
