@@ -1,0 +1,31 @@
+{
+  "location": "The White House, Washington, DC",
+  "activities": [
+    {
+      "name": "Secret Service & Staff (on-site)",
+      "cost": 75000,
+      "description": "Full-day on-site Secret Service and staff protection for the President at the White House, for legislative signing, briefings, and private dinner events. No indication of external or off-site activity.",
+      "category": "security"
+    },
+    {
+      "name": "Local motorcade (on campus)",
+      "cost": 5000,
+      "description": "Intra-campus vehicle and transport activity within the White House grounds only. No city travel or external motorcade required.",
+      "category": "transportation"
+    }
+  ],
+  "total_cost": 80000,
+  "social_description": "Nov 12, 2025: President stayed at the White House, incurring ~$80K for standard security and vehicle support—no travel or off-site events.",
+  "tags": [
+    "white-house",
+    "security-only",
+    "no-travel"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
