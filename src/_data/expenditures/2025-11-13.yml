@@ -1,0 +1,29 @@
+{
+  "location": "The White House, Washington, DC",
+  "activities": [
+    {
+      "name": "On-site Secret Service and White House operational security",
+      "cost": 75000,
+      "description": "Routine federal protection and support activities (Secret Service and staff) for the President at the White House, based on GAO and DoD published rates for on-site security. No off-site travel or special events are reported for this date.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "On Nov 13, 2025, federal costs for Trump’s White House leisure (taxpayer-funded) were $75,000—covering routine Secret Service & support at the residence. No travel or incidentals reported.",
+  "tags": [
+    "white-house",
+    "security",
+    "no-travel",
+    "trump-daily-cost"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.cnn.com/politics/live-news/government-shutdown-end-trump-11-13-25",
+    "https://www.nytimes.com/live/2025/11/13/us/trump-government-shutdown-news",
+    "https://democracynow.org/2025/11/13/headlines",
+    "https://npr.org/programs/all-things-considered/nx-s1-5568604/all-things-considered-for-november-13-2025"
+  ]
+}
