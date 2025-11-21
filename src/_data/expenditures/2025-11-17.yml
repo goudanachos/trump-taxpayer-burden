@@ -1,0 +1,34 @@
+{
+  "location": "Washington, DC (White House and Westin DC Downtown)",
+  "activities": [
+    {
+      "name": "Secret Service & staff (on-site White House, official travel)",
+      "cost": 75000,
+      "description": "Federal outlays for day-long Secret Service and staff protection at the White House and during official motorcade to local event. Based on GAO and DoD rates for on-site presidential security; no out-of-town travel reported.",
+      "category": "security"
+    },
+    {
+      "name": "Local motorcade (White House ⇄ Westin DC Downtown)",
+      "cost": 10000,
+      "description": "Local Washington, DC motorcade service for short round-trip between White House and Westin Downtown hotel, benchmarked to federal cost standards for local protective moves within metro area.",
+      "category": "local-transport"
+    }
+  ],
+  "total_cost": 85000,
+  "social_description": "Trump’s Nov 17, 2025, D.C. leisure/official activities cost taxpayers ~$85k—mostly for on-site Secret Service/White House operations and a brief downtown motorcade.",
+  "tags": [
+    "white-house",
+    "local-travel",
+    "motorcade",
+    "trump-daily-cost"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://time.com/4885934/white-house-helicopter-cost/",
+    "https://www.dau.edu/sites/default/files/2025-02/2025%20OS%20Cost%20Estimating%20Guide.pdf"
+  ]
+}
