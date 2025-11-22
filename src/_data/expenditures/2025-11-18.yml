@@ -1,0 +1,36 @@
+{
+  "location": "The White House, Washington, DC",
+  "activities": [
+    {
+      "name": "Secret Service & staff (on-site White House, full day, state-level event)",
+      "cost": 75000,
+      "description": "Routine Secret Service and WH staff support for daylong official and ceremonial meetings for the visit of Saudi Arabia's Crown Prince and Prime Minister. Based on GAO and DoD published on-site rates. No offsite travel or incidentals above cap identified.",
+      "category": "security"
+    },
+    {
+      "name": "Local motorcade & ceremonial logistics (White House event)",
+      "cost": 10000,
+      "description": "Federal outlays for official White House ceremonial event motorcade and enhanced support for entrance of foreign dignitary. Benchmarked to federal cost standards for local protective/representative operations, consistent with similar high-profile diplomatic state events.",
+      "category": "local-transport"
+    }
+  ],
+  "total_cost": 85000,
+  "social_description": "On Nov. 18, 2025, Trump’s Saudi state visit involved ~$85k in taxpayer costs: Secret Service, WH staff, and full ceremonial motorcade; no Air Force One or Mar-a-Lago travel.",
+  "tags": [
+    "white-house",
+    "diplomatic-visit",
+    "secret-service",
+    "local-motorcade",
+    "taxpayer-cost"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://www.aljazeera.com/news/2025/11/4/saudi-crown-prince-mbs-to-visit-trump-on-nov-18-white",
+    "https://rollcall.com/factbase/trump/transcript/donald-trump-remarks-bilat-mohammed-bin-salman-saudi-arabia-november-18-2025",
+    "https://saudigazette.com.sa/article/656272"
+  ]
+}
