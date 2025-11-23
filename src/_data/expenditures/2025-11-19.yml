@@ -1,0 +1,35 @@
+{
+  "location": "Washington, DC (White House, Kennedy Center)",
+  "activities": [
+    {
+      "name": "Secret Service & staff (on-site White House, local event)",
+      "cost": 75000,
+      "description": "Secret Service and support staff provided standard protection for a day of official activity, including the U.S.-Saudi Investment Forum at the Kennedy Center; covers White House operations and local event security at standard rate.",
+      "category": "security"
+    },
+    {
+      "name": "Local motorcade (White House ⇄ Kennedy Center)",
+      "cost": 10000,
+      "description": "Short round-trip motorcade between White House and Kennedy Center, including perimeter security for presidential visit, based on federal cost standards for local transport and security logistics.",
+      "category": "local-transport"
+    }
+  ],
+  "total_cost": 85000,
+  "social_description": "Trump’s Nov 19, 2025, taxpayer cost for DC events: ~$85k, mainly covering Secret Service/White House operations and a brief Kennedy Center motorcade.",
+  "tags": [
+    "white-house",
+    "kennedy-center",
+    "motorcade",
+    "diplomatic-event",
+    "trump-daily-cost"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.dau.edu/sites/default/files/2025-02/2025%20OS%20Cost%20Estimating%20Guide.pdf"
+  ]
+}
