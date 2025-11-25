@@ -1,0 +1,24 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "On-site White House staffing and security",
+      "cost": 75000,
+      "description": "Standard daily cost for Secret Service, support, and on-site operations at the White House when the President remains in-residence. No off-site travel or additional security deployments identified.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "On Nov 21, 2025, President Trump remained at the White House with standard security and staffing costs; no travel or extraordinary expenses recorded.",
+  "tags": [
+    "white-house",
+    "no-travel",
+    "standard-security"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
