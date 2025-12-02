@@ -1,0 +1,30 @@
+{
+  "location": "Mar-a-Lago and Trump International Golf Club West Palm Beach, FL",
+  "activities": [
+    {
+      "name": "Golf outing and presidential stay at Trump properties",
+      "cost": 3400000,
+      "description": "One typical Mar-a-Lago golf trip by President Trump, including travel aboard Air Force One, security, and local law enforcement, as benchmarked by the Government Accountability Office (GAO) 2019 report and consistent media analyses. The $3.4M cost covers a single day trip with heavy security and travel from Washington D.C. to Florida.",
+      "category": "leisure-travel-security"
+    }
+  ],
+  "total_cost": 3400000,
+  "social_description": "On Nov 28, 2025, Trump’s Mar-a-Lago golf trip cost taxpayers ~$3.4M—mainly for Air Force One, security, and related support, per GAO and 6+ media tallies.",
+  "tags": [
+    "mar-a-lago",
+    "golf",
+    "security",
+    "federal-spending",
+    "travel-cost"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://san.com/cc/fore-trumps-golf-outings-could-cost-taxpayers-300-million-over-4-years",
+    "https://www.yahoo.com/news/articles/trump-golf-trips-cost-taxpayers-220610919.html",
+    "https://bpdaily.com/trumps-golf-trips-cost-taxpayers-71-million-since-january",
+    "https://dnyuz.com/2025/11/28/taxpayer-bill-for-trumps-golf-trips-balloons-to-71-million-report/",
+    "https://themirror.com/news/us-news/donald-trump-golf-cost-usa-1530240",
+    "https://independent.ie/world-news/north-america/donald-trumps-golf-trips-cost-taxpayers-71m-since-january/a982762451.html"
+  ],
+  "social_title": "$3.4 Million for One Day of Golf: Trump's Mar-a-Lago Trip Cost"
+}
