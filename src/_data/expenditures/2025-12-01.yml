@@ -1,0 +1,25 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Working day at The White House",
+      "cost": 75000,
+      "description": "President Trump's activities on December 1, 2025, were confined to The White House, consisting of press events and bill signings, with no off-site excursions or extraordinary security deployments. The only federal leisure/recreational cost incurred is the standard on-site Secret Service protection benchmarked at $75,000 per day (GAO-19-178, DOD Comptroller).",
+      "category": "official-residence-security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "Dec 1, 2025: Trump spent the day at The White House. Taxpayers covered the standard $75k federal cost for presidential on-site security—no Mar-a-Lago travel this date.",
+  "tags": [
+    "white-house",
+    "security",
+    "official-residence",
+    "federal-spending"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
