@@ -1,0 +1,28 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Working day at The White House",
+      "cost": 75000,
+      "description": "On December 2, 2025, President Trump remained at the White House, holding meetings and making announcements. The only taxpayer recreational/leisure cost incurred is the routine federal outlay for daily on-site Secret Service protection, benchmarked at $75,000 per day (GAO-19-178, DOD Comptroller, consistent with 2025 trackers); no offsite travel or presidential leisure excursions occurred.",
+      "category": "official-residence-security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "Dec 2, 2025—Trump spent the day at the White House. Only the standard $75k federal cost for presidential on-site security was incurred—no leisure travel costs.",
+  "tags": [
+    "white-house",
+    "security",
+    "official-residence",
+    "federal-spending"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://san.com/cc/fore-trumps-golf-outings-could-cost-taxpayers-300-million-over-4-years",
+    "https://bpdaily.com/trumps-golf-trips-cost-taxpayers-71-million-since-january"
+  ]
+}
