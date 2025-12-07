@@ -1,0 +1,28 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "In-residence presidential day at The White House",
+      "cost": 75000,
+      "description": "On December 3, 2025, President Trump remained at the White House, attending meetings, making an announcement, and participating in a photo event. The only observed federal leisure or security expenditure is the routine on-site Secret Service protection at $75,000/day, benchmarked and validated through GAO and DOD Comptroller sources for presidential residence support.",
+      "category": "official-residence-security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "Dec 3, 2025: Trump stayed at the White House with routine events; only $75k in taxpayer costs for daily Secret Service protection incurred.",
+  "tags": [
+    "white-house",
+    "security",
+    "official-residence",
+    "no-leisure-travel"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://san.com/cc/fore-trumps-golf-outings-could-cost-taxpayers-300-million-over-4-years",
+    "https://bpdaily.com/trumps-golf-trips-cost-taxpayers-71-million-since-january"
+  ]
+}
