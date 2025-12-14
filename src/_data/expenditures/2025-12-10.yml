@@ -1,0 +1,27 @@
+{
+  "location": "Washington, D.C. (White House)",
+  "activities": [
+    {
+      "name": "Secret Service & staff (on-site White House official duties)",
+      "cost": 75000,
+      "description": "Standard daily federal outlay for Secret Service and staff protection during Trump's routine schedule—meetings, roundtables, and official visits at the White House (see GAO-19-178).",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "Dec 10, 2025: Trump held White House meetings and pastor visits, incurring $75k in standard federal security with no travel or major event costs.",
+  "tags": [
+    "trump",
+    "white-house",
+    "security-costs"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://apnews.com/article/6885c172b11d972920f8fb60869868ac",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://rollcall.com/factbase/trump/topic/calendar/",
+    "https://time.com/4885934/white-house-helicopter-cost/"
+  ]
+}
