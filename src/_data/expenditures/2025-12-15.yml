@@ -1,0 +1,25 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "On-Site White House Security and Staff Operations",
+      "cost": 75000,
+      "description": "Routine Secret Service and staff support during a full day of official activities at the White House, including public and private receptions. No off-site travel or surge costs incurred on this date; standard GAO benchmark applies.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "Dec 15, 2025: President hosted on-site official and Christmas events at the White House. Standard on-site security cost to taxpayers: $75,000.",
+  "tags": [
+    "white-house",
+    "security",
+    "no-travel"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927"
+  ]
+}
