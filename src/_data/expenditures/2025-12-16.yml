@@ -1,0 +1,27 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "On-Site White House Security and Staff Operations",
+      "cost": 75000,
+      "description": "Routine Secret Service and staff support for a full day of official activities at the White House, including public briefings, an ambassador credentialing ceremony, and an evening Hanukkah reception. No off-site activity requiring enhanced costs; GAO benchmark applies.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "Dec 16, 2025: President held meetings and a Hanukkah reception at the White House. Standard on-site security cost to taxpayers: $75,000.",
+  "tags": [
+    "white-house",
+    "security",
+    "no-travel"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://apnews.com/article/6885c172b11d972920f8fb60869868ac",
+    "https://www.theguardian.com/us-news/2025/mar/09/trump-golf-trips"
+  ]
+}
