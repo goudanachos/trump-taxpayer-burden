@@ -1,0 +1,49 @@
+{
+  "location": "White House, Joint Base Andrews, Dover Air Force Base, Delaware",
+  "activities": [
+    {
+      "name": "VC-25A (Air Force One) short domestic round trip (Andrews–Dover)",
+      "cost": 142274,
+      "description": "President and First Lady traveled from Joint Base Andrews to Dover Air Force Base and back aboard Air Force One for a dignified transfer. Flight duration (approx. 0.4 hr each way, 0.8 hr roundtrip) × $177,843/hr (no support multiplier, domestic short haul).",
+      "category": "air-travel"
+    },
+    {
+      "name": "Secret Service & staff (peak off-site, dignified transfer event)",
+      "cost": 300000,
+      "description": "Full-day surge for Secret Service and support based on GAO-19-178 peak off-site events, covering both Dover AFB & travel perimeter.",
+      "category": "security"
+    },
+    {
+      "name": "Local law enforcement assist (Delaware activation)",
+      "cost": 60000,
+      "description": "Typical local security and crowd management costs for major offsite events, based on Palm Beach and GAO/DoD benchmarks. Covers Delaware State Police and Dover city coordination.",
+      "category": "local-security"
+    },
+    {
+      "name": "White House on-site security (partial)",
+      "cost": 25000,
+      "description": "Pro-rated security cost for minimal on-site White House activity during main out-of-town travel window. (Only early/late on-site presence).",
+      "category": "security"
+    }
+  ],
+  "total_cost": 527000,
+  "social_description": "Dec 17, 2025: Trump's roundtrip to Dover AFB for dignified transfer used Air Force One. Total travel & security cost to taxpayers: $527k.",
+  "tags": [
+    "dover-afb",
+    "air-force-one",
+    "dignified-transfer",
+    "secret-service",
+    "delaware",
+    "presidential-travel"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://apnews.com/article/trump-united-states-syria-troops-dover-06bc3fd83167c56b5db4be583987c4c9",
+    "https://6abc.com/post/president-trump-attends-dignified-transfer-dover-delaware-3-killed-syria-attack/18295810/",
+    "https://www.livenowfox.com/news/dignified-transfer-iowa-national-guard-members"
+  ],
+  "social_title": "$527,000 for 48 Minutes: Trump's Dover AFB Flight Cost $177,843 Per Hour Just for Air Force One"
+}
