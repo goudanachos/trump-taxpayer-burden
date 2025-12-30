@@ -1,0 +1,19 @@
+{
+  "location": "NEED_MORE_RESEARCH",
+  "activities": [
+    {
+      "name": "need-more-research",
+      "cost": 0,
+      "description": "Unable to estimate taxpayer-funded leisure/travel costs for 2025-11-09 because the required evidence gate was not met: fewer than 6 qualifying source URLs within the target_date ± 7-day window and model confidence < 0.95. Provide at least two independent, in-window sources per event (e.g., official White House schedule/press pool report plus a corroborating news/official record) to proceed.",
+      "category": "meta"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "NEED_MORE_RESEARCH",
+  "tags": [
+    "insufficient-sources",
+    "evidence-gate-not-met"
+  ],
+  "confidence_level": "low",
+  "source_urls": []
+}
