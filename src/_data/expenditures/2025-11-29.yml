@@ -1,0 +1,20 @@
+{
+  "location": "NEED_MORE_RESEARCH",
+  "activities": [
+    {
+      "name": "NEED_MORE_RESEARCH",
+      "cost": 0,
+      "description": "Insufficient verified, in-window sourcing to estimate federal outlays incurred on 2025-11-29 for the listed Mar-a-Lago → Trump International Golf Club West Palm Beach movements. The tool/confidence gate requires ≥6 source URLs and model_confidence ≥0.95; those thresholds are not met without additional research (e.g., corroborating pool reports/White House postings and any activated local law-enforcement support documentation).",
+      "category": "meta"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "NEED_MORE_RESEARCH",
+  "tags": [
+    "need-more-research",
+    "tool-confidence-gate",
+    "insufficient-sourcing"
+  ],
+  "confidence_level": "low",
+  "source_urls": []
+}
