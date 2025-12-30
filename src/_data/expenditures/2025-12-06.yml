@@ -1,0 +1,16 @@
+{
+  "status": "NEED_MORE_RESEARCH",
+  "target_date": "2025-12-06",
+  "reason": "Tooling could not retrieve/verify primary-page content (URL scrape failures), and available in-window reporting does not provide sufficient detail to attribute incremental, taxpayer-funded leisure/recreation outlays specifically incurred on 2025-12-06 beyond baseline White House/USSS operations. In particular, there is no corroborated (2+ independent sources) quantitative evidence for: (a) any incremental Secret Service/operational security cost level (on-site vs peak off-site), (b) local law-enforcement activation costs, or (c) itemized federal venue/production costs for the Oval Office medal ceremony and State Department dinner. Without these, an estimate would be speculative and would violate the ‘actual outlays on target_date’ rule.",
+  "total_source_urls_count": 7,
+  "model_confidence": 0.6,
+  "candidate_source_urls": [
+    "https://apnews.com/article/trump-kennedy-center-honorees-awards-ceremony-medal-5f4b60fb514f978d34e3468a711f0132",
+    "https://www.theguardian.com/us-news/2025/dec/06/trump-kennedy-center-honorees",
+    "https://thehill.com/homenews/administration/5637338-kennedy-center-honors-trump-renovations/",
+    "https://www.nbcnews.com/politics/white-house/trump-presents-medals-kennedy-center-honorees-oval-office-ceremony-rcna247791",
+    "https://www.pbs.org/newshour/arts/watch-trump-presents-medals-to-2025-kennedy-center-honorees-at-the-oval-office",
+    "https://www.c-span.org/event/white-house-event/president-trump-participates-in-kennedy-center-honors-medal-presentation/438676",
+    "https://www.whitehouse.gov/gallery/president-donald-trump-hosts-the-2025-kennedy-center-honorees-for-a-medal-presentation-in-the-oval-office/"
+  ]
+}
