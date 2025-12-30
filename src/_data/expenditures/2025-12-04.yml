@@ -1,0 +1,19 @@
+{
+  "location": "washington, dc (white house / u.s. institute of peace / the ellipse)",
+  "activities": [
+    {
+      "name": "need_more_research",
+      "cost": 0,
+      "description": "Evidence gate not met (total_source_urls_count < 6 and/or model_confidence < 0.95). No validated, in-window (±7 days) independent sources were provided or retrieved to substantiate incremental, taxpayer-funded leisure/recreation outlays on 2025-12-04 beyond baseline White House operations (e.g., incremental security posture, local law-enforcement activation, event-production costs for National Christmas Tree Lighting).",
+      "category": "meta"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "NEED_MORE_RESEARCH — insufficient in-window sources to estimate incremental taxpayer-funded leisure/event outlays for 2025-12-04.",
+  "tags": [
+    "need-more-research",
+    "evidence-gate-failed"
+  ],
+  "confidence_level": "low",
+  "source_urls": []
+}
