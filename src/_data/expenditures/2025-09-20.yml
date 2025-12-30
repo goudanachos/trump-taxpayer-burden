@@ -1,0 +1,4 @@
+{
+  "status": "NEED_MORE_RESEARCH",
+  "reason": "Unable to meet required TOOL & CONFIDENCE GATE: fewer than 6 qualifying in-window (target_date ±7 days) source URLs and cannot support model_confidence ≥0.95 with the available evidence."
+}
