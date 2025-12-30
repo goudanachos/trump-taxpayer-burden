@@ -1,0 +1,28 @@
+{
+  "location": "NEED_MORE_RESEARCH",
+  "activities": [
+    {
+      "name": "Evidence gate not met for 2025-12-19 (White House → Rocky Mount, NC → Florida)",
+      "cost": 0,
+      "description": "Cannot produce a compliant taxpayer-outlay estimate for 2025-12-19 because the required gate is not satisfied: (a) fewer than 6 usable non-paywalled, in-window sources (target_date ±7 days) were successfully retrieved and parsed to corroborate each specific movement in the roll call (White House→JBA; JBA→Rocky Mount-Wilson Regional Airport; transfer to Rocky Mount Event Center; return to airport; flight onward to Palm Beach), and (b) without confirmed aviation type/flight-hours and verified local law-enforcement activation for the NC event and airport movements, any VC-25A/motorcade/LE/Secret Service costing would be speculative under the tracker’s rules (count only federal outlays actually incurred on the target date).",
+      "category": "meta"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "NEED_MORE_RESEARCH: insufficient in-window, independently verifiable sources for 2025-12-19 travel (WH→Rocky Mount→Palm Beach) to attribute federal outlays, so no cost estimate issued.",
+  "tags": [
+    "needs-more-research",
+    "evidence-window",
+    "insufficient-sources",
+    "confidence-gate-failed"
+  ],
+  "confidence_level": "low",
+  "source_urls": [
+    "https://www.npr.org/2025/12/19/nx-s1-5648862/trump-visit-north-carolina-congress-midterms-economy",
+    "https://ncnewsline.com/2025/12/20/trump-kicks-off-ncs-2026-midterms-by-attacking-radical-left-roy-cooper-in-rocky-mount-speech/",
+    "https://www.whitehouse.gov/videos/president-trump-delivers-remarks-on-the-economy-dec-19-2025/",
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://time.com/4885934/white-house-helicopter-cost/"
+  ]
+}
