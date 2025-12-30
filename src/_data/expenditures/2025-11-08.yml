@@ -1,0 +1,20 @@
+{
+  "location": "NEED_MORE_RESEARCH",
+  "activities": [
+    {
+      "name": "need-more-research",
+      "cost": 0,
+      "description": "Cannot complete an in-window, source-verified cost record for 2025-11-08 with the available tools because I cannot obtain ≥6 qualifying (target_date ± 7 days) source URLs and ≥2 independent sources per event. The built-in news search tool only supports freshness up to the past month, which does not reach 2025-11-08 from today (2025-12-30). If you provide at least 6 open URLs published between 2025-11-01 and 2025-11-15 (e.g., White House daily guidance/pool reports, local law-enforcement activation notices, flight logs, or contemporaneous news coverage), I can compute the taxpayer-funded outlays for that date.",
+      "category": "meta"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "NEED_MORE_RESEARCH — insufficient in-window sources (and tool freshness limits) to verify Trump’s 2025-11-08 Mar-a-Lago ↔ golf-club movements and associated federal outlays.",
+  "tags": [
+    "insufficient-sources",
+    "evidence-window",
+    "tooling-constraint"
+  ],
+  "confidence_level": "low",
+  "source_urls": []
+}
