@@ -1,0 +1,20 @@
+{
+  "location": "NEED_MORE_RESEARCH",
+  "activities": [
+    {
+      "name": "NEED_MORE_RESEARCH",
+      "cost": 0,
+      "description": "Unable to meet the tool & confidence gate for target_date 2025-10-29 because this environment’s news-search tool only returns results relative to the current date (2025-12-30) and did not provide >=6 non-paywalled sources published within 2025-10-22 to 2025-11-05 that corroborate the listed South Korea events and allow same-day federal outlay estimates. No in-window, independently corroborated evidence was available to compute travel/security costs incurred on 2025-10-29.",
+      "category": "research-gate"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "NEED_MORE_RESEARCH: insufficient in-window, independently corroborated sources to estimate taxpayer costs for 2025-10-29 South Korea schedule.",
+  "tags": [
+    "need-more-research",
+    "evidence-window-fail",
+    "insufficient-sources"
+  ],
+  "confidence_level": "low",
+  "source_urls": []
+}
