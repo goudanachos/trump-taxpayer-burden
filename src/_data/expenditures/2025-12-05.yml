@@ -1,0 +1,7 @@
+{
+  "status": "NEED_MORE_RESEARCH",
+  "target_date": "2025-12-05",
+  "reason": "Confidence gate not met: the record requires ≥6 in-window (±7 days) source URLs and model_confidence ≥0.95. No validated, independently corroborated, in-window sources have been collected for the FIFA World Cup Drawing/‘FIFA Peace Prize’ event, the Kennedy Center tour/meeting, or the Andrea Bocelli East Room concert, nor for any itemized incremental federal outlays (motorcade/security/event-production) incurred specifically on 2025-12-05. Any cost estimate would be speculative under the ‘actual outlays on the target_date’ rule.",
+  "total_source_urls_count": 0,
+  "model_confidence": 0.6
+}
