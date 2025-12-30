@@ -1,0 +1,27 @@
+{
+  "location": "NEED_MORE_RESEARCH",
+  "activities": [
+    {
+      "name": "NEED_MORE_RESEARCH",
+      "cost": 0,
+      "description": "Unable to produce a compliant cost record for 2025-11-30 because the provided roll-call items (golf trip + return flight to Washington) are not corroborated by ≥2 independent, non-paywalled sources within the required publication window (target_date ± 7 days). Without verified flight times/legs and confirmed federal outlays incurred on the date, any cost estimate would be speculative.",
+      "category": "meta"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "NEED_MORE_RESEARCH",
+  "tags": [
+    "need-more-research",
+    "insufficient-sourcing",
+    "roll-call-unverified"
+  ],
+  "confidence_level": "low",
+  "source_urls": [
+    "https://apnews.com/article/donald-trump-mri-physical-white-house-0c66f2f9fca865d842ee94329a210a42",
+    "https://www.wpbf.com/article/florida-norad-intercepts-private-plane-over-palm-beach-during-trumps-stay/69584732",
+    "https://www.messenger-inquirer.com/ap/ap_national_news/trump/image_98ec7501-03ee-5ea4-8cbb-61d171caddcc.html",
+    "https://www.wvnews.com/newsfeed/us/trump/image_685f647e-1faa-55f8-82fd-2fea86f4543e.html",
+    "https://www.thedailybeast.com/trump-doubles-down-on-offensive-remark-against-dem-foe/",
+    "https://dnyuz.com/2025/11/30/trumps-golf-habit-is-costing-taxpayers-a-fortune-report/"
+  ]
+}
