@@ -1,0 +1,19 @@
+{
+  "location": "unknown",
+  "activities": [
+    {
+      "name": "NEED_MORE_RESEARCH",
+      "cost": 0,
+      "description": "Insufficient in-window sourcing to estimate taxpayer-funded leisure/travel/security outlays for 2025-09-01 under the required evidence rules (≥6 source URLs and model_confidence ≥0.95).",
+      "category": "meta"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "NEED_MORE_RESEARCH",
+  "tags": [
+    "need-more-research",
+    "evidence-gate-not-met"
+  ],
+  "confidence_level": "low",
+  "source_urls": []
+}
