@@ -1,0 +1,7 @@
+{
+  "status": "NEED_MORE_RESEARCH",
+  "target_date": "2025-12-07",
+  "reason": "Evidence gate not met: no in-window (±7 days) independent source URLs were gathered/validated for (a) the Kennedy Center Honors attendance details, (b) same-day federal outlays attributable to any leisure component vs. official event, and (c) any incremental travel/security costs beyond baseline White House operations. Provide or allow web-research tool use to collect ≥6 qualifying source URLs and reach model_confidence ≥0.95.",
+  "total_source_urls_count": 0,
+  "model_confidence": 0.6
+}
