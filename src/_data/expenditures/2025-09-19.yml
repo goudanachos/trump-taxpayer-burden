@@ -1,0 +1,7 @@
+{
+  "status": "NEED_MORE_RESEARCH",
+  "target_date": "2025-09-19",
+  "model_confidence": 0.2,
+  "total_source_urls_count": 0,
+  "reason": "Cannot satisfy the gate (≥6 qualifying in-window source URLs and model_confidence ≥0.95). Available search results are outside the required evidence window (2025-09-12 to 2025-09-26), and a WhiteHouse.gov scrape attempt failed, preventing verification of the 2025-09-19 schedule/events and any same-day federal outlays."
+}
