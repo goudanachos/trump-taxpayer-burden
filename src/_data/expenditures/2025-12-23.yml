@@ -1,0 +1,24 @@
+{
+  "location": "NEED_MORE_RESEARCH",
+  "activities": [
+    {
+      "name": "Insufficient in-window sourcing to estimate 2025-12-23 leisure-related federal outlays",
+      "cost": 0,
+      "description": "The confidence gate is not met: fewer than 6 usable in-window (target_date ±7 days) non-paywalled sources clearly documenting the full sequence of 2025-12-23 movements and any attributable federal outlays (e.g., confirmed motorcade/aviation legs, local law-enforcement activation, and security posture). Current open sources located during this run (e.g., Palm Beach Post photo gallery and related coverage) indicate general holiday-period activity and include at least one reference to a Dec. 23 motorcade leaving Trump International Golf Club, but do not provide enough independent corroboration and cost-incurrence detail to reach model_confidence ≥ 0.95 under the provided rules.",
+      "category": "meta"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "NEED_MORE_RESEARCH: not enough in-window independent sources to verify 2025-12-23 Mar-a-Lago↔Trump Int’l Golf Club movements and attributable federal outlays, so no cost estimate issued.",
+  "tags": [
+    "needs-more-research",
+    "insufficient-sources",
+    "evidence-window"
+  ],
+  "confidence_level": "low",
+  "source_urls": [
+    "https://www.palmbeachpost.com/picture-gallery/news/trump/2025/12/22/trump-florida-presidents-christmas-new-years-in-palm-beach-photos/87860029007/",
+    "https://meidasnews.com/news/trump-golfs-for-4th-day-in-a-row",
+    "https://www.palmbeachpost.com/story/news/trump/2025/12/24/how-president-trump-spent-christmas-eve-in-mar-a-lago-palm-beach/87906162007/"
+  ]
+}
