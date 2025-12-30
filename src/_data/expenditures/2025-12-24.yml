@@ -1,0 +1,20 @@
+{
+  "location": "NEED_MORE_RESEARCH",
+  "activities": [
+    {
+      "name": "Research required to estimate taxpayer-funded leisure costs for 2025-12-24",
+      "cost": 0,
+      "description": "Insufficient in-window, independently verifiable sources (target_date ±7 days) documenting the President’s movements and any incurred federal outlays (travel, Secret Service, local law-enforcement activation, etc.) for 2025-12-24. Provide additional contemporaneous, non-paywalled source URLs (e.g., White House pool reports, local government cost statements, credible news reports) so costs can be computed using the provided benchmarks.",
+      "category": "meta"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "NEED_MORE_RESEARCH: not enough in-window independent sources to verify 2025-12-24 Mar-a-Lago/golf movements and attributable federal outlays, so no cost estimate issued.",
+  "tags": [
+    "needs-more-research",
+    "insufficient-sources",
+    "evidence-window"
+  ],
+  "confidence_level": "low",
+  "source_urls": []
+}
