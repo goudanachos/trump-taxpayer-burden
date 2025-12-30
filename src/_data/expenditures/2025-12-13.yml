@@ -1,0 +1,29 @@
+{
+  "location": "NEED_MORE_RESEARCH",
+  "activities": [
+    {
+      "name": "need-more-research",
+      "cost": 0,
+      "description": "Unable to verify in-window, independently sourced federal outlays for 2025-12-13 because web-scrape tool failed (\"Node execution failed\"), preventing extraction of details needed to compute travel/security costs (e.g., whether Marine One vs. motorcade was used, flight times, and any activated local law-enforcement support).",
+      "category": "meta"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "NEED_MORE_RESEARCH",
+  "tags": [
+    "needs-research",
+    "tool-failure",
+    "insufficient-evidence"
+  ],
+  "confidence_level": "low",
+  "source_urls": [
+    "https://www.whitehouse.gov/articles/2025/12/president-trump-attends-126th-army-navy-game/",
+    "https://thehill.com/homenews/administration/5648025-trump-attends-army-navy-football/",
+    "https://www.stripes.com/sports/2025-12-13/army-navy-game-2025-baltimore-set-up-20079316.html",
+    "https://www.cbsnews.com/baltimore/news/army-navy-football-game-maryland-safety-restrictions-parking/",
+    "https://wtop.com/baltimore/2025/12/federal-officials-declare-mt-bank-stadium-a-no-drone-zone-for-army-navy-game/",
+    "https://www.foxnews.com/sports/trump-returns-army-navy-showdown",
+    "https://www.newsnationnow.com/politics/army-navy-game-trump-attends-protests-planned/",
+    "https://www.thebanner.com/community/local-news/trump-army-navy-baltimore-fort-mchenry-BXOQC2GXS5DRBCYRVE34OOKATM/"
+  ]
+}
