@@ -1,0 +1,20 @@
+{
+  "status": "NEED_MORE_RESEARCH",
+  "target_date": "2025-12-25",
+  "evidence_window": "2025-12-18 to 2026-01-01 (US/Eastern)",
+  "reason": "The date/location (Trump at/around Mar-a-Lago on Dec. 25, 2025) is well-attested in multiple in-window news reports, but the required confidence gate cannot be met because there are not ≥2 independent, in-window sources that quantify taxpayer-funded outlays actually incurred on 2025-12-25 (Secret Service incremental/off-site costs, DoD aviation, or Palm Beach local law-enforcement activation/overtime) for that specific day. Without day-specific, in-window cost evidence, any total would be benchmark-only and would not satisfy the tracker’s rules for high-confidence attribution.",
+  "total_source_urls_count_found": 6,
+  "model_confidence": 0.6,
+  "candidate_in_window_sources_found": [
+    "https://www.palmbeachpost.com/story/news/trump/2025/12/25/trump-christmas-mar-a-lago-melania-florida-photos-images/87914209007/",
+    "https://www.businessinsider.com/donald-trump-melania-trump-mar-a-lago-christmas-photos-2025-12",
+    "https://www.nbcnews.com/politics/donald-trump/trump-rings-christmas-day-flurry-posts-denouncing-perceived-foes-casti-rcna250922",
+    "https://www.motherjones.com/politics/2025/12/trump-spent-christmas-posting-over-a-hundred-times-on-truth-social/",
+    "https://cbs12.com/news/local/trump-hosts-mar-a-lago-christmas-eve-dinner-and-joins-norad-santa-calls-palm-beach-county-news-faa-flight-restrictions-traffic-alert-south-florida-news-president-donald-trump-melania-ocean-boulevard-santa-tracker-december-25-2025",
+    "https://wpbf.com/article/additional-vehicle-screening-starts-sunday-near-mar-a-lago/69872546"
+  ],
+  "what_is_missing_to_continue": [
+    "At least two independent, in-window sources stating (or enabling calculation of) day-specific federal outlays for 2025-12-25 at Mar-a-Lago (e.g., Secret Service incremental/off-site surge cost for that date, or a DHS/OMB/GAO/IG release dated within the evidence window that provides an applicable per-day cost figure for off-site protection).",
+    "At least two independent, in-window sources confirming whether Palm Beach County / City of Palm Beach law enforcement were activated on 2025-12-25 specifically and any published day-specific overtime/assist cost figures for that date."
+  ]
+}
