@@ -1,0 +1,8 @@
+{
+  "status": "NEED_MORE_RESEARCH",
+  "reason": "Confidence/evidence gate not met: fewer than 6 independent, in-window, non-paywalled source URLs directly documenting President Trump’s Dec 26, 2025 Mar-a-Lago ↔ Trump International Golf Club West Palm Beach movements and any taxpayer-funded outlays incurred that specific date (travel/security/LE). Additional research needed to locate at least two independent sources confirming the Dec 26 golf trip and any activated local law-enforcement costs/overtime for that day.",
+  "target_date": "2025-12-26",
+  "evidence_window": "2025-12-19 to 2026-01-02 (US/Eastern)",
+  "total_source_urls_count_found": 0,
+  "model_confidence": 0.5
+}
