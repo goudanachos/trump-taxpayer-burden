@@ -1,0 +1,28 @@
+{
+  "location": "NEED_MORE_RESEARCH",
+  "activities": [
+    {
+      "name": "Research required — 2025-12-21 Mar-a-Lago ↔ Trump International Golf Club West Palm Beach (golf + dinner)",
+      "cost": 0,
+      "description": "Cannot produce a compliant daily federal outlay estimate for 2025-12-21 because the confidence gate is not met: available open, in-window reporting does not provide 2+ independent sources corroborating each specific movement in the roll call (9:28/9:37 departure/arrival; 4:57/5:04 return; 7:03/7:09 dinner departure/arrival; 9:15/9:26 return) or confirm whether local law-enforcement resources were activated and incurred costs on the target date. Without those event-level confirmations and cost-incurrence evidence, any motorcade/security/aviation costing would be speculative under the tracker rules.",
+      "category": "meta"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "NEED_MORE_RESEARCH: insufficient in-window independent sources to verify 2025-12-21 Mar-a-Lago↔Trump Int’l Golf Club movements and attributable federal outlays, so no cost estimate issued.",
+  "tags": [
+    "needs-more-research",
+    "evidence-window",
+    "insufficient-sources",
+    "no-cost-estimate"
+  ],
+  "confidence_level": "low",
+  "source_urls": [
+    "https://www.mediaite.com/media/news/i-want-to-be-with-you-trump-drops-in-for-phone-cameo-at-americafest-summit-which-he-blew-off-in-person-to-play-golf-instead/",
+    "https://www.palmbeachpost.com/picture-gallery/news/trump/2025/12/22/trump-florida-presidents-christmas-new-years-in-palm-beach-photos/87860029007/",
+    "https://www.palmbeachpost.com/story/news/trump/2025/12/24/how-president-trump-spent-christmas-eve-in-mar-a-lago-palm-beach/87906162007/",
+    "https://www.nbcnews.com/politics/donald-trump/trump-rings-christmas-day-flurry-posts-denouncing-perceived-foes-casti-rcna250922",
+    "https://www.palmbeachdailynews.com/story/news/trump/2025/12/27/new-trump-safety-checkpoints-south-of-mar-a-lago-could-back-up-traffic/87930248007/",
+    "https://www.pbs.org/newshour/world/u-s-launches-strike-against-islamic-state-forces-in-nigeria-trump-says"
+  ]
+}
