@@ -1,0 +1,21 @@
+{
+  "location": "NEED_MORE_RESEARCH",
+  "activities": [
+    {
+      "name": "NEED_MORE_RESEARCH",
+      "cost": 0,
+      "description": "Cannot proceed past the Tool & Confidence Gate for target_date 2025-10-26. I do not have access (via the available tools) to >=6 open, non-paywalled source URLs published within 2025-10-19 to 2025-11-02 that independently corroborate the Kuala Lumpur ASEAN-summit events and allow calculation of federal outlays incurred specifically on 2025-10-26. Without in-window corroboration (≥2 independent sources per event) and same-day-incurred cost evidence, any estimate would violate the evidence-window and confidence requirements.",
+      "category": "research-gate"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "NEED_MORE_RESEARCH: insufficient in-window independent sources to estimate taxpayer leisure/travel costs for 2025-10-26 in Kuala Lumpur.",
+  "tags": [
+    "need-more-research",
+    "evidence-window-fail",
+    "insufficient-sources",
+    "tooling-limitation"
+  ],
+  "confidence_level": "low",
+  "source_urls": []
+}
