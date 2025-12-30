@@ -1,0 +1,25 @@
+{
+  "location": "NEED_MORE_RESEARCH",
+  "activities": [
+    {
+      "name": "Evidence gate not met for 2025-12-20 (Palm Beach arrival + Mar-a-Lago golf trip)",
+      "cost": 0,
+      "description": "The tool & confidence gate cannot be satisfied with the currently available evidence: fewer than 6 non-paywalled sources within the evidence window (2025-12-13 to 2025-12-27) independently corroborate the specific target-date movements (late-night arrival at PBI, transfer to Mar-a-Lago, and Mar-a-Lago↔Trump International Golf Club West Palm Beach motorcade). In addition, no in-window sources found provide attributable, itemized federal outlays incurred on 2025-12-20 (aviation leg type/flight-hours, security posture, and whether local law-enforcement assistance was formally activated that day). Under the tracker rules, generating a dollar estimate without those confirmations would be speculative.",
+      "category": "meta"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "NEED_MORE_RESEARCH: insufficient in-window independent sources to verify 2025-12-20 PBI arrival + Mar-a-Lago↔Trump Int’l Golf Club movements and attributable federal outlays, so no cost estimate issued.",
+  "tags": [
+    "needs-more-research",
+    "evidence-window",
+    "insufficient-sources",
+    "confidence-gate-failed"
+  ],
+  "confidence_level": "low",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf"
+  ]
+}
