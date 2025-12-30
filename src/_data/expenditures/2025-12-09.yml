@@ -1,0 +1,17 @@
+{
+  "status": "NEED_MORE_RESEARCH",
+  "target_date": "2025-12-09",
+  "reason": "Insufficient validated, in-window, independently sourced evidence to estimate same-day federal outlays specifically attributable to recreational/leisure activity (vs. official event travel). Flight legs, aircraft type/flight-hours, security posture (on-site vs peak off-site), and any local law-enforcement activation costs are not corroborated by at least two independent sources each within the ±7-day evidence window.",
+  "total_source_urls_count": 8,
+  "model_confidence": 0.6,
+  "candidate_source_urls": [
+    "https://www.mcall.com/2025/12/09/trump-arrives-at-wilkes-barre-scranton-airport-takes-off-in-marine-one-helicopter-to-mount-airy-event/",
+    "https://www.citizensvoice.com/2025/12/09/trump-arrives-at-wilkes-barre-scranton-airport-takes-off-in-marine-one-helicopter-to-mount-airy-event/",
+    "https://wvia.org/news/local/2025-12-09/trump-touts-economic-progress-during-lengthy-speech-at-mount-airy-casino-resort",
+    "https://wvia.org/news/local/2025-12-09/trump-at-mount-airy-live-coverage-of-presidents-nepa-visit",
+    "https://whyy.org/articles/trump-poconos-rally-affordability-hoax/",
+    "https://www.npr.org/2025/12/10/g-s1-101506/trumps-speech-grievances-about-immigrants",
+    "https://www.usatoday.com/picture-gallery/news/politics/2025/12/09/usha-jd-vance-christmas-decorations-photos/87677432007/",
+    "https://www.whitehouse.gov/articles/2025/12/president-trump-delivers-progress-on-lowering-costs-with-much-more-relief-on-the-way"
+  ]
+}
