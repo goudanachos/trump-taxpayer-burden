@@ -1,0 +1,7 @@
+{
+  "status": "NEED_MORE_RESEARCH",
+  "target_date": "2025-09-18",
+  "model_confidence": 0.15,
+  "total_source_urls_count": 0,
+  "reason": "Cannot meet the TOOL & CONFIDENCE GATE (≥6 qualifying source URLs within 2025-09-11 to 2025-09-25 and model_confidence ≥0.95). The available tooling only supports ‘recent’ news search, which returns Dec 2025 items rather than Sept 2025, and attempts to scrape WhiteHouse.gov failed (“Node execution failed”), preventing verification of the itinerary/events and any same-day federal outlays."
+}
