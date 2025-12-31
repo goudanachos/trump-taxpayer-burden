@@ -1,0 +1,28 @@
+{
+  "location": "Palm Beach, Florida (Mar-a-Lago ↔ Trump International Golf Club West Palm Beach)",
+  "activities": [
+    {
+      "name": "NEED_MORE_RESEARCH",
+      "cost": 0,
+      "description": "Unable to produce a defensible taxpayer-cost estimate for 2025-12-27 under the required evidence rules (target_date ±7 days; ≥2 independent sources per event; only federal outlays incurred on the date). The provided roll call indicates a local trip from Mar-a-Lago to Trump International Golf Club West Palm Beach and return, but I could not locate enough in-window, independent, non-paywalled sources that document the specific movements/timestamps to support a costed record.",
+      "category": "research-gate"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "NEED_MORE_RESEARCH — insufficient in-window, independent sourcing to cost Trump’s 2025-12-27 Mar-a-Lago ↔ Trump Intl Golf Club West Palm Beach trip under tracker rules.",
+  "tags": [
+    "need-more-research",
+    "insufficient-sourcing",
+    "mar-a-lago",
+    "golf-trip"
+  ],
+  "confidence_level": "low",
+  "source_urls": [
+    "https://www.palmbeachdailynews.com/story/news/trump/2025/12/27/new-trump-safety-checkpoints-south-of-mar-a-lago-could-back-up-traffic/87930248007/",
+    "https://www.palmbeachpost.com/picture-gallery/news/trump/2025/12/22/trump-florida-presidents-christmas-new-years-in-palm-beach-photos/87860029007/",
+    "https://www.palmbeachpost.com/story/news/trump/2025/12/24/how-president-trump-spent-christmas-eve-in-mar-a-lago-palm-beach/87906162007/",
+    "https://www.businessinsider.com/donald-trump-melania-trump-mar-a-lago-christmas-photos-2025-12",
+    "https://meidasnews.com/news/trump-extends-mar-a-lago-stay-by-two-more-days",
+    "https://www.irishstar.com/sport/golf/donald-trump-taxpayer-golf-trip-36475354"
+  ]
+}
