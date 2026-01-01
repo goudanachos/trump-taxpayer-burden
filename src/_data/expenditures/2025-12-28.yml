@@ -1,0 +1,29 @@
+{
+  "location": "Palm Beach, Florida (Mar-a-Lago; Trump International Golf Club West Palm Beach)",
+  "activities": [
+    {
+      "name": "NEED_MORE_RESEARCH",
+      "cost": 0,
+      "description": "Insufficient verifiable, in-window evidence to compute a taxpayer outlay incurred on 2025-12-28 for (a) the Mar-a-Lago bilateral meeting with Ukraine’s president and (b) the same-day Mar-a-Lago ↔ Trump International Golf Club West Palm Beach trip. Source gathering is incomplete due to tool access failures and lack of two independently verified, in-window sources documenting the specific local movements required to apply the tracker’s cost benchmarks (motorcade/security/LE activation) for the target date.",
+      "category": "research-gate"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "NEED_MORE_RESEARCH — can’t yet defensibly estimate taxpayer outlays for Trump’s 2025-12-28 Mar-a-Lago meetings and evening golf-club trip under the tracker’s evidence rules.",
+  "tags": [
+    "need-more-research",
+    "insufficient-sourcing",
+    "mar-a-lago",
+    "zelensky",
+    "golf-trip"
+  ],
+  "confidence_level": "low",
+  "source_urls": [
+    "https://www.nbcnews.com/politics/donald-trump/trump-meet-zelenskyy-mar-lago-peace-talks-ukraine-russia-rcna251009",
+    "https://abcnews.go.com/Politics/volodymyr-zelenskyy-arrives-mar-lago-peace-talks-president/story?id=128736611",
+    "https://www.cbsnews.com/live-updates/trump-zelenskyy-meeting-florida/",
+    "https://www.cnn.com/politics/live-news/trump-zelensky-ukraine-news-12-28-25",
+    "https://thehill.com/homenews/administration/5664577-live-updates-trump-zelensky-russia-ukraine-meeting/",
+    "https://www.theguardian.com/world/live/2025/dec/28/ukraine-war-live-russia-zelenskyy-trump-meeting-florida-kyiv-latest-news-updates"
+  ]
+}
