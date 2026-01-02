@@ -1,0 +1,21 @@
+{
+  "location": "Palm Beach, Florida (Mar-a-Lago)",
+  "activities": [
+    {
+      "name": "NEED_MORE_RESEARCH",
+      "cost": 0,
+      "description": "Evidence gate not satisfied: unable to confirm ≥6 independent, in-window (2025-12-22 to 2026-01-05) non-paywalled sources documenting the 2025-12-29 Mar-a-Lago bilateral with Israel’s prime minister and any same-day leisure-related movements, and therefore cannot estimate federal outlays incurred on 2025-12-29 under the tracker’s rules.",
+      "category": "research-gate"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "NEED_MORE_RESEARCH — insufficient in-window sourcing to cost 2025-12-29 Mar-a-Lago schedule under tracker rules.",
+  "tags": [
+    "need-more-research",
+    "insufficient-sourcing",
+    "mar-a-lago",
+    "bilateral-meeting"
+  ],
+  "confidence_level": "low",
+  "source_urls": []
+}
