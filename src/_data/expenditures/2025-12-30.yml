@@ -1,0 +1,29 @@
+{
+  "location": "Palm Beach, Florida (Mar-a-Lago ↔ Trump International Golf Club West Palm Beach)",
+  "activities": [
+    {
+      "name": "NEED_MORE_RESEARCH",
+      "cost": 0,
+      "description": "Cannot produce a defensible taxpayer-funded leisure-cost estimate for 2025-12-30 because evidence extraction tools failed (unable to open and quote/verify sources). Under the tracker rules (target_date ±7 days; ≥2 independent sources per event; count only federal outlays incurred on the date), I cannot verify the reported Mar-a-Lago → Trump International Golf Club West Palm Beach movement and return using in-window sources, nor confirm whether/which local law-enforcement activation costs should be applied.",
+      "category": "research-gate"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "NEED_MORE_RESEARCH — insufficient verified, in-window sourcing (and tool access failures) to cost Trump’s 2025-12-30 Mar-a-Lago ↔ Trump Intl Golf Club West Palm Beach trip under tracker rules.",
+  "tags": [
+    "need-more-research",
+    "tool-failure",
+    "insufficient-sourcing",
+    "mar-a-lago",
+    "golf-trip"
+  ],
+  "confidence_level": "low",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://time.com/4885934/white-house-helicopter-cost/",
+    "https://www.theguardian.com/us-news/2025/mar/09/trump-golf-trips",
+    "https://www.pbs.org/newshour/politics/trump-wants-to-overhaul-the-presidents-golf-course-he-hasnt-played-there-yet",
+    "https://abcnews.go.com/US/wireStory/trump-overhaul-presidents-golf-played-128843475"
+  ]
+}
