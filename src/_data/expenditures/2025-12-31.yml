@@ -1,0 +1,28 @@
+{
+  "location": "Palm Beach, Florida (Mar-a-Lago)",
+  "activities": [
+    {
+      "name": "NEED_MORE_RESEARCH",
+      "cost": 0,
+      "description": "Research gate not satisfied. Although multiple in-window reports confirm President Trump attended a New Year’s Eve party at Mar-a-Lago on 2025-12-31, I do not have enough verified, event-specific evidence to translate that into a defensible estimate of federal outlays incurred on the target date under the tracker rules (e.g., which Secret Service staffing level applied; whether/what local law-enforcement assist was formally activated and billable; any itemized federal reimbursements).",
+      "category": "research-gate"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "NEED_MORE_RESEARCH — confirmed NYE at Mar-a-Lago (2025-12-31), but insufficient event-specific evidence to compute defensible federal outlays under tracker rules.",
+  "tags": [
+    "need-more-research",
+    "mar-a-lago",
+    "new-years-eve"
+  ],
+  "confidence_level": "low",
+  "source_urls": [
+    "https://www.cnn.com/2025/12/31/politics/mar-a-lago-new-years-eve-party-trump",
+    "https://apnews.com/video/president-trump-attends-new-years-eve-party-at-mar-a-lago-cb823c5253d84c0d8542b63c55fa61a2",
+    "https://cbs12.com/news/local/president-donald-trump-to-ring-in-2026-at-mar-a-lago-in-palm-beach-south-florida-palm-beach-county-south-ocean-boulevard-traffic-delay-alternate-route-traffic-alert-december-31-2025",
+    "https://www.palmbeachpost.com/story/news/trump/2026/01/01/trump-touts-economy-auctions-painting-at-mar-a-lago-new-years-eve-gala/87968402007/",
+    "https://www.palmbeachpost.com/story/news/trump/2026/01/01/photos-mar-lago-new-years-melania/87981899007/",
+    "https://www.usatoday.com/story/news/politics/2026/01/01/trump-mar-a-lago-new-years-eve-parties-photos/87982782007/",
+    "https://www.the-independent.com/news/world/americas/us-politics/trump-mar-a-lago-florida-nye-party-b2892884.html"
+  ]
+}
