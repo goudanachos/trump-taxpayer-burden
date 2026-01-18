@@ -1,0 +1,38 @@
+{
+  "location": "Palm Beach County, FL (Mar-a-Lago → Lake Worth Beach → Trump International Golf Club West Palm Beach → Mar-a-Lago)",
+  "activities": [
+    {
+      "name": "Golf outing (Trump International Golf Club West Palm Beach) — incremental security + motorcades",
+      "cost": 330000,
+      "description": "Contemporaneous pool coverage and multiple outlets report the President stopped at Arc Stone & Tile in Lake Worth Beach and then went to Trump International Golf Club West Palm Beach, where he played golf. Estimated leisure-day federal outlays attributable to the golf outing include peak off-site protective operations ($300,000/day benchmark) plus three short-trip motorcade movements (Mar-a-Lago→Arc Stone & Tile; Arc Stone & Tile→golf club; golf club→Mar-a-Lago) at $10,000 each.",
+      "category": "security-and-ground-transport"
+    },
+    {
+      "name": "Incidentals (capped)",
+      "cost": 50000,
+      "description": "Unitemized incidentals (additional support vehicles, logistics, overtime/coordination) capped at 15% of (travel + security): 0.15 × ($300,000 + $30,000) = $49,500, rounded to $50,000.",
+      "category": "incidentals"
+    }
+  ],
+  "total_cost": 380000,
+  "social_description": "Jan 2, 2026: Trump went to his West Palm Beach golf club (after a Lake Worth marble stop). Estimated taxpayer leisure outlays (peak off-site security + motorcades + capped incidentals): ≈$380k.",
+  "tags": [
+    "golf",
+    "mar-a-lago",
+    "palm-beach",
+    "motorcade",
+    "secret-service",
+    "estimate"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.usatoday.com/story/news/politics/2026/01/02/trump-motorcade-surprise-stop-white-house-ballroom-marble/87993832007/",
+    "https://www.cnn.com/2026/01/02/politics/white-house-ballroom-marble-trump",
+    "https://thehill.com/homenews/5669827-trump-white-house-ballroom-marble/",
+    "https://www.wpbf.com/article/trump-shops-in-lake-worth-beach-for-ballroom-for-white-house-ballroom/69904653",
+    "https://www.wptv.com/news/trump/president-trump-visits-lake-worth-beach-business-to-shop-for-marble-for-new-white-house-ballroom",
+    "https://www.pbs.org/newshour/politics/trump-wants-to-overhaul-the-presidents-golf-course-he-hasnt-played-there-yet",
+    "https://www.palmbeachpost.com/story/news/trump/2026/01/07/trump-golfing-florida/88071271007/"
+  ],
+  "social_title": "$380,000 for One Day of Golf and Marble Shopping: Trump's Florida Trip Cost Taxpayers More Than the Average American Makes in a Year"
+}
