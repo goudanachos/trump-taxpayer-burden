@@ -1,0 +1,50 @@
+{
+  "location": "Palm Beach County, FL (Mar-a-Lago & Trump International Golf Club West Palm Beach) → Washington, D.C. (White House)",
+  "activities": [
+    {
+      "name": "Golf outing (local motorcades + peak off-site protective detail)",
+      "cost": 340000,
+      "description": "On 2026-01-04, reporting notes the President golfed in Palm Beach County before departing Mar-a-Lago for Palm Beach International Airport and returning to Washington. Estimated federal outlays attributable to this leisure day include peak off-site protective operations ($300,000/day benchmark) plus local motorcade movements for Mar-a-Lago↔golf club and Mar-a-Lago→PBIA (assume ~4 short trips at $10k each, incl. final JBA→WH leg counted separately below).",
+      "category": "security-and-ground-transport"
+    },
+    {
+      "name": "Air Force One (VC-25A) flight: Palm Beach International (PBI) → Joint Base Andrews (JBA)",
+      "cost": 320000,
+      "description": "Estimated VC-25A operating cost for the return flight on 2026-01-04. Using schedule times reported locally (depart 7:00 PM; arrive 8:48 PM ≈ 1.8 flight-hrs) × $177,843/flight-hr (domestic support_factor=0) ≈ $320k.",
+      "category": "air-travel"
+    },
+    {
+      "name": "Local motorcade: Joint Base Andrews → White House",
+      "cost": 10000,
+      "description": "Estimated short-trip motorcade cost for arrival transfer from Joint Base Andrews to the White House after the return flight (benchmark $5k–$10k; use $10k).",
+      "category": "ground-transport"
+    },
+    {
+      "name": "Incidentals (capped)",
+      "cost": 99000,
+      "description": "Unitemized incidentals (additional support vehicles, overtime/coordination, logistics) capped at 15% of (travel + security) per tracker rule: 0.15 × ($320k air + $40k motorcades + $300k security) ≈ $99k.",
+      "category": "incidentals"
+    }
+  ],
+  "total_cost": 759000,
+  "social_description": "Jan 4, 2026: Trump golfed in Palm Beach, then flew Air Force One back to D.C. Estimated taxpayer leisure-related outlays (security + motorcades + AF1 flight + capped incidentals): ≈$759k.",
+  "tags": [
+    "golf",
+    "mar-a-lago",
+    "palm-beach",
+    "air-force-one",
+    "motorcade",
+    "secret-service",
+    "estimate"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.wpbf.com/article/florida-trump-departs-mar-a-lago-for-white-house/69913010",
+    "https://www.whitehouse.gov/gallery/president-donald-trump-departs-palm-beach-international-airport-on-sunday-january-4-2026-en-route-joint-base-andrews-maryland/",
+    "https://www.palmbeachpost.com/story/news/trump/2026/01/07/trump-golfing-florida/88071271007/",
+    "https://www.usatoday.com/story/news/politics/2026/01/06/trump-golfing-holidays/87990637007",
+    "https://www.pbs.org/newshour/politics/trump-wants-to-overhaul-the-presidents-golf-course-he-hasnt-played-there-yet",
+    "https://abcnews.go.com/US/wireStory/trump-overhaul-presidents-golf-played-128843475"
+  ],
+  "social_title": "Trump's January 4, 2026 golf day cost taxpayers $759,000 — enough to pay 15 median American family salaries for a year."
+}
