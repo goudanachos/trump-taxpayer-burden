@@ -1,0 +1,29 @@
+{
+  "location": "Palm Beach, Florida (Mar-a-Lago)",
+  "activities": [
+    {
+      "name": "No taxpayer-funded leisure activities identified",
+      "cost": 0,
+      "description": "Within the evidence window, contemporaneous reporting describes the President at Mar-a-Lago conducting media interviews and holding a press conference about the Venezuela operation/capture of Nicolás Maduro. These are official/communications activities rather than recreational or leisure events; therefore no leisure-related federal outlays are recorded for 2026-01-03 under the tracker rules.",
+      "category": "leisure-none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Jan 3, 2026: Mar-a-Lago interviews + press conference on Venezuela; no verifiable taxpayer-funded leisure activity to cost out. Total leisure cost: $0.",
+  "tags": [
+    "no-leisure-documented",
+    "mar-a-lago",
+    "official-communications"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.npr.org/2026/01/03/g-s1-104346/trump-venezuela-maduro-press-conference",
+    "https://www.pbs.org/newshour/nation/watch-live-trump-holds-news-conference-after-announcing-u-s-has-captured-venezuelan-leader-maduro",
+    "https://www.reuters.com/world/us/live-trump-says-us-has-captured-venezuela-president-maduro-2026-01-03/",
+    "https://www.reuters.com/world/americas/loud-noises-heard-venezuela-capital-southern-area-without-electricity-2026-01-03/",
+    "https://democrats.senate.gov/newsroom/trump-transcripts/transcript-president-trump-calls-in-for-a-live-interview-on-fox-and-friends-weekend-10326",
+    "https://www.foxnews.com/live-news/us-strikes-venezuela-maduro-captured-january-3-2026",
+    "https://abcnews.go.com/International/explosions-heard-venezuelas-capital-city-caracas/story?id=128861598",
+    "https://www.cbsnews.com/live-updates/venezuela-us-military-strikes-maduro-trump/"
+  ]
+}
