@@ -1,0 +1,27 @@
+{
+  "location": "Washington, D.C. (White House & Kennedy Center)",
+  "activities": [
+    {
+      "name": "No taxpayer-funded leisure activities identified",
+      "cost": 0,
+      "description": "Public schedule and contemporaneous coverage show the President traveling locally between the White House and the Kennedy Center for official remarks/meetings, with no documented recreational/leisure activity on 2026-01-06 under the evidence-window rules. Accordingly, no leisure-related federal outlays are recorded for this date.",
+      "category": "leisure-none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Jan 6, 2026: official White House/Kennedy Center events only; no verifiable taxpayer-funded leisure activity to cost out. Total leisure cost: $0.",
+  "tags": [
+    "no-leisure-documented",
+    "official-duties",
+    "dc-local-travel"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://apnews.com/article/trump-house-republicans-meeting-kennedy-center-ad8705ea228a8a4591567fb51f87edb3",
+    "https://www.reuters.com/world/us/trump-house-republicans-if-we-dont-win-midterms-i-will-get-impeached-2026-01-06/",
+    "https://www.c-span.org/program/white-house-event/president-trump-speaks-at-house-gop-retreat/671214",
+    "https://www.pbs.org/newshour/politics/watch-live-trump-speaks-at-house-gop-retreat-on-election-year-agenda",
+    "https://www.politico.com/news/2026/01/06/trump-january-6-remarks-00712597",
+    "https://www.whitehouse.gov/videos/president-trump-delivers-remarks-at-the-house-gop-member-retreat/"
+  ]
+}
