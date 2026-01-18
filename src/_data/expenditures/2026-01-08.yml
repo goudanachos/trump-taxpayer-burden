@@ -1,0 +1,28 @@
+{
+  "location": "The White House (Washington, DC)",
+  "activities": [
+    {
+      "name": "No identifiable taxpayer-funded leisure or recreational activity",
+      "cost": 0,
+      "description": "Public schedule and contemporaneous reporting place President Trump at the White House for official activities (East Room photo opportunity, intelligence briefing, press briefing with VP Vance, and a call-in interview), with no verified leisure outing (e.g., golf, resort stay, or other recreation) on 2026-01-08. Under the tracker rules, no federal outlays are attributed specifically to leisure/recreation for this date.",
+      "category": "no-leisure-detected"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Jan 8, 2026: Trump’s day was White House–based official business (briefings/interviews). No verified leisure travel or recreation → estimated leisure cost: $0.",
+  "tags": [
+    "white-house",
+    "official-schedule",
+    "no-leisure-travel",
+    "zero-cost-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/videos/press-briefing-by-press-secretary-karoline-leavitt-and-the-vice-president-jan-8-2026/",
+    "https://www.pbs.org/newshour/politics/watch-live-vance-joins-white-house-briefing",
+    "https://rollcall.com/factbase/trump/transcript/donald-trump-interview-hugh-hewitt-radio-january-8-2026",
+    "https://apnews.com/live/donald-trump-news-updates-1-8-2026",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://rollcall.com/factbase/trump/topic/calendar/"
+  ]
+}
