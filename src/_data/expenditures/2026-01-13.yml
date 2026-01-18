@@ -1,0 +1,31 @@
+{
+  "location": "Dearborn & Detroit, Michigan (official day trip; no leisure stop verified)",
+  "activities": [
+    {
+      "name": "No identifiable taxpayer-funded leisure or recreational activity",
+      "cost": 0,
+      "description": "President Trump traveled from Washington, DC to the Detroit area for official events (Ford Rouge Complex visit/plant tour, CBS interview, and Detroit Economic Club remarks) and returned to the White House the same day. No verified golf, resort stay, or other recreational/leisure activity occurred on 2026-01-13 within the evidence window; therefore no leisure-attributable federal outlays are counted for this date under tracker rules.",
+      "category": "no-leisure-detected"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Jan 13, 2026: Trump made an official day trip to Dearborn/Detroit (Ford Rouge tour + Detroit Economic Club speech). No verified leisure/recreation stops → estimated leisure cost: $0.",
+  "tags": [
+    "official-travel",
+    "michigan",
+    "detroit",
+    "dearborn",
+    "no-leisure-travel",
+    "zero-cost-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/gallery/president-donald-trumps-trip-to-detroit-michigan-tuesday-january-13-2026/",
+    "https://www.pbs.org/newshour/politics/trump-will-visit-a-ford-factory-and-promote-manufacturing-in-detroit",
+    "https://www.npr.org/2026/01/13/nx-s1-5675293/trump-heads-to-detroit-to-give-a-speech-refocusing-on-the-american-economy",
+    "https://www.cbsnews.com/detroit/news/president-trump-detroit-economic-club-speech-watch-live/",
+    "https://www.detroitnews.com/story/news/politics/2026/01/13/donald-trump-detroit-economic-club-speech-michigan-ford-motor-plant-tour/88144152007/",
+    "https://www.theguardian.com/us-news/2026/jan/13/trump-middle-finger-michigan",
+    "https://www.cnn.com/politics/live-news/trump-administration-news-01-13-26"
+  ]
+}
