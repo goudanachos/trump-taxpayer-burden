@@ -1,0 +1,29 @@
+{
+  "location": "The White House (Washington, DC)",
+  "activities": [
+    {
+      "name": "No identifiable taxpayer-funded leisure travel or recreational activity",
+      "cost": 0,
+      "description": "Public schedule and contemporaneous reporting place President Trump at the White House for official events (signing ceremony and Oval Office interview), with no verified golf outing, resort stay, or other leisure-related travel on 2026-01-14. Under the tracker rules, no federal outlays attributable specifically to leisure/recreation are counted for this date.",
+      "category": "no-leisure-detected"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Jan 14, 2026: Trump spent the day at the White House for official events; no verified leisure travel or recreation attributable to taxpayer-funded costs. Estimated leisure cost: $0.",
+  "tags": [
+    "white-house",
+    "no-leisure-travel",
+    "official-schedule",
+    "zero-cost-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/videos/president-trump-participates-in-a-signing-ceremony-jan-14-2026/",
+    "https://www.reuters.com/world/us/key-quotes-president-trumps-interview-with-reuters-2026-01-15/",
+    "https://apnews.com/live/donald-trump-news-updates-1-14-2026",
+    "https://www.cnn.com/politics/live-news/trump-presidency-administration-greenland-venezuela-01-14-26",
+    "https://www.whitehouse.gov/presidential-actions/2026/01/adjusting-imports-of-processed-critical-minerals-and-their-derivative-products-into-the-united-states/",
+    "https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-directs-negotiations-to-adjust-imports-of-processed-critical-minerals-and-their-derivative-products-into-the-united-states/",
+    "https://rollcall.com/factbase/trump/topic/calendar/"
+  ]
+}
