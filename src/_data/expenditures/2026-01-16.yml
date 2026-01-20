@@ -1,0 +1,49 @@
+{
+  "location": "Palm Beach, FL (Mar-a-Lago)",
+  "activities": [
+    {
+      "name": "Air Force One travel (JBA → Palm Beach International)",
+      "cost": 374000,
+      "description": "Estimated VC-25A flight cost for the one-way domestic leg from Joint Base Andrews to Palm Beach International on 2026-01-16. Flight time is approximated at ~2.1 hours based on published departure/arrival timing in pooled schedule guidance (1:15 PM departure from JBA; arrival mid-afternoon in Palm Beach, with local reporting placing arrival around 3:30 PM). Rate: $177,843 per flight-hour; support_factor assumed 0 (domestic).",
+      "category": "travel"
+    },
+    {
+      "name": "Motorcade transfers (PBIA → Southern Blvd ceremony/Mar-a-Lago)",
+      "cost": 10000,
+      "description": "Estimated local motorcade cost for airport-to-event/Mar-a-Lago movements in Palm Beach County on 2026-01-16 (benchmark short-trip range $5k–$10k; uses upper end due to security footprint and closures associated with a presidential movement).",
+      "category": "ground-transport"
+    },
+    {
+      "name": "Secret Service & staff (peak off-site protective mission)",
+      "cost": 300000,
+      "description": "Estimated incremental federal protective-mission cost for an off-site day at/around Mar-a-Lago in Palm Beach on 2026-01-16, using the GAO-identified upper-bound benchmark ($300k/day) for peak off-site protection operations.",
+      "category": "security"
+    },
+    {
+      "name": "Incidentals (capped estimate)",
+      "cost": 101000,
+      "description": "Capped estimate for incidentals (communications/support/logistics) at 15% of (travel + security) per benchmark guidance: 0.15 × ($374,000 + $300,000) ≈ $101,000.",
+      "category": "incidentals"
+    }
+  ],
+  "total_cost": 785000,
+  "social_description": "Jan 16, 2026: Trump traveled from DC to Mar-a-Lago for the Southern Boulevard renaming ceremony—estimated taxpayer outlay ≈ $785k (Air Force One flight, Palm Beach motorcade moves, peak off-site protection, and capped incidentals).",
+  "tags": [
+    "travel-day",
+    "mar-a-lago",
+    "palm-beach",
+    "road-renaming",
+    "vc-25a",
+    "secret-service"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.tradingview.com/news/macenews:235ede225094b:0-friday-sunday-white-house-schedule-back-to-mar-a-lago/",
+    "https://www.wptv.com/news/trump/southern/boulevard/dedication/cermoney/1-15-26",
+    "https://www.whitehouse.gov/videos/president-trump-participates-in-the-southern-boulevard-dedication-ceremony/",
+    "https://www.pbs.org/newshour/politics/watch-trump-attends-ceremony-in-florida-renaming-southern-boulevard-in-his-honor",
+    "https://cbs12.com/news/local/trump-to-attend-renaming-part-of-southern-blvd-as-president-donald-j-trump-boulevard-january-16-2026",
+    "https://www.wpbf.com/article/president-trump-palm-beach-road-renaming-ceremony/70020553"
+  ],
+  "social_title": "$374,000 Flight + $300,000 Security: How Trump's Single Day Trip to Mar-a-Lago Cost Taxpayers $785,000"
+}
