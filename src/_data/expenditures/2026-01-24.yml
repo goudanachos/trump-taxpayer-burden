@@ -1,0 +1,34 @@
+{
+  "location": "The White House (Washington, DC)",
+  "activities": [
+    {
+      "name": "White House on-site protection & staffing (baseline day)",
+      "cost": 75000,
+      "description": "Estimated taxpayer-funded on-site security/staffing cost for a day with the President at the White House (no off-site travel).",
+      "category": "security"
+    },
+    {
+      "name": "White House film screening (operations/catering incidentals)",
+      "cost": 10000,
+      "description": "Estimated incremental White House event incidentals (e.g., screening logistics and hosting/catering) for the evening screening of the film \"Melania\"; capped at ≤15% of (travel + security) per benchmark rules (15% of $75,000 = $11,250).",
+      "category": "incidentals"
+    }
+  ],
+  "total_cost": 85000,
+  "social_description": "Estimated taxpayer cost for Jan 24, 2026: ~$85K for a White House day including an evening screening of the film “Melania” (baseline WH protection/staffing plus limited hosting incidentals).",
+  "tags": [
+    "white-house",
+    "screening",
+    "in-town",
+    "incidentals"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.reuters.com/business/media-telecom/first-lady-melania-trump-preview-new-film-private-white-house-screening-2026-01-23/",
+    "https://thehill.com/blogs/in-the-know/5704467-first-lady-film-premiere/",
+    "https://people.com/melania-trump-hosts-exclusive-white-house-screening-new-documentary-calls-it-historic-moment-11892140",
+    "https://www.foxnews.com/lifestyle/melania-trump-hosts-star-studded-white-house-screening-ahead-film-release",
+    "https://www.theguardian.com/film/filmblog/2026/jan/26/melania-amazon-authorised-documentary-white-house-premiere",
+    "https://www.usatoday.com/story/news/politics/2026/01/26/donald-trump-promotes-melania-trump-documentary/88364937007/"
+  ]
+}
