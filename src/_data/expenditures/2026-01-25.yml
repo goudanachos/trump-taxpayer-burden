@@ -1,0 +1,27 @@
+{
+  "location": "The White House (Washington, DC)",
+  "activities": [
+    {
+      "name": "White House on-site protection & staffing (baseline day)",
+      "cost": 75000,
+      "description": "Estimated taxpayer-funded on-site security/staffing cost for a day with the President at the White House, with no public off-site events or travel indicated.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "Jan 25, 2026 estimate: ~$75K in taxpayer cost for a quiet, in-town White House day (baseline protection/staffing; no travel costs identified).",
+  "tags": [
+    "white-house",
+    "in-town",
+    "no-travel"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.notus.org/trump-white-house/trump-quiet-schedule-alex-pretti",
+    "https://www.foxnews.com/politics/trump-confirms-federal-review-minneapolis-shooting-killed-nurse-reviewing-everything",
+    "https://www.cnbc.com/2026/01/26/trump-tom-homan-minnesota-alex-pretti-ice.html",
+    "https://www.reuters.com/world/us/minneapolis-shootings-put-trumps-immigration-surge-center-election-year-fight-2026-01-25/",
+    "https://thehill.com/homenews/media/5706476-wall-street-journal-trump-administration-alex-pretti/",
+    "https://www.mediaite.com/media/news/mediaite-one-sheet-bari-weiss-minneapolis-coverage-davos-and-more-2-2-2/"
+  ]
+}
