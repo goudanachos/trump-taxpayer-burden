@@ -1,0 +1,34 @@
+{
+  "location": "Washington, DC (The White House ↔ Andrew W. Mellon Auditorium)",
+  "activities": [
+    {
+      "name": "Secret Service & staff (official/on-site day)",
+      "cost": 75000,
+      "description": "Estimated baseline federal cost for protective operations and staffing on an official day in Washington (no overnight off-site protective surge assumed).",
+      "category": "security"
+    },
+    {
+      "name": "Local motorcade movements (WH ↔ Andrew W. Mellon Auditorium)",
+      "cost": 15000,
+      "description": "Estimated local motorcade cost for two short trips (depart White House to Andrew W. Mellon Auditorium and return), using the benchmark range $5k–$10k per short trip (midpoint ~$7.5k × 2).",
+      "category": "travel"
+    }
+  ],
+  "total_cost": 90000,
+  "social_description": "Jan 28, 2026 estimate: ~$90K in taxpayer costs for an in-town DC day with a motorcade to/from the Andrew W. Mellon Auditorium for “Trump Accounts” remarks (baseline protection + local travel).",
+  "tags": [
+    "washington-dc",
+    "white-house",
+    "motorcade",
+    "official-event"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://thehill.com/homenews/administration/5710784-trump-administration-children-investment-accounts/",
+    "https://abcnews.go.com/Politics/trump-urge-families-open-trump-accounts-tax-season/story?id=129611160",
+    "https://rollcall.com/factbase/trump/transcript/donald-trump-remarks-trump-accounts-washington-january-28-2026/",
+    "https://www.breitbart.com/politics/2026/01/28/potus-trump-accounts-will-put-3-4-trillion-of-wealth-in-young-americans-hands/",
+    "https://6abc.com/post/trump-touts-accounts-children-transformative/18495938",
+    "https://foxbusiness.com/politics/trump-accounts-hit-1-million-sign-ups-after-nicki-minaj-white-house-summit-appearance-bessent-says"
+  ]
+}
