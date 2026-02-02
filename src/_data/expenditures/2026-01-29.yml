@@ -1,0 +1,25 @@
+{
+  "location": "NEED_MORE_RESEARCH",
+  "activities": [
+    {
+      "name": "Research gate not met for 2026-01-29",
+      "cost": 0,
+      "description": "Insufficient validated, in-window, non-paywalled source set and/or confidence below required threshold (>=0.95) to produce a defensible taxpayer outlay estimate for the Kennedy Center screening trip on 2026-01-29. More corroborated sourcing and cost-specific evidence (e.g., confirmed security posture/agency overtime activations, transportation assets used, and any reimbursed venue costs) is required.",
+      "category": "meta"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "NEED_MORE_RESEARCH — not enough corroborated, cost-relevant evidence within the required window to estimate taxpayer-funded leisure outlays for 2026-01-29 with >=0.95 confidence.",
+  "tags": [
+    "need-more-research",
+    "research-gate",
+    "insufficient-evidence"
+  ],
+  "confidence_level": "low",
+  "source_urls": [
+    "https://www.pbs.org/newshour/politics/trumps-attend-melania-film-premiere-at-the-kennedy-center-ahead-of-global-release",
+    "https://abcnews.go.com/GMA/Culture/melania-trump-documentary-melania-premiere-kennedy-center-ahead/story?id=129667776",
+    "https://www.usatoday.com/story/entertainment/movies/2026/01/29/melania-movie-documentary-fashion-looks/88415911007/",
+    "https://www.foxnews.com/lifestyle/melania-world-premiere-president-trump-first-lady-rfk-jr-nicki-minaj-light-up-red-carpet"
+  ]
+}
