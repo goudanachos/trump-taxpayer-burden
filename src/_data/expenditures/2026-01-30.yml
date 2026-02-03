@@ -1,0 +1,27 @@
+{
+  "location": "NEED_MORE_RESEARCH",
+  "activities": [
+    {
+      "name": "Research gate not met for 2026-01-30",
+      "cost": 0,
+      "description": "Cannot meet the tool & confidence gate (>=6 in-window source URLs and model_confidence>=0.95). The provided roll call shows only in-White-House official activities; no corroborated leisure/recreation event and no cost-specific evidence for incremental taxpayer outlays on 2026-01-30 beyond routine baseline operations. Additional sourcing is needed (e.g., official daily schedule/link, pool reports, and any confirmed off-site leisure travel/security activation) to produce a defensible estimate.",
+      "category": "meta"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "NEED_MORE_RESEARCH — 2026-01-30 shows only in-White-House official events; no corroborated leisure outlays and insufficient in-window sources to estimate any incremental taxpayer cost with high confidence.",
+  "tags": [
+    "need-more-research",
+    "research-gate",
+    "no-confirmed-leisure-event"
+  ],
+  "confidence_level": "low",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://time.com/4885934/white-house-helicopter-cost/",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://www.dau.edu/sites/default/files/2025-02/2025%20OS%20Cost%20Estimating%20Guide.pdf"
+  ]
+}
