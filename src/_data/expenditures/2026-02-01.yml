@@ -1,0 +1,27 @@
+{
+  "location": "NEED_MORE_RESEARCH",
+  "activities": [
+    {
+      "name": "Research gate not met for 2026-02-01",
+      "cost": 0,
+      "description": "Cannot satisfy the required evidence and confidence gate (>=6 in-window sources and model_confidence>=0.95) to estimate incremental federal outlays associated with 2026-02-01 Mar-a-Lago activities (wedding appearance, local movements) and return travel Palm Beach (PBI) → Joint Base Andrews. Critical details remain unverified with sufficient independent, in-window reporting (e.g., aircraft type/flight hours, confirmed motorcade legs, local law-enforcement activation/overtime, and whether any costs were reimbursed). Additional corroborated sources are required before producing a defensible cost estimate.",
+      "category": "meta"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "NEED_MORE_RESEARCH — insufficient in-window, corroborated evidence to estimate taxpayer-funded leisure/travel outlays for Trump’s 2026-02-01 Mar-a-Lago day and return flight with >=0.95 confidence.",
+  "tags": [
+    "need-more-research",
+    "research-gate",
+    "insufficient-evidence"
+  ],
+  "confidence_level": "low",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://time.com/4885934/white-house-helicopter-cost/",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://www.dau.edu/sites/default/files/2025-02/2025%20OS%20Cost%20Estimating%20Guide.pdf"
+  ]
+}
