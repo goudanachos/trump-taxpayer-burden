@@ -1,0 +1,29 @@
+{
+  "location": "NEED_MORE_RESEARCH",
+  "activities": [
+    {
+      "name": "Research gate not met for 2026-02-02",
+      "cost": 0,
+      "description": "Cannot satisfy the tool & confidence gate (>=6 in-window corroborating source URLs and model_confidence>=0.95) to estimate incremental taxpayer-funded leisure/recreation outlays on 2026-02-02. The provided roll call indicates mostly in-White-House official activity plus an evening movement from Joint Base Andrews to the White House after a ‘full lid’ call, but there is insufficient independently verified, in-window reporting on what transportation assets were used (e.g., Marine One vs. motorcade), whether any off-site/leisure activity occurred, and whether local law enforcement was activated for any movements. As a result, no defensible same-day federal outlay estimate can be produced under the stated rules.",
+      "category": "meta"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "NEED_MORE_RESEARCH — 2026-02-02 lacks enough in-window, corroborated sourcing to verify any leisure event and the specific transport/security assets used, so no defensible taxpayer outlay estimate.",
+  "tags": [
+    "need-more-research",
+    "research-gate",
+    "insufficient-evidence",
+    "transport-asset-unverified"
+  ],
+  "confidence_level": "low",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://time.com/4885934/white-house-helicopter-cost/",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://www.dau.edu/sites/default/files/2025-02/2025%20OS%20Cost%20Estimating%20Guide.pdf",
+    "https://state.gov/releases/2026/02/public-schedule-february-2-2026"
+  ]
+}
