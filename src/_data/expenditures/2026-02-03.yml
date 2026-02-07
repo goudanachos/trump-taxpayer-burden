@@ -1,0 +1,27 @@
+{
+  "location": "NEED_MORE_RESEARCH",
+  "activities": [
+    {
+      "name": "Research gate not met for 2026-02-03",
+      "cost": 0,
+      "description": "Cannot satisfy the tool & confidence gate (>=6 corroborating in-window sources and model_confidence>=0.95) to estimate any taxpayer-funded leisure/recreation outlays on 2026-02-03. The roll call provided shows only official White House events (meeting with Colombia’s president; signing/bill signing; press briefing) and a ‘full lid’ call, but no independently verified leisure activity and no verifiable incremental travel/security outlays for that date. Additional in-window sources (official daily schedule link/pool report; confirmations of any off-site movement and assets used; any local law-enforcement activation) are required before producing a defensible cost estimate.",
+      "category": "meta"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "NEED_MORE_RESEARCH — 2026-02-03 appears to be an official White House workday; insufficient in-window sourcing to verify any leisure activity or incremental taxpayer outlays with >=0.95 confidence.",
+  "tags": [
+    "need-more-research",
+    "research-gate",
+    "no-confirmed-leisure-event"
+  ],
+  "confidence_level": "low",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://time.com/4885934/white-house-helicopter-cost/",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://www.dau.edu/sites/default/files/2025-02/2025%20OS%20Cost%20Estimating%20Guide.pdf"
+  ]
+}
