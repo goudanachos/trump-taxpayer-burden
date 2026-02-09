@@ -1,0 +1,28 @@
+{
+  "location": "Washington, D.C. (White House ↔ Washington Hilton)",
+  "activities": [
+    {
+      "name": "No recreational/leisure activity identified (official public events only)",
+      "cost": 0,
+      "description": "Public schedule shows President Trump traveling by local motorcade to/from the Washington Hilton for the National Prayer Breakfast and later making an official announcement at the White House. No golf, resort stay, or other leisure/recreational activity is evidenced for 2026-02-05; therefore no taxpayer-funded leisure outlays are recorded for this date.",
+      "category": "no-leisure"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Feb 5, 2026: Schedule reflects official events (National Prayer Breakfast, WH announcement). No documented leisure/recreation activity → $0 taxpayer-funded leisure cost recorded.",
+  "tags": [
+    "no-leisure",
+    "official-duty",
+    "washington-dc"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.tradingview.com/news/macenews:8cb044156094b:0-thursday-white-house-schedule-president-trump-makes-an-announcement-at-7p-et-press-briefing-1p-et/",
+    "https://www.whitehouse.gov/videos/president-trump-attends-the-national-prayer-breakfast/",
+    "https://www.whitehouse.gov/videos/president-trump-makes-an-announcement-feb-5-2026/",
+    "https://religionnews.com/2026/02/05/at-dueling-national-prayer-breakfasts-sings-of-a-simmering-religious-debate-over-trump/",
+    "https://www.theguardian.com/us-news/2026/feb/05/trump-religious-right-republicans",
+    "https://www.foxnews.com/politics/trump-jokes-he-hangs-around-mike-johnson-because-he-feels-protected-prayer-breakfast",
+    "https://www.upi.com/Top_News/US/2026/02/05/national-prayer-breakfast-trump/4181770307743"
+  ]
+}
