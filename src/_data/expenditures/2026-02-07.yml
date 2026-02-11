@@ -1,0 +1,42 @@
+{
+  "location": "Palm Beach County, Florida (Mar-a-Lago ↔ Trump International Golf Club West Palm Beach)",
+  "activities": [
+    {
+      "name": "Golf outing at Trump International Golf Club West Palm Beach (off-site presidential protection)",
+      "cost": 300000,
+      "description": "President traveled from Mar-a-Lago to Trump International Golf Club West Palm Beach and spent much of the day at the course. Estimated federal protective posture for an off-site day is benchmarked at the GAO upper-bound ‘peak off-site’ Secret Service & support level.",
+      "category": "secret-service-off-site"
+    },
+    {
+      "name": "Local motorcade transfers (Mar-a-Lago ↔ golf club)",
+      "cost": 20000,
+      "description": "Two short local motorcade moves: Mar-a-Lago → Trump International Golf Club West Palm Beach (depart 9:21 AM, arrive 9:29 AM) and return (depart 3:00 PM, arrive 3:10 PM). Costed at $10k per short trip (benchmark range $5k–$10k).",
+      "category": "local-motorcade"
+    },
+    {
+      "name": "Incidentals (logistics/communications/support)",
+      "cost": 48000,
+      "description": "Capped estimate at 15% of (travel + security) per benchmark guidance: 0.15 × ($300,000 + $20,000) = $48,000.",
+      "category": "incidentals"
+    }
+  ],
+  "total_cost": 368000,
+  "social_description": "Feb 7, 2026: Trump went from Mar-a-Lago to Trump Int’l Golf Club (West Palm Beach) for a day of golf, then returned—estimated taxpayer leisure-related outlays: ~$368k (off-site protection + motorcades + incidentals).",
+  "tags": [
+    "golf",
+    "mar-a-lago",
+    "west-palm-beach",
+    "off-site-protection",
+    "motorcade"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.tradingview.com/news/macenews:d258faf28094b:0-friday-sunday-white-house-schedule-president-trump-meets-with-the-president-of-honduras-saturday-at-mar-a-lago/",
+    "https://cbs12.com/news/local/pres-trump-golfs-in-west-palm-beach-with-sens-schmitt-and-graham-as-controversy-grows-reagan-plus-barack-obama-michelle-obama-racist-social-media-post-tim-scott-white-house-backlash-unnamed-staffer-air-force-one-trump-international-golf-club-deleted",
+    "https://thenationaldesk.com/news/politics/trump-hosting-honduras-new-president-nasry-asfura-at-mar-a-lago-florida-leaders-immigration-trade-crime-social-services-education-health-care",
+    "https://www.reuters.com/world/americas/trump-meets-with-honduran-president-asfura-2026-02-08/",
+    "https://www.aljazeera.com/news/2026/2/8/trump-hosts-hondurass-new-president-asfura-at-mar-a-lago-in-us",
+    "https://www.reutersconnect.com/item/the-presidential-limousine-carrying-us-president-donald-trump-departs-from-mar-a-lago/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlFISkFFMjIzOA"
+  ],
+  "social_title": "$368,000 for a Day of Golf: Trump Spent $20,000 Just on 8-Minute Motorcade Rides"
+}
