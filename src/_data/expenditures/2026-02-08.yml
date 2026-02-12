@@ -1,0 +1,28 @@
+{
+  "location": "NEED_MORE_RESEARCH",
+  "activities": [
+    {
+      "name": "Research gate not satisfied (model_confidence < 0.95)",
+      "cost": 0,
+      "description": "Insufficient verified, in-window evidence to compute taxpayer outlays incurred on 2026-02-08 at ≥0.95 confidence (notably: no independently confirmed Air Force One flight-hours/aircraft details for PBI→JBA leg; schedule timestamps alone are not a validated cost basis).",
+      "category": "meta"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "NEED_MORE_RESEARCH",
+  "tags": [
+    "need-more-research",
+    "insufficient-evidence",
+    "flight-hours-unverified"
+  ],
+  "confidence_level": "low",
+  "source_urls": [
+    "https://www.tradingview.com/news/macenews:d258faf28094b:0-friday-sunday-white-house-schedule-president-trump-meets-with-the-president-of-honduras-saturday-at-mar-a-lago/",
+    "https://www.reuters.com/sports/trump-absent-super-bowl-wishes-teams-well-2026-02-08/",
+    "https://thehill.com/homenews/administration/5729459-graham-others-post-pictures-from-trumps-super-bowl-watch-party/",
+    "https://www.palmbeachpost.com/story/news/2026/02/09/trump-super-bowl-florida-bad-bunny-melania-barron-viktor-knavs/88595744007/",
+    "https://www.reutersconnect.com/item/the-presidential-limousine-carrying-us-president-donald-trump-departs-from-mar-a-lago/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlFISkFFMjIzOA",
+    "https://www.reutersconnect.com/item/the-presidential-limousine-carrying-us-president-donald-trump-departs-from-trump-international-golf-club-west-palm-in-west-palm-beach/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlhISkEyVkNJSw",
+    "https://snopes.com/news/2026/02/09/trump-watching-bad-bunny"
+  ]
+}
