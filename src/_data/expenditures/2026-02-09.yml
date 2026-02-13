@@ -1,0 +1,27 @@
+{
+  "location": "NEED_MORE_RESEARCH",
+  "activities": [
+    {
+      "name": "Research gate not satisfied for 2026-02-09 (insufficient corroborated schedule/evidence)",
+      "cost": 0,
+      "description": "Only one accessible, in-window schedule posting was found confirming the President’s movements and events on Feb. 9, 2026. Without at least two independent, in-window sources confirming the day’s detailed movements (and thus ruling in/out any leisure travel or off-site recreational activity), this tracker cannot certify a $0 ‘leisure cost’ entry at ≥0.95 confidence under the tool & confidence gate.",
+      "category": "meta"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "NEED_MORE_RESEARCH",
+  "tags": [
+    "need-more-research",
+    "insufficient-independent-sources",
+    "schedule-not-fully-verified"
+  ],
+  "confidence_level": "low",
+  "source_urls": [
+    "https://conservativedailynews.com/2026/02/president-donald-trumps-schedule-for-monday-february-9-2026/",
+    "https://www.cnn.com/politics/live-news/trump-administration-news-02-09-26",
+    "https://www.reuters.com/world/us/governors-skip-trump-meeting-after-white-house-invited-only-republicans-source-2026-02-10/",
+    "https://thehill.com/homenews/administration/5729459-graham-others-post-pictures-from-trumps-super-bowl-watch-party",
+    "https://www.palmbeachpost.com/story/news/2026/02/09/trump-super-bowl-florida-bad-bunny-melania-barron-viktor-knavs/88595744007/",
+    "https://www.snopes.com/news/2026/02/09/trump-watching-bad-bunny/"
+  ]
+}
