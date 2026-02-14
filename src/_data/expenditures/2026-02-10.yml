@@ -1,0 +1,28 @@
+{
+  "location": "NEED_MORE_RESEARCH",
+  "activities": [
+    {
+      "name": "Research gate not satisfied for 2026-02-10 (leisure classification + incremental cost uncertainty)",
+      "cost": 0,
+      "description": "While multiple in-window sources corroborate that Feb. 10, 2026 activities were centered at the White House (press briefing; ‘Signing Time’; policy meeting; ‘Private Dinner’), available public documentation does not reliably establish whether the ‘Private Dinner’ constitutes recreational/leisure activity versus an official/political function, nor does it provide an auditable basis for incremental taxpayer outlays attributable specifically to leisure (as distinct from baseline White House operations/protection already incurred that day). Under the tool & confidence gate requiring model_confidence ≥ 0.95, this record returns NEED_MORE_RESEARCH rather than asserting a dollar estimate.",
+      "category": "meta"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "NEED_MORE_RESEARCH",
+  "tags": [
+    "need-more-research",
+    "private-dinner-unclear",
+    "incremental-cost-unverifiable",
+    "white-house"
+  ],
+  "confidence_level": "low",
+  "source_urls": [
+    "https://www.tradingview.com/news/macenews:6724aa8de094b:0-tuesday-white-house-schedule-president-trump-has-signing-time-at-4-30p-et-press-briefing-at-1p-et/",
+    "https://conservativedailynews.com/2026/02/president-donald-trumps-schedule-for-tuesday-february-10-2026/",
+    "https://www.whitehouse.gov/videos/press-secretary-karoline-leavitt-briefs-members-of-the-media-feb-10-2026/",
+    "https://rollcall.com/factbase/trump/transcript/donald-trump-press-briefing-karoline-leavitt-the-white-house-february-10-2026/",
+    "https://thehill.com/homenews/administration/5729965-live-updates-trump-dhs-funding-shutdown/",
+    "https://www.state.gov/releases/2026/02/public-schedule-february-10-2026/"
+  ]
+}
