@@ -1,0 +1,20 @@
+{
+  "location": "NEED_MORE_RESEARCH",
+  "activities": [
+    {
+      "name": "Research gate not satisfied for 2026-02-11",
+      "cost": 0,
+      "description": "Cannot continue because required gate is unmet: total_source_urls_count ≥ 6 and model_confidence ≥ 0.95. No validated in-window, independent sourcing was gathered via tools for the Feb 11, 2026 schedule to confirm leisure/recreational activity and attributable federal outlays.",
+      "category": "meta"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "NEED_MORE_RESEARCH",
+  "tags": [
+    "need-more-research",
+    "gate-failed",
+    "insufficient-sourcing"
+  ],
+  "confidence_level": "low",
+  "source_urls": []
+}
