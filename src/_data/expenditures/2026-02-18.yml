@@ -1,0 +1,28 @@
+{
+  "location": "The White House (Washington, DC)",
+  "activities": [
+    {
+      "name": "No identified taxpayer-funded leisure activity (official White House schedule)",
+      "cost": 0,
+      "description": "Available in-window reporting and official materials describe a White House day (press briefing, Black History Month reception, and other official meetings/signing time) with no travel to private properties, golfing, or other recreational activity confirmed for Feb. 18, 2026. Under the tracker rules, no federal outlays are scored as leisure for this date.",
+      "category": "leisure"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Feb 18, 2026: White House day (press briefing + Black History Month reception). No confirmed golf, resort stay, or other leisure travel—tracked leisure outlay: $0.",
+  "tags": [
+    "no-leisure-activity",
+    "white-house",
+    "official-schedule",
+    "black-history-month"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://apnews.com/article/trump-black-history-month-white-house-5504416889f26156dcbdfc24d34b5c60",
+    "https://www.reuters.com/world/us/trump-basks-black-history-month-praise-dodging-racism-claims-2026-02-19/",
+    "https://www.pbs.org/newshour/politics/watch-trump-remembers-jesse-jackson-at-black-history-month-event",
+    "https://www.usatoday.com/story/news/politics/2026/02/18/trump-black-history-month-obama-ape-video/88743957007/",
+    "https://rollcall.com/factbase/trump/transcript/donald-trump-press-briefing-karoline-leavitt-the-white-house-february-18-2026/",
+    "https://www.newsnationnow.com/politics/trump-to-host-black-history-month-reception/"
+  ]
+}
