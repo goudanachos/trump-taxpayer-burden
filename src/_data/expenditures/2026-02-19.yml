@@ -1,0 +1,29 @@
+{
+  "location": "Rome, Georgia (day trip from Washington, D.C.)",
+  "activities": [
+    {
+      "name": "NEED_MORE_RESEARCH",
+      "cost": 0,
+      "description": "Insufficient verified, in-window documentation to estimate taxpayer-funded outlays on 2026-02-19 at ≥0.95 confidence. While multiple in-window news reports confirm President Trump traveled to Rome, GA and spoke at Coosa Steel (including arriving aboard Air Force One), the sources scraped do not provide the operational details needed to price same-day federal outlays (e.g., verified flight hours by tail/route, support aircraft/support_factor, use of Marine One vs. motorcade legs, Secret Service off-site surge level, and whether/extent local law-enforcement activation costs were incurred and reimbursed on the target date).",
+      "category": "meta"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "NEED_MORE_RESEARCH — confirmed Rome, GA trip and Coosa Steel stop on 2026-02-19, but not enough verified operational detail to compute federal leisure/travel outlays with ≥0.95 confidence.",
+  "tags": [
+    "need-more-research",
+    "insufficient-data",
+    "rome-ga",
+    "coosa-steel",
+    "air-force-one"
+  ],
+  "confidence_level": "low",
+  "source_urls": [
+    "https://www.11alive.com/article/news/politics/president-donald-trump-georgia-visit-thursday-remarks-coosa-steel/85-6ede24f6-2983-4384-b5db-fab92300af39",
+    "https://www.fox5atlanta.com/news/president-donald-trump-rome-economy-elections-mtg",
+    "https://www.gpb.org/news/2026/02/20/trump-visits-georgia-target-of-his-election-falsehoods-republicans-look-for-midterm",
+    "https://thehill.com/homenews/administration/5746655-trump-defends-tariffs-georgia/",
+    "https://www.cnn.com/politics/live-news/trump-administration-news-02-19-26",
+    "https://www.cbsnews.com/atlanta/news/trump-in-rome-touts-affordability-fix-as-local-democrats-business-owners-push-back/"
+  ]
+}
