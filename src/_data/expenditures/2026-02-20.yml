@@ -1,0 +1,28 @@
+{
+  "location": "Washington, D.C. (White House)",
+  "activities": [
+    {
+      "name": "NEED_MORE_RESEARCH",
+      "cost": 0,
+      "description": "Although multiple in-window sources confirm President Trump held an in-White-House governors’ working breakfast on 2026-02-20 (and spoke to reporters that day), available open sources do not provide itemized, same-day federal outlay data necessary to price costs at ≥0.95 confidence under the tracker rules. In particular, there is no verifiable, same-day documentation of incremental security/posture changes (e.g., peak surge vs. baseline) or other billable travel/motorcade expenditures attributable to the target date beyond routine White House protective operations.",
+      "category": "meta"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "NEED_MORE_RESEARCH — Trump held a governors’ working breakfast at the White House on 2026-02-20, but open sources don’t support a ≥0.95-confidence estimate of taxpayer outlays incurred that day.",
+  "tags": [
+    "need-more-research",
+    "white-house",
+    "washington-dc",
+    "governors-breakfast"
+  ],
+  "confidence_level": "low",
+  "source_urls": [
+    "https://www.usatoday.com/story/news/politics/2026/02/20/trump-governors-meeting-white-house-reporters/88775631007/",
+    "https://www.pbs.org/newshour/politics/watch-live-trump-hosts-governors-breakfast-after-national-governors-association-pulls-out-of-event",
+    "https://apnews.com/article/trump-wes-moore-kevin-stitt-governors-dinner-58d6381ed18334e8c35af35ef2ce4122",
+    "https://thehill.com/homenews/state-watch/5747241-wes-moore-trump-white-house-governors-meeting/",
+    "https://www.cnbc.com/2026/02/20/trump-global-trade-tariff-supreme-court.html",
+    "https://www.cnn.com/us/live-news/trump-administration-us-iran-02-20-26"
+  ]
+}
