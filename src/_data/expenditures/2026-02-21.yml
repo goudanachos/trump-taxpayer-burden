@@ -1,0 +1,20 @@
+{
+  "location": "Washington, D.C. (White House)",
+  "activities": [
+    {
+      "name": "NEED_MORE_RESEARCH",
+      "cost": 0,
+      "description": "Cannot produce a ≥0.95-confidence estimate of taxpayer-funded outlays incurred on 2026-02-21 using only in-window, independently verifiable open sources. The schedule indicates a White House governors’ dinner and entertainment, but no sourced, itemized, same-day federal cost data (incremental security posture, staffing surge, transportation, reimbursed local law-enforcement activation, or other attributable outlays) is available within the allowed evidence window.",
+      "category": "meta"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "NEED_MORE_RESEARCH — 2026-02-21 shows a White House governors’ dinner/entertainment, but open in-window sources don’t support a ≥0.95-confidence estimate of incremental taxpayer outlays for that day.",
+  "tags": [
+    "need-more-research",
+    "white-house",
+    "washington-dc",
+    "governors-dinner"
+  ],
+  "confidence_level": "low"
+}
