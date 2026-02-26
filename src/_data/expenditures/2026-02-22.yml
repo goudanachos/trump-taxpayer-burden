@@ -1,0 +1,21 @@
+{
+  "location": "Washington, D.C. (White House)",
+  "activities": [
+    {
+      "name": "NEED_MORE_RESEARCH",
+      "cost": 0,
+      "description": "The tool & confidence gate requires ≥6 in-window source URLs and model_confidence ≥0.95. No in-window, independently verifiable open-source evidence was collected here to substantiate incremental taxpayer-funded outlays incurred on 2026-02-22 beyond baseline White House operations (e.g., no travel legs, no activated local law-enforcement reimbursements, no itemized security surge costs).",
+      "category": "meta"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "NEED_MORE_RESEARCH — insufficient in-window sourcing to estimate any incremental taxpayer outlays for 2026-02-22 (White House day) at ≥0.95 confidence.",
+  "tags": [
+    "need-more-research",
+    "white-house",
+    "washington-dc",
+    "executive-time"
+  ],
+  "confidence_level": "low",
+  "source_urls": []
+}
