@@ -1,0 +1,29 @@
+{
+  "location": "Washington, D.C. (White House)",
+  "activities": [
+    {
+      "name": "No reportable leisure spending evidenced",
+      "cost": 0,
+      "description": "Open, in-window reporting and official White House materials show President Trump held an Angel Families Remembrance Ceremony at the White House (East Room) and conducted other official White House business on 2026-02-23. No recreational/leisure activity requiring incremental federal travel or off-site protective deployment is evidenced for this date; therefore no taxpayer-funded leisure spending is recorded under the tracker rules.",
+      "category": "no-leisure"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Feb 23, 2026: White House-only schedule (Angel Families ceremony + meetings). No evidenced recreational/leisure travel or related taxpayer outlays to record → $0.",
+  "tags": [
+    "white-house",
+    "no-leisure",
+    "official-event",
+    "washington-dc"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/articles/2026/02/president-trump-honors-angel-families-remembers-american-lives-lost-to-illegal-immigration/",
+    "https://www.whitehouse.gov/videos/president-donald-j-trump-angel-families-remembrance-ceremony/",
+    "https://www.whitehouse.gov/presidential-actions/2026/02/national-angel-family-day-2026/",
+    "https://www.pbs.org/newshour/politics/watch-live-trump-to-honor-angel-families-at-the-white-house",
+    "https://www.dvidshub.net/webcast/37544",
+    "https://www.newsnationnow.com/politics/trump-alleged-immigration-crimes-angel-families/",
+    "https://www.thewellnews.com/white-house/president-honors-angel-families-with-white-house-ceremony/"
+  ]
+}
