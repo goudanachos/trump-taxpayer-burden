@@ -1,0 +1,29 @@
+{
+  "location": "Washington, D.C. (White House and U.S. Capitol)",
+  "activities": [
+    {
+      "name": "No reportable leisure spending evidenced",
+      "cost": 0,
+      "description": "On 2026-02-24, public reporting and official materials show President Trump hosted/recognized the U.S. men’s Olympic hockey team at the White House and delivered the State of the Union address at the U.S. Capitol. These are official/public duties rather than personal recreational/leisure activities; therefore, no taxpayer-funded leisure spending is recorded for this date under the tracker rules (baseline executive protection and official-event operations are not counted as leisure costs).",
+      "category": "no-leisure"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Feb 24, 2026: White House events + State of the Union at the Capitol (incl. U.S. men’s hockey team recognition). No evidenced personal leisure/recreation travel to cost → $0.",
+  "tags": [
+    "no-leisure",
+    "white-house",
+    "us-capitol",
+    "state-of-the-union",
+    "washington-dc"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://apnews.com/article/donald-trump-transcript-state-of-union-2026-c13e2a07df999b464b733f4a6e84dbd4",
+    "https://www.pbs.org/newshour/politics/live-updates-trumps-2026-state-of-the-union-address",
+    "https://www.espn.com/olympics/story/_/id/48025053/us-men-hockey-team-visits-white-house-president-trump",
+    "https://www.usatoday.com/story/sports/olympics/2026/02/24/usa-hockey-players-not-at-trump-state-of-the-union/88848808007/",
+    "https://www.c-span.org/event/joint-session-of-congress/president-trump-delivers-2026-state-of-the-union-address-democratic-response/440395",
+    "https://www.whitehouse.gov/articles/2026/02/what-they-are-saying-president-trump-heralds-americas-golden-age-in-historic-state-of-the-union-address/"
+  ]
+}
