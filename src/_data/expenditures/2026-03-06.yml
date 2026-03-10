@@ -1,0 +1,28 @@
+{
+  "location": "NEED_MORE_RESEARCH",
+  "activities": [
+    {
+      "name": "NEED_MORE_RESEARCH",
+      "cost": 0,
+      "description": "Confidence gate not met (insufficient evidence to attribute and quantify federal outlays actually incurred on 2026-03-06 for travel/security). Available reporting confirms planned/ongoing Doral-area summit security posture but does not provide the necessary operational details (e.g., aircraft type/flight hours, support aircraft, Marine One use, activated local law-enforcement costed assistance, or GAO/agency-derived daily security spend tied specifically to 2026-03-06) to produce a high-confidence taxpayer outlay estimate for that date under the provided rules.",
+      "category": "meta"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "NEED_MORE_RESEARCH: Not enough in-window, independently corroborated operational details to quantify federal outlays incurred on 2026-03-06 for the Miami/Doral trip under the tracker’s rules.",
+  "tags": [
+    "need-more-research",
+    "insufficient-cost-evidence",
+    "travel-to-doral"
+  ],
+  "confidence_level": "low",
+  "source_urls": [
+    "https://www.local10.com/news/politics/2026/03/06/high-security-heavy-traffic-doral-braces-for-international-summit/",
+    "https://www.local10.com/news/local/2026/03/05/trump-gathering-latin-american-heads-of-state-at-doral-golf-club-this-weekend",
+    "https://www.nbcmiami.com/news/local/trump-to-meet-latin-american-leaders-at-security-summit-in-doral-wh/3776523/",
+    "https://www.npr.org/2026/03/07/g-s1-112852/trump-americas-summit",
+    "https://www.pbs.org/newshour/world/trump-encourages-latin-american-leaders-to-use-military-action-to-help-the-u-s-fight-cartels",
+    "https://abcnews.go.com/Politics/trump-speak-shield-americas-summit-aimed-taking-cartels/story?id=130847707",
+    "https://www.cbsnews.com/miami/news/trump-doral-shield-of-americas-summit/"
+  ]
+}
