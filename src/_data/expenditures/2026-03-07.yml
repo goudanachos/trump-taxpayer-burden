@@ -1,0 +1,30 @@
+{
+  "location": "NEED_MORE_RESEARCH",
+  "activities": [
+    {
+      "name": "NEED_MORE_RESEARCH",
+      "cost": 0,
+      "description": "Evidence window met for confirming that President Trump was at Trump National Doral Miami for the Shield of the Americas summit and traveled to Dover AFB for a dignified transfer on 2026-03-07, but the available in-window sources do not provide enough operational detail to quantify federal outlays actually incurred on 2026-03-07 under the tracker’s rules (e.g., confirmed aircraft type(s) and billable flight-hours for each leg, support aircraft factor, Marine One usage, and itemized/confirmed Secret Service and activated local law-enforcement costs specific to that date).",
+      "category": "meta"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "NEED_MORE_RESEARCH: Sources confirm Doral summit + Dover dignified transfer on 2026-03-07, but not enough operational detail to price taxpayer outlays for that day with high confidence.",
+  "tags": [
+    "need-more-research",
+    "insufficient-cost-detail",
+    "doral",
+    "dover",
+    "air-force-one"
+  ],
+  "confidence_level": "low",
+  "source_urls": [
+    "https://www.whitehouse.gov/videos/president-trump-departs-to-dover-air-force-base-to-honor-the-fallen/",
+    "https://www.whitehouse.gov/videos/president-trump-gaggles-with-press-on-air-force-one-en-route-miami-fl-mar-7-2026/",
+    "https://www.state.gov/releases/office-of-the-spokesperson/2026/03/the-united-states-to-host-the-shield-of-the-americas-summit",
+    "https://www.cbsnews.com/news/trump-shield-of-the-americas-summit/",
+    "https://www.cbsnews.com/news/dignified-transfer-soldiers-killed-iran-trump-dover/",
+    "https://abcnews.go.com/US/trump-attend-dignified-transfer-6-fallen-service-members/story?id=130838735",
+    "https://www.c-span.org/event/white-house-event/president-trump-participates-in-shield-of-the-americas-summit/441084"
+  ]
+}
