@@ -1,0 +1,29 @@
+{
+  "location": "NEED_MORE_RESEARCH",
+  "activities": [
+    {
+      "name": "NEED_MORE_RESEARCH",
+      "cost": 0,
+      "description": "Confidence gate not met for 2026-03-08: while in-window sources indicate President Trump remained at/near Trump National Doral Miami and was photographed playing golf that Sunday, they do not provide enough operational/financial detail to attribute and quantify federal outlays actually incurred on that specific date (e.g., Secret Service overtime/surge posture, activated local law-enforcement reimbursement status, or any aviation legs on 3/8 if movements occurred). Under the tracker rules, a high-confidence taxpayer cost estimate cannot be produced for this day.",
+      "category": "meta"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "NEED_MORE_RESEARCH: Reports suggest Trump stayed at Doral and golfed on 2026-03-08, but there’s not enough verifiable operational detail to price federal outlays for that specific day.",
+  "tags": [
+    "need-more-research",
+    "doral",
+    "golf",
+    "insufficient-cost-detail"
+  ],
+  "confidence_level": "low",
+  "source_urls": [
+    "https://www.local10.com/news/politics/2026/03/06/high-security-heavy-traffic-doral-braces-for-international-summit/",
+    "https://www.npr.org/2026/03/07/g-s1-112852/trump-americas-summit",
+    "https://www.pbs.org/newshour/world/trump-encourages-latin-american-leaders-to-use-military-action-to-help-the-u-s-fight-cartels",
+    "https://www.opb.org/article/2026/03/08/trump-vows-to-take-care-of-cuba-praises-venezuela-cooperation-at-summit/",
+    "https://atlantablackstar.com/2026/03/09/trump-applause-at-his-golf-resort-but-woman-trailing-him-with-that-bag-has-people-zooming-in/",
+    "https://nationaltoday.com/us/fl/doral/news/2026/03/08/trump-blasted-for-golfing-as-more-die-in-his-war/",
+    "https://www.thedailybeast.com/trump-79-forgets-which-day-it-is-in-rambling-war-speech/"
+  ]
+}
