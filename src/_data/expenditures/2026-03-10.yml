@@ -1,0 +1,28 @@
+{
+  "location": "The White House (Washington, D.C.)",
+  "activities": [
+    {
+      "name": "In-town day (no leisure travel) — baseline protective operations",
+      "cost": 75000,
+      "description": "No reported leisure travel or off-site recreation on 2026-03-10; President remained in Washington for an in-town schedule while the White House held a press briefing. Estimated taxpayer outlay for the day is limited to the tracker’s on-site White House protective-operations baseline (Secret Service & staff): $75,000.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "Mar 10, 2026: No resort/golf travel—an in-town White House day. Estimated taxpayer outlay attributable here is mainly routine on-site protective operations: ~$75K.",
+  "tags": [
+    "in-town",
+    "no-leisure-travel",
+    "white-house",
+    "baseline-security"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/videos/press-secretary-karoline-leavitt-briefs-members-of-the-media-mar-10-2026/",
+    "https://www.pbs.org/newshour/politics/watch-live-white-house-holds-briefing-as-u-s-announces-most-intense-day-of-strikes-on-iran",
+    "https://www.c-span.org/program/white-house-event/white-house-daily-briefing/675087",
+    "https://thehill.com/policy/energy-environment/5777389-strait-of-hormuz-oil-tankers-us-navy-escort/",
+    "https://www.newschannel5.com/news/watch-white-house-press-secretary-karoline-leavitt-holds-a-press-briefing",
+    "https://www.eastonspectator.com/2026/03/10/karoline-leavitt-holds-a-press-briefing-loaded-with-updates-03-10-26/"
+  ]
+}
