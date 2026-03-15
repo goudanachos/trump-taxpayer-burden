@@ -1,0 +1,31 @@
+{
+  "location": "NEED_MORE_RESEARCH",
+  "activities": [
+    {
+      "name": "NEED_MORE_RESEARCH",
+      "cost": 0,
+      "description": "For 2026-03-11, in-window reporting corroborates that President Trump traveled on Air Force One to Cincinnati/Northern Kentucky International Airport (CVG), visited Thermo Fisher Scientific in Reading, Ohio, then delivered remarks at Verst Logistics in Hebron, Kentucky, before returning to Joint Base Andrews/White House. However, the public record within the allowed window does not provide enough auditable, date-specific operational detail to quantify *federal outlays actually incurred on 2026-03-11* at the required ≥0.95 confidence—especially: (1) billable VC-25A flight-hours vs. published wheels-up/arrival timestamps (taxi/holding time not specified), (2) whether additional support aircraft (e.g., C-32) or cargo legs were used (support_factor), (3) whether Marine One was used for any segments, and (4) itemized/confirmed Secret Service surge posture and reimbursable local law-enforcement costs attributable specifically to 3/11 (sources only confirm road closures/coordination, not dollar outlays). Under the tracker rules, producing a numeric estimate would be assumption-driven and fails the confidence gate.",
+      "category": "meta"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "NEED_MORE_RESEARCH (Mar 11, 2026): Air Force One trip to CVG + Reading/Hebron stops are confirmed, but not enough auditable flight-hour/support-jet and security outlay detail to price taxpayer costs for that day at the required confidence.",
+  "tags": [
+    "need-more-research",
+    "official-travel",
+    "cvg",
+    "reading-ohio",
+    "hebron-kentucky",
+    "insufficient-cost-detail"
+  ],
+  "confidence_level": "low",
+  "source_urls": [
+    "https://www.fox19.com/2026/03/11/president-trump-tours-thermo-fisher-scientific-reading/",
+    "https://www.courier-journal.com/story/news/politics/2026/03/11/donald-trump-visits-kentucky-and-ohio-follow-live-updates/89075504007/",
+    "https://www.wlwt.com/article/president-trump-visit-cincinnati-kentucky-thermofisher-massie/70694186",
+    "https://www.cincinnati.com/story/news/politics/2026/03/11/trump-cincinnati-visit-where-is-donald-trump-today-thermofisher-verst-logistics/89100709007/",
+    "https://linknky.com/news/2026/03/11/trump-hebron-nky-economic-agenda-massie-gallrein-primary/",
+    "https://www.wlwt.com/article/donald-trump-president-cincinnati-visit-reading-hebron-schedule/70708314",
+    "https://www.cnn.com/2026/03/11/politics/trump-republicans-iran-war-economic-pivot"
+  ]
+}
