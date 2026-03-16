@@ -1,0 +1,28 @@
+{
+  "location": "The White House (Washington, DC)",
+  "activities": [
+    {
+      "name": "No leisure travel or recreation identified (in-town official day)",
+      "cost": 0,
+      "description": "Across the public schedule and same-week reporting, President Trump’s March 12, 2026 day appears confined to the White House (executive time, intelligence briefing, policy meetings, a Women’s History Month event, and an interview). No public, in-window evidence indicates taxpayer-funded leisure travel (e.g., resort stay, golf outing, or other recreational trip) occurring on 2026-03-12, so no incremental leisure-related federal outlays are attributed for that date.",
+      "category": "leisure-none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Mar 12, 2026: Public schedule shows an in-town White House day (meetings + Women’s History Month event) with no reported leisure travel/golf—estimated leisure-related taxpayer outlay: $0.",
+  "tags": [
+    "white-house",
+    "in-town",
+    "no-travel",
+    "no-leisure-outlay"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://conservativedailynews.com/2026/03/president-donald-trumps-schedule-for-thursday-march-12-2026/amp/",
+    "https://www.whitehouse.gov/presidential-actions/2026/03/womens-history-month-2026/",
+    "https://www.usatoday.com/story/news/politics/2026/03/12/donald-trump-melania-trump-age-height-nationality/89115249007/",
+    "https://www.cnn.com/2026/03/12/middleeast/trump-iran-war-analysis-intl",
+    "https://www.whitehouse.gov/articles/2026/03/operation-epic-fury-decisive-american-power-to-crush-irans-terror-regime/",
+    "https://www.bbc.com/sport/football/articles/c9q5rvp58yxo"
+  ]
+}
