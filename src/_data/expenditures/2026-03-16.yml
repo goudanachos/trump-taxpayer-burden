@@ -1,0 +1,30 @@
+{
+  "location": "The White House (Washington, D.C.)",
+  "activities": [
+    {
+      "name": "No taxpayer-funded leisure travel/recreation identified (official White House day)",
+      "cost": 0,
+      "description": "For 2026-03-16, in-window reporting and official White House materials place President Trump at the White House for official business (e.g., signing an executive order establishing an anti-fraud task force, and participating in a lunch with Kennedy Center board members). No in-window sources indicate leisure travel (e.g., Mar-a-Lago), golf, or other recreational activity on this date; therefore no incremental leisure-related federal outlays are attributed to 2026-03-16.",
+      "category": "leisure-none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Mar 16, 2026: Public reporting/WH materials show an in-town White House workday (EO signing + meetings) with no reported leisure travel or golf—estimated leisure-related taxpayer cost: $0.",
+  "tags": [
+    "white-house",
+    "in-town",
+    "no-travel",
+    "no-leisure-outlay"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.reuters.com/world/trump-formally-launch-fraud-task-force-white-house-says-2026-03-16/",
+    "https://www.whitehouse.gov/presidential-actions/2026/03/establishing-the-task-force-to-eliminate-fraud/",
+    "https://www.whitehouse.gov/fact-sheets/2026/03/fact-sheet-president-donald-j-trump-establishes-the-task-force-to-eliminate-fraud/",
+    "https://www.whitehouse.gov/videos/president-trump-participates-in-a-lunch-with-the-trump-kennedy-center-board-members/",
+    "https://apnews.com/article/trump-kennedy-center-afd7c714c53d8942a4b76b2684a20755",
+    "https://www.cbsnews.com/news/trump-kennedy-center-board-iran-war/",
+    "https://www.c-span.org/program/white-house-event/white-house-press-secretary-speaks-to-reporters/675590",
+    "https://www.reuters.com/world/us/kennedy-center-board-vote-closing-renovations-2026-03-16/"
+  ]
+}
