@@ -1,0 +1,30 @@
+{
+  "location": "Washington, D.C. (The White House and U.S. Capitol)",
+  "activities": [
+    {
+      "name": "No taxpayer-funded leisure travel or recreational activity identified (official St. Patrick’s Day schedule)",
+      "cost": 0,
+      "description": "On 2026-03-17, President Trump’s public schedule and same-week reporting place him in Washington, D.C. for official St. Patrick’s Day diplomacy and events (meeting with Ireland’s Taoiseach, Friends of Ireland Luncheon at the U.S. Capitol, and Shamrock Bowl presentation at the White House). No in-window sources indicate leisure travel (e.g., Mar-a-Lago) or recreational activity (e.g., golf) on this date; therefore no incremental leisure-related federal outlays are attributed for 2026-03-17.",
+      "category": "leisure-none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Mar 17, 2026: Trump stayed in D.C. for official St. Patrick’s Day events (Capitol luncheon + Shamrock Bowl). No reported leisure travel/golf—estimated leisure-related taxpayer outlay: $0.",
+  "tags": [
+    "white-house",
+    "u-s-capitol",
+    "st-patricks-day",
+    "no-leisure-outlay",
+    "in-town"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/videos/president-trump-participates-in-the-friends-of-ireland-luncheon-2/",
+    "https://www.whitehouse.gov/videos/president-trump-participates-in-the-shamrock-bowl-presentation/",
+    "https://mikejohnson.house.gov/news/documentsingle.aspx?DocumentID=2857",
+    "https://www.bbc.com/news/articles/cx24e2gz64ko",
+    "https://www.pbs.org/newshour/world/watch-trump-addresses-iran-strikes-kent-resignation-during-st-patricks-day-visit-with-irish-taoiseach-martin",
+    "https://thehill.com/video-clips/5787978-watch-live-donald-trump-michael-martin-shamrock-bowl-2026-white-house/",
+    "https://thehill.com/video-clips/5787467-watch-live-donald-trump-micheal-martin-white-house-st-patricks-day/"
+  ]
+}
