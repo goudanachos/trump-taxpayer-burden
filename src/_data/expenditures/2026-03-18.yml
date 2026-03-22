@@ -1,0 +1,28 @@
+{
+  "location": "Washington, D.C. → Dover Air Force Base, Delaware → Washington, D.C.",
+  "activities": [
+    {
+      "name": "No recreational/leisure activity identified (official travel for dignified transfer)",
+      "cost": 0,
+      "description": "On 2026-03-18, President Trump traveled from the White House to Joint Base Andrews, flew to Dover Air Force Base for a dignified transfer ceremony, then returned to Washington. Multiple in-window sources describe the Dover ceremony as an official event honoring fallen service members, not leisure travel or recreation. Under the tracker rules, only incremental taxpayer outlays incurred for leisure/recreation are counted; therefore no leisure-related costs are attributed for this date.",
+      "category": "leisure-none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Mar 18, 2026: Trump traveled to Dover AFB for an official dignified transfer ceremony and returned to D.C.; no leisure/golf reported—estimated leisure-related taxpayer outlay: $0.",
+  "tags": [
+    "dover-afb",
+    "official-travel",
+    "dignified-transfer",
+    "no-leisure-outlay"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://apnews.com/article/trump-iran-military-deaths-dignified-transfer-2b1e00604cfb7907e60a3a98d66aa30f",
+    "https://www.pbs.org/newshour/world/trump-pays-his-respects-in-delaware-to-u-s-service-members-killed-in-refueling-aircraft-crash",
+    "https://www.stripes.com/branches/air_force/2026-03-18/dover-afb-airmen-dignified-transfer-21107822.html",
+    "https://www.delawareonline.com/picture-gallery/news/local/2026/03/18/president-donald-trump-attends-dignified-transfer-airmen-iraq-dover-air-force-base-delaware/89218624007/",
+    "https://www.wyff4.com/article/dignified-transfer-kc-135-crew-return/70779803",
+    "https://www.cnn.com/politics/live-news/trump-administration-news-senate-hearing-03-18-26"
+  ]
+}
