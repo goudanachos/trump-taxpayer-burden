@@ -1,0 +1,27 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No taxpayer-funded leisure travel identified (official White House day)",
+      "cost": 0,
+      "description": "Available contemporaneous reporting and official photo posts place President Trump at the White House for official events (meeting and dinner with Japanese Prime Minister Sanae Takaichi). No evidence, within the allowed window, of recreational/leisure activity or off-site travel on 2026-03-19 that would trigger additional leisure-related federal outlays under the provided benchmarks.",
+      "category": "leisure-none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Mar 19, 2026: Official White House schedule (Japan PM meeting + dinner). No documented Trump leisure travel/recreation spending to attribute to taxpayers for this date → $0.",
+  "tags": [
+    "no-leisure-activity",
+    "white-house",
+    "official-diplomacy"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://apnews.com/article/trump-takaichi-japan-iran-strait-of-hormuz-0006b848118381786baa837c403e5e13",
+    "https://www.pbs.org/newshour/world/watch-live-trump-meets-with-japanese-prime-minister-sanae-takaichi-at-the-white-house",
+    "https://www.whitehouse.gov/gallery/president-donald-j-trump-participates-in-a-bilateral-meeting-with-japanese-prime-minister-sanae-takaichi/",
+    "https://www.whitehouse.gov/gallery/president-donald-j-trump-and-japanese-prime-minister-sanae-takaichi-deliver-remarks-in-the-the-state-dining-room/",
+    "https://thehill.com/video-clips/5792427-watch-live-donald-trump-sanae-takaichi-white-house-dinner-japan/",
+    "https://www.npr.org/2026/03/19/g-s1-114405/japan-takaichi-visit-white-house"
+  ]
+}
