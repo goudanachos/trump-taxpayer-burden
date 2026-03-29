@@ -1,0 +1,29 @@
+{
+  "location": "Washington, D.C. (The White House ↔ Union Station)",
+  "activities": [
+    {
+      "name": "No taxpayer-funded leisure activity identified (political fundraiser appearance)",
+      "cost": 0,
+      "description": "President Trump traveled within Washington, D.C. to speak at the NRCC annual fundraising dinner at Union Station. This is a political fundraising event, not a recreational/leisure activity; under the Tracker’s rules, no leisure-category federal outlay is recorded for 2026-03-25.",
+      "category": "leisure-none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Mar 25, 2026: Trump spoke at the NRCC fundraising dinner at Union Station (political event, not leisure). No leisure spending recorded → $0.",
+  "tags": [
+    "non-leisure",
+    "fundraiser",
+    "union-station",
+    "nrcc-dinner",
+    "washington-dc"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.c-span.org/event/white-house-event/president-trump-remarks-at-nrcc-annual-fundraising-dinner/441562",
+    "https://thehill.com/video-clips/5800496-watch-live-trump-remarks-nrcc-fundraising-dinner/",
+    "https://www.foxnews.com/politics/trump-boosts-gop-war-chest-house-republicans-gear-up-high-stakes-midterm-fight",
+    "https://www.washingtonexaminer.com/news/campaigns/congressional/4503688/watch-live-trump-nrcc-union-station-dinner/",
+    "https://www.popville.com/2026/03/union-station-special-event-trump-speaking-fundraiser/",
+    "https://caplinnews.fiu.edu/trump-union-station-nrcc-washington-dc-national-guard/"
+  ]
+}
