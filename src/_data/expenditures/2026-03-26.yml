@@ -1,0 +1,29 @@
+{
+  "location": "White House (Washington, DC)",
+  "activities": [
+    {
+      "name": "No taxpayer-funded leisure travel or recreation observed (official on-site White House day)",
+      "cost": 0,
+      "description": "Public schedule and contemporaneous coverage show President Trump remained at the White House for official events (Cabinet meeting; Greek Independence Day celebration remarks; media call-in; signing time). No leisure-related travel legs (AF1/Marine One), resort/golf activity, or local off-site recreational movement evidenced for 2026-03-26 within the allowed source window.",
+      "category": "no-leisure"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Mar 26, 2026: Trump stayed on-site at the White House for official events (Cabinet meeting + Greek Independence Day celebration). No leisure travel or recreation costs identified for the day.",
+  "tags": [
+    "no-leisure",
+    "white-house",
+    "official-schedule"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.c-span.org/event/white-house-event/president-trump-remarks-at-white-house-greek-independence-day-celebration/441611",
+    "https://thehill.com/video-clips/5802716-greek-independence-white-house/",
+    "https://www.whitehouse.gov/presidential-actions/2026/03/greek-independence-day-a-national-day-of-celebration-of-greek-and-american-democracy-2026/",
+    "https://tovima.com/world/trump-host-greek-independence-day-celebration-at-white-house-vid/",
+    "https://greekreporter.com/2026/03/27/trump-honors-greek-independence-day-white-house-event/",
+    "https://www.thenationalherald.com/greek-independence-day-at-the-white-house-greece-honored-for-its-heritage-and-contributions/",
+    "https://www.whitehouse.gov/videos/president-trump-participates-in-a-cabinet-meeting-mar-26-2026/",
+    "https://www.whitehouse.gov/presidential-actions/2026/03/addressing-dei-discrimination-by-federal-contractors/"
+  ]
+}
