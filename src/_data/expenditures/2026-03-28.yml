@@ -1,0 +1,49 @@
+{
+  "location": "Palm Beach County, Florida (Mar-a-Lago; Trump International Golf Club West Palm Beach)",
+  "activities": [
+    {
+      "name": "Motorcade travel: Mar-a-Lago ↔ Trump International Golf Club West Palm Beach (2 short trips)",
+      "cost": 20000,
+      "description": "Local motorcade movements between Mar-a-Lago and Trump International Golf Club West Palm Beach associated with the President’s golf outing.",
+      "category": "local-motorcade"
+    },
+    {
+      "name": "Secret Service & protective staffing (peak off-site day)",
+      "cost": 300000,
+      "description": "Estimated federal protective-security outlays for an off-site day while the President stayed at Mar-a-Lago and traveled to his golf club.",
+      "category": "secret-service"
+    },
+    {
+      "name": "Local law-enforcement assistance (activated)",
+      "cost": 60000,
+      "description": "Estimated local law-enforcement support costs associated with presidential protection movements in Palm Beach County during the golf day.",
+      "category": "local-law-enforcement"
+    },
+    {
+      "name": "Incidentals (capped at 15% of travel + security)",
+      "cost": 57000,
+      "description": "Allowance for unitemized incremental operating costs (communications/support/logistics) capped at 15% of (motorcade + security) for the day.",
+      "category": "incidentals"
+    }
+  ],
+  "total_cost": 437000,
+  "social_description": "Mar 28, 2026: From Mar-a-Lago, Trump motorcaded to Trump International Golf Club (West Palm Beach) for a multi-hour golf outing, then returned—estimated taxpayer outlay ≈ $437K (security, LE assist, motorcade, incidentals).",
+  "tags": [
+    "golf",
+    "mar-a-lago",
+    "west-palm-beach",
+    "motorcade",
+    "secret-service"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.huffpost.com/entry/trump-golf-100-million_n_69c6e1dde4b041837420f5ad",
+    "https://www.palmbeachpost.com/picture-gallery/news/trump/2026/03/28/trump-in-florida-president-makes-president-donald-trump-visited-his-mar-a-lago-club/89360790007/",
+    "https://www.mediaite.com/media/news/a-really-cool-moment-ms-now-reporter-recounts-moment-no-kings-protester-shook-hands-with-maga-supporter/",
+    "https://www.cnn.com/2026/03/28/us/live-news/no-kings-protests-03-28-26",
+    "https://www.palmbeachpost.com/story/news/trump/2026/03/28/no-kings-protest-near-palm-beach-trumps-mar-a-lago-florida-march-28/89362142007/",
+    "https://www.floridatoday.com/live-story/news/2026/03/28/no-kings-protests-florida-donald-trump-live-updates/89333382007/",
+    "https://www.wpbf.com/article/protesters-counter-protesters-clash-near-mar-a-lago-over-trump-policies/70874626"
+  ],
+  "social_title": "$437,000 for a Day of Golf: Is This Taxpayer Spending Justified?"
+}
