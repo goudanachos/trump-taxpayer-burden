@@ -1,0 +1,27 @@
+{
+  "location": "White House (Washington, DC)",
+  "activities": [
+    {
+      "name": "No taxpayer-funded leisure travel or recreation observed (official on-site White House day)",
+      "cost": 0,
+      "description": "Available same-week sources reflect an on-site White House workday (e.g., press briefing by Karoline Leavitt; White House video announcement; published schedule recap). No evidence within the allowed window indicates presidential recreational travel (AF1/Marine One), golf/resort activity, or other leisure outing on 2026-03-30.",
+      "category": "no-leisure"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Mar 30, 2026: On-site White House workday (briefings/meetings/official events). No leisure travel or recreation costs identified for the day.",
+  "tags": [
+    "no-leisure",
+    "white-house",
+    "official-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/videos/press-secretary-karoline-leavitt-briefs-members-of-the-media-mar-30-2026/",
+    "https://www.whitehouse.gov/videos/president-donald-j-trump-announces-the-official-white-house-app/",
+    "https://nextnewsnetwork.com/2026/03/30/full-schedule-president-trump-powers-through-packed-monday-at-the-white-house",
+    "https://thehill.com/homenews/administration/5807589-trump-white-house-ballroom-plans-scrutiny",
+    "https://www.military.com/daily-news/2026/03/30/military-building-massive-complex-underneath-trumps-white-house-ballroom.html",
+    "https://usatoday.com/story/news/politics/2026/03/30/trump-white-house-ballroom-military-shed-construction/89383496007"
+  ]
+}
