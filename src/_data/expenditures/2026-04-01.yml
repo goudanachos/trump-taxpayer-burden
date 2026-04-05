@@ -1,0 +1,28 @@
+{
+  "location": "Washington, DC (White House; U.S. Supreme Court)",
+  "activities": [
+    {
+      "name": "No taxpayer-funded leisure travel or recreation observed (official Washington day)",
+      "cost": 0,
+      "description": "Contemporaneous reporting and White House materials show President Trump traveled on official business to attend U.S. Supreme Court oral arguments, participated in an official White House Easter lunch event, and delivered an address to the nation. No golf/resort visit, entertainment outing, or other recreational activity is evidenced for 2026-04-01 within the allowed source window.",
+      "category": "no-leisure"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Apr 1, 2026: Trump’s day was official business (Supreme Court visit, White House Easter lunch, address to the nation). No leisure travel or recreation costs identified.",
+  "tags": [
+    "no-leisure",
+    "washington-dc",
+    "white-house",
+    "supreme-court"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.npr.org/2026/04/01/g-s1-116019/trump-supreme-court-oral-arguments-birthright-citizenship",
+    "https://www.pbs.org/newshour/world/watch-live-president-trump-addresses-the-nation",
+    "https://www.foxnews.com/politics/white-house-marks-holy-week-easter-days-prayer-centered-religious-liberty",
+    "https://apnews.com/article/donald-trump-transcript-address-iran-war-b5970011fe934dde84d95d650bda56a9",
+    "https://abcnews.com/Politics/trump-historic-attends-supreme-court-arguments-birthright-citizenship/story?id=131610905",
+    "https://www.whitehouse.gov/videos/president-trump-delivers-an-address-to-the-nation-apr-1-2026/"
+  ]
+}
