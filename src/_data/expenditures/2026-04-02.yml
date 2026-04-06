@@ -1,0 +1,20 @@
+{
+  "location": "UNKNOWN (insufficient in-window sourcing for 2026-04-02)",
+  "activities": [
+    {
+      "name": "NEED_MORE_RESEARCH",
+      "cost": 0,
+      "description": "Unable to verify any taxpayer-funded recreational/leisure activity (e.g., golf/club visit, leisure travel) for 2026-04-02 with ≥2 independent, non-paywalled sources whose publication dates fall within 2026-03-26 to 2026-04-09. Per your tool/confidence gate, the correct status is NEED_MORE_RESEARCH.",
+      "category": "meta"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "NEED_MORE_RESEARCH",
+  "tags": [
+    "need-more-research",
+    "confidence-gate-failed",
+    "insufficient-in-window-sources"
+  ],
+  "confidence_level": "low",
+  "source_urls": []
+}
