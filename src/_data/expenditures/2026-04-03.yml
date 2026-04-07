@@ -1,0 +1,27 @@
+{
+  "location": "The White House, Washington, DC (no verified off-site leisure)",
+  "activities": [
+    {
+      "name": "NEED_MORE_RESEARCH",
+      "cost": 0,
+      "description": "No taxpayer-funded recreational/leisure activity for President Trump on 2026-04-03 could be verified with ≥2 independent, in-window (2026-03-27 to 2026-04-10) sources. Available public items in-window cover official communications and Iran-war/news coverage, not leisure travel or golf/club visits.",
+      "category": "meta"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "No verifiable Trump leisure travel or golf/club visit on Apr 3, 2026 using in-window sources → NEED_MORE_RESEARCH; recorded leisure outlay: $0.",
+  "tags": [
+    "need-more-research",
+    "insufficient-event-evidence",
+    "no-verified-leisure"
+  ],
+  "confidence_level": "low",
+  "source_urls": [
+    "https://whitehouse.gov/releases/2026/04/strong-march-jobs-report-signals-accelerating-momentum-under-president-trump",
+    "https://cnn.com/2026/04/03/politics/trump-presidential-records-act-watergate",
+    "https://www.npr.org/2026/04/03/nx-s1-5773286/the-news-roundup-for-april-3-2026",
+    "https://www.bbc.com/news/live/cgj0gn36px8t",
+    "https://www.cbsnews.com/live-updates/iran-war-us-trump-warns-more-coming-oil-gas-strait-hormuz/",
+    "https://whitehouse.gov/releases/2026/04/president-trump-delivers-powerful-primetime-address-on-operation-epic-fury"
+  ]
+}
