@@ -1,0 +1,35 @@
+{
+  "location": "White House, Washington, DC",
+  "activities": [
+    {
+      "name": "No verified off-site leisure travel or golf outing (press lid day)",
+      "cost": 0,
+      "description": "Multiple in-window reports state the White House called a press “lid” on Apr. 4, 2026 and no evidence emerged of the President traveling to a golf club or other leisure venue that day; reporting indicated he was inside the White House (e.g., Marine sentry posted at West Wing). Under the tracker rules, no leisure-specific federal outlays can be attributed to Apr. 4.",
+      "category": "leisure"
+    },
+    {
+      "name": "Protective operations (baseline, on-site White House)",
+      "cost": 75000,
+      "description": "Estimated federal outlay for Secret Service and staff protection while the President remained on-site at the White House on Apr. 4, 2026, using the provided benchmark $75,000/day for on-site WH coverage.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "Apr 4, 2026: White House “lid” day with no verified golf/leisure travel. Estimated taxpayer outlay attributable here is baseline on-site protection only: ~$75,000.",
+  "tags": [
+    "white-house",
+    "press-lid",
+    "no-verified-leisure-travel",
+    "baseline-protection",
+    "executive-time"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.pennlive.com/news/2026/04/was-donald-trump-really-rushed-to-walter-reed-hospital-heres-what-to-know.html",
+    "https://www.yahoo.com/news/politics/article/white-house-denies-viral-rumors-trump-was-hospitalized-at-walter-reed-180849977.html",
+    "https://www.pbs.org/newshour/politics/fact-checking-trump-health-rumors-over-easter-weekend",
+    "https://www.mediaite.com/media/news/white-house-addresses-trump-walter-reed-rumors-on-social-media-fear-not/",
+    "https://www.timesnownews.com/world/us/us-news/donald-trump-hospitalized-walter-reed-medical-center-fact-check-viral-claims-white-house-lid-iran-war-article-153998902",
+    "https://www.hindustantimes.com/world-news/us-news/donald-trump-walter-reed-rumors-how-a-routine-white-house-press-lid-sparked-speculation-101775377464572.html"
+  ]
+}
