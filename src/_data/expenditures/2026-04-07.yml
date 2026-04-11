@@ -1,0 +1,35 @@
+{
+  "location": "White House, Washington, DC",
+  "activities": [
+    {
+      "name": "No verified leisure travel or golf outing",
+      "cost": 0,
+      "description": "Public reporting for Apr. 7, 2026 reflects an in-town White House day (including a phone call with Vice President JD Vance during a rally in Budapest) with no corroborated evidence of a golf trip, club visit, or other recreational travel that would trigger additional taxpayer-funded transportation/security outlays beyond the on-site baseline.",
+      "category": "leisure"
+    },
+    {
+      "name": "Secret Service & staff (on-site White House protective operations)",
+      "cost": 75000,
+      "description": "Estimated federal outlay for Secret Service and staff protection while the President remained on-site at the White House on Apr. 7, 2026, using the provided benchmark of $75,000/day for on-site WH coverage.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "Apr 7, 2026: No verified Trump golf/leisure travel; White House day incl. call with VP Vance abroad. Estimated taxpayer leisure-related outlay = baseline on-site protection only: ~$75,000.",
+  "tags": [
+    "white-house",
+    "no-verified-leisure",
+    "baseline-protection",
+    "in-town",
+    "phone-call"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.politico.com/news/2026/04/07/trump-viktor-orban-vance-00861898",
+    "https://www.cnbc.com/2026/04/07/trump-vance-orban-hungary-iran-war.html",
+    "https://people.com/jd-vance-sent-to-voicemail-as-he-calls-donald-trump-on-speakerphone-from-hungary-rally-11944994",
+    "https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-on-national-financial-literacy-month/",
+    "https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-on-national-cancer-control-month/",
+    "https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-on-national-sexual-assault-awareness-month/"
+  ]
+}
