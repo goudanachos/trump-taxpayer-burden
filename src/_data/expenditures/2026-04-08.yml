@@ -1,0 +1,20 @@
+{
+  "location": "UNKNOWN (insufficient sourcing)",
+  "activities": [
+    {
+      "name": "NEED_MORE_RESEARCH",
+      "cost": 0,
+      "description": "Confidence gate not met: unable to provide ≥6 qualifying source URLs and model_confidence ≥0.95 for 2026-04-08 leisure-related federal outlays within the required evidence window (2026-04-01 to 2026-04-15).",
+      "category": "meta"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "NEED_MORE_RESEARCH",
+  "tags": [
+    "need-more-research",
+    "confidence-gate-failed",
+    "insufficient-sources"
+  ],
+  "confidence_level": "low",
+  "source_urls": []
+}
