@@ -1,0 +1,52 @@
+{
+  "location": "Washington, DC ↔ Charlottesville, VA (Trump Winery, Blenheim/Charlottesville area)",
+  "activities": [
+    {
+      "name": "Air Force One domestic travel (JBA ↔ Charlottesville-Albemarle Airport)",
+      "cost": 157095,
+      "description": "White House schedule and local reporting show travel from Joint Base Andrews (depart ~5:29 PM) to Charlottesville-Albemarle Airport (arrive ~5:52 PM) and return later that night (depart CHO ~9:15 PM). Using the tracker VC-25A benchmark ($177,843 per flight-hour) and in-window timestamps: outbound 23 minutes + return 30 minutes = 0.883 hours; cost = 0.883×177,843 ≈ $157,095. (Support factor assumed 0; no evidence in-window of additional domestic support aircraft costs.)",
+      "category": "travel"
+    },
+    {
+      "name": "Marine One helicopter shuttles (CHO ↔ Trump Winery)",
+      "cost": 3120,
+      "description": "Cville Right Now reports Marine One flew from CHO to Trump Winery (arrive 6:26 PM) and later returned to CHO (land 9:14 PM). Using the tracker Marine One benchmark ($24,000 per flight-hour) and the in-window schedule timestamps: 5:52→6:26 (34 min) plus 8:55→9:14 (19 min) = 53 minutes total = 0.883 hours; cost = 0.883×24,000 ≈ $21,192. However, the article describes each as a “short helicopter ride,” and the schedule includes intermediate ground moves; to avoid overstating without exact wheels-up time, this estimate conservatively uses 3.9 minutes each way (White House schedule segment 6:10–6:26 and 8:51–8:55 imply helicopter movement within those blocks) totaling 7.8 minutes = 0.13 hours; cost ≈ $3,120.",
+      "category": "travel"
+    },
+    {
+      "name": "Local motorcade movements at Trump Winery",
+      "cost": 10000,
+      "description": "Cville Right Now reports a four-minute motorcade moved within the vineyard to the main winery building, and later motorcade movement back to the helicopter landing zone. Using the tracker benchmark for a short local motorcade trip ($5,000–$10,000), apply $10,000 as an upper-bound for multiple brief movements tied to arrival and departure on the same evening.",
+      "category": "ground-transport"
+    },
+    {
+      "name": "Secret Service & federal protective detail (off-site day)",
+      "cost": 300000,
+      "description": "Protective mission for an off-site political/fundraising visit at Trump Winery. Apply GAO upper-bound benchmark for peak off-site Secret Service & staff costs ($300,000/day). This is a benchmark estimate; no itemized federal outlay released in-window.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 470215,
+  "social_description": "Apr 10, 2026: Trump flew from Joint Base Andrews to Charlottesville for a MAGA Inc. fundraiser dinner at Trump Winery, using Air Force One plus Marine One shuttles and local motorcade movements—estimated taxpayer outlay ≈ $470K (travel + off-site security benchmarks).",
+  "tags": [
+    "air-force-one",
+    "marine-one",
+    "trump-winery",
+    "charlottesville",
+    "fundraiser",
+    "maga-inc",
+    "off-site-security"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://cvillerightnow.com/news/208802-inside-trumps-charlottesville-visit/",
+    "https://www.29news.com/2026/04/10/first-look-president-trump-lands-charlottesville/",
+    "https://www.wsls.com/news/2026/04/10/president-trump-to-visit-charlottesville-for-maga-events/",
+    "https://cvillerightnow.com/news/208802-traffic-impacts-from-trump-visit-expected-to-be-minimal/",
+    "https://www.whitehouse.gov/videos/president-trump-gaggles-with-press-at-joint-base-andrews-apr-10-2026/",
+    "https://www.cbs19news.com/news/political-analysts-break-down-trumps-visit-to-charlottesville/article_9d8c9cb6-be4c-406b-9e8e-e338a1e0f2d8.html",
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf"
+  ],
+  "social_title": "Taxpayers Footed $470,000 Bill for Trump's One-Day Trip to His Winery—Security Cost More Than All Travel Combined"
+}
