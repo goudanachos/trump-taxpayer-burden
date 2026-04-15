@@ -1,0 +1,4 @@
+{
+  "status": "NEED_MORE_RESEARCH",
+  "reason": "Evidence and confidence gates not met for 2026-04-11. I do not have ≥2 independent, in-window, open sources confirming the Trump National Golf Club (Sterling, VA) visit details (beyond the provided schedule), nor sufficiently accessible primary sources for key travel legs (Reuters pages were not retrievable in-tool). As a result, total_source_urls_count≥6 and model_confidence≥0.95 cannot be satisfied under the stated rules."
+}
