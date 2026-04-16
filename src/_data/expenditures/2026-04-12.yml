@@ -1,0 +1,4 @@
+{
+  "status": "NEED_MORE_RESEARCH",
+  "reason": "Confidence/evidence gate not met for 2026-04-12. While in-window sources confirm (a) Trump attended UFC 327 in Miami (AP/ABC/CBS12) and (b) he was on Air Force One en route to Joint Base Andrews and later spoke after disembarking (WhiteHouse.gov video; Reuters via MarketScreener), there are not ≥2 independent, open, in-window sources that jointly substantiate each cost-driving segment on Apr 12 (notably the exact MIA→JBA flight timing/leg details needed to compute flight-hours, and the Doral→MIA ground transfer). Without that, model_confidence cannot reach ≥0.95 under the stated rules."
+}
