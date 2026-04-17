@@ -1,0 +1,30 @@
+{
+  "location": "The White House (Washington, DC)",
+  "activities": [
+    {
+      "name": "Secret Service & staff protective operations (on-site White House)",
+      "cost": 75000,
+      "description": "President remained on the White House complex for publicized events including a staged DoorDash McDonald’s delivery in/near the Oval Office and an evening greeting/dinner hosting King Willem-Alexander and Queen Máxima of the Netherlands. Using the tracker benchmark for Secret Service & staff (on-site WH/official): $75,000 for the day. No additional taxpayer outlays (travel, off-site law enforcement activation, or itemized hosting costs) are included due to lack of in-window, itemized federal spending evidence.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "Apr 13, 2026: No travel day—Trump stayed at the White House (DoorDash McDonald’s tip-tax promo + dinner hosting Dutch royals). Estimated taxpayer leisure/extra outlay tracked today: $75K (baseline on-site protective operations benchmark).",
+  "tags": [
+    "white-house",
+    "secret-service",
+    "doordash",
+    "mcdonalds",
+    "dutch-royals",
+    "no-travel-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://apnews.com/article/trump-doordash-mcdonalds-tax-tips-iran-pope-cdec935afd68b86b264ed1b0de772e1d",
+    "https://www.cbsnews.com/news/doordash-worker-delivers-trump-mcdonalds/",
+    "https://www.pbs.org/newshour/politics/watch-trump-speaks-about-no-tax-on-tips-with-a-doordash-grandma",
+    "https://thehill.com/homenews/administration/5829060-trump-mcdonalds-delivery-no-tax/",
+    "https://www.whitehouse.gov/videos/president-trump-and-the-first-lady-welcome-the-king-and-queen-of-the-netherlands-to-the-white-house/",
+    "https://people.com/president-trump-and-melania-welcome-king-and-queen-of-the-netherlands-to-the-white-house-11948625"
+  ]
+}
