@@ -1,0 +1,33 @@
+{
+  "location": "The White House (Washington, DC)",
+  "activities": [
+    {
+      "name": "Secret Service & staff protective operations (on-site White House)",
+      "cost": 75000,
+      "description": "President remained on the White House complex for a closed-press day including meetings with Speaker Mike Johnson and NRCC Chair Richard Hudson, Teamsters President Sean O’Brien, a pre-taped Maria Bartiromo interview, and an on-campus press briefing by Tom Homan at “The Sticks.” With no evidence of off-site travel or local law-enforcement activation on 2026-04-14, apply the tracker benchmark for Secret Service & staff (on-site WH/official): $75,000 for the day.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "Apr 14, 2026: No travel—Trump stayed at the White House for meetings (Johnson/NRCC, Teamsters) and a Bartiromo pre-tape; Tom Homan briefed reporters on campus. Estimated taxpayer outlay tracked today: $75K (baseline on-site protective ops benchmark).",
+  "tags": [
+    "white-house",
+    "no-travel-day",
+    "teamsters",
+    "nrcc",
+    "maria-bartiromo",
+    "tom-homan",
+    "secret-service"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.tradingview.com/news/macenews:2d4dead84094b:0-tuesday-white-house-schedule-president-trump-meets-with-head-of-the-teamsters-union",
+    "https://www.politico.com/newsletters/playbook-pm/2026/04/14/trump-dashes-for-affordability-win-00871421",
+    "https://www.nrcc.org/2026/04/14/trump-to-meet-with-teamsters-president-in-another-show-of-union-support-for-tom-barrett-the-gop/",
+    "https://www.cnbc.com/2026/04/14/trump-iran-war-strait-of-hormuz-negotiations.html",
+    "https://www.theguardian.com/us-news/2026/apr/14/trump-news-at-a-glance-latest-updates-today",
+    "https://thehill.com/homenews/administration/5831344-trump-homan-immigration-policy/",
+    "https://thehill.com/homenews/house/5831392-trump-ai-image-jesus/",
+    "https://www.gao.gov/assets/gao-19-178.pdf"
+  ]
+}
