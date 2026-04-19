@@ -1,0 +1,30 @@
+{
+  "location": "The White House (Washington, DC)",
+  "activities": [
+    {
+      "name": "Secret Service & staff protective operations (on-site White House)",
+      "cost": 75000,
+      "description": "No publicized travel on Apr 15, 2026; the day’s public schedule placed the President on the White House complex for meetings and an Oval Office signing, while the Press Secretary and senior officials briefed reporters at the White House. With no off-site movements evidenced in-window, apply the tracker’s benchmark for Secret Service & staff (on-site WH/official): $75,000 for the day.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "Apr 15, 2026: No travel day—Trump stayed at the White House for meetings/signing time as officials held a Tax Day press briefing. Estimated taxpayer outlay tracked: $75K (baseline on-site protective operations benchmark).",
+  "tags": [
+    "white-house",
+    "no-travel-day",
+    "secret-service",
+    "press-briefing",
+    "tax-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://conservativedailynews.com/2026/04/president-donald-trumps-schedule-for-wednesday-april-15-2026/",
+    "https://www.whitehouse.gov/videos/press-secretary-karoline-leavitt-scott-bessent-and-kelly-loeffler-brief-members-of-the-media/",
+    "https://www.pbs.org/newshour/politics/watch-live-bessent-loeffler-join-white-house-briefing-on-tax-day",
+    "https://www.cbsnews.com/video/watch-bessent-loeffler-and-leavitt-take-questions-on-inflation-iran-and-more-at-briefing/",
+    "https://thehill.com/homenews/administration/5830846-live-updates-trump-iran-fed-fisa/",
+    "https://thenationaldesk.com/news/americas-news-now/white-house-to-highlight-historic-tax-cuts-on-tax-day-leavitt-say-refunds-annual-federal-tax-filing-deadline-april-15-secretary-karoline-leavitt-economic-officials-treasury-secretary-scott-bessent-sba-administrator-kelly-loeffler-president-donald-trump",
+    "https://www.cnbc.com/2026/04/15/iran-war-trump-peace-deal-us-talks-stock-market-oil-prices-.html"
+  ]
+}
