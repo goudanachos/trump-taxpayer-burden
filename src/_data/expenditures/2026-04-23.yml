@@ -1,0 +1,29 @@
+{
+  "location": "Washington, DC (White House)",
+  "activities": [
+    {
+      "name": "No verified taxpayer-funded leisure/recreation spending identified (in-window sources)",
+      "cost": 0,
+      "description": "Open, in-window sources place the President at the White House for official events and announcements on 2026-04-23; no verified resort/golf/club travel or other recreational activity with incremental federal outlays was identified from non-paywalled sources within ±7 days.",
+      "category": "leisure-none-identified"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "NEED_MORE_RESEARCH",
+  "tags": [
+    "needs-more-research",
+    "leisure-cost-tracker",
+    "white-house",
+    "no-leisure-verified"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://whitehouse.gov/videos/president-trump-participates-in-a-health-care-affordability-event",
+    "https://whitehouse.gov/videos/president-trump-delivers-remarks-apr-23-2026",
+    "https://www.cnn.com/2026/04/23/world/live-news/iran-war-trump-blockade-israel-lebanon",
+    "https://www.npr.org/2026/04/23/nx-s1-5796719/iran-middle-east-updates",
+    "https://www.cnbc.com/2026/04/23/trump-israel-lebanon-ceasefire-iran-war.html",
+    "https://www.cbsnews.com/live-updates/iran-war-trump-video-strait-of-hormuz-ship-attack-ceasefire-lebanon/",
+    "https://www.france24.com/en/middle-east/20260423-middle-east-war-live-lebanon-meets-israel-in-washington-to-request-truce-extension"
+  ]
+}
