@@ -1,0 +1,30 @@
+{
+  "location": "Washington, DC (The White House)",
+  "activities": [
+    {
+      "name": "No verified taxpayer-funded leisure/recreation spending identified",
+      "cost": 0,
+      "description": "Available open reporting in the evidence window places President Trump in Washington, DC the day after the White House Correspondents’ Dinner shooting, including media interviews and ongoing official activity; no verified resort/golf/club travel or other recreational activity with incremental federal outlays is evidenced for 2026-04-26. (This record tracks leisure-related incremental costs only and does not attempt to price routine White House operations.)",
+      "category": "leisure-none-identified"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Apr 26, 2026: No leisure trip detected—Trump remained in Washington, DC; $0 in incremental taxpayer-funded leisure costs verified for the day.",
+  "tags": [
+    "no-leisure-verified",
+    "white-house",
+    "washington-dc",
+    "leisure-cost-tracker"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.bbc.com/news/articles/c2d8dg57rzdo",
+    "https://www.npr.org/2026/04/26/g-s1-118807/trump-white-house-correspondents-dinner",
+    "https://www.pbs.org/newshour/nation/trumps-many-upcoming-large-high-profile-events-may-present-fresh-security-challenges-after-latest-attack",
+    "https://www.cnbc.com/2026/04/25/trump-gunshots-white-house-correspondents-dinner.html",
+    "https://www.usatoday.com/story/news/politics/2026/04/25/white-house-correspondents-dinner-trump-updates--live/89731543007/",
+    "https://www.nbcnews.com/politics/donald-trump/trump-correspondents-dinner-shooting-white-house-ballroom-rcna342180",
+    "https://www.whitehouse.gov/videos/president-trump-joins-60-minutes-after-the-assassination-attempt-at-the-wh-correspondents-dinner/",
+    "https://fortune.com/2026/04/26/trump-shooting-assassination-attempt-white-house-ballroom-security-correspondents-dinner/"
+  ]
+}
