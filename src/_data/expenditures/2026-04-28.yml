@@ -1,0 +1,30 @@
+{
+  "location": "Washington, DC (The White House)",
+  "activities": [
+    {
+      "name": "No verified taxpayer-funded leisure/recreation spending identified (official state-visit programming)",
+      "cost": 0,
+      "description": "On 2026-04-28, public in-window reporting and White House releases describe an official state-visit program at the White House (greetings, bilateral meeting, and formal dinner for King Charles III and Queen Camilla). No resort/golf/club travel or other recreational activity generating incremental leisure-related federal outlays was identified for this date.",
+      "category": "leisure-none-identified"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Apr 28, 2026: Trump hosted King Charles III & Queen Camilla at the White House (official state-visit events). No incremental taxpayer-funded leisure costs verified: $0.",
+  "tags": [
+    "no-leisure-verified",
+    "white-house",
+    "state-visit",
+    "official-duties"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/releases/2026/04/president-trump-first-lady-welcome-king-charles-iii-and-queen-camilla-for-state-visit-honoring-250-years-of-shared-heritage/",
+    "https://www.whitehouse.gov/briefings-statements/first-lady-melania-trump-releases-details-on-the-state-dinner-with-his-majesty-king-charles-the-iii-of-the-united-kingdom-of-great-britain-and-northern-ireland-and-her-majesty-queen-camilla/",
+    "https://apnews.com/live/trump-charles-news-04-28-2026",
+    "https://edition.cnn.com/2026/04/28/us/live-news/king-charles-queen-camilla-us-visit",
+    "https://www.nbcnews.com/politics/trump-administration/live-blog/king-charles-trump-us-visit-congress-live-updates-rcna342406",
+    "https://www.bbc.com/news/articles/cr7pr1e3p1do",
+    "https://www.c-span.org/event/call-in/president-trump-hosts-state-dinner-for-king-charles-iii/442568",
+    "https://www.theguardian.com/us-news/video/2026/apr/29/trump-hosts-state-dinner-for-britains-king-charles-and-queen-camilla-video"
+  ]
+}
