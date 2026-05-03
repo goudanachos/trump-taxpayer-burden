@@ -1,0 +1,28 @@
+{
+  "location": "Washington, DC (The White House)",
+  "activities": [
+    {
+      "name": "No verified taxpayer-funded leisure/recreation spending identified",
+      "cost": 0,
+      "description": "Open, in-window reporting indicates President Trump remained at the White House on 2026-04-29, including an Oval Office greeting/remarks with the Artemis II astronaut crew. No resort/club/golf travel or other recreational activity with incremental federal outlays was identified for this date.",
+      "category": "leisure-none-identified"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Apr 29, 2026: Trump stayed at the White House (hosted Artemis II astronauts). No incremental taxpayer-funded leisure spending verified: $0.",
+  "tags": [
+    "no-leisure-verified",
+    "white-house",
+    "washington-dc",
+    "artemis-ii"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/videos/artemis-ii-crew-visits-the-oval/",
+    "https://www.c-span.org/program/white-house-event/president-trump-hosts-artemis-ii-astronauts-in-the-oval-office/678331",
+    "https://www.pbs.org/newshour/politics/watch-live-trump-welcomes-artemis-ii-astronauts-to-the-white-house-after-successful-moon-mission",
+    "https://www.cnn.com/2026/04/29/politics/astronauts-artemis-iran-trump-oval-office",
+    "https://www.theguardian.com/science/2026/apr/29/artemis-crew-white-house-trump",
+    "https://www.upi.com/Top_News/US/2026/04/29/artemis-ii-crew-trump/8771777490859/"
+  ]
+}
