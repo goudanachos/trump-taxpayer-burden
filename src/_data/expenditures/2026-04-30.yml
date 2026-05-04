@@ -1,0 +1,28 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No identifiable taxpayer-funded leisure travel or recreation",
+      "cost": 0,
+      "description": "Public reporting and the day’s White House schedule indicate President Trump remained at the White House for official events (including a formal farewell for King Charles III/Queen Camilla and an executive order signing) with no off-site recreational travel (e.g., golf, resort visit) on 2026-04-30. Under the tracker rules, no incremental federal leisure outlays can be attributed to this date.",
+      "category": "no-incremental-leisure-cost"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Apr 30, 2026: Trump stayed at the White House for official events (incl. farewell for King Charles III and an executive order signing); no off-site leisure travel identified → $0 incremental leisure cost.",
+  "tags": [
+    "white-house",
+    "no-travel",
+    "no-leisure-cost",
+    "state-visit"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.reuters.com/world/king-charles-queen-camilla-say-farewell-trump-first-lady-melania-last-day-us-2026-04-30/",
+    "https://www.cnn.com/2026/04/30/us/live-news/king-charles-queen-camilla-us-visit",
+    "https://abcnews.com/GMA/News/live-updates/live-updates-king-charles-state-visit-2026/?id=132358438",
+    "https://www.whitehouse.gov/videos/president-trump-participates-in-an-executive-order-signing-april-30th-2026/",
+    "https://www.cnbc.com/2026/04/30/trump-executive-order-expanding-retirement-account-access.html",
+    "https://theguardian.com/us-news/2026/apr/30/trump-news-at-a-glance-latest-updates-today"
+  ]
+}
