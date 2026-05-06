@@ -1,0 +1,27 @@
+{
+  "location": "Palm Beach County & Miami-Dade County, Florida (Mar-a-Lago → Trump National Golf Club Jupiter → Palm Beach Int’l Airport → Miami → Trump National Doral)",
+  "activities": [
+    {
+      "name": "NEED_MORE_RESEARCH (confidence gate not met)",
+      "cost": 0,
+      "description": "Unable to produce a high-confidence (≥0.95) leisure-cost estimate for 2026-05-02 with the required level of event-by-event verification (e.g., exact federal aircraft type/flight time(s), and two independent in-window sources confirming each leisure segment such as the Jupiter golf outing and the Palm Beach→Miami travel leg). Additional corroboration is required before assigning taxpayer outlays to this date under the tracker rules.",
+      "category": "research-gap"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "NEED_MORE_RESEARCH",
+  "tags": [
+    "need-more-research",
+    "insufficient-verification",
+    "golf-trip"
+  ],
+  "confidence_level": "low",
+  "source_urls": [
+    "https://www.whitehouse.gov/videos/president-trump-gaggles-with-press-upon-departure-from-palm-beach-fl-may-2-2026/",
+    "https://www.reuters.com/world/trump-says-there-is-possibility-us-could-restart-strikes-iran-2026-05-02/",
+    "https://www.newsweek.com/donald-trumps-dental-visit-sparks-health-speculation-from-critics-11909157",
+    "https://www.nbcmiami.com/news/local/person-arrested-at-trump-national-doral-after-disrupting-event-police-say/3804510/",
+    "https://www.cbsnews.com/news/man-arrested-trump-doral-miami-golf-club-disorderly-conduct/",
+    "https://www.hindustantimes.com/world-news/us-news/donald-trump-health-update-medical-expert-raises-questions-on-dentist-visit-after-walter-reed-claims-rushed-to-hospital-101777762983535.html"
+  ]
+}
