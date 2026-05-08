@@ -1,0 +1,28 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No taxpayer-funded leisure travel or recreation identified",
+      "cost": 0,
+      "description": "On 2026-05-04, public schedule reporting and contemporaneous coverage place President Trump at the White House for official duties, including a Small Business Summit in the East Room (National Small Business Week). No off-site recreational activity (e.g., golf/resort visit) or leisure-motivated travel is evidenced for this date; therefore, incremental federal leisure outlays attributable to this date are estimated at $0 under tracker rules.",
+      "category": "no-incremental-leisure-cost"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "May 4, 2026: Trump remained at the White House for official events (incl. East Room Small Business Summit); no leisure travel identified → $0 incremental leisure cost.",
+  "tags": [
+    "white-house",
+    "no-travel",
+    "no-leisure-cost",
+    "small-business-summit"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/videos/president-trump-participates-in-a-small-business-summit/",
+    "https://www.pbs.org/newshour/politics/watch-live-trump-participates-in-a-small-business-summit",
+    "https://www.c-span.org/event/white-house-event/president-trump-gives-remarks-at-small-business-summit/442782",
+    "https://www.scrippsnews.com/politics/the-president/president-trump-to-celebrate-small-business-owners",
+    "https://abcnews4.com/news/nation-world/trump-to-host-white-house-small-business-summit-for-national-small-business-week",
+    "https://www.deseret.com/politics/2026/05/04/president-trump-white-house-small-business-summit-utah-company/"
+  ]
+}
