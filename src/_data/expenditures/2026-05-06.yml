@@ -1,0 +1,29 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No taxpayer-funded leisure travel or recreation identified",
+      "cost": 0,
+      "description": "On 2026-05-06, contemporaneous reporting and official White House materials place President Trump at the White House for scheduled official activities (including an East Room Military Mother’s Day event and an Oval Office media availability with UFC fighters previewing a future White House event). No off-site recreational activity (e.g., golf/resort visit) or leisure-motivated travel is evidenced for this date; therefore, incremental federal leisure outlays attributable to 2026-05-06 are estimated at $0 under tracker rules.",
+      "category": "no-incremental-leisure-cost"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "May 6, 2026: Trump stayed at the White House for official events (Military Mother’s Day + Oval Office remarks); no leisure travel identified → $0 incremental leisure cost.",
+  "tags": [
+    "white-house",
+    "no-travel",
+    "no-leisure-cost",
+    "mothers-day-event"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/2026/05/first-lady-melania-trump-honors-military-mothers-the-soul-of-our-nation/",
+    "https://www.whitehouse.gov/videos/president-trump-and-the-first-lady-participate-in-a-military-mothers-day-event/",
+    "https://www.pbs.org/newshour/politics/watch-trump-welcomes-ufc-fighters-to-the-white-house-previews-upcoming-south-lawn-fight",
+    "https://thehill.com/video-clips/5866033-watch-live-white-house-mothers-day-trump-melania-trump/",
+    "https://cbsaustin.com/news/nation-world/first-lady-melania-trump-honoring-military-mothers-at-white-house-celebration-mothers-day-armed-forces-united-states-army-navy-marines-coast-guard-air-force-troops-iran-war-conflict-gas-oil-strait-of-hormuz-trump-vance",
+    "https://conservativedailynews.com/2026/05/president-donald-trumps-schedule-for-wednesday-may-6-2026/",
+    "https://www.usatoday.com/story/news/politics/2026/05/06/trump-white-house-ufc-fight-dana-white/89966103007/"
+  ]
+}
