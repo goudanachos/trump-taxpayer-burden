@@ -1,0 +1,22 @@
+{
+  "status": "NEED_MORE_RESEARCH",
+  "model_confidence": 0.6,
+  "total_source_urls_count": 6,
+  "blocking_issues": [
+    "Cannot verify actual federal outlays incurred on 2026-05-07 for the Lincoln Memorial Reflecting Pool trip (motorcade, Secret Service surge, local law-enforcement activation) from in-window primary sources; available reporting confirms the visit occurred but does not provide itemized/official cost data.",
+    "Reuters primary report could not be scraped via tool (blocked), limiting independent cross-verification beyond AP/PBS/USA Today/People."
+  ],
+  "evidence_in_window_source_urls": [
+    "https://apnews.com/article/trump-lincoln-memorial-reflecting-pool-blue-visit-214814ea23ae9412093167e49bbc20e8",
+    "https://www.pbs.org/newshour/politics/trump-drives-across-lincoln-memorial-reflecting-pool-to-inspect-blue-coating-hes-adding",
+    "https://www.usatoday.com/story/news/politics/2026/05/08/trump-visit-lincoln-memorial-reflecting-pool-renovations/89992417007/",
+    "https://people.com/trumps-motorcade-drives-over-the-lincoln-memorial-reflecting-pool-amid-efforts-to-make-dc-beautiful-again-11970042",
+    "https://www.bbc.com/news/live/c8095x87j1nt",
+    "https://thehill.com/homenews/5868388-trump-lula-bilateral-meeting/"
+  ],
+  "next_research_targets": [
+    "White House pool report / official movement logs for 2026-05-07 to estimate motorcade trip count/duration and whether Marine One was used.",
+    "Any publicly released MPD / U.S. Park Police / USSS statements or after-action notes indicating activated staffing/overtime for the National Mall closure.",
+    "Any GSA/OMB/agency disclosures for incremental security/overtime costs attributable specifically to 2026-05-07 (not multi-day or contract totals)."
+  ]
+}
