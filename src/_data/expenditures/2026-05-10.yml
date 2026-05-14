@@ -1,0 +1,20 @@
+{
+  "location": "White House, Washington, DC",
+  "activities": [
+    {
+      "name": "NEED_MORE_RESEARCH",
+      "cost": 0,
+      "description": "Evidence gate not met for 2026-05-10: unable to locate ≥6 in-window, independent, non-paywalled sources confirming any taxpayer-funded leisure travel or incremental recreational spending incurred on this date beyond normal White House operations. Provided roll call shows only in-White-House items and an early ‘full lid,’ but that alone is insufficient to cost out any leisure-related federal outlays under the required confidence threshold.",
+      "category": "meta"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "May 10, 2026: Need more research—insufficient in-window sourcing to verify any incremental taxpayer-funded leisure travel/spending beyond baseline White House operations.",
+  "tags": [
+    "need-more-research",
+    "insufficient-sourcing",
+    "no-verified-leisure-travel"
+  ],
+  "confidence_level": "low",
+  "source_urls": []
+}
