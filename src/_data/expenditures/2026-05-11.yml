@@ -1,0 +1,30 @@
+{
+  "location": "The White House (Rose Garden / Oval Office), Washington, DC",
+  "activities": [
+    {
+      "name": "NEED_MORE_RESEARCH",
+      "cost": 0,
+      "description": "The day’s notable items (Indiana University national champions visit; Rose Garden Club Dinner) occurred on White House grounds, with no verified off-site leisure travel. However, no in-window, non-paywalled sources provide itemized or attributable federal outlays (e.g., incremental USSS overtime, staging/catering/vendor charges) incurred specifically on 2026-05-11 for these events versus baseline White House operations. Under the evidence + confidence gate, a defensible taxpayer-funded ‘leisure cost’ total cannot be produced for this date.",
+      "category": "meta"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "May 11, 2026: Need more research—events occurred at the White House (IU champions visit; Rose Garden Club Dinner), but no in-window sources provide attributable federal outlays to estimate incremental leisure/social costs with high confidence.",
+  "tags": [
+    "need-more-research",
+    "white-house",
+    "rose-garden-club",
+    "on-site-event",
+    "no-itemized-costs"
+  ],
+  "confidence_level": "low",
+  "source_urls": [
+    "https://www.whitehouse.gov/videos/president-trump-participates-in-a-rose-garden-club-dinner/",
+    "https://www.c-span.org/event/white-house-event/president-trump-speaks-at-white-house-rose-garden-club-dinner/443031",
+    "https://www.livenowfox.com/video/fmc-ktbsmbiun1fp3zkw",
+    "https://people.com/donald-trump-says-white-house-was-s-house-before-he-moved-in-11972289",
+    "https://www.usatoday.com/story/sports/ncaaf/bigten/2026/05/11/indiana-football-white-house-donald-trump-curt-cignetti-iu-hoosiers-fernando-mendoza/90034180007/",
+    "https://fox59.com/news/ap-photos-indiana-football-team-visits-white-house-after-winning-2026-national-championship-game/",
+    "https://www.idsnews.com/article/2026/05/iu-national-champions-indiana-football-visits-white-house-president-trump"
+  ]
+}
