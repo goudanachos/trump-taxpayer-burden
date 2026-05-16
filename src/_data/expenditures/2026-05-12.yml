@@ -1,0 +1,29 @@
+{
+  "location": "En route: Washington, DC → Anchorage, AK (refuel) → Beijing, China",
+  "activities": [
+    {
+      "name": "NEED_MORE_RESEARCH",
+      "cost": 0,
+      "description": "In-window reporting confirms President Trump departed Washington for Beijing and Air Force One made a refueling stop in Anchorage en route. However, under the rules, a defensible cost for 2026-05-12 requires auditable flight-hours attributable specifically to the Eastern-time portion of that date (including how much of the Anchorage→Beijing leg occurred before midnight ET) and confirmation of support aircraft factors. Available sources do not provide sufficient timing/aircraft-package detail to compute federal outlays incurred on 2026-05-12 with model_confidence ≥ 0.95.",
+      "category": "meta"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "May 12, 2026: NEED_MORE_RESEARCH—sources confirm Air Force One traveled toward Beijing via an Anchorage refuel stop, but insufficient published detail to compute taxpayer outlays incurred specifically on May 12 (ET) with high confidence.",
+  "tags": [
+    "need-more-research",
+    "official-travel",
+    "air-force-one",
+    "anchorage-refuel",
+    "beijing-trip"
+  ],
+  "confidence_level": "low",
+  "source_urls": [
+    "https://apnews.com/live/trump-administration-updates-05-12-2026",
+    "https://www.c-span.org/program/white-house-event/president-trump-departs-for-beijing/679026",
+    "https://www.alaskasnewssource.com/2026/05/13/trump-air-force-one-lands-anchorage-way-china-summit/",
+    "https://alaskabeacon.com/briefs/air-force-one-with-trump-aboard-makes-brief-stop-in-anchorage-en-route-to-asia/",
+    "https://thehill.com/homenews/administration/5875767-nvidia-ceo-joins-trump-china-trip/",
+    "https://www.capitalfm.co.ke/news/2026/05/trump-air-force-one-alaska-refuel-beijing-trip/"
+  ]
+}
