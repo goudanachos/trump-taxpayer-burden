@@ -1,0 +1,30 @@
+{
+  "location": "Beijing, China (Four Seasons Hotel Beijing / Great Hall of the People)",
+  "activities": [
+    {
+      "name": "NEED_MORE_RESEARCH",
+      "cost": 0,
+      "description": "In-window sources confirm President Trump arrived in Beijing on May 13, 2026 (ET) and proceeded to meetings at the Great Hall of the People. However, this appears to be official international travel rather than a leisure outing, and available public sources within the window do not provide auditable, attributable U.S. federal outlays incurred specifically on 2026-05-13 (US Eastern) (e.g., flight-hours attributable to that date, support-aircraft factors, or itemized federal spending). Under the rules, a defensible taxpayer-funded leisure-cost estimate for this date cannot be produced.",
+      "category": "meta"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "May 13, 2026: Trump arrived in Beijing and began official summit movements—no verifiable, attributable taxpayer-funded leisure outlays available in-window, so this day is flagged NEED_MORE_RESEARCH.",
+  "tags": [
+    "need-more-research",
+    "international-travel",
+    "beijing",
+    "official-schedule",
+    "insufficient-cost-detail"
+  ],
+  "confidence_level": "low",
+  "source_urls": [
+    "https://www.cnbc.com/2026/05/13/trump-china-xi-beijing-meeting-ceos.html",
+    "https://www.bbc.com/news/live/cvgz8qverzqt",
+    "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-china-trip-xi-live-updates-rcna344529",
+    "https://www.theguardian.com/world/2026/may/13/trump-china-summit-xi-jinping-talks",
+    "https://www.cnn.com/politics/live-news/trump-china-visit-xi-meeting-hnk",
+    "https://www.npr.org/2026/05/15/nx-s1-5822512/trump-china-xi-summit-takeaways",
+    "https://www.c-span.org/"
+  ]
+}
