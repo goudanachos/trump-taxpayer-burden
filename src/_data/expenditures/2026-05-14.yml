@@ -1,0 +1,29 @@
+{
+  "location": "Beijing, China (Four Seasons Hotel / Great Hall of the People / Temple of Heaven)",
+  "activities": [
+    {
+      "name": "NEED_MORE_RESEARCH",
+      "cost": 0,
+      "description": "Available in-window reporting confirms the President’s movements in Beijing (Great Hall of the People meetings and state banquet; Temple of Heaven visit; media interviews), but does not provide enough sourced, date-specific evidence to attribute taxpayer-funded *outlays actually incurred on 2026-05-14* (e.g., flight hours, U.S.-funded vs host-nation-provided motorcade/security, per-diem/hotel charges, reimbursable law-enforcement costs). Under the evidence-window and ‘federal outlays incurred on target_date’ rules, this entry is therefore left at $0 pending additional documentation (e.g., official travel logs, DoD/USSS cost data, contracting/invoice records, or contemporaneous White House disclosure).",
+      "category": "research-gate"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "NEED_MORE_RESEARCH",
+  "tags": [
+    "need-more-research",
+    "insufficient-cost-evidence",
+    "international-trip",
+    "beijing"
+  ],
+  "confidence_level": "low",
+  "source_urls": [
+    "https://www.bbc.com/news/articles/cdxp0g4q3q2o",
+    "https://www.channelnewsasia.com/east-asia/trump-xi-china-summit-beijing-temple-heaven-symbolism-6120621",
+    "https://www.cnbc.com/2026/05/14/trump-xi-beijing-summit-trade-taiwan-ai-iran-rare-earths-tariffs.html",
+    "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-china-trip-xi-live-updates-rcna344529",
+    "https://www.cnn.com/politics/live-news/trump-china-visit-xi-meeting-hnk",
+    "https://apnews.com/live/trump-administration-updates-05-15-2026",
+    "https://hannity.com/media-room/full-interview-sean-hannity-sits-down-with-president-trump-in-beijing-watch-now"
+  ]
+}
