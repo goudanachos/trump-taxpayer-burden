@@ -1,0 +1,30 @@
+{
+  "location": "Sterling, Virginia (Trump National Golf Club Washington, D.C.) / Washington, D.C. (White House)",
+  "activities": [
+    {
+      "name": "NEED_MORE_RESEARCH",
+      "cost": 0,
+      "description": "The evidence window contains multiple contemporaneous media items asserting/mentioning the President spent time at Trump National Golf Club Washington, D.C. during the weekend of 2026-05-16. However, open sources available in-window do not provide the auditable, date-specific federal outlay inputs required to compute taxpayer cost incurred on 2026-05-16 (e.g., itemized USSS daily cost for this off-site protectee movement; reimbursable local law-enforcement activation; number and type of motorcade trips and whether extraordinary overtime was billed; any aviation legs). Under the tool+confidence gate, this entry remains uncosted and returns NEED_MORE_RESEARCH.",
+      "category": "research-gate"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "NEED_MORE_RESEARCH",
+  "tags": [
+    "need-more-research",
+    "golf",
+    "trump-property",
+    "motorcade-unknown",
+    "security-cost-unknown"
+  ],
+  "confidence_level": "low",
+  "source_urls": [
+    "https://golfweek.usatoday.com/story/sports/golf/courses/2026/05/16/trumps-d-c-golf-course-plan-draws-local-criticism/90115984007/",
+    "https://www.yahoo.com/news/articles/trump-snubs-big-faith-event-203941358.html",
+    "https://metro.co.uk/2026/05/18/donald-trump-snubs-white-houses-nine-hour-prayer-festival-go-golfing-28415831/",
+    "https://www.irishstar.com/sport/golf/trump-golf-weekend-taxpayer-money-37169112",
+    "https://themirror.com/sport/golf/donald-trump-golf-xi-jinping-1841691",
+    "https://www.the-express.com/sport/golf/207448/donald-trump-golf-china-cost",
+    "https://okmagazine.com/p/donald-trump-skips-his-own-event-go-golfing/"
+  ]
+}
