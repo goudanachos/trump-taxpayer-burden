@@ -1,0 +1,32 @@
+{
+  "location": "Sterling, Virginia (Trump National Golf Club Washington, D.C.) / Washington, D.C. (White House)",
+  "activities": [
+    {
+      "name": "NEED_MORE_RESEARCH",
+      "cost": 0,
+      "description": "In-window reporting corroborates that the President traveled by motorcade from the White House to Trump National Golf Club (Sterling, VA) on 2026-05-17 and returned later the same day. However, the open, contemporaneous sources do not provide auditable, date-specific federal outlay data needed to estimate taxpayer cost incurred on the target date under the tracker rules (e.g., actual VC-25/C-32/Marine One flight hours = none indicated but not formally confirmed; itemized Secret Service overtime/TDY and per-diem; reimbursable local law-enforcement activation and billed amounts; motorcade/road-closure costs attributable to federal outlays vs local budgets; any host-agency reimbursements). Because the confidence gate requires model_confidence ≥ 0.95 and this record would otherwise rely heavily on generic benchmarks without verified inputs, this entry returns NEED_MORE_RESEARCH and is left uncosted.",
+      "category": "research-gate"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "NEED_MORE_RESEARCH",
+  "tags": [
+    "need-more-research",
+    "golf",
+    "trump-property",
+    "sterling-va",
+    "motorcade",
+    "insufficient-cost-evidence"
+  ],
+  "confidence_level": "low",
+  "source_urls": [
+    "https://www.thedailybeast.com/trump-snubs-his-rededicate-250-event-in-dc-to-go-golfing-in-virginia/",
+    "https://www.yahoo.com/news/articles/trump-snubs-big-faith-event-203941358.html",
+    "https://www.mirror.co.uk/news/us-news/trump-ditches-faith-event-golf-37169424",
+    "https://www.irishstar.com/sport/golf/trump-golf-weekend-taxpayer-money-37169112",
+    "https://www.foxnews.com/live-news/rededicate-250-prayer-national-mall-05-17-26",
+    "https://okmagazine.com/p/donald-trump-skips-his-own-event-go-golfing/",
+    "https://thespun.com/golf/president-trump-reportedly-skips-white-house-event-for-golf",
+    "https://www.the-express.com/sport/golf/207491/Donald-Trump-China-National-Golf-Club-Xi-Jinping"
+  ]
+}
