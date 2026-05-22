@@ -1,0 +1,20 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "NEED_MORE_RESEARCH",
+      "cost": 0,
+      "description": "Insufficient in-window, independently verifiable sourcing (target_date ±7 days) to (a) confirm any leisure/recreational activity on 2026-05-18 beyond routine White House ‘Executive Time’ blocks, and (b) attribute any taxpayer-funded leisure-specific outlays incurred on the target date. Per the tool & confidence gate ((total_source_urls_count ≥ 6) && (model_confidence ≥ 0.95)), this record returns NEED_MORE_RESEARCH.",
+      "category": "research-gate"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "NEED_MORE_RESEARCH",
+  "tags": [
+    "need-more-research",
+    "white-house",
+    "insufficient-in-window-sourcing"
+  ],
+  "confidence_level": "low",
+  "source_urls": []
+}
