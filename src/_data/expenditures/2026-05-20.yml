@@ -1,0 +1,19 @@
+{
+  "location": "NEED_MORE_RESEARCH",
+  "activities": [
+    {
+      "name": "NEED_MORE_RESEARCH",
+      "cost": 0,
+      "description": "Gate not satisfied: required total_source_urls_count >= 6 and model_confidence >= 0.95 before computing taxpayer-funded leisure or travel outlays for 2026-05-20 (Groton/New London, CT trip). Additional research needed to obtain at least 2 independent in-window sources with sufficient operational details (aircraft type and flight hours; motorcade/ground legs; USSS/local LE activation) to estimate federal outlays incurred on the target date.",
+      "category": "research-gate"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "NEED_MORE_RESEARCH",
+  "tags": [
+    "need-more-research",
+    "gate-failed"
+  ],
+  "confidence_level": "low",
+  "source_urls": []
+}
