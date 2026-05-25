@@ -1,0 +1,16 @@
+{
+  "status": "NEED_MORE_RESEARCH",
+  "target_date": "2026-05-21",
+  "reason": "Unable to reach model_confidence ≥ 0.95 that there were zero (or any) taxpayer-funded recreational/leisure outlays on 2026-05-21. Public schedule and in-window reporting confirm on-site White House events, but do not definitively rule out unreported leisure travel/activities or quantify any leisure-specific federal outlays incurred that day under the tracker rules.",
+  "evidence_window_days": "+/-7",
+  "in_window_source_urls_found": [
+    "https://www.usatoday.com/story/news/politics/2026/05/21/trump-grocery-costs-refrigerant-rules-epa-biden/90186446007/",
+    "https://www.cnbc.com/2026/05/21/trump-changes-epa-refrigeration-rules-in-grocery-price-push.html",
+    "https://www.whitehouse.gov/videos/president-trump-participates-in-an-announcement-with-the-administrator-of-the-epa/",
+    "https://www.c-span.org/event/white-house-event/president-trump-and-epa-administrator-make-announcement/443374",
+    "https://www.reuters.com/world/china/trump-vows-us-will-retrieve-uranium-iran-2026-05-21/",
+    "https://www.theguardian.com/us-news/2026/may/21/trump-son-wedding-invite"
+  ],
+  "total_source_urls_count": 6,
+  "model_confidence": 0.7
+}
