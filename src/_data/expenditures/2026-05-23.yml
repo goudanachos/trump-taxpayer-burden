@@ -1,0 +1,28 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational travel or activity",
+      "cost": 0,
+      "description": "Within the evidence window, multiple independent reports place President Trump at the White House on May 23, 2026 (including coverage of a shooting near a White House security checkpoint while he was in the building). No in-window, non-paywalled sources document any taxpayer-funded recreational/leisure travel (e.g., golf resort trip) occurring on the target date; reporting also notes he changed plans to stay at the White House rather than travel for the weekend. Under the tracker rules, no federal outlays attributable specifically to leisure/recreation are counted for this date.",
+      "category": "leisure"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "May 23, 2026: No confirmed Trump leisure travel or recreation; he remained at the White House (reported weekend trip/golf plans canceled). Estimated leisure cost to taxpayers: $0.",
+  "tags": [
+    "no-leisure-travel",
+    "white-house",
+    "schedule-lid",
+    "no-air-travel"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.npr.org/2026/05/23/g-s1-124148/secret-service-shooting-white-house",
+    "https://www.usatoday.com/story/news/politics/2026/05/23/gunshots-at-white-house-lead-to-lockdown-fbi-says-live-updates--live/90238194007/",
+    "https://www.nbcnews.com/politics/politics-news/gunshots-reported-near-white-house-rcna346671",
+    "https://www.theguardian.com/us-news/2026/may/23/gunshots-white-house",
+    "https://people.com/suspect-shooting-incident-near-white-house-identified-man-previously-arrested-11983013",
+    "https://www.fox5dc.com/news/white-house-shots-fired-lockdown-may-23-2026"
+  ]
+}
