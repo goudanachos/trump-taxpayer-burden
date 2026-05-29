@@ -1,0 +1,28 @@
+{
+  "location": "Washington, D.C. (White House) and Arlington, VA (Arlington National Cemetery)",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity (Memorial Day observance was official)",
+      "cost": 0,
+      "description": "On May 25, 2026, reporting and official video coverage show President Trump traveled from the White House to Arlington National Cemetery for an official Memorial Day wreath-laying/remarks event and returned to the White House. No in-window, non-paywalled sources document taxpayer-funded recreational/leisure travel or activities (e.g., golf/resort visit) occurring on the target date. Under the tracker rules, official-event travel/security is excluded from “leisure-cost” totals for this date.",
+      "category": "leisure"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "May 25, 2026: Trump’s public movements were official (Memorial Day Arlington ceremony) with no confirmed leisure trip; estimated taxpayer-funded leisure cost: $0.",
+  "tags": [
+    "no-leisure-travel",
+    "official-event",
+    "arlington-national-cemetery",
+    "memorial-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/videos/president-trump-participates-in-a-wreath-laying-ceremony-and-delivers-remarks/",
+    "https://www.pbs.org/newshour/nation/watch-live-trump-participates-in-memorial-day-observance-at-arlington-national-cemetery",
+    "https://apnews.com/video/trump-marks-memorial-day-with-wreath-laying-at-arlington-national-cemetery-c48eb1926d874124b1177f93c1660a6a",
+    "https://www.c-span.org/event/america-250/president-trump-wreath-laying-at-arlington-national-cemetery/443248",
+    "https://thehill.com/video-clips/5893826-watch-live-trump-memorial-day-wreath-laying-ceremony/",
+    "https://www.newsnationnow.com/us-news/military/trump-arlington-national-cemetery-memorial-day/"
+  ]
+}
