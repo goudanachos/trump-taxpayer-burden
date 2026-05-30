@@ -1,0 +1,28 @@
+{
+  "location": "Washington, D.C. (White House) and Bethesda, MD (Walter Reed National Military Medical Center)",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational travel or activity (medical visit and White House events only)",
+      "cost": 0,
+      "description": "In-window reporting shows President Trump traveled from the White House to Walter Reed for preventive medical/dental evaluations and returned to the White House. No in-window, non-paywalled sources document any taxpayer-funded recreational/leisure travel (e.g., golf/resort visit) occurring on 2026-05-26. Under the tracker rules, official duties/medical-related movements are excluded from leisure-cost totals for this date.",
+      "category": "leisure"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "May 26, 2026: Trump’s documented movements were official (Walter Reed physical + White House schedule). No confirmed leisure trip; estimated taxpayer-funded leisure cost: $0.",
+  "tags": [
+    "no-leisure-travel",
+    "walter-reed",
+    "white-house",
+    "medical-visit"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.reuters.com/business/healthcare-pharmaceuticals/trump-near-80-have-annual-physical-amid-scrutiny-recent-ailments-2026-05-26/",
+    "https://abcnews.go.com/US/trump-visit-walter-reed-tuesday-3rd-time-returning/story?id=133306805",
+    "https://www.pbs.org/newshour/politics/trump-will-see-doctors-for-a-medical-exam-what-the-public-finds-out-is-up-to-him",
+    "https://www.npr.org/2026/05/25/nx-s1-5833855/trump-medical-checkup",
+    "https://www.npr.org/2026/05/27/nx-s1-5835326/trumps-third-check-up-at-walter-reed-raises-more-questions-about-his-health",
+    "https://www.usatoday.com/story/news/politics/2026/05/25/donald-trump-health-medical-exam-walter-reed-age/90249981007/"
+  ]
+}
