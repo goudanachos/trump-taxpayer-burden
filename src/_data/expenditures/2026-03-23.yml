@@ -1,0 +1,25 @@
+{
+  "location": "Memphis, Tennessee (Graceland), with travel from Mar-a-Lago to the White House via Memphis",
+  "activities": [
+    {
+      "name": "Tour of Graceland",
+      "cost": 360000,
+      "category": "recreation",
+      "description": "The official roll call for March 23, 2026 shows President Trump departing Memphis International Airport for Graceland at 2:23 PM local, arriving at 2:34 PM, taking a tour of Graceland at 2:37 PM, and departing at 3:10 PM. Because the Graceland stop is an explicitly recreational sightseeing activity embedded within an otherwise official travel day, this record counts only the leisure-attributable federal outlays documented for that stop: an estimated local motorcade ($10,000), peak off-site Secret Service and staff coverage for the off-site leisure event ($300,000 benchmark), and capped incidentals of roughly 15% of travel plus security ($50,000), rounded to $360,000."
+    }
+  ],
+  "total_cost": 360000,
+  "social_description": "March 23, 2026: Trump’s official schedule included a sightseeing stop and tour of Graceland in Memphis. Counting only leisure-attributable costs for that detour—not the broader official travel day—the estimated taxpayer cost is $360,000.",
+  "tags": [
+    "graceland",
+    "memphis",
+    "recreational-stop",
+    "motorcade",
+    "off-site-security"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ],
+  "social_title": "Trump’s Graceland sightseeing stop in Memphis cost an estimated $360,000"
+}
