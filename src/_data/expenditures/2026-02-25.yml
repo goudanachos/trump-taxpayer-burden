@@ -1,0 +1,23 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The provided daily schedule places President Trump at the White House all day on February 25, 2026 for Executive Time, policy meetings, a lunch lid, and a meeting with the Secretary of Transportation, with a full lid called in the evening. No in-window evidence located any leisure or recreational travel or activity on that date, so no leisure-related federal outlay is counted.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Feb. 25, 2026: Trump appears to have remained at the White House for executive time and policy meetings, with no documented leisure or recreational activity. Leisure-cost determination: $0.",
+  "tags": [
+    "white-house",
+    "zero-cost",
+    "no-leisure-documented",
+    "official-schedule"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
