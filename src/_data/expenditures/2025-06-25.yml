@@ -1,1 +1,23 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The Hague, Netherlands and return to Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The roll call places the President at official NATO Summit events in The Hague, followed by return travel to Joint Base Andrews and the White House on June 25, 2025. Because the day was documented as official diplomatic and transit activity rather than leisure or recreation, no leisure-cost outlay is counted under the stated methodology.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "June 25, 2025 was an official NATO summit and return-travel day, not a leisure day, so the leisure-cost determination is $0.",
+  "tags": [
+    "official-travel",
+    "nato-summit",
+    "the-hague",
+    "zero-cost-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
