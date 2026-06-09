@@ -1,1 +1,21 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "Trump National Golf Club Bedminster, Bedminster, New Jersey",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The day’s schedule shows the President in New York for a Fox & Friends interview and a dinner with Steve Witkoff and Qatar’s prime minister, then traveling late to Trump National Golf Club Bedminster and calling a full lid shortly after arrival. While he ended the night at a Trump property, the in-window evidence provided here documents transit and official/media/diplomatic activity, not a leisure or recreational event actually occurring on 2025-09-12, so no leisure outlay is counted for this date.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Sept. 12, 2025: Trump ended the night at Bedminster, but the documented day was interview/dinner/travel activity with no confirmed leisure or recreational event on the date, so the leisure-cost tally is $0.",
+  "tags": [
+    "zero-cost-day",
+    "bedminster",
+    "trump-property",
+    "no-documented-leisure"
+  ],
+  "confidence_level": "medium",
+  "source_urls": []
+}
