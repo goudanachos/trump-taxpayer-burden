@@ -1,0 +1,28 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "On-site presidential security and staff support",
+      "cost": 75000,
+      "description": "President Trump’s public schedule for June 1, 2026 keeps him at the White House all day for executive time, policy meetings, and an Oval Office signing, with no reported travel legs or off-site leisure activity. Under the provided benchmark, the applicable federal outlay is the standard on-site White House Secret Service and staff daily support cost.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "June 1, 2026: Trump stayed at the White House for executive time, meetings, and an Oval Office signing. No travel costs identified; estimated federal outlay is the standard $75,000 on-site presidential security/staff day.",
+  "tags": [
+    "white-house",
+    "on-site-security",
+    "no-travel",
+    "official-schedule"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.whitehouse.gov/presidential-actions/2026/06/further-adjusting-the-tariff-regimes-for-imports-of-aluminum-steel-and-copper-into-the-united-states/",
+    "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-updates-tariffs-on-steel-aluminum-and-copper-imports/",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://time.com/4885934/white-house-helicopter-cost/",
+    "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-promotes-advanced-artificial-intelligence-innovation-and-security/"
+  ]
+}
