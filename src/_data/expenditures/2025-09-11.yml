@@ -1,1 +1,23 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "New York, New York",
+  "activities": [
+    {
+      "name": "Travel to attend Yankees baseball game",
+      "cost": 470000,
+      "description": "The schedule shows the President flew from Joint Base Andrews to New York, went from LaGuardia to Yankees Stadium, attended a Yankees baseball game, and then traveled to Trump Tower. A baseball game is a recreational event, so the attributable same-day leisure burden is estimated using a 0.6-hour domestic VC-25 leg with support factor 0.5, peak off-site Secret Service/staff, and a short local motorcade allowance, rounded to the nearest $10,000.",
+      "category": "sports-event"
+    }
+  ],
+  "total_cost": 470000,
+  "social_description": "Sept. 11, 2025: Trump traveled from Washington to New York to attend a Yankees game, producing an estimated same-day leisure-related federal cost of about $470,000.",
+  "tags": [
+    "yankees-game",
+    "new-york",
+    "sports-event",
+    "air-travel",
+    "off-site-security"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [],
+  "social_title": "Sept. 11, 2025: Trump traveled from Washington to New York to attend a Yankees game, with an estimated same-day federal cost of about $470,000"
+}
