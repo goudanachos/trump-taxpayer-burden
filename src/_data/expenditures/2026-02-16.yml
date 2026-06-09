@@ -1,0 +1,22 @@
+{
+  "location": "Mar-a-Lago / Palm Beach, Florida; return to the White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Return travel from Mar-a-Lago with no documented leisure activity counted on target date",
+      "cost": 0,
+      "category": "none",
+      "description": "The roll call shows the President at Mar-a-Lago in Palm Beach during the day, conducting at least one media interview there, then departing Palm Beach International Airport in the evening for Joint Base Andrews and returning to the White House. Although he was at a Trump property, the in-window evidence provided here does not document a leisure or recreational activity on Feb. 16 itself, so under the methodology no leisure-specific federal outlay is counted for this date."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Feb. 16, 2026: $0. The President was at Mar-a-Lago and then returned to Washington, but no in-window source documents leisure or recreational activity on the target date, so no leisure cost is assessed.",
+  "tags": [
+    "mar-a-lago",
+    "return-travel",
+    "zero-cost-day"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
