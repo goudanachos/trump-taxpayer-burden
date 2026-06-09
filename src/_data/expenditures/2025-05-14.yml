@@ -1,1 +1,25 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "Riyadh, Saudi Arabia and Doha, Qatar",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The roll call places the President in Riyadh and Doha for official diplomatic events on May 14, 2025, including a Gulf Cooperation Council leaders' meeting, a Qatari state visit, and a state dinner. No in-window source or schedule evidence provided documents golf, resort leisure, or other recreational activity, so no leisure-related federal outlay is counted for this date.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "May 14, 2025: Trump was in Saudi Arabia and Qatar for official meetings and state events, with no documented leisure or recreational activity, so the leisure-cost record is $0.",
+  "tags": [
+    "zero-cost-day",
+    "official-travel",
+    "riyadh",
+    "doha",
+    "international-trip",
+    "2025"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
