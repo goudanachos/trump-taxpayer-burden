@@ -1,1 +1,23 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "On-site presidential security and staff support",
+      "cost": 75000,
+      "description": "The provided schedule places the President at the White House all day on 2026-05-05 for Executive Time, Oval Office events, a pre-taped interview, and an evening Rose Garden dinner. No in-window evidence in the record provided documents leisure or recreational travel/activity, so no additional leisure outlay is counted beyond the baseline on-site presidential security and staff support benchmark.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "May 5, 2026: Trump appears to have remained at the White House for official events all day, with no documented leisure travel; baseline on-site support is estimated at $75,000.",
+  "tags": [
+    "white-house",
+    "official-schedule",
+    "no-documented-leisure",
+    "on-site-security"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
