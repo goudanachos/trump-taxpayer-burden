@@ -1,1 +1,40 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "Mar-a-Lago and Trump International Golf Club West Palm Beach, Florida",
+  "activities": [
+    {
+      "name": "Motorcade travel for golf outing",
+      "cost": 10000,
+      "description": "Per the provided roll call, Trump departed Mar-a-Lago at 9:39 AM for Trump International Golf Club West Palm Beach, arrived at 9:47 AM, then returned at 3:45 PM and arrived back at Mar-a-Lago at 3:51 PM. Using the benchmark for short local motorcade trips, this record assigns $5,000 each way for two Palm Beach-area presidential movements tied to a recreational golf outing.",
+      "category": "ground-transport"
+    },
+    {
+      "name": "Off-site Secret Service and staff for leisure day",
+      "cost": 300000,
+      "description": "The roll call places the President off-site at Mar-a-Lago and then at his golf club for a leisure/recreational outing on 2025-11-27. Following the methodology's peak off-site Secret Service and staff benchmark, this assigns $300,000 for the day.",
+      "category": "security"
+    },
+    {
+      "name": "Local law-enforcement assist",
+      "cost": 60000,
+      "description": "Because the President's movements involved Palm Beach-area off-site travel between Mar-a-Lago and Trump International Golf Club West Palm Beach, this record applies the Palm Beach local law-enforcement activation benchmark of about $60,000 for the day.",
+      "category": "local-security"
+    }
+  ],
+  "total_cost": 370000,
+  "social_description": "Nov. 27, 2025: Trump spent Thanksgiving Day at Mar-a-Lago and his West Palm Beach golf club. Estimated leisure-related federal/public security and transport cost: about $370,000.",
+  "tags": [
+    "mar-a-lago",
+    "golf",
+    "west-palm-beach",
+    "thanksgiving",
+    "local-motorcade",
+    "secret-service"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://time.com/4885934/white-house-helicopter-cost/",
+    "https://www.whitehouse.gov/briefings-statements/"
+  ],
+  "social_title": "Nov. 27, 2025: Trump’s Thanksgiving Day at Mar-a-Lago and his West Palm Beach golf club is estimated to have cost about $370,000"
+}
