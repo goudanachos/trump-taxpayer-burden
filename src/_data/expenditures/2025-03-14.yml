@@ -1,1 +1,24 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Department of Justice, en route to Palm Beach, and Mar-a-Lago",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity on target date",
+      "cost": 0,
+      "description": "The day’s schedule shows official business in Washington, including executive orders and remarks at the Department of Justice, followed by evening travel to Mar-a-Lago. Although the destination was Trump’s Palm Beach property, the provided in-window evidence does not document any leisure or recreational activity occurring on March 14 itself, so no leisure-related federal outlay is counted for this date under the stated methodology.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "March 14, 2025: Trump held official events in Washington and flew to Palm Beach that evening, but no leisure activity is documented on the date itself. Counted leisure cost: $0.",
+  "tags": [
+    "official-business",
+    "travel-day",
+    "mar-a-lago",
+    "zero-cost",
+    "no-leisure"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
