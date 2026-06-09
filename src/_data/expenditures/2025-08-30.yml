@@ -1,1 +1,25 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "Trump National Golf Club Washington DC and the White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Golf-club leisure trip from the White House",
+      "cost": 23600,
+      "description": "Per the provided roll call, President Trump departed the White House at 8:45 AM for Trump National Golf Club Washington DC with two grandchildren, arrived at 9:18 AM, spent the day at the club including time on the golf course and later the tennis courts, then departed at 2:32 PM and returned to the White House at 3:06 PM. Using the methodology’s leisure-cost benchmarks, this same-day local recreational outing is costed as a short-trip motorcade/movement estimate of $10,000 plus roughly 34 minutes each way of Marine One-equivalent presidential lift time (about 0.57 flight hours total × $24,000 ≈ $13,600), rounded to $23,600.",
+      "category": "golf"
+    }
+  ],
+  "total_cost": 23600,
+  "social_description": "On Aug. 30, 2025, Trump made a local leisure trip from the White House to Trump National Golf Club Washington DC with two grandchildren; estimated taxpayer cost: $23,600.",
+  "tags": [
+    "golf",
+    "trump-property",
+    "local-travel",
+    "marine-one-estimate",
+    "weekend-leisure"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ],
+  "note": "Roll-call evidence clearly documents a leisure outing to Trump National Golf Club Washington DC on the target date, but I found no reliable second independent in-window date-specific article to further validate transport mode; cost therefore uses conservative benchmark assumptions and confidence is medium."
+}
