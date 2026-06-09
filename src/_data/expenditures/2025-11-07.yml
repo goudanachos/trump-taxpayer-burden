@@ -1,1 +1,24 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "Mar-a-Lago, Palm Beach, Florida",
+  "activities": [
+    {
+      "name": "Evening travel to Mar-a-Lago with no documented leisure activity on target date",
+      "cost": 0,
+      "description": "The roll call shows President Trump spending the day on official business at the White House, including a bilateral lunch with Hungary’s prime minister, then flying that evening to Palm Beach and arriving at Mar-a-Lago. Within the evidence available here, no in-window source documents golf, other recreation, or any taxpayer-funded leisure activity actually incurred on 2025-11-07, so this is recorded as a $0 leisure-cost day under the stated methodology.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Nov. 7, 2025: Trump held official White House events and traveled to Mar-a-Lago that evening, but no documented leisure/recreational activity on the date supports a chargeable taxpayer leisure outlay. Recorded as $0.",
+  "tags": [
+    "zero-cost-day",
+    "official-business",
+    "mar-a-lago"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://time.com/4885934/white-house-helicopter-cost/"
+  ]
+}
