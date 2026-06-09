@@ -1,1 +1,26 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "Joint Base Andrews and the White House, Washington metropolitan area",
+  "activities": [
+    {
+      "name": "Aerial tour of The Courses at Andrews",
+      "cost": 90000,
+      "description": "The roll call shows the President left the White House for Joint Base Andrews, conducted an aerial tour of The Courses at Andrews from about 12:14 PM to 12:29 PM, then returned to the White House. Treating this as a documented recreational golf-course inspection by helicopter, the counted leisure-related federal outlays are estimated as roughly 0.25 flight hours of Marine One travel/tour time at $24,000 per hour (about $6,000, rounded within the benchmarked estimate) plus a short local motorcade at $10,000 and on-site Secret Service/staff support benchmarked at $75,000, for a rounded total of $90,000.",
+      "category": "golf"
+    }
+  ],
+  "total_cost": 90000,
+  "social_description": "Trump took a short aerial tour of The Courses at Andrews on Nov. 22 before returning to the White House. Using the tracker’s helicopter, motorcade, and on-site staffing benchmarks, the estimated leisure-related federal cost is $90,000.",
+  "tags": [
+    "joint-base-andrews",
+    "golf",
+    "aerial-tour",
+    "marine-one",
+    "local-travel"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf"
+  ]
+}
