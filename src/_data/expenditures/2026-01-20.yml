@@ -1,1 +1,24 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House and Joint Base Andrews, Washington, D.C. area",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "category": "none",
+      "description": "The January 20, 2026 roll call shows the President at the White House for a press briefing and signing event, then departing Joint Base Andrews on an overnight trip to Zurich for Davos-related official travel before returning to Andrews after an in-flight mechanical issue. The documented activities are official presidential business and transportation connected to government duties, not leisure or recreation, so no leisure-specific federal outlay is counted for this date."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Jan. 20, 2026: Trump spent the day on White House business and began official travel to Davos; the Zurich-bound flight turned back after a mechanical issue. No documented leisure activity, so the tracker records $0.",
+  "tags": [
+    "zero-cost-day",
+    "official-business",
+    "white-house",
+    "joint-base-andrews",
+    "davos-trip"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
