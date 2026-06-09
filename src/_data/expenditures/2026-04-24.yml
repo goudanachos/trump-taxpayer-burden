@@ -1,1 +1,61 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Joint Base Andrews, Palm Beach International Airport, and Mar-a-Lago, Palm Beach, Florida",
+  "activities": [
+    {
+      "name": "VC-25A flight from Joint Base Andrews to Palm Beach International Airport",
+      "cost": 484622,
+      "description": "The roll call shows the President departing Joint Base Andrews at 4:20 PM and arriving at Palm Beach International Airport at 6:09 PM on April 24, 2026. Using the benchmark VC-25A rate of $177,843 per flight hour with a domestic support factor of 0.5 for a 1 hour 49 minute flight gives an estimated airlift cost of $484,622.",
+      "category": "air-travel"
+    },
+    {
+      "name": "Marine One transfer from the White House to Joint Base Andrews",
+      "cost": 10800,
+      "description": "The schedule shows departure from the White House at 3:31 PM and arrival at Joint Base Andrews at 3:58 PM. Applying the benchmark Marine One rate of $24,000 per flight hour to roughly 27 minutes of helicopter movement yields about $10,800.",
+      "category": "helicopter-travel"
+    },
+    {
+      "name": "Peak off-site Secret Service and staff protection at Mar-a-Lago",
+      "cost": 300000,
+      "description": "Because the President relocated to Mar-a-Lago, a private off-site property, the benchmark peak off-site Secret Service and staff protection estimate applies for the day’s Palm Beach operation.",
+      "category": "security"
+    },
+    {
+      "name": "Palm Beach-area local law-enforcement assistance",
+      "cost": 60000,
+      "description": "Palm Beach-area presidential visits have historically triggered reimbursable local law-enforcement support. Using the tracker’s Palm Beach benchmark, local police assistance is estimated at $60,000 for the arrival day.",
+      "category": "local-security"
+    },
+    {
+      "name": "Motorcade transfers in Washington and Palm Beach",
+      "cost": 10000,
+      "description": "This covers short presidential ground transfers associated with the move from the White House to departure operations and from Palm Beach International Airport to Mar-a-Lago, using the benchmark local motorcade range.",
+      "category": "ground-transport"
+    },
+    {
+      "name": "Incidentals",
+      "cost": 10000,
+      "description": "Conservative minor operational overhead, kept below the 15% cap on travel plus security.",
+      "category": "incidentals"
+    }
+  ],
+  "total_cost": 875422,
+  "social_description": "Apr. 24, 2026: Trump’s White House-to-Mar-a-Lago travel day likely cost taxpayers about $875k, driven by the VC-25A flight, Marine One transfer, off-site security, Palm Beach police support, and motorcades.",
+  "tags": [
+    "mar-a-lago",
+    "air-force-one",
+    "marine-one",
+    "secret-service",
+    "motorcade",
+    "palm-beach",
+    "rnc-retreat"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://time.com/4885934/white-house-helicopter-cost/",
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf"
+  ],
+  "social_title": "Apr. 24, 2026 White House to Mar-a-Lago travel day estimated to cost taxpayers $875,422"
+}
