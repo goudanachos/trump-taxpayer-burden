@@ -1,1 +1,21 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The provided roll call places President Trump at the White House throughout the day on October 1, 2025, including an in-town pool call, press briefing, Executive Order signing in the Oval Office, and a full lid from the White House. No in-window source found any documented golf, rally travel, resort stay, or other leisure/recreational activity on the target date, so no leisure-specific federal outlay is counted.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Oct. 1, 2025: $0 leisure cost. Trump appears to have remained at the White House for official duties, with no documented recreational travel or activity that day.",
+  "tags": [
+    "white-house",
+    "official-business",
+    "zero-cost",
+    "no-leisure-documented"
+  ],
+  "confidence_level": "high",
+  "source_urls": []
+}
