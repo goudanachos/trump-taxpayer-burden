@@ -1,1 +1,28 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Washington, DC",
+  "activities": [
+    {
+      "name": "On-site Secret Service and staff protection",
+      "cost": 75000,
+      "description": "Trump remained at the White House for the full public schedule on April 27, 2026, including executive time, policy meetings, a press briefing on site, and a greeting and tea with King Charles III and Queen Camilla. With no in-day presidential air travel or off-site movement evidenced in-window, the applicable benchmark is the on-site White House Secret Service and staff cost of $75,000 for the day.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "Apr. 27, 2026: With Trump staying at the White House all day for meetings and a visit from the UK’s king and queen, the clearest taxpayer leisure-related outlay is the baseline on-site protection cost: about $75,000.",
+  "tags": [
+    "white-house",
+    "on-site-security",
+    "no-travel",
+    "uk-royal-visit"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://apnews.com/article/6885c172b11d972920f8fb60869868ac",
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://time.com/4885934/white-house-helicopter-cost/"
+  ]
+}
