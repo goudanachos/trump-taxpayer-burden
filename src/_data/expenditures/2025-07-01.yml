@@ -1,1 +1,24 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "Ochopee, Florida / The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The roll call shows President Trump traveling from the White House to Florida for a guided tour and roundtable at Alligator Alcatraz, then returning to Washington the same day. Those were documented official events, not leisure or recreational activity, so no leisure-related federal outlay is counted for July 1, 2025.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "July 1, 2025 was a $0 leisure-cost day: Trump made an official same-day trip to Florida for an immigration facility tour and roundtable, not a recreational outing.",
+  "tags": [
+    "official-travel",
+    "florida",
+    "white-house",
+    "zero-cost",
+    "no-leisure"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
