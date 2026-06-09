@@ -1,1 +1,40 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "Trump National Golf Club Washington DC; White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Secret Service & staff (peak off-site)",
+      "cost": 300000,
+      "description": "The roll call shows the President leaving the White House at 8:50 AM, arriving at Trump National Golf Club Washington DC at 9:24 AM for golf with Bryson DeChambeau, departing at 4:50 PM, and returning to the White House at 5:29 PM. Under the provided methodology, a presidential off-site leisure day uses the peak off-site Secret Service benchmark.",
+      "category": "security"
+    },
+    {
+      "name": "Local law-enforcement assist",
+      "cost": 60000,
+      "description": "A presidential golf outing at an off-site Trump property requires local police activation and traffic/security support. Using the provided benchmark, local law-enforcement assistance is estimated at $60,000 for the day.",
+      "category": "security"
+    },
+    {
+      "name": "Motorcade operations",
+      "cost": 10000,
+      "description": "Round-trip motorcade movement between the White House and Trump National Golf Club Washington DC is costed at the high end of the provided short-trip benchmark.",
+      "category": "operations"
+    }
+  ],
+  "total_cost": 370000,
+  "social_description": "June 1, 2025: Trump’s golf outing with Bryson DeChambeau at Trump National Golf Club Washington DC cost an estimated $370,000 in federal security and motorcade spending.",
+  "tags": [
+    "trump-golf",
+    "trump-national-dc",
+    "bryson-dechambeau",
+    "secret-service",
+    "local-police",
+    "motorcade",
+    "leisure-spending"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.irishstar.com/sport/golf/donald-trump-hits-golf-course-37231983"
+  ],
+  "social_title": "June 1, 2025 Trump golf outing at Trump National Golf Club Washington DC cost an estimated $370,000 in federal security and motorcade spending"
+}
