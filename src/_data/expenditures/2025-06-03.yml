@@ -1,1 +1,23 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The roll call shows the President at the White House with no public events beyond routine press and staff activity, and no documented golf, club visit, resort stay, or other recreational travel on June 3, 2025. Under the methodology, routine White House operations and baseline security do not count as leisure spending.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "June 3, 2025: $0 in documented presidential leisure costs. No in-window evidence shows golf, resort travel, or other recreational activity; the President remained at the White House.",
+  "tags": [
+    "white-house",
+    "zero-cost-day",
+    "no-documented-leisure",
+    "official-schedule"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
