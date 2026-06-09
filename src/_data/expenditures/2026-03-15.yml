@@ -1,0 +1,28 @@
+{
+  "location": "Palm Beach, Florida; Trump International Golf Club West Palm Beach; return flight to Washington, D.C.",
+  "activities": [
+    {
+      "name": "Golf outing at Trump International Golf Club West Palm Beach",
+      "cost": 687094,
+      "description": "The provided presidential pool/schedule places President Trump at Mar-a-Lago in Palm Beach on March 15, 2026, departing at 9:14 AM for Trump International Golf Club West Palm Beach, arriving at 9:21 AM, remaining there until 1:55 PM, then returning to Mar-a-Lago before flying back to Washington that evening. Using the benchmark methodology, this leisure day includes estimated off-site security/staff costs of $300,000, local law-enforcement support of $60,000, a short motorcade of $10,000, and approximately 1.783 flight-hours on VC-25A for the Palm Beach-to-Joint Base Andrews return leg at $177,843 per hour (about $317,094).",
+      "category": "golf"
+    }
+  ],
+  "total_cost": 687094,
+  "social_description": "Mar. 15, 2026: Trump spent part of the day golfing at Trump International Golf Club West Palm Beach before returning to Washington; estimated taxpayer leisure-related cost: about $687,094.",
+  "tags": [
+    "golf",
+    "mar-a-lago",
+    "palm-beach",
+    "air-force-one",
+    "motorcade",
+    "secret-service"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://time.com/4885934/white-house-helicopter-cost/"
+  ],
+  "social_title": "Mar. 15, 2026: Trump spent part of the day golfing at Trump International Golf Club West Palm Beach, with an estimated taxpayer cost of about $687,094"
+}
