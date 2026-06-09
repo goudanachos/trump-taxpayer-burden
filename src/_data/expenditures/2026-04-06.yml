@@ -2,20 +2,20 @@
   "location": "The White House, Washington, D.C.",
   "activities": [
     {
-      "name": "On-site presidential security and staff support",
-      "cost": 75000,
-      "category": "security",
-      "description": "The provided daily schedule places President Trump at the White House all day on April 6, 2026: Executive Time, the White House Easter Egg Roll on the South Lawn, a press conference, a policy meeting, a Passover greeting, and a late-night call with Artemis II astronauts. These are official on-site events, and no in-window source provided here documents leisure or recreational travel/activity requiring added travel or off-site protection costs."
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "category": "none",
+      "description": "The roll call places President Trump at the White House throughout April 6, 2026 for official events: Executive Time, the White House Easter Egg Roll, a press conference, a policy meeting, a Passover greeting, and a call with Artemis II astronauts. No in-window source provided here documents leisure or recreational travel/activity, so no leisure-related federal outlay is counted."
     }
   ],
-  "total_cost": 75000,
-  "social_description": "April 6, 2026: Trump remained at the White House for official events including the Easter Egg Roll, a press conference, meetings, and a call with Artemis II astronauts. No documented leisure travel; baseline on-site security/staff cost recorded.",
+  "total_cost": 0,
+  "social_description": "April 6, 2026: Trump remained at the White House for official events, including the Easter Egg Roll, meetings, and a call with Artemis II astronauts. No documented leisure activity, so recorded leisure cost is $0.",
   "tags": [
     "white-house",
     "official-events",
     "easter-egg-roll",
-    "security-baseline",
-    "zero-leisure-day"
+    "zero-cost",
+    "no-leisure"
   ],
   "confidence_level": "high",
   "source_urls": [
