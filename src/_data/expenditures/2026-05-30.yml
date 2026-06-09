@@ -1,0 +1,36 @@
+{
+  "location": "Trump National Golf Club Washington DC and the White House, Washington, D.C. area",
+  "activities": [
+    {
+      "name": "Off-site presidential security and staff support for golf outing",
+      "cost": 300000,
+      "description": "President Trump’s public schedule for May 30, 2026 shows a same-day trip from the White House to Trump National Golf Club Washington DC: departure at 10:36 AM, arrival at 11:08 AM, departure from the club at 5:07 PM, and return to the White House at 5:44 PM. Because the President spent most of the day off-site at a private Trump golf property, the applicable benchmark is the peak off-site Secret Service and staff support daily cost.",
+      "category": "security"
+    },
+    {
+      "name": "Local motorcade transportation",
+      "cost": 10000,
+      "description": "The schedule shows ground travel between the White House and Trump National Golf Club Washington DC and back on the target date. No in-window evidence located presidential air travel or Marine One use for this outing, so the applicable transportation benchmark is a short-trip local motorcade cost at the top of the provided range.",
+      "category": "ground-transport"
+    }
+  ],
+  "total_cost": 310000,
+  "social_description": "May 30, 2026: Trump made a same-day golf trip from the White House to Trump National Golf Club Washington DC and back. Estimated federal leisure-related outlay: $310,000, mainly off-site security plus local motorcade costs.",
+  "tags": [
+    "golf",
+    "trump-property",
+    "off-site-security",
+    "motorcade",
+    "same-day-trip"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://time.com/4885934/white-house-helicopter-cost/",
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://www.theguardian.com/us-news/2025/mar/09/trump-golf-trips",
+    "https://apnews.com/article/6885c172b11d972920f8fb60869868ac"
+  ],
+  "social_title": "May 30, 2026 golf trip to Trump National Golf Club Washington DC cost an estimated $310,000"
+}
