@@ -1,1 +1,24 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House and U.S. Capitol, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The roll call places President Trump on official business in Washington on May 20, 2025: a trip to the U.S. Capitol for House GOP remarks, White House family/work-day events, and an Oval Office announcement with the Secretary of Defense. No in-window source or schedule item documents golf, resort travel, or other leisure/recreational activity, so no leisure-specific federal outlay is counted.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "May 20, 2025: Trump spent the day on official business at the White House and U.S. Capitol. No documented leisure or recreational activity, so this is a $0 leisure-cost day.",
+  "tags": [
+    "white-house",
+    "u-s-capitol",
+    "official-business",
+    "zero-cost-day",
+    "no-documented-leisure"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
