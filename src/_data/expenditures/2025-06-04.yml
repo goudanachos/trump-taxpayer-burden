@@ -1,1 +1,23 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The roll call places the President at the White House for an intelligence briefing, proclamation signing, meetings connected to Senate visitors, and an evening South Lawn Summer Soirée. No in-window source found any golf, club visit, resort stay, or other leisure/recreational travel on June 4, 2025, so no leisure-specific federal outlay is counted.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "June 4, 2025: $0 in documented presidential leisure costs. The day’s public schedule kept Trump at the White House for official events, with no confirmed golf or recreational travel.",
+  "tags": [
+    "white-house",
+    "zero-cost-day",
+    "no-documented-leisure",
+    "official-schedule"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
