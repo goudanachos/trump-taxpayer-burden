@@ -1,0 +1,26 @@
+{
+  "location": "Palm Beach County, Florida (Mar-a-Lago ↔ Trump International Golf Club West Palm Beach)",
+  "activities": [
+    {
+      "name": "Golf outing at Trump International Golf Club West Palm Beach",
+      "cost": 370000,
+      "description": "The roll call documents a leisure golf trip from Mar-a-Lago to Trump International Golf Club West Palm Beach and back on 2026-01-01. Using the tracker benchmarks, estimated federal leisure outlays are peak off-site Secret Service/staff costs of $300,000 for the day, plus two short motorcade trips at $10,000 each, with capped incidentals of about 15% of travel and security ($48,000, rounded to $50,000).",
+      "category": "golf"
+    }
+  ],
+  "total_cost": 370000,
+  "social_description": "Jan. 1, 2026: Trump traveled from Mar-a-Lago to his West Palm Beach golf club and back. Estimated taxpayer-funded leisure cost: about $370,000.",
+  "tags": [
+    "golf",
+    "mar-a-lago",
+    "palm-beach",
+    "motorcade",
+    "secret-service",
+    "estimate"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ],
+  "social_title": "Jan. 1, 2026: Trump traveled from Mar-a-Lago to Trump International Golf Club West Palm Beach, with estimated taxpayer-funded leisure costs of about $370,000"
+}
