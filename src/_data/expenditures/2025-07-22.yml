@@ -1,1 +1,24 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The July 22, 2025 schedule shows President Trump at the White House for official business, including greeting Philippine President Ferdinand Marcos Jr., a bilateral meeting and lunch, and an evening reception with Republican members of Congress. No in-window source found any leisure or recreational travel or activity that day, so no leisure-related federal outlay is counted.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "July 22, 2025 appears to have been a White House workday for President Trump, centered on meetings with the Philippine president and other official events. No documented leisure or recreational activity means a $0 leisure-cost determination.",
+  "tags": [
+    "zero-cost",
+    "white-house",
+    "official-business",
+    "philippines-visit",
+    "no-leisure-documented"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
