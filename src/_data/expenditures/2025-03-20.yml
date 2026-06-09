@@ -1,1 +1,23 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The provided roll call places President Trump at the White House throughout March 20, 2025 for official business, including virtual remarks to the Blockworks Digital Assets Summit, signing executive orders, and an education event. No in-window source documents any leisure or recreational travel or activity on this date, so no leisure-related federal outlay is counted.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "March 20, 2025: Trump remained at the White House for official events and executive actions. No documented leisure or recreational activity, so the day's leisure-cost total is $0.",
+  "tags": [
+    "white-house",
+    "official-business",
+    "zero-cost",
+    "no-leisure-documented"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
