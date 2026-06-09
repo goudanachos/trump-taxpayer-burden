@@ -1,1 +1,23 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The provided roll call places President Trump at the White House on August 29, 2025, with no public events scheduled beyond an Oval Office interview with Reagan Reese of The Daily Caller and a White House press briefing by Stephen Miller. No in-window source reviewed documented golf, club travel, or other leisure/recreational activity that day, so no leisure-specific federal outlay is counted.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Aug. 29, 2025 appears to be a $0 leisure-cost day: Trump remained at the White House for interviews and staff activity, with no documented recreational travel or golf outing.",
+  "tags": [
+    "zero-cost",
+    "white-house",
+    "no-documented-leisure",
+    "official-business"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
