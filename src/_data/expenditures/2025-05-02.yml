@@ -1,1 +1,39 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "Mar-a-Lago and Trump International Golf Club West Palm Beach, Florida",
+  "activities": [
+    {
+      "name": "Local motorcade: Mar-a-Lago ↔ Trump International Golf Club West Palm Beach",
+      "cost": 10000,
+      "description": "The roll call places President Trump traveling from Mar-a-Lago to his West Palm Beach golf club in the morning and back in the afternoon on May 2, 2025. Using the provided benchmark for a short local presidential motorcade, this is estimated as two short trips at $5,000 each.",
+      "category": "travel"
+    },
+    {
+      "name": "Off-site Secret Service and staff for leisure day in Palm Beach",
+      "cost": 300000,
+      "description": "Because the day included documented recreational golf activity away from the White House complex, the provided methodology supports using the peak off-site Secret Service and staff benchmark of $300,000 for the day. The evening RNC gala at Mar-a-Lago is not separately costed here because donor/political event spending is excluded; this line covers only the federal protection burden actually incurred that day.",
+      "category": "security"
+    },
+    {
+      "name": "Incidentals",
+      "cost": 47000,
+      "description": "Non-itemized logistics and support costs, capped below 15% of travel plus security per the supplied methodology. Calculated from the documented off-site leisure movement and rounded to the nearest thousand.",
+      "category": "incidentals"
+    }
+  ],
+  "total_cost": 357000,
+  "social_description": "May 2, 2025: Trump golfed in West Palm Beach while staying at Mar-a-Lago. Estimated federal leisure-related cost: $357,000, driven mainly by off-site security and local motorcade operations.",
+  "tags": [
+    "mar-a-lago",
+    "golf",
+    "palm-beach",
+    "motorcade",
+    "secret-service",
+    "trump-property"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://apnews.com/article/6885c172b11d972920f8fb60869868ac"
+  ],
+  "social_title": "May 2, 2025 Trump golf trip in West Palm Beach and Mar-a-Lago cost an estimated $357,000 in federal spending"
+}
