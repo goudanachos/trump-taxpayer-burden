@@ -1,1 +1,25 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "Mar-a-Lago and Trump International Golf Club West Palm Beach, Florida",
+  "activities": [
+    {
+      "name": "Golf outing security and local support",
+      "cost": 360000,
+      "description": "The roll call places President Trump traveling from Mar-a-Lago to Trump International Golf Club West Palm Beach at 9:36 AM, remaining there until 3:28 PM, and then returning to Mar-a-Lago on April 4, 2025. Under the provided methodology, this documented golf outing is a leisure day away from the White House, so the peak off-site Secret Service and staff benchmark ($300,000) plus local law-enforcement assistance benchmark ($60,000) are applied; no same-day federal flight is documented in the schedule, so no air-travel cost is counted for April 4.",
+      "category": "leisure-security"
+    }
+  ],
+  "total_cost": 360000,
+  "social_description": "On April 4, 2025, Trump spent much of the day at Trump International Golf Club West Palm Beach before returning to Mar-a-Lago. With no same-day federal flight documented, the estimated leisure-related federal cost is about $360,000 for off-site security and local support.",
+  "tags": [
+    "golf",
+    "mar-a-lago",
+    "west-palm-beach",
+    "palm-beach",
+    "leisure-day"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ],
+  "social_title": "April 4, 2025 golf outing at Trump International Golf Club West Palm Beach was estimated at $360,000 in off-site security and local support"
+}
