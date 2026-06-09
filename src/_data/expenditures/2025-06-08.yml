@@ -1,1 +1,26 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "Trump National Golf Club Bedminster, NJ → Morristown Municipal Airport, NJ → Hagerstown Regional Airport, MD → Camp David, MD",
+  "activities": [
+    {
+      "name": "Departure from Bedminster after golf weekend",
+      "cost": 123000,
+      "description": "The roll call places President Trump at Trump National Golf Club Bedminster until mid-afternoon on June 8, then departing for Camp David via Morristown and Hagerstown. Because the day followed a Bedminster golf stay and involved off-site presidential movement tied to that leisure weekend, this record counts the same-day federal leisure outlay for the departure sequence: estimated VC-25A flight Morristown→Hagerstown at about 0.5 flight-hours ($177,843/hr), plus a short helicopter leg to Camp David (estimated one short Marine One movement at $24,000) and a short-trip motorcade/ground movement allowance ($10,000).",
+      "category": "travel"
+    }
+  ],
+  "total_cost": 123000,
+  "social_description": "On June 8, 2025, Trump departed his Bedminster golf weekend for Camp David, generating an estimated $123,000 in same-day taxpayer travel costs tied to the leisure trip’s return leg.",
+  "tags": [
+    "bedminster",
+    "golf-weekend",
+    "return-travel",
+    "vc25a",
+    "marine-one",
+    "camp-david"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ],
+  "social_title": "June 8, 2025: Trump’s departure from Bedminster to Camp David cost an estimated $123,000 in taxpayer travel expenses"
+}
