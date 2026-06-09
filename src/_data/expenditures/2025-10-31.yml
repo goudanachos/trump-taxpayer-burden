@@ -2,27 +2,25 @@
   "location": "Mar-a-Lago, Palm Beach, Florida",
   "activities": [
     {
-      "name": "Travel to Mar-a-Lago for private social event",
-      "cost": 874130,
-      "description": "The White House pool/schedule for 2025-10-31 shows President Trump departing the White House for Palm Beach, flying from Joint Base Andrews to Palm Beach International Airport, transferring by helicopter/ground to Mar-a-Lago, and hosting a Halloween Party there that evening. Using the provided benchmarks, this leisure/off-site day is estimated as Air Force One flight (~2.82 flight-hours Washington-to-Palm Beach, domestic no-cargo), brief Marine One transfer, peak off-site Secret Service/staff, and activated local law-enforcement/motorcade support.",
-      "category": "leisure-travel"
+      "name": "Travel to Mar-a-Lago for Halloween social event",
+      "cost": 840000,
+      "description": "The White House pool/schedule in the roll call shows President Trump departing the White House for Palm Beach, arriving at Mar-a-Lago at 2:08 PM, and then hosting a Halloween Party there at 6:00 PM. Because the documented same-day destination was a Trump property social event rather than routine White House business, this is treated as a leisure/off-site day. Estimated federal outlays use the provided benchmarks: roughly 2.0 flight-hours on VC-25A for Andrews-to-Palm Beach with a domestic support factor of 0.5 (~$533,529), peak off-site Secret Service/staff ($300,000), and a short local motorcade to Mar-a-Lago ($10,000), rounded to about $840,000.",
+      "category": "travel-leisure"
     }
   ],
-  "total_cost": 874130,
-  "social_description": "On 2025-10-31, Trump traveled from Washington to Mar-a-Lago and hosted a Halloween party there. Estimated taxpayer leisure/security outlay: about $874,130.",
+  "total_cost": 840000,
+  "social_description": "Oct. 31, 2025: Trump flew to Mar-a-Lago and hosted a Halloween party there. Using the tracker’s benchmarks for VC-25A travel, off-site security, and local motorcade, estimated taxpayer leisure cost: about $840,000.",
   "tags": [
     "mar-a-lago",
     "palm-beach",
     "air-force-one",
-    "marine-one",
     "off-site-security",
     "halloween-party",
-    "leisure-travel"
+    "trump-property"
   ],
   "confidence_level": "medium",
   "source_urls": [
-    "https://www.whitehouse.gov/briefings-statements/",
-    "https://www.palmbeachpost.com/story/news/trump/2026/05/27/trump-at-mar-a-lago-a-palm-beach-social-season-for-the-history-books/89689883007/"
+    "https://www.whitehouse.gov/briefings-statements/"
   ],
-  "social_title": "Estimated taxpayer cost for Trump’s 2025-10-31 Mar-a-Lago Halloween party trip: $874,130"
+  "social_title": "Oct. 31, 2025: Estimated taxpayer cost of Trump’s Mar-a-Lago Halloween party trip was about $840,000"
 }
