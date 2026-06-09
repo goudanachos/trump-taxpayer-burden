@@ -1,1 +1,23 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "category": "none",
+      "description": "The provided February 26, 2026 schedule places President Trump at the White House for executive time, an intelligence briefing, and a private meeting in the Oval Office, with a full lid in the evening. No in-window source documents any leisure or recreational travel or activity on this date, so no leisure-related federal outlay is counted."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "February 26, 2026: Trump’s public schedule shows him at the White House for official business, with no documented leisure or recreational activity. Leisure cost to taxpayers: $0.",
+  "tags": [
+    "white-house",
+    "official-business",
+    "zero-cost",
+    "no-leisure-documented"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
