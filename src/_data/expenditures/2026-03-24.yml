@@ -1,0 +1,23 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "category": "none",
+      "description": "The provided daily schedule places President Trump at the White House throughout March 24, 2026 for Executive Time, an Oval Office swearing-in ceremony, policy meetings, signing time, and a full lid in the evening. No in-window source located any leisure travel, golf outing, resort visit, or other recreational activity on the target date, so no leisure-specific federal outlay is counted."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "March 24, 2026: Trump appears to have remained at the White House for official meetings and signing time, with no documented leisure or recreational activity. Leisure-cost determination: $0.",
+  "tags": [
+    "white-house",
+    "official-business",
+    "zero-cost",
+    "no-documented-leisure"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
