@@ -1,1 +1,24 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "Washington, D.C. to Palm Beach, Florida (Mar-a-Lago)",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity on arrival day",
+      "cost": 0,
+      "description": "The schedule shows President Trump conducting official White House business in Washington, including greeting and hosting the President of Ukraine for a bilateral lunch, before traveling that evening to Palm Beach and arriving at Mar-a-Lago. Although the destination was Trump property, the in-window evidence provided here documents only same-day official business followed by travel; it does not document golf or other leisure activity on October 17 itself, so no leisure-specific federal outlay is counted for this date.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Oct. 17, 2025 was a $0 leisure-cost day: Trump held official White House events with Ukraine’s president, then flew to Palm Beach, but no documented leisure activity occurred that day.",
+  "tags": [
+    "zero-cost",
+    "official-business",
+    "white-house",
+    "palm-beach",
+    "mar-a-lago"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
