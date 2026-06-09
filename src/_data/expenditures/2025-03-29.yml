@@ -1,1 +1,25 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "Trump International Golf Club West Palm Beach / Mar-a-Lago, Palm Beach, Florida",
+  "activities": [
+    {
+      "name": "Golf outing at Trump International Golf Club West Palm Beach",
+      "cost": 370000,
+      "description": "The roll call places President Trump at Mar-a-Lago and then at Trump International Golf Club West Palm Beach for golf with Finnish President Alexander Stubb on March 29, 2025, before returning to Mar-a-Lago. Using the provided methodology for an off-site leisure day in Palm Beach, this records peak off-site federal security/staff support ($300,000), local law-enforcement assistance when activated ($60,000), and short-trip motorcade costs ($10,000). No air travel is documented on this date.",
+      "category": "leisure"
+    }
+  ],
+  "total_cost": 370000,
+  "social_description": "March 29, 2025: Trump spent the day golfing at his West Palm Beach club after departing Mar-a-Lago. Estimated federal leisure-related cost: $370K, driven by off-site security, Palm Beach police support, and motorcade movements.",
+  "tags": [
+    "mar-a-lago",
+    "golf",
+    "palm-beach",
+    "off-site-security",
+    "motorcade"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ],
+  "social_title": "March 29, 2025: Trump golf outing at Trump International Golf Club West Palm Beach cost an estimated $370,000"
+}
