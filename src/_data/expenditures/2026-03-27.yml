@@ -1,1 +1,24 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Miami Beach, and Mar-a-Lago, Florida",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The March 27, 2026 roll call shows President Trump at the White House in the morning, then traveling to Miami Beach to deliver remarks at the Future Investment Initiative before continuing to Mar-a-Lago that evening. The documented movements and event on this date are official appearances and transit; no in-window source provided here documents a leisure or recreational activity on March 27 itself, so no leisure-specific federal outlay is counted.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Mar. 27, 2026: Trump spent the day on official business, including remarks in Miami, before traveling to Mar-a-Lago. No documented leisure activity on the date, so the countable leisure cost is $0.",
+  "tags": [
+    "zero-cost",
+    "official-travel",
+    "miami",
+    "mar-a-lago",
+    "white-house"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
