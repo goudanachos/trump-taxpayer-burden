@@ -1,1 +1,25 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "Corpus Christi, Texas; later Mar-a-Lago, Palm Beach, Florida",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "category": "none",
+      "description": "The provided February 27, 2026 roll call shows President Trump traveling from Washington to Corpus Christi for an energy briefing, remarks, a local TV interview, and an unannounced Whataburger stop before flying on to Palm Beach and arriving at Mar-a-Lago that night. Although he ended the day at a Trump property, the in-window record provided here documents official/political travel and transit, not golf or other recreational activity on February 27 itself, so no leisure-related federal outlay is counted for this date."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "February 27, 2026: Trump traveled to Corpus Christi for official events, then flew to Palm Beach and arrived at Mar-a-Lago late. No documented leisure or recreational activity on the date, so leisure cost to taxpayers: $0.",
+  "tags": [
+    "corpus-christi",
+    "mar-a-lago",
+    "travel-day",
+    "official-business",
+    "zero-cost",
+    "no-leisure-documented"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
