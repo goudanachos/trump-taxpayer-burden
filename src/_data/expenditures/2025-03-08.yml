@@ -1,1 +1,34 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "Mar-a-Lago and Trump International Golf Club West Palm Beach, Palm Beach, Florida",
+  "activities": [
+    {
+      "name": "Golf outing at Trump International Golf Club West Palm Beach",
+      "cost": 380000,
+      "description": "The roll call documents that President Trump spent March 8, 2025 at Mar-a-Lago and traveled to Trump International Golf Club West Palm Beach for golf before returning to Mar-a-Lago. Using the methodology for leisure travel days away from the White House, this record counts peak off-site Secret Service and staff costs of $300,000, Palm Beach-area local law-enforcement assistance of $60,000, and short-trip motorcade costs of $20,000 for the two documented ground movements tied to the golf outing.",
+      "category": "leisure"
+    },
+    {
+      "name": "Incidentals",
+      "cost": 57000,
+      "description": "Applied at the 15% cap to travel and security costs associated with the documented off-site leisure day in Palm Beach: 15% of $380,000 = $57,000.",
+      "category": "incidentals"
+    }
+  ],
+  "total_cost": 437000,
+  "social_description": "On March 8, 2025, Trump’s golf outing from Mar-a-Lago to his West Palm Beach club cost taxpayers an estimated $437,000, mainly from off-site security, local police support, motorcades, and capped incidentals.",
+  "tags": [
+    "golf",
+    "mar-a-lago",
+    "west-palm-beach",
+    "off-site-security",
+    "motorcade",
+    "palm-beach"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.theguardian.com/us-news/2025/mar/09/trump-golf-trips",
+    "https://apnews.com/article/6885c172b11d972920f8fb60869868ac",
+    "https://www.whitehouse.gov/briefings-statements/"
+  ],
+  "social_title": "March 8, 2025 Trump golf outing from Mar-a-Lago to Trump International Golf Club West Palm Beach cost taxpayers an estimated $437,000"
+}
