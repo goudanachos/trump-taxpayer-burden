@@ -1,1 +1,23 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The roll call places President Trump at the White House throughout 2025-12-12 for an Oval Office interview, a swearing-in ceremony, and a bill-signing event, with no off-site recreational travel or leisure activity documented. Under the tracker methodology, routine White House duties and baseline security are official activity and therefore count as $0 leisure cost.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Dec. 12, 2025: Trump was scheduled at the White House for interviews and official ceremonies, with no documented leisure or recreational travel, so the leisure-cost total is $0.",
+  "tags": [
+    "zero-cost-day",
+    "white-house",
+    "official-business",
+    "no-documented-leisure"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
