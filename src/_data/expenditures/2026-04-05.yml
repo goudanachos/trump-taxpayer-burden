@@ -1,0 +1,24 @@
+{
+  "location": "Trump National Golf Club Washington DC and the White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Golf outing at Trump National Golf Club Washington DC",
+      "cost": 15000,
+      "category": "leisure",
+      "description": "The roll call places President Trump traveling from the White House to Trump National Golf Club Washington DC at 9:19 AM, arriving at 10:02 AM, departing at 11:40 AM, and returning to the White House at 12:22 PM on April 5, 2026. This documents a same-day recreational golf outing with only local ground movement evident, so the counted federal outlay is limited to a short presidential motorcade estimate."
+    }
+  ],
+  "total_cost": 15000,
+  "social_description": "April 5, 2026: Trump made a short golf outing to Trump National Golf Club Washington DC and returned to the White House the same day. Estimated federal leisure-related cost: about $15,000 for local transport/security movement.",
+  "tags": [
+    "golf",
+    "trump-national-golf-club-washington-dc",
+    "local-motorcade",
+    "same-day-trip",
+    "leisure"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
