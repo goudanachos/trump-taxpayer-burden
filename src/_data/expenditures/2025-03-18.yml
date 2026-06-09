@@ -1,1 +1,24 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The schedule and roll call place President Trump at the White House on March 18, 2025 for a telephone call with Vladimir Putin and the signing of executive orders. No in-window evidence indicates recreational travel, golf, fundraising, or other leisure activity, so no leisure-related federal outlay is counted for this date.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "March 18, 2025: Trump remained at the White House for official business, including a call with Putin and executive orders. No documented leisure or recreational activity, so counted leisure cost is $0.",
+  "tags": [
+    "white-house",
+    "official-business",
+    "no-leisure",
+    "zero-cost"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/",
+    "https://www.reuters.com/"
+  ]
+}
