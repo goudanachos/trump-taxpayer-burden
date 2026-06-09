@@ -1,0 +1,53 @@
+{
+  "location": "Palm Beach, Florida (Mar-a-Lago and Trump International Golf Club West Palm Beach) → Washington, D.C.",
+  "activities": [
+    {
+      "name": "Golf outing at Trump International Golf Club West Palm Beach",
+      "cost": 300000,
+      "description": "The roll call places President Trump at Trump International Golf Club West Palm Beach from 9:18 a.m. to 3:02 p.m. on 2026-01-11 before returning to Mar-a-Lago. Using the tracker’s off-site benchmark, the leisure-attributable federal outlay is estimated as one peak off-site Secret Service and staff day.",
+      "category": "security"
+    },
+    {
+      "name": "Return flight from Palm Beach to Joint Base Andrews (VC-25A)",
+      "cost": 320117,
+      "description": "After the golf outing and return to Mar-a-Lago, Trump departed Palm Beach International Airport at 6:48 p.m. and arrived at Joint Base Andrews at 8:36 p.m., about 1.8 flight hours. Applying the VC-25A rate of $177,843 per flight hour with domestic support_factor 0 yields an estimated cost of $320,117.",
+      "category": "air-travel"
+    },
+    {
+      "name": "Ground motorcade movements",
+      "cost": 20000,
+      "description": "Estimated cost for short presidential ground movements on the leisure portion of the day: Mar-a-Lago to golf club, golf club to Mar-a-Lago, and Mar-a-Lago to Palm Beach International Airport. Tracker benchmark applied at roughly $5,000–$10,000 per short trip.",
+      "category": "ground-transport"
+    },
+    {
+      "name": "Local law-enforcement assistance",
+      "cost": 60000,
+      "description": "Palm Beach-area police support is included using the tracker’s Palm Beach benchmark for an activated presidential movement day.",
+      "category": "local-law-enforcement"
+    },
+    {
+      "name": "Incidentals (capped)",
+      "cost": 93018,
+      "description": "Unitemized incidentals are capped at 15% of travel plus security costs under the tracker rules. Here that cap is applied to the estimated flight, security, motorcade, and local law-enforcement costs.",
+      "category": "incidentals"
+    }
+  ],
+  "total_cost": 793135,
+  "social_description": "Jan. 11, 2026: Trump golfed at his West Palm Beach club, then flew back to Washington. Estimated leisure-related taxpayer cost: about $793,135.",
+  "tags": [
+    "golf",
+    "mar-a-lago",
+    "west-palm-beach",
+    "air-force-one",
+    "motorcade",
+    "secret-service",
+    "palm-beach"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://rollcall.com/factbase/trump/topic/calendar/",
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf"
+  ],
+  "social_title": "Jan. 11, 2026 Trump golf outing and return flight to Washington estimated at $793,135"
+}
