@@ -1,1 +1,23 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Washington, D.C.; private residence of Howard Lutnick, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The roll call shows President Trump spent July 14, 2025 at the White House for an official meeting with the NATO secretary general and a White House Faith Office luncheon, then made a same-city evening trip to Howard Lutnick's residence for a birthday celebration before returning to the White House. No in-window source documents golf, resort travel, sporting attendance, vacationing, or other leisure/recreational activity that would count under this tracker’s methodology, so the day's leisure cost is recorded as $0.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "July 14, 2025 was a $0 leisure-cost day: Trump held official White House events and later attended a Washington birthday celebration, with no documented recreational travel or activity.",
+  "tags": [
+    "zero-cost",
+    "official-business",
+    "white-house",
+    "washington-dc"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://yahoo.com/news/politics/articles/does-trump-turn-80-know-215857320.html"
+  ]
+}
