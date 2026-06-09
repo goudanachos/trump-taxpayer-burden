@@ -1,0 +1,57 @@
+{
+  "location": "The White House; Joint Base Andrews; Ocala International Airport; The Villages, Florida; Palm Beach International Airport; Raymond F. Kravis Center; Mar-a-Lago",
+  "activities": [
+    {
+      "name": "Presidential air travel: Washington to Ocala",
+      "cost": 466000,
+      "description": "The schedule shows the President departed Joint Base Andrews at 1:17 PM and arrived at Ocala International Airport at 3:00 PM on 2026-05-01. Using the tracker formula for VC-25A at $177,843 per flight-hour with a 0.5 domestic support factor, the 1 hour 43 minute flight implies about $457,179, rounded to $457,000. A short Marine One transfer from the White House to Joint Base Andrews from 12:49 PM to 1:03 PM adds about $5,600 at roughly 0.233 hours × $24,000, bringing this travel leg to a rounded $466,000.",
+      "category": "travel"
+    },
+    {
+      "name": "Presidential air travel: Ocala to Palm Beach",
+      "cost": 179000,
+      "description": "The schedule shows the President departed Ocala International Airport at 6:29 PM and arrived at Palm Beach International Airport at 7:07 PM. Applying the same VC-25A domestic benchmark with 0.5 support factor to the 38-minute fixed-wing leg gives about $168,951, rounded to $169,000. The helicopter shuttle between Ocala airport and the Villages landing zone is shown as 3:16–3:40 PM and 5:48–6:10 PM, totaling 46 minutes; at $24,000 per flight-hour this adds about $18,400. Combined and conservatively rounded, this leg is estimated at $179,000.",
+      "category": "travel"
+    },
+    {
+      "name": "Off-site Secret Service and staff protection",
+      "cost": 300000,
+      "description": "Because the President spent the afternoon and evening away from the White House—at The Villages, the Kravis Center in West Palm Beach, and then Mar-a-Lago—the applicable daily benchmark is peak off-site Secret Service and support staffing at $300,000.",
+      "category": "security"
+    },
+    {
+      "name": "Local law-enforcement assistance",
+      "cost": 60000,
+      "description": "The day involved multiple Florida motorcade movements, a public event in The Villages, arrival and departure operations at Ocala and Palm Beach airports, and an evening event in West Palm Beach before arrival at Mar-a-Lago. Applying the tracker’s local law-enforcement activation benchmark yields $60,000.",
+      "category": "security"
+    },
+    {
+      "name": "Motorcade and minor incidentals",
+      "cost": 10000,
+      "description": "Short motorcade transfers are explicitly shown in the schedule, including Palm Beach International Airport to the Raymond F. Kravis Center and the post-event movement to Mar-a-Lago. A conservative $10,000 is included for local motorcade operations and minor unitemized federal incidentals, staying well below the allowed incidental cap.",
+      "category": "ground-transport"
+    }
+  ],
+  "total_cost": 1015000,
+  "social_description": "May 1, 2026: Trump flew from Washington to Florida, held events in The Villages and West Palm Beach, then went to Mar-a-Lago. Estimated federal leisure-related outlay: about $1.02 million, mostly airlift and off-site security.",
+  "tags": [
+    "trump-property",
+    "mar-a-lago",
+    "the-villages",
+    "palm-beach",
+    "air-force-one",
+    "marine-one",
+    "secret-service",
+    "florida-travel"
+  ],
+  "confidence_level": "low",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://time.com/4885934/white-house-helicopter-cost/",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://floridaweekly.com/articles/palm-beach-ae/society-forum-club-of-the-palm-beaches-historic-50th-anniversary-featuring-president-donald-trump"
+  ],
+  "social_title": "May 1, 2026 Trump’s Florida trip was estimated at about $1.02 million in federal spending"
+}
