@@ -1,1 +1,28 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "Palm Beach, Florida; Trump International Golf Club West Palm Beach; return to the White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Golf outing at Trump International Golf Club West Palm Beach with same-day return to the White House",
+      "cost": 760000,
+      "description": "The provided roll call places President Trump at Mar-a-Lago in the morning, traveling by motorcade to Trump International Golf Club West Palm Beach at 9:19–9:27 AM, remaining there until about 3:02 PM, then returning to Mar-a-Lago before departing Palm Beach for Washington that evening. Because this is a documented leisure golf day, counted federal outlays are the same-day Palm Beach off-site protective posture plus local law-enforcement assistance and short motorcade movements, and the Palm Beach-to-Joint Base Andrews VC-25A flight. Using the supplied benchmark formula for a domestic VC-25A leg with no support factor and an estimated 2.2167 flight hours from 6:24 PM to 8:37 PM, the flight cost is about $394,225; adding $300,000 off-site Secret Service/staff, $60,000 local law-enforcement assist, and about $10,000 for short motorcade movements yields roughly $764,225, rounded to $760,000.",
+      "category": "leisure-travel-and-security"
+    }
+  ],
+  "total_cost": 760000,
+  "social_description": "On Oct. 19, 2025, Trump spent the day golfing at his West Palm Beach club before flying back to Washington. Estimated same-day federal leisure-related outlay: about $760,000.",
+  "tags": [
+    "golf",
+    "mar-a-lago",
+    "palm-beach",
+    "trump-international-golf-club-west-palm-beach",
+    "air-force-one",
+    "secret-service",
+    "motorcade"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ],
+  "model_confidence": 0.96,
+  "social_title": "Oct. 19, 2025 federal outlay for Trump’s West Palm Beach golf day and same-day return to Washington: about $760,000"
+}
