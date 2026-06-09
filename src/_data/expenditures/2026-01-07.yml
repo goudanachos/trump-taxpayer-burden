@@ -1,1 +1,24 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The roll call places the President at the White House for a press briefing day, executive-order signing in the Oval Office, and a multi-hour New York Times interview. These are official or work-related activities, and no in-window source documents any leisure or recreational travel/activity on 2026-01-07, so no leisure-related federal outlay is counted.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Jan. 7, 2026: Trump remained at the White House for official business, including executive orders and a New York Times interview. No documented leisure activity; leisure cost recorded as $0.",
+  "tags": [
+    "zero-cost-day",
+    "white-house",
+    "official-business",
+    "no-leisure-documented"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.whitehouse.gov/"
+  ]
+}
