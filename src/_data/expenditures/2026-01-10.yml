@@ -1,0 +1,27 @@
+{
+  "location": "Mar-a-Lago, Palm Beach, Florida",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The roll call places President Trump at Mar-a-Lago on 2026-01-10 with no public events scheduled, making only a morning motorcade trip to and from a dentist appointment in West Palm Beach. Under the tracker methodology, medical/personal errands are not leisure or recreational activity, so no leisure-attributable federal outlay is counted for this date.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Jan. 10, 2026: Trump was at Mar-a-Lago and made a morning trip to a dentist appointment. No documented leisure or recreational activity, so this is a $0 leisure-cost day.",
+  "tags": [
+    "mar-a-lago",
+    "palm-beach",
+    "dentist-appointment",
+    "zero-cost-day",
+    "no-leisure-activity"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://rollcall.com/factbase/trump/topic/calendar/",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf"
+  ]
+}
