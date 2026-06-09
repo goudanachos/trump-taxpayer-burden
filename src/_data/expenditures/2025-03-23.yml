@@ -1,1 +1,23 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The provided roll call shows no public events scheduled and an in-town pool call/full lid from the White House on March 23, 2025. No in-window source here documents leisure or recreational travel or activity on that date, so no leisure-related federal outlay is counted.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "March 23, 2025: No public events were scheduled and Trump was accounted for from the White House. No documented leisure or recreational activity, so the day's leisure-cost total is $0.",
+  "tags": [
+    "white-house",
+    "zero-cost",
+    "no-leisure-documented",
+    "full-lid"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
