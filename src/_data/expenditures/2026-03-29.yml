@@ -1,1 +1,25 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "Mar-a-Lago and Trump International Golf Club West Palm Beach, Florida; later the White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Golf outing at Trump International Golf Club West Palm Beach",
+      "cost": 370000,
+      "description": "The roll call places President Trump at Mar-a-Lago in Palm Beach on the morning of March 29, 2026, departing at 8:47 AM for Trump International Golf Club West Palm Beach, arriving at 8:55 AM, remaining there until 2:15 PM, and returning to Mar-a-Lago at 2:24 PM. Because this is documented leisure activity at an off-site location, countable federal outlays include peak off-site Secret Service and staff costs benchmarked at $300,000, local law-enforcement assistance benchmarked at $60,000 when activated in Palm Beach presidential movements, and a short local motorcade estimated at $10,000 for the golf-club round trip. The later evening flight from Palm Beach to Joint Base Andrews returned the President to the White House, but the record does not establish that this leg was incurred solely for leisure rather than routine presidential repositioning, so it is excluded here under the methodology’s requirement to count only leisure outlays actually attributable to the recreational activity on the target date.",
+      "category": "golf"
+    }
+  ],
+  "total_cost": 370000,
+  "social_description": "Mar. 29, 2026: Trump spent the day at Mar-a-Lago, played golf at Trump International Golf Club West Palm Beach, then returned to Washington that evening. Estimated leisure-related federal cost: $370,000.",
+  "tags": [
+    "golf",
+    "mar-a-lago",
+    "palm-beach",
+    "trump-international-golf-club",
+    "off-site-security"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ],
+  "social_title": "March 29, 2026: Trump’s golf outing at Trump International Golf Club West Palm Beach cost an estimated $370,000"
+}
