@@ -1,1 +1,23 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "Pomeroy Kananaskis Mountain Lodge, Kananaskis, Alberta, Canada",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The available schedule for June 16, 2025 places the President at the G7 summit in Kananaskis for bilateral meetings, official welcome events, summit sessions, a family photo, and a cultural event tied to the leaders' program. Under the stated methodology, official summit business is not counted as leisure/recreational spending, so no leisure outlay is recorded for this date.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "June 16, 2025: Trump was in Kananaskis, Alberta for G7 meetings and official summit events. No documented leisure or recreational activity, so the leisure-cost total is $0.",
+  "tags": [
+    "g7-summit",
+    "official-business",
+    "zero-cost-day",
+    "kananaskis"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
