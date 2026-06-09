@@ -1,1 +1,23 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The July 21, 2025 roll call places President Trump at the White House for routine official activity, including lunch with the Vice President and a press briefing day ending with a full lid. No in-window source provided documents leisure or recreational travel or activity, so no leisure-related federal outlay is counted for this date.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "July 21, 2025 appears to have been a routine White House workday for President Trump, with no documented leisure or recreational activity. That yields a $0 leisure-cost determination.",
+  "tags": [
+    "zero-cost",
+    "white-house",
+    "official-business",
+    "no-leisure-documented"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
