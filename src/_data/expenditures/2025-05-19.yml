@@ -1,1 +1,23 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The roll call places President Trump at the White House throughout May 19, 2025 for official business, including a bill signing, a law enforcement event, and a Kennedy Center Board dinner in the State Dining Room. No in-window source or schedule item documents golf, resort travel, or other leisure/recreational activity, so no leisure-specific federal outlay is counted.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "May 19, 2025: Trump remained at the White House for official events and dinner. No documented leisure or recreational activity, so the tracker records a $0 leisure-cost day.",
+  "tags": [
+    "white-house",
+    "official-business",
+    "zero-cost-day",
+    "no-documented-leisure"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
