@@ -1,1 +1,25 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "Trump National Golf Club Bedminster, Bedminster, New Jersey",
+  "activities": [
+    {
+      "name": "Off-site leisure stay at Bedminster golf club",
+      "cost": 414000,
+      "description": "The roll call places President Trump at Trump National Golf Club Bedminster on August 2, 2025 with no public events scheduled, a full lid at 9:01 AM, and an out-of-town travel pool call from the club. Because the day was spent off-site at a Trump golf property and the schedule summary identifies it as a golf weekend, the documented federal leisure burden for that date is estimated as peak off-site Secret Service and staff ($300,000) plus local law-enforcement assistance ($60,000), with incidentals capped at 15% of travel and security ($54,000). No same-day federal flight outlay is counted because no qualifying travel leg is documented as incurred on August 2 itself.",
+      "category": "leisure-security"
+    }
+  ],
+  "total_cost": 414000,
+  "social_description": "Aug. 2, 2025: Trump spent the day at Trump National Golf Club Bedminster with no public events. Estimated federal leisure cost: $414,000, driven by off-site security, local police support, and capped incidentals.",
+  "tags": [
+    "bedminster",
+    "golf",
+    "off-site-security",
+    "weekend"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://meidasnews.com/news/trumps-schedule-points-to-another-bedminster-golf-club-weekend"
+  ],
+  "social_title": "Aug. 2, 2025: Estimated federal leisure cost for Trump’s day at Trump National Golf Club Bedminster was $414,000"
+}
