@@ -1,1 +1,31 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "On-site presidential security and staff support",
+      "cost": 75000,
+      "description": "President Trump’s June 3, 2026 public schedule keeps him at the White House for executive time, Oval Office policy meetings, executive-order signings, and a 7:00 PM Rose Garden Club Dinner. No in-window evidence identified any presidential air travel, Marine One movement, off-site motorcade, or activated local law-enforcement reimbursement tied to this date. Using the provided benchmark, the countable federal outlay actually incurred on the target date is the standard on-site Secret Service and staff support cost.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "June 3, 2026: Trump remained at the White House all day, including policy meetings, EO signings, and a Rose Garden dinner. No travel costs found; estimated federal outlay is the standard $75,000 on-site security/staff day.",
+  "tags": [
+    "white-house",
+    "on-site-security",
+    "no-travel",
+    "rose-garden",
+    "official-schedule"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/videos/president-trump-participates-in-a-rose-garden-club-dinner/",
+    "https://www.whitehouse.gov/videos/president-trump-signs-executive-orders-jun-3-2026/",
+    "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-increases-accountability-in-the-federal-workforce/",
+    "https://whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-strengthens-customs-enforcement",
+    "https://whitehouse.gov/presidential-actions/2026/06/strengthening-customs-enforcement",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf"
+  ]
+}
