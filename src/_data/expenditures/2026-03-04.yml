@@ -1,0 +1,23 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "category": "none",
+      "description": "The provided daily schedule places President Trump at the White House throughout March 4, 2026 for Executive Time, a phone interview, a policy roundtable in the Indian Treaty Room, and a full lid in the evening. No in-window source located any leisure or recreational travel or activity on this date, so under the methodology no leisure-related federal outlay is counted."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "March 4, 2026: Trump appears to have remained at the White House for official business, with no documented leisure or recreational travel/activity. Leisure cost to taxpayers: $0.",
+  "tags": [
+    "white-house",
+    "official-business",
+    "zero-cost",
+    "no-leisure-documented"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
