@@ -1,1 +1,31 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "Mar-a-Lago and Trump International Golf Club West Palm Beach, Palm Beach County, Florida",
+  "activities": [
+    {
+      "name": "Golf outing at Trump International Golf Club West Palm Beach",
+      "cost": 370000,
+      "category": "golf",
+      "description": "The White House pool/roll call places the President traveling from Mar-a-Lago to Trump International Golf Club West Palm Beach at 9:06 AM, arriving at 9:13 AM, and remaining there for golf with Ron DeSantis, Urban Meyer, and Nick Saban until 3:54 PM. Using the methodology for a same-day off-site recreational outing, this record counts peak off-site Secret Service and staff ($300,000), local law-enforcement assistance in Palm Beach County ($60,000), and a short local motorcade estimate ($10,000)."
+    },
+    {
+      "name": "Evening dinner trip to golf club",
+      "cost": 10000,
+      "category": "dining",
+      "description": "The roll call also documents an evening round trip from Mar-a-Lago to the golf club for dinner, departing at 7:01 PM, arriving 7:10 PM, and returning to Mar-a-Lago by 9:08 PM. To avoid double-counting the day’s off-site security already captured above, this entry counts only an additional short local motorcade estimate for the extra recreational trip."
+    }
+  ],
+  "total_cost": 380000,
+  "social_description": "Feb. 15, 2026: Trump made two leisure trips between Mar-a-Lago and his West Palm Beach golf club, including a daytime golf outing and an evening dinner. Estimated taxpayer leisure cost: $380,000.",
+  "tags": [
+    "golf",
+    "mar-a-lago",
+    "palm-beach",
+    "motorcade",
+    "off-site-security"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ],
+  "social_title": "Feb. 15, 2026: Trump made two leisure trips between Mar-a-Lago and his West Palm Beach golf club, with an estimated taxpayer cost of $380,000"
+}
