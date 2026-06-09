@@ -1,1 +1,30 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "On-site presidential security and staff support",
+      "cost": 75000,
+      "description": "President Trump’s June 2, 2026 public schedule places him at the White House throughout the day for executive time, policy meetings, a taped interview with Miranda Devine in the Roosevelt Room, and no identified off-site movement. In-window White House materials also show a June 2 presidential action and same-day White House video postings, while no independent in-window source found presidential air travel, Marine One use, or a local law-enforcement activation tied to this date. Under the provided benchmark, the countable federal outlay actually incurred on the target date is the standard on-site Secret Service and staff support cost.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "June 2, 2026: Trump stayed at the White House for meetings and a taped Pod Force One interview. No travel costs identified; estimated federal outlay is the standard $75,000 on-site security/staff day.",
+  "tags": [
+    "white-house",
+    "on-site-security",
+    "no-travel",
+    "pod-force-one",
+    "official-schedule"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://whitehouse.gov/videos/cms-administrator-dr-mehmet-oz-briefs-members-of-the-media-jun-2-2026",
+    "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/",
+    "https://www.whitehouse.gov/videos/president-trump-joins-pod-force-one-to-break-down-iran-negotiations-save-america-act-and-more-%F0%9F%87%BA%F0%9F%87%B8/",
+    "https://www.snopes.com/fact-check/trump-stroke-public-appearances/",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://time.com/4885934/white-house-helicopter-cost/"
+  ]
+}
