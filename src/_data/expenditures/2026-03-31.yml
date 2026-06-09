@@ -1,0 +1,24 @@
+{
+  "location": "The White House and the John F. Kennedy Center for the Performing Arts, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Attend Chicago opening night at the Kennedy Center",
+      "cost": 10000,
+      "description": "The White House roll call shows President Trump spent most of March 31, 2026 at the White House in executive time, policy meetings, and signing an executive order, then made an evening round trip to the Kennedy Center to attend the opening night performance of Chicago with the First Lady. Under the methodology, the leisure-countable federal outlay documented for that same-day local recreational event is a short local motorcade, benchmarked at $5,000–$10,000; using the conservative high end yields $10,000. No aviation, off-site overnight security surge, or separately documented police activation is established in-window for this date.",
+      "category": "entertainment"
+    }
+  ],
+  "total_cost": 10000,
+  "social_description": "Mar. 31, 2026: Trump spent the day at the White House, then took a short evening motorcade to the Kennedy Center for Chicago opening night. Countable leisure cost: an estimated $10,000 local motorcade.",
+  "tags": [
+    "kennedy-center",
+    "theater",
+    "local-motorcade",
+    "washington-dc",
+    "entertainment"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
