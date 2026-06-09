@@ -1,1 +1,23 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "En route from Washington, D.C. to Rome, Italy; Villa Taverna, Rome",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The April 25, 2025 schedule shows President Trump departing the White House for Joint Base Andrews, flying to Rome, and arriving at Villa Taverna ahead of Pope Francis’s funeral. That travel was tied to official international duties, and no in-window source or schedule item documents leisure or recreational activity on this date, so no leisure-related federal outlay is counted.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "April 25, 2025 was an official Rome travel day tied to Pope Francis’s funeral, with no documented leisure or recreational activity, so the tracker records $0 in leisure-related federal spending.",
+  "tags": [
+    "official-travel",
+    "rome",
+    "zero-cost-day",
+    "no-leisure-documented"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
