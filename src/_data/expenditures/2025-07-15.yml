@@ -1,1 +1,24 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House; Pittsburgh, Pennsylvania",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The schedule and in-window reporting show President Trump traveling from the White House to Pittsburgh for the Pennsylvania Energy and Innovation Event at Carnegie Mellon University, then returning to the White House the same day. This was official presidential travel and event activity, not documented leisure or recreation, so no leisure-related federal outlay is counted for this date.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "July 15, 2025 was a $0 leisure-cost day: Trump made an official White House-to-Pittsburgh trip for an energy and innovation event, with no documented recreational activity.",
+  "tags": [
+    "zero-cost",
+    "official-travel",
+    "pittsburgh",
+    "white-house"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.mccormick.senate.gov/news/press-releases/senator-mccormick-to-host-2026-pennsylvania-defense-and-innovation-summit-at-u-s-army-war-college/",
+    "https://www.yahoo.com/news/politics/articles/mccormick-event-last-drew-92-155105136.html"
+  ]
+}
