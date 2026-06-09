@@ -1,1 +1,24 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "category": "none",
+      "description": "The roll call places President Trump at the White House on July 8, 2025 for official business, including a Cabinet meeting, with no documented recreational outing or leisure travel. Under the stated methodology, routine White House duties do not count as leisure-related federal outlays."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "July 8, 2025 was a White House workday centered on a Cabinet meeting, with no documented leisure or recreational activity, so the leisure-cost determination is $0.",
+  "tags": [
+    "white-house",
+    "official-business",
+    "cabinet-meeting",
+    "zero-cost-day",
+    "july-2025"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
