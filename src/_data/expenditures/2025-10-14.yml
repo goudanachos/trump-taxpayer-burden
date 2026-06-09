@@ -1,1 +1,23 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "category": "none",
+      "description": "The public roll call places President Trump at the White House on October 14, 2025 for a bilateral lunch with Argentina’s president and a Medal of Freedom ceremony in the East Room after returning to the White House early that morning. These are official or residential White House activities, so under the stated methodology no leisure/recreational federal outlay is counted for this date."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Oct. 14, 2025: $0 in documented Trump leisure costs. The public schedule shows White House diplomatic and ceremonial events, not recreational travel or leisure activity.",
+  "tags": [
+    "zero-cost",
+    "white-house",
+    "official-business",
+    "no-leisure-documented"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
