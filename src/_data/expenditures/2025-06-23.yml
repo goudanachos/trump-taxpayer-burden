@@ -1,1 +1,22 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The roll call places the President at the White House for press activity, an Oval Office national security meeting, and an evening full lid on June 23, 2025. No in-window evidence provided here documents golf, private-club travel, or other leisure/recreational activity, so no leisure outlay is counted under the methodology.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "June 23, 2025 appears to have been a White House workday with no documented leisure or recreational activity, so the leisure-cost determination is $0.",
+  "tags": [
+    "white-house",
+    "official-business",
+    "zero-cost-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
