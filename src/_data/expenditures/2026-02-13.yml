@@ -1,0 +1,23 @@
+{
+  "location": "The White House; Fort Bragg/Pope Field, North Carolina; Mar-a-Lago, Palm Beach, Florida",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "category": "none",
+      "description": "The roll call shows the President departing the White House for Joint Base Andrews, flying to Pope Field for a military-family event and a private meeting with service members at Fort Bragg, then continuing to Mar-a-Lago in the evening. Although the overnight location was a Trump property and the schedule later lists a private dinner there, the in-window evidence provided documents official travel and no clearly documented leisure or recreational activity on Feb. 13 itself under this methodology."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Feb. 13, 2026: $0. The President traveled from Washington to Fort Bragg for official military events and then on to Mar-a-Lago; no in-window source clearly documents a leisure or recreational activity on the target date.",
+  "tags": [
+    "official-travel",
+    "fort-bragg",
+    "mar-a-lago",
+    "zero-cost-day"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
