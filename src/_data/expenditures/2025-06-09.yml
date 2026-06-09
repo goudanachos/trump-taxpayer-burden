@@ -1,1 +1,24 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The schedule places President Trump traveling from Camp David to the White House, then participating in an Invest America roundtable and remaining at the White House through the full lid. No in-window source provided documents golf, resort time, private club activity, or other leisure/recreational travel on June 9, so no leisure outlay is counted.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "June 9, 2025 was an official-duty day: Trump returned from Camp David to the White House and held an Invest America roundtable. No documented leisure activity, so counted leisure cost is $0.",
+  "tags": [
+    "zero-cost",
+    "official-business",
+    "white-house",
+    "camp-david",
+    "no-leisure"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
