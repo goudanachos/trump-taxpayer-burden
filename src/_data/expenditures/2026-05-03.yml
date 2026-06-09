@@ -1,0 +1,51 @@
+{
+  "location": "Trump National Doral Miami; Miami International Airport; Joint Base Andrews; The White House",
+  "activities": [
+    {
+      "name": "Presidential return travel from Miami to Washington",
+      "cost": 647000,
+      "description": "On 2026-05-03, the published pool/roll-call schedule shows the President departing Trump National Doral Miami for Miami International Airport at 4:58 PM, leaving Miami International Airport for Joint Base Andrews at 5:23 PM, arriving Andrews at 7:19 PM, then departing Andrews for the White House at 7:42 PM and arriving at 7:54 PM. Using the tracker benchmark for VC-25A at $177,843 per flight-hour with a 0.5 domestic support factor, and estimating Miami-to-Andrews flight time from the schedule at 1 hour 56 minutes, the fixed-wing portion is about $515,700, rounded to $516,000. A short Marine One hop Andrews-to-White House is estimated at about 0.2 flight hours × $24,000 ≈ $4,800, rounded within the travel line item.",
+      "category": "travel"
+    },
+    {
+      "name": "Off-site Secret Service and staff protection",
+      "cost": 300000,
+      "description": "Because the President spent most of the day off-site at Trump National Doral Miami, a non-White House location, and returned by presidential airlift, the applicable benchmark is peak off-site Secret Service and support staffing at $300,000 for the day.",
+      "category": "security"
+    },
+    {
+      "name": "Local law-enforcement assistance",
+      "cost": 60000,
+      "description": "The President’s attendance at a PGA Tour event at Trump National Doral Miami and the associated motorcade movements to Miami International Airport indicate local protective coordination in the Miami area. Applying the tracker’s Palm Beach benchmark yields an estimated $60,000 for activated local law-enforcement assistance.",
+      "category": "security"
+    },
+    {
+      "name": "Incidentals",
+      "cost": 60000,
+      "description": "Applying the allowed incidental cap of up to 15% of travel plus security to cover ancillary federal support costs associated with the off-site property visit and departure operations yields roughly $131,000 maximum, but to remain conservative and avoid overstating unitemized costs, this record includes only $60,000 in incidentals.",
+      "category": "incidentals"
+    }
+  ],
+  "total_cost": 1067000,
+  "social_description": "May 3, 2026: Trump spent the day at Trump National Doral for the Cadillac Championship, then flew back to Washington. Estimated federal leisure-related outlay: about $1.07 million, driven by presidential airlift and off-site security.",
+  "tags": [
+    "trump-property",
+    "doral",
+    "golf",
+    "air-force-one",
+    "marine-one",
+    "secret-service",
+    "miami",
+    "joint-base-andrews"
+  ],
+  "confidence_level": "low",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.foxnews.com/outkick-sports/pga-tour-event-trump-doral-gets-huge-boost-new-spot-restructured-2027-schedule",
+    "https://www.wpbf.com/article/president-donald-trump-gold-statue-at-trump-doral-golf-club/71330691",
+    "https://www.espn.com/golf/story/_/id/48883415/doral-move-back-march-part-pga-tour-reshuffle"
+  ],
+  "social_title": "May 3, 2026 presidential travel from Miami to Washington cost an estimated $1.07 million"
+}
