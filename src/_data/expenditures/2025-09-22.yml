@@ -1,1 +1,21 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Washington, D.C.; Trump Tower, New York, N.Y.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "category": "none",
+      "description": "The provided roll call shows an official White House day with a press briefing and a Roosevelt Room announcement before an evening trip to New York ending at Trump Tower. Although the destination was a Trump property, the available in-window evidence here does not document golf, resort leisure, or other recreational activity on 2025-09-22, so no leisure-specific federal outlay is counted for this date."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Sept. 22, 2025: $0 leisure cost. Trump spent the day on White House business, then traveled to New York/Trump Tower, but no in-window evidence here documents same-day recreational activity.",
+  "tags": [
+    "zero-cost-day",
+    "official-business",
+    "trump-tower",
+    "new-york"
+  ],
+  "confidence_level": "medium",
+  "source_urls": []
+}
