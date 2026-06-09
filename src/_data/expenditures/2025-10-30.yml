@@ -1,1 +1,24 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The schedule and roll call for 2025-10-30 show President Trump returning to the United States from South Korea, traveling back to the White House, and participating in Halloween at the White House that evening. Under the stated methodology, routine official travel and White House-hosted activities do not count as leisure/recreational federal outlays, so no additional leisure cost is recorded for this day.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "On 2025-10-30, Trump returned from South Korea and spent the evening at the White House; no documented leisure/recreational taxpayer outlay is counted, so the day is recorded as $0.",
+  "tags": [
+    "white-house",
+    "official-travel",
+    "halloween",
+    "zero-cost-day",
+    "no-documented-leisure"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
