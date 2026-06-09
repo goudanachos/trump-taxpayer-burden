@@ -1,0 +1,24 @@
+{
+  "location": "Mar-a-Lago, Palm Beach, Florida",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "category": "none",
+      "description": "The schedule shows President Trump at the White House for official events and meetings before traveling in the late afternoon to Mar-a-Lago, where he later stopped by a county party fundraiser at the property. The documented activity on March 20, 2026 does not show a leisure outing such as golf, resort recreation, or sightseeing, so no leisure-specific federal outlay is counted for this date."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "March 20, 2026: Trump traveled from the White House to Mar-a-Lago and appeared at a political fundraiser, but no documented leisure or recreational activity appears on the day. Leisure-cost determination: $0.",
+  "tags": [
+    "mar-a-lago",
+    "travel-day",
+    "political-event",
+    "zero-cost",
+    "no-documented-leisure"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
