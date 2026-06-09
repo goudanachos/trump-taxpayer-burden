@@ -1,1 +1,25 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "Palm Beach, Florida",
+  "activities": [
+    {
+      "name": "Golf outing at Trump International Golf Club West Palm Beach",
+      "cost": 426000,
+      "description": "The roll call shows the President departing Mar-a-Lago for Trump International Golf Club West Palm Beach at 9:16 AM, remaining there until 3:04 PM, and then returning to Mar-a-Lago. Because the documented activity was recreational golf at an off-site Trump property, this record counts peak off-site Secret Service and staff ($300,000), local law-enforcement assist ($60,000), short local transport/motorcade costs for the Mar-a-Lago–golf club round trip ($10,000), plus incidentals capped at 15% of travel and security ($55,500), rounded to $426,000.",
+      "category": "golf"
+    }
+  ],
+  "total_cost": 426000,
+  "social_description": "Jan. 17, 2026: Trump golfed at Trump International Golf Club West Palm Beach while staying at Mar-a-Lago. Estimated leisure-related taxpayer cost: $426,000.",
+  "tags": [
+    "golf",
+    "trump-property",
+    "mar-a-lago",
+    "west-palm-beach",
+    "off-site-security"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ],
+  "social_title": "Jan. 17, 2026: Trump golfed at Trump International Golf Club West Palm Beach while staying at Mar-a-Lago; estimated taxpayer cost was $426,000."
+}
