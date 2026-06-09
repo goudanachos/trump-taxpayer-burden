@@ -1,1 +1,24 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "President Trump was at the White House for scheduled official/public activities, including the White House Easter Egg Roll and remarks to reporters. No in-window source documents leisure or recreational travel requiring additional countable federal outlays on April 21, 2025, so the day's leisure-cost total is $0.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "April 21, 2025 was a $0 leisure-cost day: President Trump remained at the White House for official events, with no documented recreational travel or leisure outlay.",
+  "tags": [
+    "white-house",
+    "official-business",
+    "zero-cost-day",
+    "no-leisure-documented",
+    "easter-egg-roll"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
