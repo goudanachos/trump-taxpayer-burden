@@ -1,1 +1,25 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "En route from Washington, D.C., to Trump National Golf Club Bedminster, New Jersey",
+  "activities": [
+    {
+      "name": "Presidential travel to Bedminster for golf weekend",
+      "cost": 400000,
+      "description": "The roll call shows President Trump departing the White House for Bedminster on August 1, 2025, flying from Joint Base Andrews to Lehigh Valley International Airport and then proceeding to Trump National Golf Club Bedminster. Because the schedule summary identifies the trip as to a Trump property and the following day places him at the golf club with no public events, this is treated as the start of a leisure/golf weekend. Estimated same-day federal outlays incurred on August 1 are a short domestic VC-25A flight from Andrews to the Allentown area (about 0.5 flight-hours at $177,843/hour), peak off-site Secret Service and staff for the off-site overnight stay ($300,000), and a short ground motorcade to Bedminster ($10,000), rounded to the nearest $10,000.",
+      "category": "leisure-travel"
+    }
+  ],
+  "total_cost": 400000,
+  "social_description": "Aug. 1, 2025: Trump traveled from Washington to his Bedminster golf club, beginning an off-site leisure weekend. Estimated same-day taxpayer cost: $400,000.",
+  "tags": [
+    "bedminster",
+    "golf-weekend",
+    "trump-property",
+    "presidential-travel"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://meidasnews.com/news/trumps-schedule-points-to-another-bedminster-golf-club-weekend"
+  ],
+  "social_title": "Aug. 1, 2025: Trump traveled from Washington to Trump National Golf Club Bedminster, with estimated same-day taxpayer cost of $400,000"
+}
