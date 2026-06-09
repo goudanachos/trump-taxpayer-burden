@@ -2,19 +2,19 @@
   "location": "The White House, Washington, D.C.",
   "activities": [
     {
-      "name": "On-site presidential security and staff support",
-      "cost": 75000,
-      "category": "security",
-      "description": "The provided daily schedule places President Trump at the White House throughout 2026-04-09 for executive time, intelligence briefing, policy meetings, and a roundtable, with no documented leisure or recreational travel/activity. Accordingly, this is recorded as a standard on-site White House support day using the baseline Secret Service and staff benchmark."
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "category": "none",
+      "description": "The daily schedule places President Trump at the White House all day on 2026-04-09 for executive time, an intelligence briefing, policy meetings, and a roundtable. No in-window source provided here documents leisure or recreational travel/activity, so no leisure-related federal outlay is counted for this date."
     }
   ],
-  "total_cost": 75000,
-  "social_description": "Apr. 9, 2026: Trump remained at the White House for official meetings and executive time, with no documented leisure activity. Recorded as a standard on-site security/staff support day: $75,000.",
+  "total_cost": 0,
+  "social_description": "Apr. 9, 2026: Trump remained at the White House for official business, with no documented leisure or recreational activity. Leisure-cost entry for the day: $0.",
   "tags": [
     "white-house",
     "official-business",
-    "no-leisure-documented",
-    "security-baseline"
+    "zero-cost-day",
+    "no-leisure-documented"
   ],
   "confidence_level": "high",
   "source_urls": [
