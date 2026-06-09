@@ -1,1 +1,23 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "category": "none",
+      "description": "The January 15, 2026 roll call places the President at the White House for an intelligence briefing, a lunch meeting with María Corina Machado, a press briefing, and an official visit honoring the 2025 Stanley Cup champion Florida Panthers. These are official White House and ceremonial duties, not leisure or recreational activity, so no leisure-specific federal outlay is counted for this date."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Jan. 15, 2026: Trump remained at the White House for briefings, meetings, and an official East Room sports-team visit. No documented leisure activity, so the tracker records $0.",
+  "tags": [
+    "zero-cost-day",
+    "white-house",
+    "official-business",
+    "ceremonial-event"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
