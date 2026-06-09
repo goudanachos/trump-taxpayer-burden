@@ -1,1 +1,49 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "Las Vegas, Nevada; Phoenix, Arizona; and the White House, Washington, DC",
+  "activities": [
+    {
+      "name": "VC-25A presidential air travel: Las Vegas to Phoenix and Phoenix to Joint Base Andrews",
+      "cost": 1267131,
+      "description": "The provided schedule shows two fixed-wing presidential flight legs on 2026-04-17: Las Vegas to Phoenix departing 4:00 PM ET / 1:00 PM local and arriving 4:45 PM ET / 1:45 PM local, then Phoenix to Joint Base Andrews departing 7:27 PM ET / 4:27 PM local and arriving 10:51 PM ET. Using the prompt’s VC-25A benchmark of $177,843 per flight hour and the domestic support-factor formula of 1.5 total multiplier, the estimated airborne time is about 0.75 hours for LAS→PHX and 4.0 hours for PHX→JBA, or 4.75 hours total. Estimated cost: 4.75 × 177,843 × 1.5 = $1,267,131.",
+      "category": "air-travel"
+    },
+    {
+      "name": "Marine helicopter movement at arrival end",
+      "cost": 36000,
+      "description": "The schedule shows arrival at Joint Base Andrews at 10:51 PM and a subsequent transfer to the White House, arriving the South Lawn at 11:17 PM. The prompt provides a Marine One benchmark of $24,000 per flight hour. Estimating roughly 0.75 total helicopter flight-hours for the Andrews-to-White House presidential movement and associated positioning on this arrival sequence yields an estimated $36,000.",
+      "category": "helicopter"
+    },
+    {
+      "name": "Off-site Secret Service and presidential staffing",
+      "cost": 300000,
+      "description": "For most of the day, the president was off-site at a Trump property in Las Vegas, then at a Phoenix event venue, before returning late to Washington. Under the prompt’s benchmark, peak off-site Secret Service and staff cost is $300,000 per day. This is the applicable supplied benchmark for a multi-stop off-site day.",
+      "category": "security"
+    },
+    {
+      "name": "Local law-enforcement assistance",
+      "cost": 60000,
+      "description": "The day’s movements involved local protective support in Las Vegas and Phoenix around airport transfers and the Dream City Church event. Using the prompt’s local law-enforcement assist benchmark, this adds an estimated $60,000.",
+      "category": "local-security"
+    }
+  ],
+  "total_cost": 1663131,
+  "social_description": "Apr. 17, 2026: Trump traveled from his Las Vegas hotel to Phoenix for a TPUSA event, then flew back to Washington. Estimated same-day federal leisure/travel-related outlay: about $1.66 million, driven mostly by VC-25A flight costs.",
+  "tags": [
+    "trump-property",
+    "las-vegas",
+    "phoenix",
+    "air-force-one",
+    "joint-base-andrews",
+    "off-site-security"
+  ],
+  "confidence_level": "low",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
+    "https://time.com/4885934/white-house-helicopter-cost/"
+  ],
+  "social_title": "Apr. 17, 2026: Trump traveled from Las Vegas to Phoenix and back to Washington, with estimated federal outlay of $1.66 million"
+}
