@@ -1,1 +1,25 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "Queens, New York (U.S. Open at Arthur Ashe Stadium), with same-day travel from Washington, D.C.",
+  "activities": [
+    {
+      "name": "Attend the U.S. Open Tennis Championships",
+      "cost": 560000,
+      "description": "President Trump made a same-day round trip from the White House to Queens, New York, to attend the U.S. Open at Arthur Ashe Stadium, including the match and trophy ceremony. This was a recreational/spectator event, so leisure-related federal outlays are counted: VC-25A flying time based on the schedule was about 40 minutes outbound (Joint Base Andrews to LaGuardia) and 46 minutes return (LaGuardia to Joint Base Andrews), plus peak off-site Secret Service/staff for the New York event day and a short local motorcade transfer between LaGuardia and the stadium.",
+      "category": "sports-leisure"
+    }
+  ],
+  "total_cost": 560000,
+  "social_description": "Sept. 7, 2025: Trump took a same-day trip from Washington to Queens to attend the U.S. Open. Estimated leisure-related federal cost: about $560,000.",
+  "tags": [
+    "sports-leisure",
+    "u-s-open",
+    "queens-new-york",
+    "same-day-trip",
+    "air-force-one"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://apnews.com/article/trump-us-open-tennis-queens-new-york-f61eba23ca5cda88a6df1ac525ef12c5"
+  ],
+  "social_title": "Trump’s same-day U.S. Open trip to Queens cost about $560,000"
+}
