@@ -1,1 +1,31 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Washington, DC",
+  "activities": [
+    {
+      "name": "On-site presidential protection and staff support",
+      "cost": 75000,
+      "description": "President Trump remained at the White House on May 19, 2026 for executive time, policy meetings, an Oval Office executive-order signing, a press tour of ballroom construction, and evening remarks at the Congressional Picnic on the South Lawn. With no verified off-site travel or activated local law-enforcement deployment, the countable federal outlay is limited to the benchmarked on-site Secret Service and staff support cost.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "May 19, 2026: Trump stayed at the White House for meetings, an EO signing, a ballroom-construction press tour, and the Congressional Picnic. No verified off-site leisure travel, so the day’s countable federal cost is the baseline $75,000 for on-site protection/staff support.",
+  "tags": [
+    "white-house",
+    "on-site-security",
+    "no-travel",
+    "congressional-picnic"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://www.whitehouse.gov/videos/president-trump-visits-white-house-ballroom-construction/",
+    "https://www.whitehouse.gov/videos/just-now-president-trump-just-gives-press-a-look-inside-the-white-house-ballroom-construction/",
+    "https://www.whitehouse.gov/videos/president-trump-and-the-first-lady-deliver-remarks-at-the-congressional-picnic/",
+    "https://www.whitehouse.gov/gallery/congressional-picnic-may-19th-2026/",
+    "https://whitehouse.gov/briefings-statements/2026/05/first-lady-melania-trump-americas-tradition-fosters-unity/",
+    "https://whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-restores-integrity-to-americas-financial-system/",
+    "https://whitehouse.gov/presidential-actions/2026/05/restoring-integrity-to-americas-financial-system/",
+    "https://time.com/4885934/white-house-helicopter-cost/"
+  ]
+}
