@@ -1,1 +1,34 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "Palm Beach, Florida / Washington, D.C.",
+  "activities": [
+    {
+      "name": "Golf outing at Trump International Golf Club West Palm Beach",
+      "cost": 370000,
+      "description": "Per the White House pool/roll-call schedule, the President traveled from Mar-a-Lago to Trump International Golf Club West Palm Beach at 9:06 a.m., arrived at 9:13 a.m., departed at 4:15 p.m., and returned to Mar-a-Lago at 4:21 p.m. Using the tracker’s leisure benchmarks for an off-site presidential stay/day, this record counts $300,000 for peak off-site Secret Service and staff protection, about $60,000 for activated local law-enforcement assistance, and $10,000 for short local motorcade movements tied to the golf trip.",
+      "category": "golf-security"
+    },
+    {
+      "name": "Return flight from Palm Beach to Washington after leisure weekend",
+      "cost": 479000,
+      "description": "The same-day schedule shows departure from Palm Beach International Airport at 7:12 p.m., arrival at Joint Base Andrews at 8:59 p.m., then movement to the White House. Using the benchmark VC-25A formula on the scheduled 1 hour 47 minute Palm Beach-to-Andrews leg with a 0.5 domestic support factor yields about $475,000, plus about $3,000 for the short Andrews-to-White House helicopter hop indicated by the South Lawn arrival; rounded together, this activity is recorded at $479,000.",
+      "category": "presidential-travel"
+    }
+  ],
+  "total_cost": 849000,
+  "social_description": "Nov. 16, 2025: Trump spent the day golfing at his West Palm Beach club, then flew back to Washington that evening. Using the tracker’s benchmarks, the day’s leisure-related federal outlay is estimated at about $849,000.",
+  "tags": [
+    "golf",
+    "mar-a-lago",
+    "west-palm-beach",
+    "palm-beach",
+    "air-force-one",
+    "weekend-travel"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://time.com/4885934/white-house-helicopter-cost/",
+    "https://www.whitehouse.gov/briefings-statements/"
+  ],
+  "social_title": "Trump’s Nov. 16, 2025 golf outing and return flight cost an estimated $849,000"
+}
