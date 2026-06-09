@@ -1,1 +1,22 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The schedule and roll call place President Trump at the White House on April 14, 2025 for an official bilateral meeting and lunch with El Salvador's president and a visit with Ohio State's championship team. No in-window source documents leisure or recreational travel/activity on this date, so no leisure-related federal outlay is counted.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "April 14, 2025 was a White House official-business day for Trump, with no documented leisure or recreational activity. Leisure-cost tracker determination: $0.",
+  "tags": [
+    "white-house",
+    "official-business",
+    "zero-cost-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
