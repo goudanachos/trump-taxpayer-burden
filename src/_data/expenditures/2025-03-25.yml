@@ -1,1 +1,23 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The published schedule and provided roll call place President Trump at the White House for official duties on March 25, 2025, including lunch with the Vice President, signing executive orders, and meeting U.S. ambassadors. No in-window source documents leisure or recreational travel or activity on this date, so no leisure-related federal outlay is counted.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "March 25, 2025: Trump remained at the White House for official meetings and executive actions. No documented leisure or recreational activity, so the leisure-cost total is $0.",
+  "tags": [
+    "white-house",
+    "official-business",
+    "zero-cost",
+    "no-leisure-documented"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
