@@ -1,1 +1,26 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "Clive and Urbandale, Iowa; same-day round trip from the White House via Joint Base Andrews and Des Moines International Airport",
+  "activities": [
+    {
+      "name": "Political rally trip to Iowa",
+      "cost": 754900,
+      "description": "The roll call places President Trump on a same-day presidential trip from Washington to Iowa for a political rally at the Horizon Events Center in Clive, plus a stop at the Machine Shed Restaurant in Urbandale and related media appearances. Because this was campaign/political travel rather than routine White House business, the counted federal leisure-style outlays are the Air Force One round-trip flight time (about 3.77 hours total using the schedule’s 12:39 PM–2:49 PM and 7:03 PM–8:39 PM legs), one on-site security/staff day benchmark, and a modest local motorcade estimate.",
+      "category": "political-travel"
+    }
+  ],
+  "total_cost": 754900,
+  "social_description": "Jan. 27, 2026: Trump made a same-day presidential trip from Washington to Iowa for a political rally in Clive, with a stop in Urbandale. Estimated taxpayer cost: about $754,900, driven mainly by Air Force One flight time plus security and local motorcade support.",
+  "tags": [
+    "iowa",
+    "political-rally",
+    "air-force-one",
+    "motorcade",
+    "same-day-trip"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ],
+  "model_confidence": 0.6,
+  "social_title": "Trump’s Jan. 27, 2026 same-day trip from Washington to Clive and Urbandale, Iowa, for a political rally was estimated to cost taxpayers about $754,900."
+}
