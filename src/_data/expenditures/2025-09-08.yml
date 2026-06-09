@@ -1,1 +1,24 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House and the Museum of the Bible, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The provided daily schedule places President Trump in Washington for an official morning trip from the White House to the Museum of the Bible to deliver remarks to the White House Religious Liberty Commission, followed by a return to the White House and a full lid in the evening. This is documented official business, not leisure or recreational travel, so no leisure-related federal outlay is counted for the day.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Sept. 8, 2025: Trump stayed in Washington for an official event at the Museum of the Bible and returned to the White House. No documented leisure or recreational activity, so the leisure-cost total is $0.",
+  "tags": [
+    "zero-cost",
+    "official-business",
+    "washington-dc",
+    "white-house",
+    "museum-of-the-bible"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://apnews.com/article/trump-religious-liberty-commission-conservative-christians-f61eba23ca5cda88a6df1ac525ef12c5"
+  ]
+}
