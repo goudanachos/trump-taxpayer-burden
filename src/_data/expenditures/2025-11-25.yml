@@ -1,1 +1,26 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "Travel from Washington, D.C., to Mar-a-Lago, Palm Beach, Florida",
+  "activities": [
+    {
+      "name": "Evening flight to Palm Beach for stay at Mar-a-Lago",
+      "cost": 790000,
+      "description": "The day began with an official White House event—the Thanksgiving Turkey Pardoning—but the President then departed the White House, flew from Joint Base Andrews to Palm Beach International Airport, and arrived at Mar-a-Lago that evening. Using the tracker’s benchmarks, the counted leisure-related federal outlays incurred on Nov. 25 are estimated as: VC-25A flight cost for roughly 1.8 flight hours on the Andrews-to-Palm Beach leg with a domestic support factor of 0.5 (about $480,176), off-site Secret Service/staff protection in Palm Beach ($300,000), and a short local motorcade from PBIA to Mar-a-Lago ($10,000), rounded to the nearest $10,000.",
+      "category": "travel"
+    }
+  ],
+  "total_cost": 790000,
+  "social_description": "After the White House turkey pardon, Trump flew to Palm Beach and arrived at Mar-a-Lago that night. Using the tracker’s travel and Palm Beach security benchmarks, Nov. 25’s leisure-related federal cost is estimated at $790,000.",
+  "tags": [
+    "trump-property",
+    "mar-a-lago",
+    "palm-beach",
+    "air-travel",
+    "thanksgiving-week"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://www.whitehouse.gov/briefings-statements/"
+  ],
+  "social_title": "Nov. 25 leisure-related federal cost for travel from Washington, D.C., to Mar-a-Lago was estimated at $790,000"
+}
