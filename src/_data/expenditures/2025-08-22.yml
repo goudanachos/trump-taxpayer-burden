@@ -1,1 +1,24 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, The People's House, and the Kennedy Center, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "category": "none",
+      "description": "The provided roll call places President Trump in Washington for daytime stops at The People's House and the Kennedy Center, followed by an Oval Office announcement on National Guard deployment plans for New York and Chicago, then back at the White House. These appear to be official in-town movements and public/administrative events, with no in-window source documenting golf, private club time, vacation travel, or other leisure/recreational activity that would trigger leisure-cost methodology."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Aug. 22, 2025: $0 leisure cost. Trump stayed in Washington for official daytime stops and an Oval Office announcement; no documented recreational travel or activity.",
+  "tags": [
+    "zero-cost",
+    "white-house",
+    "official-business",
+    "washington-dc",
+    "kennedy-center"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
