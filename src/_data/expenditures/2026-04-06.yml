@@ -1,0 +1,24 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "On-site presidential security and staff support",
+      "cost": 75000,
+      "category": "security",
+      "description": "The provided daily schedule places President Trump at the White House all day on April 6, 2026: Executive Time, the White House Easter Egg Roll on the South Lawn, a press conference, a policy meeting, a Passover greeting, and a late-night call with Artemis II astronauts. These are official on-site events, and no in-window source provided here documents leisure or recreational travel/activity requiring added travel or off-site protection costs."
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "April 6, 2026: Trump remained at the White House for official events including the Easter Egg Roll, a press conference, meetings, and a call with Artemis II astronauts. No documented leisure travel; baseline on-site security/staff cost recorded.",
+  "tags": [
+    "white-house",
+    "official-events",
+    "easter-egg-roll",
+    "security-baseline",
+    "zero-leisure-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
