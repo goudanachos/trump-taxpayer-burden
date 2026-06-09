@@ -1,0 +1,25 @@
+{
+  "location": "The White House, Washington, DC",
+  "activities": [
+    {
+      "name": "On-site presidential security and staffing",
+      "cost": 75000,
+      "description": "Public schedule shows the President remained at the White House all day on 2026-05-05 for Executive Time, Oval Office events, a pre-taped interview, and an evening Rose Garden dinner. No in-window evidence found of off-site travel, presidential aircraft movement, Marine One use, or activated local police support on the target date. Applying the benchmark for on-site White House Secret Service and support staffing yields an estimated federal outlay of $75,000.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "May 5, 2026: Trump appears to have stayed at the White House all day, so the only supportable federal leisure-related outlay is baseline on-site presidential security/staffing, estimated at $75,000.",
+  "tags": [
+    "white-house",
+    "on-site-security",
+    "no-travel",
+    "rose-garden",
+    "executive-time"
+  ],
+  "confidence_level": "low",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf"
+  ]
+}
