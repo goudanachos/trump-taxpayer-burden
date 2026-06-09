@@ -1,0 +1,28 @@
+{
+  "location": "Travel from Washington, D.C., to Mar-a-Lago, Palm Beach, Florida",
+  "activities": [
+    {
+      "name": "Evening travel to Mar-a-Lago",
+      "cost": 681225,
+      "description": "The White House roll call for Feb. 6, 2026 shows President Trump worked at the White House, signed executive orders in the Oval Office, then departed in the evening for Palm Beach and arrived at Mar-a-Lago around 9:25 p.m. Because the day includes travel to his private club property, I count the federal leisure-related outlays actually incurred that day: roughly 1.75 flight-hours on VC-25A from Joint Base Andrews to Palm Beach (using the domestic no-support benchmark), a Palm Beach-area motorcade, peak off-site Secret Service/staff presence upon arrival, and local law-enforcement assistance.",
+      "category": "travel"
+    }
+  ],
+  "total_cost": 681225,
+  "social_description": "Feb. 6, 2026: Trump spent most of the day on official business at the White House, then flew to Mar-a-Lago that evening. Estimated taxpayer leisure-related cost incurred that day: $681,225.",
+  "tags": [
+    "mar-a-lago",
+    "palm-beach",
+    "air-force-one",
+    "motorcade",
+    "secret-service",
+    "trump-property"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927"
+  ],
+  "social_title": "Estimated taxpayer leisure-related cost for Trump’s Feb. 6, 2026 trip to Mar-a-Lago: $681,225"
+}
