@@ -1,1 +1,23 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "category": "none",
+      "description": "The public roll call places President Trump at the White House on October 15, 2025 for a phone interview, an Oval Office press conference with the FBI director, and an evening ballroom dinner in the East Room. These are official or residential White House activities, and under the stated methodology they do not count as leisure/recreational federal outlays."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Oct. 15, 2025: $0 in documented Trump leisure costs. The day’s public schedule shows White House interviews, official events, and a dinner—not recreational travel or leisure activity.",
+  "tags": [
+    "zero-cost",
+    "white-house",
+    "official-business",
+    "no-leisure-documented"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
