@@ -1,1 +1,21 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Washington, D.C.; Glendale, Arizona",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "category": "none",
+      "description": "The roll call shows a same-day round trip from the White House to Glendale, Arizona for Charlie Kirk’s memorial service at State Farm Stadium, with returns via Luke Air Force Base and Joint Base Andrews that night. Because the documented purpose is an official/public memorial event rather than golf, resort time, or other recreational activity, no leisure-specific federal outlay is counted for 2025-09-21."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Sept. 21, 2025: $0 leisure cost. Trump made a same-day Arizona trip for Charlie Kirk’s memorial service and returned to the White House; no documented recreational activity appears in the day’s schedule.",
+  "tags": [
+    "zero-cost-day",
+    "official-travel",
+    "arizona",
+    "memorial-service"
+  ],
+  "confidence_level": "high",
+  "source_urls": []
+}
