@@ -1,1 +1,59 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "Washington, DC; Joint Base Andrews, MD; Morristown Municipal Airport, NJ; Rockland Community College, Suffern, NY",
+  "activities": [
+    {
+      "name": "VC-25A presidential air travel",
+      "cost": 208000,
+      "description": "The White House schedule for 2026-05-22 shows the President departing Joint Base Andrews at 1:55 PM for Morristown Municipal Airport and returning from Morristown to Joint Base Andrews at 5:55 PM, arriving 6:31 PM. Using the published block times in the schedule, the two VC-25A legs total about 1.17 flight-hours (34 min + 36 min). At $177,843 per flight-hour, that yields about $207,484, rounded to $208,000.",
+      "category": "travel"
+    },
+    {
+      "name": "Marine One transfers",
+      "cost": 17000,
+      "description": "The schedule shows helicopter movement between the White House and Joint Base Andrews at 1:19 PM to 1:38 PM and again at 6:43 PM to 7:04 PM. Using 19 minutes and 21 minutes of helicopter time, Marine One totals about 0.67 flight-hours. At $24,000 per flight-hour, the cost is about $16,800, rounded to $17,000.",
+      "category": "travel"
+    },
+    {
+      "name": "Ground motorcades",
+      "cost": 20000,
+      "description": "The published movements imply two short presidential motorcade segments on the ground: Morristown Municipal Airport to Rockland Community College and return. Using the benchmark of roughly $10,000 per short trip, the two segments are estimated at $20,000 total.",
+      "category": "ground-transport"
+    },
+    {
+      "name": "Off-site Secret Service and staff protection",
+      "cost": 300000,
+      "description": "Because the President traveled off-site for a public event in Suffern, New York, the day fits the benchmark for peak off-site Secret Service and staff support rather than a routine White House day. Estimated cost: $300,000.",
+      "category": "security"
+    },
+    {
+      "name": "Local law-enforcement assistance",
+      "cost": 60000,
+      "description": "Multiple same-day local reports said road closures, school schedule changes, parking restrictions, and security operations were in place in Rockland County for the presidential visit, consistent with activation of local law-enforcement assistance. Using the benchmark, estimated cost is $60,000.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 605000,
+  "social_description": "May 22, 2026: Trump flew Andrews–Morristown and back for a Suffern, NY event, with Marine One transfers, motorcades, Secret Service protection, and local policing. Estimated taxpayer cost: about $605,000.",
+  "tags": [
+    "suffern",
+    "rockland-community-college",
+    "morristown",
+    "vc-25a",
+    "marine-one",
+    "motorcade",
+    "secret-service"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.whitehouse.gov/videos/president-trump-delivers-remarks-may-22-2026/",
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://time.com/4885934/white-house-helicopter-cost/",
+    "https://www.pbs.org/newshour/politics/watch-trump-speaks-at-n-y-s-rockland-community-college-campaigning-for-rep-lawler",
+    "https://www.fox5ny.com/news/trump-join-lawler-suny-rockland-suffern-friday",
+    "https://www.cbsnews.com/newyork/news/president-trump-rockland-county-ny-event/",
+    "https://newjersey.news12.com/2026/05/22/rockland-county-prepares-for-president-trumps-visit-to-rockland-community-college/4z7L68BScdPVrdIHQlgj4w"
+  ],
+  "social_title": "May 22, 2026 Trump travel and security for a Suffern, NY event estimated at about $605,000"
+}
