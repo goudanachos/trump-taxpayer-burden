@@ -1,1 +1,24 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Tuscaloosa, Alabama, and Mar-a-Lago, Palm Beach, Florida",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The published schedule for May 1, 2025 shows President Trump spending the day on official business at the White House, traveling to Tuscaloosa to deliver commencement remarks at the University of Alabama, and then flying to Palm Beach and returning to Mar-a-Lago late at night. Because the documented travel and events were official/political movements rather than leisure or recreational activity, no leisure-related federal outlay is counted for this date under the stated methodology.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "May 1, 2025: Trump’s day was documented as official White House business, a University of Alabama commencement speech, and late travel to Mar-a-Lago — no documented leisure activity, so counted leisure cost is $0.",
+  "tags": [
+    "official-travel",
+    "white-house",
+    "tuscaloosa",
+    "mar-a-lago",
+    "zero-cost-day"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
