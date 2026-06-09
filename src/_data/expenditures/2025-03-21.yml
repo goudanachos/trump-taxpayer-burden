@@ -1,1 +1,46 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Washington, D.C.; Joint Base Andrews, Maryland; Morristown Municipal Airport, New Jersey; Trump National Golf Club Bedminster, New Jersey",
+  "activities": [
+    {
+      "name": "VC-25A flight: Joint Base Andrews to Morristown",
+      "cost": 148202,
+      "description": "The roll call places the President departing Joint Base Andrews at 5:20 PM and arriving Morristown Municipal Airport at 6:10 PM on March 21, 2025, en route to Trump National Golf Club Bedminster. Using the provided benchmark for VC-25A at 0.833 flight hours × $177,843/hour, this leisure-related air travel is estimated at $148,202.",
+      "category": "travel-air"
+    },
+    {
+      "name": "Marine One helicopter transfer: Morristown to Bedminster",
+      "cost": 4000,
+      "description": "The roll call shows departure from Morristown at 6:20 PM and arrival at Trump National Golf Club Bedminster at 6:30 PM. Using the provided Marine One benchmark for a 0.167-hour helicopter leg, the estimated cost is about $4,000.",
+      "category": "travel-helicopter"
+    },
+    {
+      "name": "Local motorcade/ground movement",
+      "cost": 10000,
+      "description": "A short presidential ground movement component is reasonably incurred for the off-site transfer sequence tied to the Bedminster trip. Using the provided benchmark upper end for a short local motorcade, estimated at $10,000.",
+      "category": "security-ground"
+    },
+    {
+      "name": "Peak off-site Secret Service and staff",
+      "cost": 300000,
+      "description": "Because the President relocated from Washington to an off-site Trump property in Bedminster for the evening, the provided benchmark for peak off-site Secret Service and staff coverage is applied at $300,000 for the day.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 462202,
+  "social_description": "March 21, 2025: Trump traveled from Washington to his Bedminster golf club in New Jersey. Using the provided benchmarks, the leisure-related travel and off-site security cost is estimated at about $462,202.",
+  "tags": [
+    "bedminster",
+    "trump-property",
+    "golf-weekend",
+    "vc-25a",
+    "marine-one",
+    "secret-service",
+    "new-jersey"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.theguardian.com/us-news/2025/mar/09/trump-golf-trips"
+  ],
+  "social_title": "March 21, 2025 Trump trip to Bedminster estimated at $462,202"
+}
