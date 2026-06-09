@@ -1,1 +1,31 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Arlington National Cemetery, and Trump National Golf Club Washington, D.C.",
+  "activities": [
+    {
+      "name": "Motorcade to Trump National Golf Club DC after Arlington ceremony",
+      "cost": 10000,
+      "description": "The official schedule shows President Trump traveled from Arlington National Cemetery to Trump National Golf Club D.C. at 12:10 PM, arrived at 12:40 PM, remained there until 5:00 PM, and then returned to the White House. Because the in-window evidence documents a visit to his golf club on the afternoon of May 26, a local motorcade leisure-transport cost is counted for the club outing.",
+      "category": "ground-transport"
+    },
+    {
+      "name": "Motorcade return from Trump National Golf Club DC to the White House",
+      "cost": 10000,
+      "description": "The schedule records the President departing Trump National Golf Club D.C. at 5:00 PM and arriving back at the White House at 5:35 PM. Using the benchmark for a short local motorcade trip, the return leg is counted as a second leisure-related transport cost.",
+      "category": "ground-transport"
+    }
+  ],
+  "total_cost": 20000,
+  "social_description": "On May 26, 2025, after Memorial Day events at Arlington, President Trump spent the afternoon at Trump National Golf Club D.C.; the leisure-cost tally is an estimated $20K for roundtrip local motorcade travel.",
+  "tags": [
+    "golf-club-dc",
+    "motorcade",
+    "memorial-day",
+    "leisure-travel"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://apnews.com/video/trump-marks-memorial-day-with-wreath-laying-at-arlington-national-cemetery-c48eb1926d874124b1177f93c1660a6a",
+    "https://www.pbs.org/newshour/nation/watch-live-trump-participates-in-memorial-day-observance-at-arlington-national-cemetery"
+  ]
+}
