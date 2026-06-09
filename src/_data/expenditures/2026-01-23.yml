@@ -1,1 +1,23 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The roll call places President Trump at the White House throughout the day for a print interview, bill signing, a meeting with the Social Security commissioner, and policy time. No travel, golf, resort stay, or other leisure/recreational activity is documented, so routine official-business presence at the White House counts as $0 under the methodology.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Jan. 23, 2026: Trump remained at the White House for interviews, bill signing, and meetings, with no documented leisure or recreational activity. Estimated leisure-related taxpayer cost: $0.",
+  "tags": [
+    "white-house",
+    "official-business",
+    "zero-cost",
+    "no-leisure-documented"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
