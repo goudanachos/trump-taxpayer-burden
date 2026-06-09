@@ -1,1 +1,23 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Washington, DC",
+  "activities": [
+    {
+      "name": "No documented leisure or recreational activity",
+      "cost": 0,
+      "description": "The provided roll call places the President at the White House for executive time, an in-town pool call, and a full lid by mid-afternoon. No in-window evidence in the supplied materials documents golf, resort travel, private club visits, flights, motorcade leisure travel, or other recreational activity on 2026-04-19. Under the v3.1 determination policy, this is recorded as a confident $0 leisure-cost day rather than imputing routine official security costs.",
+      "category": "zero-cost-determination"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Apr. 19, 2026: No documented leisure travel or recreational activity. Based on the White House schedule, this is a $0 leisure-cost day.",
+  "tags": [
+    "zero-cost-day",
+    "white-house",
+    "no-documented-leisure",
+    "washington-dc"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
