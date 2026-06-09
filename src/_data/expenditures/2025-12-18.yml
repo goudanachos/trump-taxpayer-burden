@@ -1,1 +1,24 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The roll call places the President at the White House all day for official duties: an intelligence briefing, an executive-order signing, a bill signing, and Christmas receptions. No in-window evidence provided or found here documents leisure or recreational travel/activity on 2025-12-18, so no leisure-related federal outlay is counted.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Dec. 18, 2025: a $0 leisure-cost day. The President’s schedule was White House official business and receptions, with no documented recreational travel or leisure activity.",
+  "tags": [
+    "zero-cost-day",
+    "white-house",
+    "official-business",
+    "no-leisure-documented"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.whitehouse.gov/videos/"
+  ]
+}
