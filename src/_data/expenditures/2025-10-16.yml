@@ -1,1 +1,23 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The roll call places President Trump at the White House all day for official duties, including the intelligence briefing, an Oval Office announcement, and a Fox News interview, with a full lid called there in the evening. No in-window evidence provided here documents golf, resort travel, or any other leisure/recreational activity on October 16, so no leisure-specific federal outlay is counted.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Oct. 16, 2025 was a $0 leisure-cost day: Trump remained at the White House for official meetings and media events, with no documented recreational activity.",
+  "tags": [
+    "zero-cost",
+    "white-house",
+    "official-business",
+    "no-leisure-documented"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
