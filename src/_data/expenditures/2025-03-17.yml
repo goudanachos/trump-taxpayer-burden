@@ -1,1 +1,25 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House and John F. Kennedy Center for the Performing Arts, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The roll call places President Trump in Washington for a White House press schedule and a Kennedy Center board meeting and tour before returning to the White House. These were official/public duties in town, and no in-window evidence provided here documents golf, private club leisure, vacation travel, or other recreational activity that would count as a leisure-related federal outlay.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "March 17, 2025: Trump stayed in Washington for White House business and a Kennedy Center board meeting. No documented leisure or recreational activity, so counted leisure cost is $0.",
+  "tags": [
+    "washington-dc",
+    "white-house",
+    "kennedy-center",
+    "official-business",
+    "zero-cost",
+    "no-leisure"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/"
+  ]
+}
