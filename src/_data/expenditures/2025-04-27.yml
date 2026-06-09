@@ -1,1 +1,26 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "Trump National Golf Club Bedminster, New Jersey; Morristown Municipal Airport; Joint Base Andrews; The White House",
+  "activities": [
+    {
+      "name": "Weekend golf stay return from Bedminster",
+      "cost": 540304,
+      "description": "The roll call places President Trump at Trump National Golf Club Bedminster on April 27, 2025 before departing for Washington that evening, indicating a leisure weekend at his golf property. Using the provided benchmarks, the day’s leisure-related federal outlays are estimated from a Morristown-to-Andrews VC-25 flight of about 50 minutes with domestic support factor 0.5, a roughly 20-minute helicopter transfer from Andrews to the White House, peak off-site Secret Service/staff protection for the Bedminster stay, and a short transfer/motorcade allowance.",
+      "category": "leisure-travel"
+    }
+  ],
+  "total_cost": 540304,
+  "social_description": "On April 27, 2025, Trump’s return from a golf weekend at Bedminster generated an estimated $540,304 in leisure-related federal spending, driven mainly by presidential air travel and off-site security.",
+  "tags": [
+    "trump-property",
+    "golf",
+    "bedminster",
+    "weekend-travel",
+    "leisure-travel"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.theguardian.com/us-news/2025/mar/09/trump-golf-trips"
+  ],
+  "social_title": "Trump’s April 27, 2025 return from Bedminster generated an estimated $540,304 in leisure-related federal spending"
+}
