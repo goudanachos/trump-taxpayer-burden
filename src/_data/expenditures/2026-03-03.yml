@@ -1,0 +1,23 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "category": "none",
+      "description": "The provided March 3, 2026 schedule places President Trump at the White House all day for executive time, official meetings with Germany’s chancellor, a bilateral lunch, and policy meetings in the Oval Office. No in-window evidence in the provided record documents any leisure or recreational travel or activity on this date, so no leisure-related federal outlay is counted."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "March 3, 2026: Trump’s public schedule shows a full day of White House official business, with no documented leisure or recreational activity. Leisure cost to taxpayers: $0.",
+  "tags": [
+    "white-house",
+    "official-business",
+    "zero-cost",
+    "no-leisure-documented"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
