@@ -1,1 +1,26 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Washington, D.C.; Leesburg Executive Airport, Virginia; Trump National Golf Club Washington, D.C.",
+  "activities": [
+    {
+      "name": "Evening trip to Trump golf club for MAGA Inc. dinner",
+      "cost": 330000,
+      "description": "After a day of official meetings at the White House, President Trump flew to and from Trump National Golf Club Washington, D.C. for a MAGA Inc. dinner fundraiser. Using the provided benchmarks, the leisure-related federal outlay incurred on April 24 is estimated as roughly 50 minutes of helicopter travel total between the White House area and Leesburg/trump club movements (about $20,000), plus peak off-site Secret Service and staff protection for the off-site private event ($300,000), plus a short transfer allowance ($10,000).",
+      "category": "fundraiser-travel"
+    }
+  ],
+  "total_cost": 330000,
+  "social_description": "On April 24, 2025, Trump’s evening helicopter trip to his Virginia golf club for a MAGA Inc. fundraiser generated an estimated $330,000 in leisure-related federal spending.",
+  "tags": [
+    "trump-property",
+    "fundraiser",
+    "maga-inc",
+    "golf-club",
+    "helicopter-travel"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.theguardian.com/us-news/2025/mar/09/trump-golf-trips"
+  ],
+  "social_title": "April 24, 2025: Trump’s evening trip to Trump National Golf Club Washington, D.C. for a MAGA Inc. fundraiser is estimated to have generated $330,000 in federal spending."
+}
