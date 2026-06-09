@@ -1,1 +1,23 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The roll call places the President at the White House for the day, including an Oval Office executive-order signing, with no travel to a resort, club, or other recreational venue. Under the tracker methodology, routine White House business and baseline protection do not count as leisure-related federal outlays, so the day records $0.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Nov. 24 was a White House workday with no documented leisure or recreational travel, so the tracker records a confident $0 leisure-cost entry.",
+  "tags": [
+    "white-house",
+    "official-business",
+    "zero-cost-day",
+    "washington-dc"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
