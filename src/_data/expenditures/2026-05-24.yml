@@ -1,1 +1,28 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Washington, DC",
+  "activities": [
+    {
+      "name": "On-site Secret Service and staff protection",
+      "cost": 75000,
+      "description": "The published schedule for 2026-05-24 shows only Executive Time at the White House, an in-town pool call, and a full lid with no reported presidential travel or off-site leisure event. Using the benchmark for an on-site White House protection day, the attributable federal outlay is estimated at $75,000.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "May 24, 2026: Trump stayed at the White House with no reported travel or leisure outing. Estimated taxpayer cost: about $75,000 for routine on-site Secret Service and staff support.",
+  "tags": [
+    "white-house",
+    "no-travel",
+    "security",
+    "executive-time"
+  ],
+  "confidence_level": "low",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://time.com/4885934/white-house-helicopter-cost/",
+    "https://apnews.com/article/donald-trump-ballroom-east-wing-62098947a3e91daadadf0e3011b2ff01",
+    "https://apnews.com/article/white-house-correspondents-dinner-rescheduled-trump-d7b7a90fb4b52a9468e32db16947bf41"
+  ]
+}
