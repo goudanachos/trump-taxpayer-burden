@@ -1,1 +1,45 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "Trump National Doral Miami and Mar-a-Lago, Florida",
+  "activities": [
+    {
+      "name": "VC-25A flight: Joint Base Andrews to Miami International Airport",
+      "cost": 600000,
+      "description": "The roll call places President Trump departing Joint Base Andrews at 2:20 PM and arriving Miami International Airport at 4:35 PM on April 3, 2025, ahead of an evening LIV Dinner at Trump National Doral Miami. Using the provided benchmark for VC-25A at $177,843 per flight hour with a 0.5 domestic support factor, a 2.25-hour flight is estimated at about $600,000 when rounded.",
+      "category": "air-travel"
+    },
+    {
+      "name": "Marine helicopter transfers in South Florida",
+      "cost": 14000,
+      "description": "The schedule shows two same-day helicopter legs: Miami International Airport to Trump National Doral Golf Club Landing Zone from 4:45 PM to 4:55 PM, and Trump National Doral Golf Club Landing Zone to Palm Beach International Airport from 9:00 PM to 9:35 PM. Using the Marine One benchmark of $24,000 per flight hour, the combined 35 minutes is about $14,000.",
+      "category": "helicopter-travel"
+    },
+    {
+      "name": "Off-site Secret Service and staff for evening at Trump National Doral / Mar-a-Lago",
+      "cost": 300000,
+      "description": "Because the President spent the evening off-site at Trump National Doral Miami and then returned to Mar-a-Lago rather than remaining at the White House, the methodology's peak off-site Secret Service and staff benchmark applies for the leisure-related day.",
+      "category": "security"
+    },
+    {
+      "name": "Local law-enforcement assistance in South Florida",
+      "cost": 60000,
+      "description": "The day involved presidential movements in the Miami and Palm Beach areas tied to an evening private-property event at Trump National Doral and subsequent return to Mar-a-Lago. Using the Palm Beach-style local law-enforcement activation benchmark, a one-day assistance cost of about $60,000 is applied.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 974000,
+  "social_description": "On April 3, 2025, Trump flew to South Florida for an evening LIV Dinner at Trump National Doral, then helicoptered to Palm Beach and returned to Mar-a-Lago. Estimated leisure-related federal cost: about $974,000.",
+  "tags": [
+    "doral",
+    "mar-a-lago",
+    "liv-golf",
+    "south-florida",
+    "air-force-one",
+    "marine-one",
+    "leisure-travel"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ],
+  "social_title": "Estimated federal cost of Trump’s April 3, 2025 South Florida trip: about $974,000"
+}
