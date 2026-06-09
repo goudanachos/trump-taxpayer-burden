@@ -1,1 +1,26 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "Washington, D.C. → Palm Beach, Florida (Mar-a-Lago)",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity on target date",
+      "cost": 0,
+      "description": "The roll call shows President Trump spent most of 2026-01-09 at the White House in official meetings, then traveled in the evening to Mar-a-Lago in Palm Beach. Because the day’s documented activity was official White House business followed by travel to his Florida residence, with no in-window evidence of golf or other recreation on the target date itself, this tracker records no leisure-attributable federal outlay for Jan. 9.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Jan. 9, 2026: Trump held White House meetings and flew to Mar-a-Lago that evening. No documented leisure or recreational activity occurred on the target date, so this is a $0 leisure-cost day.",
+  "tags": [
+    "white-house",
+    "mar-a-lago",
+    "travel-day",
+    "zero-cost-day",
+    "no-leisure-activity"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://rollcall.com/factbase/trump/topic/calendar/",
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.gao.gov/assets/gao-19-178.pdf"
+  ]
+}
