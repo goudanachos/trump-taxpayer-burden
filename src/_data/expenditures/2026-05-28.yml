@@ -1,0 +1,30 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "On-site presidential security and staff support",
+      "cost": 75000,
+      "description": "President Trump’s public schedule for May 28, 2026 keeps him at the White House for executive time, a pre-taped interview with Lara Trump for Fox News, Oval Office signing time, and a policy meeting. In-window White House video postings corroborate the Lara Trump interview and the Scott Bessent briefing, and no in-window evidence identifies presidential air travel, Marine One use, off-site motorcade travel, or activated local law-enforcement support tied to this date. Under the provided benchmark, the countable federal outlay actually incurred on the target date is the standard on-site Secret Service and staff support cost.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "May 28, 2026: Trump stayed at the White House for a Lara Trump interview, signing time, and meetings. No travel costs identified; estimated federal outlay is the standard $75,000 on-site security/staff day.",
+  "tags": [
+    "white-house",
+    "on-site-security",
+    "no-travel",
+    "lara-trump-interview",
+    "official-schedule"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.whitehouse.gov/videos/president-trump-talks-iran-with-lara-trump-%F0%9F%87%BA%F0%9F%87%B8/",
+    "https://www.whitehouse.gov/gallery/president-donald-j-trump-interviews-with-lara-trump-may-28th-2026/",
+    "https://www.whitehouse.gov/videos/secretary-of-the-treasury-scott-bessent-briefs-members-of-the-media-may-28-2026/",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf"
+  ]
+}
