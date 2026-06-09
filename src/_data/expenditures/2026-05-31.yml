@@ -1,0 +1,36 @@
+{
+  "location": "Trump National Golf Club Washington DC and the White House, Washington, D.C. area",
+  "activities": [
+    {
+      "name": "Off-site presidential security and staff support for golf outing",
+      "cost": 300000,
+      "description": "The public schedule places President Trump off-site for several hours on May 31, 2026, traveling from the White House to Trump National Golf Club Washington DC at 9:47 AM, arriving at 10:00 AM, departing at 3:48 PM, and returning to the White House at 4:21 PM. Because this was an off-site visit to a Trump golf property, the applicable benchmark is the peak off-site Secret Service and staff support daily cost.",
+      "category": "security"
+    },
+    {
+      "name": "Local motorcade transportation",
+      "cost": 10000,
+      "description": "The schedule shows same-day ground travel between the White House and Trump National Golf Club Washington DC. With no evidence of helicopter use on the target date, the applicable benchmark is a short-trip local motorcade cost at the top of the provided range.",
+      "category": "ground-transport"
+    }
+  ],
+  "total_cost": 310000,
+  "social_description": "May 31, 2026: Trump made a same-day trip from the White House to Trump National Golf Club Washington DC and back. Estimated taxpayer cost: $310,000, driven by off-site security plus local motorcade transport.",
+  "tags": [
+    "golf",
+    "trump-property",
+    "off-site-security",
+    "motorcade",
+    "same-day-trip"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://time.com/4885934/white-house-helicopter-cost/",
+    "https://www.theguardian.com/us-news/2025/mar/09/trump-golf-trips"
+  ],
+  "social_title": "May 31, 2026 White House to Trump National Golf Club Washington DC trip estimated at $310,000 in taxpayer cost"
+}
