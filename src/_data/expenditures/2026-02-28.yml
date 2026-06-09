@@ -1,1 +1,23 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "Mar-a-Lago, Palm Beach, Florida",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "category": "none",
+      "description": "The provided February 28, 2026 roll call places President Trump at Mar-a-Lago, where the public schedule notes a MAGA Inc. meeting and dinner that evening after repeated travel-pool delays and a lid. Although the setting is a Trump property, the in-window record provided here does not document golf, resort recreation, or other leisure activity on that date, so no leisure-related federal outlay is counted."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "February 28, 2026: Trump was at Mar-a-Lago for scheduled political events, but no in-window source here documents leisure or recreational activity that day. Leisure cost to taxpayers: $0.",
+  "tags": [
+    "mar-a-lago",
+    "political-event",
+    "zero-cost",
+    "no-leisure-documented"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
