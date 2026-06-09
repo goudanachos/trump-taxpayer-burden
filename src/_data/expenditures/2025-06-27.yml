@@ -1,1 +1,23 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The roll call places President Trump at the White House for an intelligence briefing, a press briefing, and an Oval Office meeting with the foreign ministers of the Democratic Republic of the Congo and Rwanda. No in-window source found any leisure or recreational travel or activity on June 27, 2025, so no leisure-related federal outlay is counted.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "June 27, 2025 was a $0 leisure-cost day: Trump stayed at the White House for official business, with no documented recreational travel or activity.",
+  "tags": [
+    "white-house",
+    "official-business",
+    "zero-cost",
+    "no-leisure"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
