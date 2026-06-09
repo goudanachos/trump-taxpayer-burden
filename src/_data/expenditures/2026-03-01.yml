@@ -1,1 +1,24 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "Mar-a-Lago, Palm Beach, Florida; later the White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "category": "none",
+      "description": "The provided March 1, 2026 roll call shows President Trump at Mar-a-Lago in Palm Beach early in the day, then departing Palm Beach International Airport in the late afternoon for Joint Base Andrews and arriving at the White House that evening. While Mar-a-Lago is a Trump property, the in-window record provided here documents travel back to Washington and subsequent White House time, but does not document any leisure or recreational activity on March 1 itself, so no leisure-related federal outlay is counted for this date."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "March 1, 2026: Trump traveled from Mar-a-Lago back to Washington and returned to the White House, but no in-window source here documents leisure activity on that date. Leisure cost to taxpayers: $0.",
+  "tags": [
+    "mar-a-lago",
+    "white-house",
+    "travel-day",
+    "zero-cost",
+    "no-leisure-documented"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
