@@ -1,1 +1,24 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "Fort Bragg / Pope Field, North Carolina, with same-day return to the White House",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The schedule and contemporaneous coverage show President Trump traveling from the White House to Fort Bragg/Pope Field for a wildfire briefing, military demonstration, remarks, and a same-day return to Washington. Because the day's travel was for official government events rather than leisure or recreation, no leisure-specific federal outlay is counted.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "June 10, 2025 was an official-duty day: Trump traveled to Fort Bragg for a briefing, military demonstration, and remarks, then returned to the White House. No documented leisure activity, so counted leisure cost is $0.",
+  "tags": [
+    "zero-cost",
+    "official-travel",
+    "fort-bragg",
+    "white-house",
+    "no-leisure"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
