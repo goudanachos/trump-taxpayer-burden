@@ -1,1 +1,27 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "Washington, D.C. to Palm Beach, Florida",
+  "activities": [
+    {
+      "name": "Evening travel to Mar-a-Lago at start of leisure weekend",
+      "cost": 472000,
+      "description": "The roll-call places the President at the White House for daytime duties, then departing the White House at 6:06 p.m., flying from Joint Base Andrews to Palm Beach International Airport at 6:29 p.m., and arriving at Mar-a-Lago at 8:37 p.m. Because the next documented activities at this location were weekend stays and golf at Trump properties, this same-day evening positioning flight is treated as leisure-related travel. Using the benchmark formula for a domestic VC-25A leg with support factor 0.5 over the scheduled 1 hour 44 minute Andrews-to-Palm Beach flight gives about $462,392, plus an estimated $10,000 for ground transfers to and from the airports, rounded to $472,000.",
+      "category": "presidential-travel"
+    }
+  ],
+  "total_cost": 472000,
+  "social_description": "Nov. 14, 2025: Trump traveled from Washington to Mar-a-Lago to begin a weekend later documented with golf at his Palm Beach club. Using the tracker’s flight and transfer benchmarks, the leisure-related federal outlay for the day is estimated at about $472,000.",
+  "tags": [
+    "mar-a-lago",
+    "palm-beach",
+    "weekend-travel",
+    "air-force-one",
+    "trump-property"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://time.com/4885934/white-house-helicopter-cost/"
+  ],
+  "social_title": "Trump’s Nov. 14, 2025 trip from Washington, D.C. to Mar-a-Lago is estimated at $472,000"
+}
