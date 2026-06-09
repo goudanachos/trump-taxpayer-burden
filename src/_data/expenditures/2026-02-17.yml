@@ -1,1 +1,22 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "category": "none",
+      "description": "The published roll call places the President at the White House for ambassador credentialing and policy meetings throughout the afternoon and evening, with a full lid called at 6:00 PM. These are routine official duties, and under the methodology no leisure-specific federal outlay is counted."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Feb. 17, 2026: a $0 day. The President was scheduled at the White House for official meetings and no in-window source documents any leisure or recreational travel/activity.",
+  "tags": [
+    "white-house",
+    "official-business",
+    "zero-cost-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
