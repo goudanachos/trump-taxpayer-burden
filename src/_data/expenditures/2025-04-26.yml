@@ -1,1 +1,32 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "Rome, Italy; Newark Liberty International Airport; Trump National Golf Club Bedminster, New Jersey",
+  "activities": [
+    {
+      "name": "Return from Rome to Bedminster after official funeral trip",
+      "cost": 0,
+      "description": "The day’s documented movements were attendance at Pope Francis’s funeral in Vatican City, a transatlantic flight from Rome to Newark, and transfer to Trump National Golf Club Bedminster. Because the Rome travel and funeral attendance were official government activity rather than leisure or recreation, those federal outlays are not counted as leisure spending for this date.",
+      "category": "official-travel"
+    },
+    {
+      "name": "Arrival at Bedminster for personal weekend stay",
+      "cost": 318000,
+      "description": "After arriving at Newark, President Trump transferred to Trump National Golf Club Bedminster at 5:20 PM and arrived at 5:40 PM, beginning an off-site stay at his private golf property. Using the provided methodology, the leisure-related spending actually incurred on April 26 is limited to the Bedminster arrival segment and associated off-site protection: roughly 20 minutes of helicopter travel (about $8,000) plus peak off-site Secret Service/staff protection for the property stay ($300,000) and a short local transfer allowance ($10,000).",
+      "category": "leisure-travel"
+    }
+  ],
+  "total_cost": 318000,
+  "social_description": "On April 26, 2025, Trump’s official Rome funeral travel is excluded, but his evening transfer to Bedminster for a private weekend stay adds an estimated $318,000 in leisure-related federal costs.",
+  "tags": [
+    "trump-property",
+    "bedminster",
+    "weekend-stay",
+    "official-travel-excluded",
+    "leisure-travel"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.theguardian.com/us-news/2025/mar/09/trump-golf-trips"
+  ],
+  "social_title": "April 26, 2025: Trump’s Bedminster weekend stay added an estimated $318,000 in leisure-related federal costs"
+}
