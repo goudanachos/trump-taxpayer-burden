@@ -1,1 +1,23 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The roll call places the President at the White House on Sunday with no public events, no travel, and a full lid called in the morning. Under the tracker methodology, no leisure or recreational travel/activity is documented, so no leisure-related federal outlay is counted for this date.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Nov. 23 was a no-public-events day at the White House with no documented leisure or recreational travel, so the tracker records $0.",
+  "tags": [
+    "white-house",
+    "zero-cost-day",
+    "no-public-events",
+    "washington-dc"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
