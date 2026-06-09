@@ -1,1 +1,23 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "category": "none",
+      "description": "The schedule and roll call place President Trump at the White House on October 9, 2025 for a Cabinet Meeting and a bilateral meeting with Finland’s president. Under the stated methodology, routine official White House business does not count as a leisure/recreational federal outlay, so no leisure cost is recorded for this date."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Oct. 9, 2025: $0 in documented Trump leisure costs. The day’s public schedule shows official White House business—Cabinet and bilateral meetings—not recreational travel or activity.",
+  "tags": [
+    "zero-cost",
+    "white-house",
+    "official-business",
+    "no-leisure-documented"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
