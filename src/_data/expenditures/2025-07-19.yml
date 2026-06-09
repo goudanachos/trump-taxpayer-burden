@@ -1,1 +1,25 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "Trump National Golf Club Washington, D.C. / The White House",
+  "activities": [
+    {
+      "name": "Golf outing at Trump National Golf Club Washington, D.C.",
+      "cost": 400000,
+      "description": "The provided July 19, 2025 roll call shows President Trump leaving the White House at 8:35 a.m., arriving at Trump National Golf Club Washington, D.C. at 9:11 a.m., departing the club at 3:43 p.m., and returning to the White House at 4:18 p.m. Because this was documented recreational activity at an off-site Trump golf property, the estimated federal leisure outlay uses the peak off-site Secret Service and staff benchmark ($300,000), plus a short local motorcade estimate ($10,000), plus local law-enforcement assistance benchmark ($60,000), rounded to $400,000; no flight costs are included because the trip was local ground travel.",
+      "category": "golf"
+    }
+  ],
+  "total_cost": 400000,
+  "social_description": "On July 19, 2025, Trump spent much of the day at Trump National Golf Club Washington, D.C. With local ground travel and off-site security, the estimated federal leisure cost is about $400,000.",
+  "tags": [
+    "golf",
+    "trump-property",
+    "local-travel",
+    "off-site-security",
+    "washington-dc"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ],
+  "social_title": "Estimated federal leisure cost for Trump’s July 19, 2025 golf outing at Trump National Golf Club Washington, D.C.: about $400,000"
+}
