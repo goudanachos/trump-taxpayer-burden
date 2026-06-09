@@ -1,1 +1,23 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House and The Ellipse, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The provided June 14, 2025 roll call places the President at the White House and later at the Ellipse for a phone interview and the 250th Anniversary of the U.S. Army Grand Military Parade and Celebration. Those are official/public events, and no in-window source here documents leisure or recreational travel or activity, so no leisure outlay is counted for this date.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "June 14, 2025: Trump was at the White House and the Ellipse for an interview and the Army’s 250th anniversary parade. No documented leisure or recreational activity, so the leisure-cost total is $0.",
+  "tags": [
+    "zero-cost-day",
+    "official-business",
+    "white-house",
+    "ellipse"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
