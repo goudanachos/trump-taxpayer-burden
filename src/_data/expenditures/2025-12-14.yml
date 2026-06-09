@@ -1,1 +1,23 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The roll call places President Trump at the White House throughout 2025-12-14, including Christmas reception remarks and no off-site recreational travel. Under the tracker methodology, routine White House events and baseline security are official/non-leisure activity and therefore count as $0 leisure cost.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Dec. 14, 2025: Trump appears to have remained at the White House for Christmas reception events, with no documented leisure or recreational travel—so the leisure-cost tally for the day is $0.",
+  "tags": [
+    "zero-cost-day",
+    "white-house",
+    "official-business",
+    "no-documented-leisure"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
