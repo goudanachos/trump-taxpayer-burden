@@ -1,0 +1,26 @@
+{
+  "location": "Palm Beach, Florida — Mar-a-Lago and Trump International Golf Club West Palm Beach",
+  "activities": [
+    {
+      "name": "Golf outing at Trump International Golf Club West Palm Beach",
+      "cost": 370000,
+      "description": "The schedule places President Trump at Mar-a-Lago on March 14, 2026, departing at 8:39 AM for Trump International Golf Club West Palm Beach, arriving at 8:45 AM, remaining there until 2:37 PM, and returning to Mar-a-Lago at 2:45 PM. Under the benchmark methodology, the documented leisure activity supports counting estimated peak off-site Secret Service and staff costs of $300,000, local law-enforcement assistance of about $60,000, and a short local motorcade at $10,000; no same-day presidential flight is documented in the provided record, so no VC-25A cost is included for this date.",
+      "category": "golf"
+    }
+  ],
+  "total_cost": 370000,
+  "social_description": "Mar. 14, 2026: Trump spent much of the day golfing at Trump International Golf Club West Palm Beach from Mar-a-Lago; estimated taxpayer leisure-related cost: about $370,000.",
+  "tags": [
+    "golf",
+    "mar-a-lago",
+    "palm-beach",
+    "motorcade",
+    "secret-service"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf"
+  ],
+  "social_title": "March 14, 2026: Trump spent much of the day golfing at Trump International Golf Club West Palm Beach, with estimated taxpayer leisure-related costs of about $370,000"
+}
