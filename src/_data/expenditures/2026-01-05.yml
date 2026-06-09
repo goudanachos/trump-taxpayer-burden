@@ -1,1 +1,24 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The roll call places the President at the White House for an in-town pool call, a policy meeting in the Oval Office, and routine press activity. No in-window evidence provided here documents any leisure or recreational travel/activity on 2026-01-05, so no leisure-related federal outlay is counted.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Jan. 5, 2026: Trump was at the White House for official business, with no documented leisure or recreational activity. Leisure cost recorded as $0.",
+  "tags": [
+    "zero-cost-day",
+    "white-house",
+    "official-business",
+    "no-leisure-documented"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.whitehouse.gov/"
+  ]
+}
