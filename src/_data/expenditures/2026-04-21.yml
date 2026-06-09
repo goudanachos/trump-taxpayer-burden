@@ -1,1 +1,28 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Washington, DC",
+  "activities": [
+    {
+      "name": "Routine White House protection and staffing",
+      "cost": 75000,
+      "description": "The roll call places the president at the White House all day for executive time, a phone interview, policy meetings, remarks to NCAA champions, and an evening lid. No verified leisure travel, golf outing, fixed-wing flight, Marine One movement, or activated local law-enforcement assist was established for 2026-04-21 from the materials provided. Using the benchmark supplied in the prompt, the only countable federal outlay attributable to this date is the standard on-site Secret Service and staffing daily cost.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "Apr. 21, 2026: Trump appears to have remained at the White House all day. No verified leisure travel or golf costs found; estimated countable federal outlay is the standard $75,000 for on-site protection and staffing.",
+  "tags": [
+    "white-house",
+    "on-site-security",
+    "no-verified-leisure-travel",
+    "washington-dc"
+  ],
+  "confidence_level": "low",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://time.com/4885934/white-house-helicopter-cost/",
+    "https://apnews.com/article/6885c172b11d972920f8fb60869868ac",
+    "https://www.theguardian.com/us-news/2025/mar/09/trump-golf-trips"
+  ]
+}
