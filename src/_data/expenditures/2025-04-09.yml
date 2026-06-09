@@ -1,1 +1,23 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The schedule places President Trump at the White House throughout April 9, 2025 for official activities including a photo opportunity with racing champions and executive-order signing. No in-window source or schedule item documents golf, club travel, donor leisure, or other recreational activity that would create a countable leisure outlay.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "April 9, 2025 appears to be a standard White House workday for President Trump, with no documented leisure or recreational travel. Countable leisure-related taxpayer cost: $0.",
+  "tags": [
+    "white-house",
+    "zero-cost-day",
+    "official-business",
+    "no-leisure-documented"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
