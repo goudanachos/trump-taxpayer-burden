@@ -1,1 +1,26 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "Trump National Golf Club Washington, D.C. / The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Golf outing at Trump National Golf Club Washington, D.C.",
+      "cost": 370000,
+      "description": "The roll call places President Trump at his Virginia-area golf club from the morning until mid-afternoon on June 28, 2025 for golf with Senators Lindsey Graham, Rand Paul, Eric Schmitt, and CIA Director John Ratcliffe. Using the provided leisure-cost benchmarks, the countable federal outlay is estimated as $300,000 for peak off-site Secret Service and staff plus about $60,000 for activated local law-enforcement support and about $10,000 for short-trip motorcade movements between the White House and the club.",
+      "category": "golf"
+    }
+  ],
+  "total_cost": 370000,
+  "social_description": "On June 28, 2025, Trump spent much of the day golfing at his Washington-area club. Estimated leisure-related taxpayer cost: $370,000 for off-site security, local police support, and motorcade movements.",
+  "tags": [
+    "golf",
+    "trump-property",
+    "washington-dc",
+    "virginia",
+    "secret-service",
+    "motorcade"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ],
+  "social_title": "June 28, 2025 golf outing at Trump National Golf Club Washington, D.C. estimated at $370,000 in taxpayer costs"
+}
