@@ -1,1 +1,24 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "Davos, Switzerland; Zurich Airport; Shannon, Ireland; and later the White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The roll call places President Trump in Davos for official events, including a charter announcement, bilateral meetings with the presidents of Azerbaijan and Ukraine, a media interview, and return travel to Washington. Because the documented activity is official diplomatic and presidential business rather than leisure or recreation, no leisure-related federal outlay is counted for this date.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Jan. 22, 2026: Trump spent the day on official business in Davos and returning to Washington, with no documented leisure or recreational activity. Estimated leisure-related taxpayer cost: $0.",
+  "tags": [
+    "davos",
+    "international-trip",
+    "official-business",
+    "zero-cost",
+    "no-leisure-documented"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
