@@ -1,1 +1,26 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "Mar-a-Lago, Palm Beach, Florida; Miami Gardens, Florida; and in transit to Washington, D.C.",
+  "activities": [
+    {
+      "name": "Attendance at the College Football National Championship Game",
+      "cost": 460000,
+      "category": "sporting-event",
+      "description": "The roll call shows the President traveling from Mar-a-Lago to Hard Rock Stadium to attend the College Football National Championship Game, a recreational sporting event, then returning to Palm Beach before departing for Joint Base Andrews. Using the leisure-cost benchmarks for an off-site presidential outing, this record counts peak off-site Secret Service and staff ($300,000), local law-enforcement assist for a major stadium visit ($60,000), and short local transport legs by motorcade/helicopter equivalents rounded within benchmark ranges ($100,000 total for the Palm Beach↔North Perry↔stadium movements and associated local transfers)."
+    }
+  ],
+  "total_cost": 460000,
+  "social_description": "Jan. 19, 2026: Trump attended the College Football National Championship in Miami. Estimated leisure-related taxpayer cost: $460,000.",
+  "tags": [
+    "trump-property",
+    "college-football",
+    "national-championship",
+    "miami",
+    "hard-rock-stadium",
+    "off-site-security"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ],
+  "social_title": "Trump’s attendance at the College Football National Championship in Miami is estimated to have cost taxpayers $460,000"
+}
