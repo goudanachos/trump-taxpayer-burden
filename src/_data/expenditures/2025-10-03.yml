@@ -1,1 +1,23 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The White House schedule for 2025-10-03 places President Trump at the White House for an official swearing-in ceremony for the U.S. ambassador to Sweden, with routine press office notices the rest of the day. No in-window evidence documents any leisure or recreational travel or activity, so no leisure-attributable federal outlay is counted.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Oct. 3, 2025: $0. Trump was scheduled at the White House for an official ambassador swearing-in ceremony, with no documented leisure or recreational activity.",
+  "tags": [
+    "zero-cost",
+    "white-house",
+    "official-business",
+    "swearing-in-ceremony"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
