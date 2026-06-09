@@ -1,1 +1,47 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "Mar-a-Lago, Trump International Golf Club West Palm Beach, Palm Beach International Airport, Joint Base Andrews, and the White House",
+  "activities": [
+    {
+      "name": "VC-25A return flight from Palm Beach to Joint Base Andrews",
+      "cost": 370506,
+      "description": "The roll call shows President Trump departed Palm Beach International Airport at 5:25 PM and arrived at Joint Base Andrews at 7:30 PM on March 9, 2025. Using the provided benchmark for VC-25A at $177,843 per flight hour and an elapsed flight time of about 2.08 hours, the estimated federal air-travel outlay incurred that day is $370,506.",
+      "category": "transportation"
+    },
+    {
+      "name": "Motorcade: Mar-a-Lago to golf club and return",
+      "cost": 10000,
+      "description": "The roll call documents two short motorcade movements tied to leisure activity: Mar-a-Lago to Trump International Golf Club West Palm Beach at 8:38 AM and the return at 2:41 PM. Using the provided local motorcade benchmark, these short trips are estimated at $10,000 total.",
+      "category": "transportation"
+    },
+    {
+      "name": "Motorcade: Mar-a-Lago to airport and Andrews to the White House",
+      "cost": 10000,
+      "description": "The roll call documents a late-afternoon motorcade from Mar-a-Lago to Palm Beach International Airport and an evening motorcade from Joint Base Andrews to the White House. Using the provided short-trip benchmark, these two additional ground movements are estimated at $10,000 total.",
+      "category": "transportation"
+    },
+    {
+      "name": "Local law-enforcement assist in Palm Beach",
+      "cost": 60000,
+      "description": "Because the President spent the day at Mar-a-Lago and his West Palm Beach golf club, with documented road movements in Palm Beach County on a golf day, the Palm Beach benchmark for local law-enforcement assistance is applied at approximately $60,000 for the activated day.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 450506,
+  "social_description": "On March 9, 2025, Trump’s golf day in Palm Beach plus his flight back to Washington cost taxpayers about $450,506, driven mainly by Air Force One travel and Palm Beach-area security support.",
+  "tags": [
+    "golf",
+    "mar-a-lago",
+    "west-palm-beach",
+    "air-force-one",
+    "motorcade",
+    "palm-beach-security",
+    "weekend-travel"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.theguardian.com/us-news/2025/mar/09/trump-golf-trips",
+    "https://apnews.com/article/6885c172b11d972920f8fb60869868ac",
+    "https://www.whitehouse.gov/briefings-statements/"
+  ],
+  "social_title": "March 9, 2025 Trump travel and security costs totaled about $450,506"
+}
