@@ -1,0 +1,23 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "category": "none",
+      "description": "The supplied March 5, 2026 roll call places President Trump at the White House all day for Executive Time, the intelligence briefing, a Reuters phone interview, an East Room visit honoring Inter Miami CF, and a policy meeting. These are official on-site White House activities, so under the methodology no leisure-specific federal outlay is counted for this date."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "March 5, 2026: a $0 day. Trump’s public schedule kept him at the White House for official meetings, a press interview, and a ceremonial team visit, with no documented leisure or recreational travel/activity.",
+  "tags": [
+    "white-house",
+    "official-business",
+    "zero-cost",
+    "no-leisure-documented"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
