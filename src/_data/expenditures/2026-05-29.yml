@@ -1,0 +1,28 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "On-site presidential security and staff support",
+      "cost": 75000,
+      "description": "President Trump’s public schedule for May 29, 2026 shows executive time, an intelligence briefing, policy meetings, and executive-order signings at the White House, with no reported off-site travel, golf outing, air movement, or local police activation. Using the provided benchmark, the countable federal outlay actually incurred on the target date is the standard on-site Secret Service and staff support cost.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 75000,
+  "social_description": "May 29, 2026: Trump remained at the White House for meetings, briefing, and EO signings. No travel costs identified; estimated federal outlay is the standard $75,000 on-site security/staff day.",
+  "tags": [
+    "white-house",
+    "on-site-security",
+    "no-travel",
+    "official-schedule"
+  ],
+  "confidence_level": "low",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=2927",
+    "https://www.gao.gov/assets/gao-19-178.pdf",
+    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
+    "https://time.com/4885934/white-house-helicopter-cost/",
+    "https://apnews.com/article/6885c172b11d972920f8fb60869868ac"
+  ]
+}
