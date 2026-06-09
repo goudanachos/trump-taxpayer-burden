@@ -1,1 +1,23 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The roll call places President Trump at the White House throughout the day for meetings, a radio interview, and other official business, with no travel or recreational activity documented. Under the methodology, routine White House business and baseline on-site security are not counted as leisure-related federal outlays, so the day records $0.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Jan. 26, 2026: Trump remained at the White House for meetings and interviews, with no documented leisure or recreational travel. Estimated leisure-related taxpayer cost: $0.",
+  "tags": [
+    "white-house",
+    "official-business",
+    "zero-cost",
+    "no-leisure-documented"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
