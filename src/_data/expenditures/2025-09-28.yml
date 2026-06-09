@@ -1,1 +1,23 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "Trump National Golf Club Washington DC, Sterling, Virginia",
+  "activities": [
+    {
+      "name": "Golf outing at Trump National Golf Club Washington DC",
+      "cost": 310000,
+      "description": "The roll call states that on September 28, 2025, President Trump departed the White House at 8:38 AM, arrived at Trump National Golf Club Washington DC at 9:10 AM, remained there until 3:54 PM, and then returned to the White House at 4:26 PM. Because this was a same-day off-site recreational golf visit in the local Washington area with no presidential airlift documented, the counted federal leisure outlays are estimated as peak off-site Secret Service and staff ($300,000) plus a short local motorcade trip at the top of the provided range ($10,000).",
+      "category": "golf"
+    }
+  ],
+  "total_cost": 310000,
+  "social_description": "Sept. 28, 2025: estimated $310,000 leisure cost for Trump’s golf outing at Trump National Golf Club Washington DC, driven mainly by off-site security and local motorcade expense.",
+  "tags": [
+    "golf",
+    "trump-property",
+    "off-site-security",
+    "motorcade",
+    "virginia"
+  ],
+  "confidence_level": "high",
+  "source_urls": [],
+  "social_title": "Estimated $310,000 federal leisure cost for Trump’s Sept. 28, 2025 golf outing at Trump National Golf Club Washington DC in Sterling, Virginia"
+}
