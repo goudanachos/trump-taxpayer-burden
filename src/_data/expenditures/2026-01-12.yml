@@ -1,1 +1,24 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The roll call places President Trump at the White House throughout 2026-01-12 for official meetings and Oval Office events, including meetings with the Secretary of State, Archbishop Coakley, and the CEO of Tunnel to Towers, plus a signing event. No in-window source or schedule evidence documents golf, resort travel, or any other leisure/recreational activity, so no leisure-attributable federal outlay is counted for this date.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Jan. 12, 2026: Trump remained at the White House for meetings and a signing event. No documented leisure or recreational activity, so the tracker records a $0 leisure-cost day.",
+  "tags": [
+    "white-house",
+    "official-business",
+    "zero-cost-day",
+    "no-leisure-activity"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://rollcall.com/factbase/trump/topic/calendar/",
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
