@@ -1,1 +1,23 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The April 28, 2025 schedule shows President Trump at the White House for briefings, lunch with the vice president, a meeting with the Speaker, the Eagles championship visit, and executive-order signing. No leisure or recreational travel/activity is documented for this date, so no leisure-related federal outlay is counted.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "April 28, 2025 was a White House workday with no documented leisure or recreational activity, so the tracker records $0 in leisure-related federal spending.",
+  "tags": [
+    "white-house",
+    "official-business",
+    "zero-cost-day",
+    "no-leisure-documented"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
