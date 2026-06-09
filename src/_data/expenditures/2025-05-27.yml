@@ -1,1 +1,22 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The available schedule for May 27, 2025 shows no public events, an in-town pool at the White House, a lunch lid, and a full lid from the White House. No in-window source documents golf, resort travel, or any other leisure/recreational outing, so no leisure-specific federal outlay is counted for this date.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "May 27, 2025 appears to have been a White House day with no documented leisure or recreational travel, so the leisure-cost tally is $0.",
+  "tags": [
+    "white-house",
+    "zero-cost-day",
+    "no-documented-leisure"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
