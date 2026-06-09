@@ -1,1 +1,24 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "Davos, Switzerland",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "category": "none",
+      "description": "The President’s roll call for January 21, 2026 shows official international travel from Joint Base Andrews to Zurich and onward to Davos for World Economic Forum events, including a special address, bilateral meetings with foreign leaders, a business-leader reception, and a CNBC interview. These are official governmental and diplomatic activities rather than leisure or recreational travel, so no leisure-specific federal outlay is counted for this date."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Jan. 21, 2026: Trump was in Davos for World Economic Forum speeches, bilaterals, and media appearances. No documented leisure or recreational activity, so the tracker records $0.",
+  "tags": [
+    "zero-cost-day",
+    "official-travel",
+    "davos",
+    "world-economic-forum",
+    "international-trip"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
