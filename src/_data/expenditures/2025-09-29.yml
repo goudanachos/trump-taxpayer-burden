@@ -1,1 +1,22 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The roll call places President Trump at the White House all day on September 29, 2025 for official duties, including an Executive Order signing, meetings and lunch with Israel’s prime minister, a press conference, a bipartisan leadership meeting, and a Gold Star Families reception. No in-window reporting located any documented golf, resort travel, campaign-style leisure trip, or other recreational activity on the target date, so no leisure-specific federal outlay is counted.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Sept. 29, 2025: $0 leisure cost. Trump was scheduled at the White House for official meetings and events, with no documented recreational travel or activity.",
+  "tags": [
+    "white-house",
+    "official-business",
+    "foreign-leader-meeting",
+    "zero-cost",
+    "no-leisure-documented"
+  ],
+  "confidence_level": "high",
+  "source_urls": []
+}
