@@ -1,1 +1,26 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "Mar-a-Lago and Trump National Golf Club Jupiter, Florida",
+  "activities": [
+    {
+      "name": "Golf outing security and local support",
+      "cost": 360000,
+      "description": "The roll call places President Trump at Mar-a-Lago and then at Trump National Golf Club Jupiter from 8:35 AM to 12:21 PM on April 5, 2025, before returning to Mar-a-Lago. Under the provided methodology, this is a documented leisure golf day away from the White House, so the peak off-site Secret Service and staff benchmark ($300,000) plus local law-enforcement assistance benchmark ($60,000) are applied. No same-day federal flight is documented, so no air-travel cost is counted for April 5.",
+      "category": "leisure-security"
+    }
+  ],
+  "total_cost": 360000,
+  "social_description": "On April 5, 2025, Trump spent the morning golfing at Trump National Golf Club Jupiter and returned to Mar-a-Lago. With no same-day federal flight documented, the estimated leisure-related federal cost is about $360,000 for off-site security and local support.",
+  "tags": [
+    "golf",
+    "mar-a-lago",
+    "jupiter",
+    "palm-beach",
+    "leisure-day"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.theguardian.com/us-news/2025/mar/09/trump-golf-trips"
+  ],
+  "social_title": "April 5, 2025 Trump golf outing at Trump National Golf Club Jupiter and Mar-a-Lago cost about $360,000"
+}
