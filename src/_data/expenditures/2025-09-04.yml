@@ -1,1 +1,23 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The provided schedule places President Trump at the White House throughout the day, with lids in the afternoon and an evening dinner hosted in the State Dining Room. Nothing in the in-window evidence indicates recreational travel or leisure activity, so no leisure-related federal outlay is counted.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Sept. 4, 2025: Trump remained at the White House for routine official events, including an evening dinner in the State Dining Room. No documented leisure or recreational activity, so the leisure-cost total is $0.",
+  "tags": [
+    "zero-cost",
+    "official-business",
+    "white-house",
+    "washington-dc"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
