@@ -1,0 +1,24 @@
+{
+  "location": "Washington, D.C. to Palm Beach, Florida (Mar-a-Lago)",
+  "activities": [
+    {
+      "name": "Travel to Mar-a-Lago with no documented leisure/recreational activity on target date",
+      "cost": 0,
+      "description": "The roll call shows President Trump at the White House for executive time, an Oval Office executive-orders signing, and a White House greeting before evening travel to Palm Beach and arrival at Mar-a-Lago at 9:08 PM. Although he traveled to a Trump property that night, the provided in-window record for March 13, 2026 documents official White House business and transit only, with no same-day golf or other documented leisure activity, so no leisure-specific federal outlay is counted for this date.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Mar. 13, 2026: Trump worked at the White House and flew to Palm Beach that evening, but no leisure activity is documented on the day itself, so the leisure-cost determination is $0.",
+  "tags": [
+    "zero-cost",
+    "white-house",
+    "mar-a-lago",
+    "travel-day",
+    "no-documented-leisure"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
