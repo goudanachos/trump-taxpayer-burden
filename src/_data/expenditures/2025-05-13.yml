@@ -1,1 +1,25 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "Riyadh, Saudi Arabia",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The roll call places the President in Riyadh on May 13, 2025 for official diplomatic events: a Saudi state visit, a Saudi-U.S. investment forum, and a Saudi state dinner, with movements between official venues and his hotel. No in-window reporting or schedule evidence provided documents golf, resort recreation, or other leisure activity on this date, so no leisure-related federal outlay is counted.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "May 13, 2025: Trump spent the day in Riyadh for official state events with no documented leisure or recreational activity, so the leisure-cost record is $0.",
+  "tags": [
+    "zero-cost-day",
+    "official-travel",
+    "riyadh",
+    "saudi-arabia",
+    "international-trip",
+    "2025"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
