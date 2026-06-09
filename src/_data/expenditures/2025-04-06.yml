@@ -1,1 +1,39 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "Mar-a-Lago and Trump National Golf Club Jupiter, Florida; return to the White House",
+  "activities": [
+    {
+      "name": "VC-25A flight: Palm Beach International Airport to Joint Base Andrews",
+      "cost": 556000,
+      "description": "The roll call places President Trump departing Palm Beach International Airport at 5:25 PM and arriving Joint Base Andrews at 7:30 PM on April 6, 2025, after a morning golf outing at Trump National Golf Club Jupiter. Using the provided benchmark for VC-25A at $177,843 per flight hour and a 0.5 domestic support factor, a 2.08-hour flight yields about $556,000 in federal travel cost.",
+      "category": "air-travel"
+    },
+    {
+      "name": "Off-site Secret Service and staff for golf day in Palm Beach",
+      "cost": 300000,
+      "description": "Because the President spent the day off-site at Mar-a-Lago and his Jupiter golf club rather than at the White House, the methodology's peak off-site Secret Service and staff benchmark applies for the leisure portion of the day.",
+      "category": "security"
+    },
+    {
+      "name": "Local law-enforcement assistance in Palm Beach area",
+      "cost": 60000,
+      "description": "The day involved presidential movements between Mar-a-Lago, Trump National Golf Club Jupiter, and Palm Beach International Airport in South Florida. Using the Palm Beach local law-enforcement activation benchmark, a one-day assistance cost of about $60,000 is applied.",
+      "category": "security"
+    }
+  ],
+  "total_cost": 916000,
+  "social_description": "On April 6, 2025, Trump spent the morning golfing at Trump National Golf Club Jupiter before flying from Palm Beach back to Washington. Estimated leisure-related federal cost: about $916,000.",
+  "tags": [
+    "golf",
+    "mar-a-lago",
+    "jupiter",
+    "air-force-one",
+    "palm-beach",
+    "leisure-travel"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.theguardian.com/us-news/2025/mar/09/trump-golf-trips"
+  ],
+  "social_title": "Trump’s April 6, 2025 golf-day travel and security costs were estimated at about $916,000"
+}
