@@ -1,21 +1,21 @@
 {
-  "location": "Joint Base Andrews and the White House, Washington metropolitan area",
+  "location": "Joint Base Andrews and the White House, Washington, D.C.",
   "activities": [
     {
       "name": "Aerial tour of The Courses at Andrews",
-      "cost": 90000,
-      "description": "The roll call shows the President left the White House for Joint Base Andrews, conducted an aerial tour of The Courses at Andrews from about 12:14 PM to 12:29 PM, then returned to the White House. Treating this as a documented recreational golf-course inspection by helicopter, the counted leisure-related federal outlays are estimated as roughly 0.25 flight hours of Marine One travel/tour time at $24,000 per hour (about $6,000, rounded within the benchmarked estimate) plus a short local motorcade at $10,000 and on-site Secret Service/staff support benchmarked at $75,000, for a rounded total of $90,000.",
-      "category": "golf"
+      "cost": 0,
+      "description": "The roll call shows the President made a same-day in-town trip from the White House to Joint Base Andrews for an aerial tour of The Courses at Andrews from 12:14 PM to 12:29 PM, then returned to the White House by mid-afternoon. Although the venue is a golf-course property, the available in-window evidence here is only the official schedule/roll call; without a second independent in-window source confirming leisure or recreational activity, this tracker records no costed leisure outlay for the day.",
+      "category": "none"
     }
   ],
-  "total_cost": 90000,
-  "social_description": "Trump took a short aerial tour of The Courses at Andrews on Nov. 22 before returning to the White House. Using the tracker’s helicopter, motorcade, and on-site staffing benchmarks, the estimated leisure-related federal cost is $90,000.",
+  "total_cost": 0,
+  "social_description": "On Nov. 22, Trump briefly traveled from the White House to Joint Base Andrews for an aerial tour of The Courses at Andrews, but available in-window evidence does not independently confirm a leisure outing, so the tracker records $0.",
   "tags": [
     "joint-base-andrews",
-    "golf",
+    "white-house",
     "aerial-tour",
-    "marine-one",
-    "local-travel"
+    "zero-cost-day",
+    "washington-dc"
   ],
   "confidence_level": "medium",
   "source_urls": [
