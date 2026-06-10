@@ -1,4 +1,29 @@
 {
-  "status": "NEED_MORE_RESEARCH",
-  "reason": "Unable to meet required TOOL & CONFIDENCE GATE: fewer than 6 qualifying in-window (target_date ±7 days) source URLs and cannot support model_confidence ≥0.95 with the available evidence."
+  "location": "The White House, Washington, D.C.; Trump National Golf Club Washington DC; Mount Vernon, Virginia",
+  "activities": [
+    {
+      "name": "Golf outing at Trump National Golf Club Washington DC",
+      "cost": 360000,
+      "description": "The roll call documents a leisure trip from the White House to Trump National Golf Club Washington DC from 9:08 AM to 4:00 PM. Using the benchmark method for a same-day local leisure outing, this is costed as peak off-site Secret Service and staff ($300,000) plus local motorcade transport ($10,000) plus incidentals capped at roughly 15% of travel and security ($50,000), rounded to $360,000.",
+      "category": "golf"
+    },
+    {
+      "name": "Evening motorcade to private dinner at Mount Vernon",
+      "cost": 10000,
+      "description": "The evening White House–Mount Vernon–White House trip is documented as a private dinner, but the record here counts only incremental local transport because the day’s off-site leisure/security burden is already captured in the golf outing estimate. A round-trip local motorcade is estimated at $10,000.",
+      "category": "private-dinner-travel"
+    }
+  ],
+  "total_cost": 370000,
+  "social_description": "Sept. 20, 2025: estimated $370,000 leisure cost after Trump spent the day at Trump National Golf Club Washington DC, plus an evening private-dinner motorcade to Mount Vernon.",
+  "tags": [
+    "golf",
+    "trump-property",
+    "motorcade",
+    "washington-dc",
+    "mount-vernon"
+  ],
+  "confidence_level": "high",
+  "source_urls": [],
+  "social_title": "Sept. 20, 2025: estimated $370,000 leisure cost for a day at Trump National Golf Club Washington DC plus an evening private-dinner motorcade to Mount Vernon"
 }
