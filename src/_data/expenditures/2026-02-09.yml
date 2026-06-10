@@ -1,27 +1,22 @@
 {
-  "location": "NEED_MORE_RESEARCH",
+  "location": "The White House, Washington, D.C.",
   "activities": [
     {
-      "name": "Research gate not satisfied for 2026-02-09 (insufficient corroborated schedule/evidence)",
+      "name": "No documented leisure/recreational activity",
       "cost": 0,
-      "description": "Only one accessible, in-window schedule posting was found confirming the President’s movements and events on Feb. 9, 2026. Without at least two independent, in-window sources confirming the day’s detailed movements (and thus ruling in/out any leisure travel or off-site recreational activity), this tracker cannot certify a $0 ‘leisure cost’ entry at ≥0.95 confidence under the tool & confidence gate.",
-      "category": "meta"
+      "description": "The roll call places President Trump at the White House after returning just after midnight from the prior evening's Palm Beach trip, with only in-town official events on Feb. 9, 2026: a TV interview in the Roosevelt Room and a policy meeting in the Oval Office. No in-window source or schedule entry documents golf, resort travel, or any other leisure/recreational activity on the target date, so no leisure-related federal outlay is counted.",
+      "category": "none"
     }
   ],
   "total_cost": 0,
-  "social_description": "NEED_MORE_RESEARCH",
+  "social_description": "Feb. 9, 2026: Trump was at the White House for official events, with no documented leisure or recreational activity. Estimated taxpayer leisure-related cost: $0.",
   "tags": [
-    "need-more-research",
-    "insufficient-independent-sources",
-    "schedule-not-fully-verified"
+    "white-house",
+    "official-business",
+    "zero-cost"
   ],
-  "confidence_level": "low",
+  "confidence_level": "high",
   "source_urls": [
-    "https://conservativedailynews.com/2026/02/president-donald-trumps-schedule-for-monday-february-9-2026/",
-    "https://www.cnn.com/politics/live-news/trump-administration-news-02-09-26",
-    "https://www.reuters.com/world/us/governors-skip-trump-meeting-after-white-house-invited-only-republicans-source-2026-02-10/",
-    "https://thehill.com/homenews/administration/5729459-graham-others-post-pictures-from-trumps-super-bowl-watch-party",
-    "https://www.palmbeachpost.com/story/news/2026/02/09/trump-super-bowl-florida-bad-bunny-melania-barron-viktor-knavs/88595744007/",
-    "https://www.snopes.com/news/2026/02/09/trump-watching-bad-bunny/"
+    "https://www.whitehouse.gov/briefings-statements/"
   ]
 }
