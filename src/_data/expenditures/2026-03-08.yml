@@ -2,24 +2,25 @@
   "location": "Trump National Doral Miami, Doral, Florida",
   "activities": [
     {
-      "name": "Documented leisure stay at Trump National Doral Miami",
+      "name": "Golf day at Trump National Doral Miami",
       "cost": 310000,
-      "category": "leisure",
-      "description": "On March 8, 2026, the president’s roll call places him at Trump National Doral Miami all morning with only Executive Time, out-of-town pool call, and a 1:00 PM full lid. The roll call itself summarizes the day as 'trump property, golf,' which documents recreational activity at an off-site Trump golf resort. Using the benchmark method for a golf/resort day without separate flight legs on the date, this is costed as $300,000 for peak off-site Secret Service and staff plus $10,000 for local motorcade/short-trip movements."
+      "description": "The March 8, 2026 roll call places President Trump at Trump National Doral Miami all day and explicitly labels the day summary as \"trump property, golf.\" Under the benchmark methodology, a documented golf/leisure day at an off-site Trump resort is costed as $300,000 for peak off-site Secret Service and staff plus $10,000 for local motorcade movements; no flight legs are listed on this date.",
+      "category": "leisure"
     }
   ],
   "total_cost": 310000,
-  "social_description": "March 8, 2026: estimated $310,000 leisure-cost day. Trump spent the day at Trump National Doral Miami, with the schedule summary identifying the date as a Trump-property golf day; benchmarked off-site security and motorcade costs apply.",
+  "social_description": "March 8, 2026: estimated $310,000 leisure-cost day. Trump spent the day golfing at Trump National Doral Miami, triggering benchmarked off-site security and local motorcade costs.",
   "tags": [
     "golf",
     "doral",
     "trump-property",
+    "leisure",
     "off-site-security",
-    "leisure"
+    "motorcade"
   ],
-  "confidence_level": "medium",
+  "confidence_level": "high",
   "source_urls": [
     "https://www.whitehouse.gov/briefings-statements/"
   ],
-  "social_title": "March 8, 2026: Estimated $310,000 leisure-cost day at Trump National Doral Miami"
+  "social_title": "March 8, 2026: estimated $310,000 cost for a golf day at Trump National Doral Miami"
 }
