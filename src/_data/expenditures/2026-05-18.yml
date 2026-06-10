@@ -4,7 +4,7 @@
     {
       "name": "No documented leisure/recreational activity",
       "cost": 0,
-      "description": "On May 18, 2026, President Trump remained at the White House for executive time and a healthcare affordability event in the South Court Auditorium. The roll call and in-window coverage document official White House activity only, with no documented golf outing, resort visit, club trip, or other leisure/recreational activity, so no leisure outlay is counted.",
+      "description": "On May 18, 2026, President Trump remained at the White House for executive time and later participated in a healthcare affordability event in the South Court Auditorium. The schedule and in-window White House coverage document official White House activity only, with no documented golf outing, resort visit, club trip, or other leisure/recreational activity, so no leisure outlay is counted.",
       "category": "none"
     }
   ],
@@ -18,8 +18,6 @@
   ],
   "confidence_level": "high",
   "source_urls": [
-    "https://www.whitehouse.gov/videos/president-trump-participates-in-a-healthcare-affordability-event-may-18-2026/",
-    "https://thehill.com/video-clips/5882693-watch-live-donald-trump-healthcare-affordability-event/",
-    "https://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-announces-expansion-of-trumprx-gov-to-bring-americans-transparency-and-choice-on-everyday-medicines/"
+    "https://www.whitehouse.gov/videos/president-trump-participates-in-a-healthcare-affordability-event-may-18-2026/"
   ]
 }
