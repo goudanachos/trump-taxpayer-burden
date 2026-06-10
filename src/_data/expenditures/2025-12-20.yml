@@ -1,25 +1,34 @@
 {
-  "location": "NEED_MORE_RESEARCH",
+  "location": "Palm Beach International Airport; Mar-a-Lago, Palm Beach, Florida; Trump International Golf Club West Palm Beach",
   "activities": [
     {
-      "name": "Evidence gate not met for 2025-12-20 (Palm Beach arrival + Mar-a-Lago golf trip)",
-      "cost": 0,
-      "description": "The tool & confidence gate cannot be satisfied with the currently available evidence: fewer than 6 non-paywalled sources within the evidence window (2025-12-13 to 2025-12-27) independently corroborate the specific target-date movements (late-night arrival at PBI, transfer to Mar-a-Lago, and Mar-a-Lago↔Trump International Golf Club West Palm Beach motorcade). In addition, no in-window sources found provide attributable, itemized federal outlays incurred on 2025-12-20 (aviation leg type/flight-hours, security posture, and whether local law-enforcement assistance was formally activated that day). Under the tracker rules, generating a dollar estimate without those confirmations would be speculative.",
-      "category": "meta"
+      "name": "Overnight arrival flight to Palm Beach for holiday stay",
+      "cost": 124490,
+      "description": "The roll call shows the President arriving at Palm Beach International Airport at 12:41 a.m. on Dec. 20 after departing Rocky Mount-Wilson Regional Airport late the previous night. A same-night press/video trail places him on Air Force One from Rocky Mount to Palm Beach; using the benchmark VC-25A rate and the observed 42-minute block time (11:16 p.m. departure to 12:41 a.m. arrival, with 18 minutes falling on Dec. 20), the target-date-incurred share is about 0.7 flight-hours × $177,843 ≈ $124,490.",
+      "category": "travel"
+    },
+    {
+      "name": "Motorcade golf outing from Mar-a-Lago to Trump International Golf Club West Palm Beach",
+      "cost": 370000,
+      "description": "The roll call documents a leisure golf outing: departure from Mar-a-Lago at 9:37 a.m., arrival at Trump International Golf Club West Palm Beach at 9:44 a.m., departure at 4:19 p.m., and return to Mar-a-Lago at 4:28 p.m. Under the benchmark method, a documented golf trip by motorcade is costed as peak off-site Secret Service/staff ($300,000/day) plus local motorcade for the short round-trip ($10,000 upper-end) and local law-enforcement assistance in Palm Beach County ($60,000/day), totaling $370,000.",
+      "category": "leisure-security-transport"
     }
   ],
-  "total_cost": 0,
-  "social_description": "NEED_MORE_RESEARCH: insufficient in-window independent sources to verify 2025-12-20 PBI arrival + Mar-a-Lago↔Trump Int’l Golf Club movements and attributable federal outlays, so no cost estimate issued.",
+  "total_cost": 494490,
+  "social_description": "Dec. 20, 2025: estimated leisure-related taxpayer cost $494,490 — roughly $124k for the post-midnight Air Force One arrival share into Palm Beach and $370k for Trump’s Mar-a-Lago↔West Palm Beach golf-club motorcade/security day.",
   "tags": [
-    "needs-more-research",
-    "evidence-window",
-    "insufficient-sources",
-    "confidence-gate-failed"
+    "mar-a-lago",
+    "golf",
+    "palm-beach",
+    "motorcade",
+    "air-force-one",
+    "holiday-stay"
   ],
-  "confidence_level": "low",
+  "confidence_level": "medium",
   "source_urls": [
-    "https://www.whitehouse.gov/briefings-statements/",
-    "https://www.gao.gov/assets/gao-19-178.pdf",
-    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf"
-  ]
+    "https://www.palmbeachpost.com/picture-gallery/news/trump/2025/12/22/trump-florida-presidents-christmas-new-years-in-palm-beach-photos/87860029007/",
+    "https://www.palmbeachpost.com/story/news/trump/2025/12/24/how-president-trump-spent-christmas-eve-in-mar-a-lago-palm-beach/87906162007/",
+    "https://www.whitehouse.gov/briefings-statements/"
+  ],
+  "social_title": "Dec. 20, 2025: estimated leisure-related taxpayer cost in Palm Beach was $494,490"
 }
