@@ -1,28 +1,23 @@
 {
-  "location": "Washington, D.C. (White House)",
+  "location": "The White House, Washington, D.C.",
   "activities": [
     {
-      "name": "NEED_MORE_RESEARCH",
+      "name": "No documented leisure/recreational activity",
       "cost": 0,
-      "description": "Although multiple in-window sources confirm President Trump held an in-White-House governors’ working breakfast on 2026-02-20 (and spoke to reporters that day), available open sources do not provide itemized, same-day federal outlay data necessary to price costs at ≥0.95 confidence under the tracker rules. In particular, there is no verifiable, same-day documentation of incremental security/posture changes (e.g., peak surge vs. baseline) or other billable travel/motorcade expenditures attributable to the target date beyond routine White House protective operations.",
-      "category": "meta"
+      "description": "The provided roll call places President Trump at the White House on February 20, 2026 for a working breakfast with governors, a private Oval Office meeting, and a press briefing, with a lunch lid and then a full lid later in the day. No in-window date-specific source surfaced any leisure or recreational travel or activity on that date, so no leisure-related federal outlay is counted.",
+      "category": "none"
     }
   ],
   "total_cost": 0,
-  "social_description": "NEED_MORE_RESEARCH — Trump held a governors’ working breakfast at the White House on 2026-02-20, but open sources don’t support a ≥0.95-confidence estimate of taxpayer outlays incurred that day.",
+  "social_description": "Feb. 20, 2026: Trump’s public schedule shows White House meetings and a press briefing, with no documented leisure or recreational activity. Leisure-cost determination: $0.",
   "tags": [
-    "need-more-research",
     "white-house",
-    "washington-dc",
-    "governors-breakfast"
+    "zero-cost",
+    "no-leisure-documented",
+    "official-schedule"
   ],
-  "confidence_level": "low",
+  "confidence_level": "high",
   "source_urls": [
-    "https://www.usatoday.com/story/news/politics/2026/02/20/trump-governors-meeting-white-house-reporters/88775631007/",
-    "https://www.pbs.org/newshour/politics/watch-live-trump-hosts-governors-breakfast-after-national-governors-association-pulls-out-of-event",
-    "https://apnews.com/article/trump-wes-moore-kevin-stitt-governors-dinner-58d6381ed18334e8c35af35ef2ce4122",
-    "https://thehill.com/homenews/state-watch/5747241-wes-moore-trump-white-house-governors-meeting/",
-    "https://www.cnbc.com/2026/02/20/trump-global-trade-tariff-supreme-court.html",
-    "https://www.cnn.com/us/live-news/trump-administration-us-iran-02-20-26"
+    "https://www.whitehouse.gov/briefings-statements/"
   ]
 }
