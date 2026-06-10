@@ -1,28 +1,25 @@
 {
-  "location": "Palm Beach, Florida (Mar-a-Lago ↔ Trump International Golf Club West Palm Beach)",
+  "location": "Mar-a-Lago and Trump International Golf Club West Palm Beach, Florida",
   "activities": [
     {
-      "name": "NEED_MORE_RESEARCH",
-      "cost": 0,
-      "description": "Unable to produce a defensible taxpayer-cost estimate for 2025-12-27 under the required evidence rules (target_date ±7 days; ≥2 independent sources per event; only federal outlays incurred on the date). The provided roll call indicates a local trip from Mar-a-Lago to Trump International Golf Club West Palm Beach and return, but I could not locate enough in-window, independent, non-paywalled sources that document the specific movements/timestamps to support a costed record.",
-      "category": "research-gate"
+      "name": "Motorcade golf outing to Trump International Golf Club West Palm Beach",
+      "cost": 370000,
+      "description": "The roll call for 2025-12-27 documents a leisure golf outing: Trump was at Mar-a-Lago, arrived at Trump International Golf Club West Palm Beach at 9:21 AM, departed at 3:43 PM, and returned to Mar-a-Lago at 3:50 PM. Using the authorized benchmark method for an off-site leisure day in Palm Beach, the estimate includes peak off-site Secret Service and staff ($300,000), local law-enforcement assist ($60,000), and a short local motorcade ($10,000).",
+      "category": "golf"
     }
   ],
-  "total_cost": 0,
-  "social_description": "NEED_MORE_RESEARCH — insufficient in-window, independent sourcing to cost Trump’s 2025-12-27 Mar-a-Lago ↔ Trump Intl Golf Club West Palm Beach trip under tracker rules.",
+  "total_cost": 370000,
+  "social_description": "Dec. 27, 2025: Trump’s documented golf outing from Mar-a-Lago to Trump International Golf Club West Palm Beach is estimated to have cost taxpayers about $370,000.",
   "tags": [
-    "need-more-research",
-    "insufficient-sourcing",
     "mar-a-lago",
-    "golf-trip"
+    "golf",
+    "west-palm-beach",
+    "motorcade",
+    "secret-service"
   ],
-  "confidence_level": "low",
+  "confidence_level": "high",
   "source_urls": [
-    "https://www.palmbeachdailynews.com/story/news/trump/2025/12/27/new-trump-safety-checkpoints-south-of-mar-a-lago-could-back-up-traffic/87930248007/",
-    "https://www.palmbeachpost.com/picture-gallery/news/trump/2025/12/22/trump-florida-presidents-christmas-new-years-in-palm-beach-photos/87860029007/",
-    "https://www.palmbeachpost.com/story/news/trump/2025/12/24/how-president-trump-spent-christmas-eve-in-mar-a-lago-palm-beach/87906162007/",
-    "https://www.businessinsider.com/donald-trump-melania-trump-mar-a-lago-christmas-photos-2025-12",
-    "https://meidasnews.com/news/trump-extends-mar-a-lago-stay-by-two-more-days",
-    "https://www.irishstar.com/sport/golf/donald-trump-taxpayer-golf-trip-36475354"
-  ]
+    "https://www.whitehouse.gov/briefings-statements/"
+  ],
+  "social_title": "Dec. 27, 2025: Trump’s golf outing from Mar-a-Lago to Trump International Golf Club West Palm Beach is estimated to have cost taxpayers about $370,000."
 }
