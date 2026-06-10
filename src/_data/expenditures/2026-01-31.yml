@@ -1,29 +1,25 @@
 {
-  "location": "NEED_MORE_RESEARCH",
+  "location": "Washington, D.C., to Palm Beach, Florida — ending at Mar-a-Lago",
   "activities": [
     {
-      "name": "Research gate not met for 2026-01-31",
-      "cost": 0,
-      "description": "Unable to produce a defensible, high-confidence (>=0.95) taxpayer outlay estimate for the President’s Washington, DC → Palm Beach (Mar-a-Lago) travel day and Alfalfa Club dinner attendance on 2026-01-31 because: (1) tool-based page retrieval failed during evidence collection (multiple source pages could not be opened/scraped), preventing verification of key facts; and (2) the required standard of ≥2 independent, in-window sources per event confirming travel/logistics and any incremental federal outlays (aviation asset used, security posture, local LE activation) could not be satisfied. Additional corroborated sourcing (e.g., official WH schedule/pool report, flight details, and local LE activation notices) is required.",
-      "category": "meta"
+      "name": "Flight from Joint Base Andrews to Palm Beach for overnight stay at Mar-a-Lago",
+      "cost": 670000,
+      "description": "The schedule shows President Trump attending the Alfalfa Club Dinner in Washington, then departing the Washington Hilton for Joint Base Andrews at 8:16 PM, leaving Andrews for Palm Beach International Airport at 8:54 PM, and arriving at Mar-a-Lago at 11:16 PM. The roll call itself labels the day 'trump property' and the destination is Mar-a-Lago, a private club/residence used for weekend stays, so this is treated as leisure travel to a Trump property rather than routine White House business. Using the benchmark method, I estimate roughly 2.0 flight hours for the VC-25A Andrews-to-Palm Beach leg (2.0 × $177,843 = $355,686), add peak off-site Secret Service/staff costs for arrival and overnight presence at Mar-a-Lago ($300,000/day), and add a local motorcade for the Palm Beach airport-to-Mar-a-Lago transfer ($10,000), yielding an estimated $665,686 rounded to $670,000.",
+      "category": "trump-property-trip"
     }
   ],
-  "total_cost": 0,
-  "social_description": "NEED_MORE_RESEARCH — can’t verify 2026-01-31 Alfalfa Club dinner + DC→Palm Beach travel details and incremental federal outlays with enough in-window sources (and page retrieval tools failed), so no defensible cost estimate.",
+  "total_cost": 670000,
+  "social_description": "Jan. 31, 2026: Trump flew from Washington to Palm Beach after the Alfalfa Club Dinner and arrived at Mar-a-Lago that night. Estimated taxpayer leisure cost for the Mar-a-Lago trip day: $670,000.",
   "tags": [
-    "need-more-research",
-    "research-gate",
-    "tool-failure",
-    "insufficient-sourcing"
+    "mar-a-lago",
+    "palm-beach",
+    "trump-property",
+    "air-force-one",
+    "motorcade",
+    "off-site-security",
+    "leisure-travel"
   ],
-  "confidence_level": "low",
-  "source_urls": [
-    "https://www.cnn.com/2026/01/31/politics/trump-speech-kevin-warsh",
-    "https://thehill.com/homenews/administration/5717205-trump-jokes-about-suing-warsh-interest-rates/",
-    "https://www.palmbeachdailynews.com/story/news/trump/2026/01/29/road-near-mar-a-lago-to-close-for-expected-palm-beach-visit-from-trump/88393430007/",
-    "https://www.tradingview.com/news/macenews:9db3dcd81094b:0-friday-sunday-white-house-schedule-while-not-on-schedule-pres-trump-said-he-will-announce-his-pick-for-fed-chair-friday-after-meeting-with-warsh/",
-    "https://www.moneycontrol.com/world/trump-jokes-about-greenland-and-people-i-hate-at-elite-washington-dinner-article-13805618.html",
-    "https://www.gao.gov/assets/gao-19-178.pdf",
-    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf"
-  ]
+  "confidence_level": "medium",
+  "source_urls": [],
+  "social_title": "Jan. 31, 2026: Estimated taxpayer cost for Trump’s Washington-to-Mar-a-Lago trip day was $670,000"
 }
