@@ -1,0 +1,26 @@
+{
+  "location": "Trump National Golf Club Bedminster, Bedminster, New Jersey",
+  "activities": [
+    {
+      "name": "Golf weekend stay at Trump Bedminster",
+      "cost": 370000,
+      "description": "The official roll call places the President at Trump National Golf Club Bedminster all day on June 6, 2026, with executive time and a full lid from the club. Independent in-window press coverage published June 8 reported Trump at his Bedminster golf club over the weekend and specifically described him on the golf course, supporting a leisure/recreational determination. Using the provided benchmarks, this is costed as peak off-site Secret Service/staff ($300,000) plus local law-enforcement assistance ($60,000) plus a short local motorcade estimate ($10,000). No additional flight cost is assigned to June 6 because the Bedminster arrival occurred the previous night.",
+      "category": "golf"
+    }
+  ],
+  "total_cost": 370000,
+  "social_description": "June 6, 2026: Trump spent the day at Trump Bedminster, with in-window reporting indicating a golf-club weekend and golf-course presence. Estimated federal leisure-related outlay for the day: $370,000.",
+  "tags": [
+    "trump-property",
+    "golf",
+    "bedminster",
+    "new-jersey",
+    "off-site-security"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://meidasnews.com/news/new-york-jets-player-spotted-with-trump-at-bedminster-golf-club",
+    "https://www.mycentraljersey.com/story/news/local/2026/06/08/route-78-protest-trump-bedminster-hunterdon-visibility-brigade/90462396007/"
+  ],
+  "social_title": "June 6, 2026: Estimated federal outlay for Trump’s day at Trump National Golf Club Bedminster was $370,000"
+}
