@@ -1,20 +1,21 @@
 {
-  "location": "unknown (insufficient corroborated sources)",
+  "location": "London, United Kingdom",
   "activities": [
     {
-      "name": "NEED_MORE_RESEARCH",
+      "name": "No documented leisure/recreational activity",
       "cost": 0,
-      "description": "Could not corroborate the claimed 2025-09-16 Washington→London travel and any taxpayer-funded outlays actually incurred on that date using ≥2 independent, non-paywalled sources published within ±7 days of 2025-09-16. Per the tool & confidence gate, additional sourcing is required before estimating flight hours, security posture, and associated federal costs.",
-      "category": "research-gate"
+      "description": "The schedule/roll call places the President traveling from the White House via Joint Base Andrews to London and arriving at Winfield House, the U.S. ambassador’s residence, where a full lid was called. The documented activity is international official travel and arrival logistics; there is no in-window evidence here of a leisure or recreational event on 2025-09-16, so no leisure outlay is counted for this date.",
+      "category": "none"
     }
   ],
   "total_cost": 0,
-  "social_description": "NEED_MORE_RESEARCH",
+  "social_description": "Sept. 16, 2025: Trump traveled to London and arrived at Winfield House for official overseas travel, with no documented leisure or recreational activity on the date, so the leisure-cost tally is $0.",
   "tags": [
-    "need-more-research",
-    "insufficient-sources",
-    "evidence-window-failed"
+    "zero-cost-day",
+    "london",
+    "official-travel",
+    "no-documented-leisure"
   ],
-  "confidence_level": "low",
+  "confidence_level": "medium",
   "source_urls": []
 }
