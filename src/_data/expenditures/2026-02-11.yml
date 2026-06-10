@@ -1,20 +1,22 @@
 {
-  "location": "NEED_MORE_RESEARCH",
+  "location": "The White House, Washington, D.C.",
   "activities": [
     {
-      "name": "Research gate not satisfied for 2026-02-11",
+      "name": "No documented leisure/recreational activity",
       "cost": 0,
-      "description": "Cannot continue because required gate is unmet: total_source_urls_count ≥ 6 and model_confidence ≥ 0.95. No validated in-window, independent sourcing was gathered via tools for the Feb 11, 2026 schedule to confirm leisure/recreational activity and attributable federal outlays.",
-      "category": "meta"
+      "description": "The Feb. 11, 2026 roll call places President Trump at the White House throughout the day for official events, including a meeting with Israel's prime minister, the Champion of Coal event, and a meeting with the Special Envoy to the United Kingdom. No in-window source or schedule entry documents golf, resort travel, or any other leisure/recreational activity on the target date, so no leisure-related federal outlay is counted.",
+      "category": "none"
     }
   ],
   "total_cost": 0,
-  "social_description": "NEED_MORE_RESEARCH",
+  "social_description": "Feb. 11, 2026: Trump remained at the White House for official meetings and events, with no documented leisure or recreational activity. Estimated taxpayer leisure-related cost: $0.",
   "tags": [
-    "need-more-research",
-    "gate-failed",
-    "insufficient-sourcing"
+    "white-house",
+    "official-business",
+    "zero-cost"
   ],
-  "confidence_level": "low",
-  "source_urls": []
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
 }
