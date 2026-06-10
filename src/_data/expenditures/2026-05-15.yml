@@ -1,30 +1,27 @@
 {
-  "location": "En route (Beijing, China → Anchorage, Alaska → Joint Base Andrews → The White House)",
+  "location": "Beijing, China; Anchorage, Alaska; Joint Base Andrews; The White House, Washington, D.C.",
   "activities": [
     {
-      "name": "NEED_MORE_RESEARCH",
+      "name": "No documented leisure/recreational activity",
       "cost": 0,
-      "description": "Despite multiple in-window sources confirming the President’s 2026-05-15 return travel sequence (depart Beijing Capital International Airport; refuel stop in Anchorage; arrive Joint Base Andrews; return to the White House), the available open reporting does not provide enough auditable, date-specific federal outlay data to meet the tracker’s requirements for costing (e.g., verified VC-25 flight-hours billed and support aircraft factor; whether/which U.S.-funded motorcade segments occurred and their reimbursable amounts; whether host-nation services offset costs; any invoiced local law-enforcement activation; itemized per-diem/lodging charges). Under the tool gate requirement (model_confidence ≥ 0.95), this record is returned as NEED_MORE_RESEARCH.",
-      "category": "research-gate"
+      "description": "On May 15, 2026, President Trump concluded an official trip in Beijing with a bilateral lunch with Xi Jinping, departed China, stopped in Anchorage, continued to Joint Base Andrews, and returned to the White House that evening. The roll call and in-window coverage describe diplomatic and return travel only, with no documented golf, resort stay, private club visit, or other leisure/recreational activity on the target date, so no leisure outlay is counted.",
+      "category": "none"
     }
   ],
   "total_cost": 0,
-  "social_description": "NEED_MORE_RESEARCH",
+  "social_description": "May 15, 2026 was a $0 leisure-cost day: Trump wrapped up official meetings in Beijing, flew home via Anchorage, and returned to the White House with no documented recreational activity.",
   "tags": [
-    "need-more-research",
-    "international-travel",
-    "air-force-one",
+    "zero-cost",
+    "official-travel",
     "beijing",
     "anchorage",
-    "joint-base-andrews"
+    "white-house",
+    "international-trip"
   ],
-  "confidence_level": "low",
+  "confidence_level": "high",
   "source_urls": [
-    "https://www.c-span.org/event/white-house-event/president-trump-departs-beijing-capital-international-airport-en-route-to-us/443126",
+    "https://www.theguardian.com/us-news/2026/may/15/what-was-achieved-trump-xi-summit-beijing",
     "https://www.whitehouse.gov/videos/president-trump-gaggles-with-press-on-air-force-one-en-route-anchorage-ak-may-15-2026/",
-    "https://www.whitehouse.gov/gallery/president-donald-j-trump-visits-zhongnanhai-and-departs-china-may-15th-2026/",
-    "https://apnews.com/live/trump-administration-updates-05-15-2026",
-    "https://www.theguardian.com/world/2026/may/15/trump-china-visit-iran-agreement-xi-jinping-elusive",
-    "https://www.cnn.com/politics/live-news/trump-china-visit-xi-meeting-hnk"
+    "https://www.whitehouse.gov/gallery/president-donald-j-trump-visits-zhongnanhai-and-departs-china-may-15th-2026/"
   ]
 }
