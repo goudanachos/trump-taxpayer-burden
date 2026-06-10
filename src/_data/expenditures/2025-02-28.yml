@@ -1,1 +1,24 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "Travel from Washington, D.C. to Mar-a-Lago, Palm Beach, Florida",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity on target date",
+      "cost": 0,
+      "description": "On February 28, 2025, President Trump held official White House meetings with President Volodymyr Zelenskyy before traveling that evening from the White House to Joint Base Andrews, then to Palm Beach International Airport and Mar-a-Lago. The same-day movement appears to be relocation after official business; no in-window source provided here documents golf, resort recreation, or other leisure activity actually occurring on February 28, so no leisure-specific federal outlay is counted for this date.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Feb. 28, 2025 was a $0 leisure-cost day: Trump held official White House meetings, then flew to Mar-a-Lago, but no leisure activity was documented that day.",
+  "tags": [
+    "zero-cost-day",
+    "official-business",
+    "white-house",
+    "mar-a-lago-arrival",
+    "no-leisure-documented"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
