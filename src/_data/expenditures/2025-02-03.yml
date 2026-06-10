@@ -1,1 +1,22 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "Pool reports reconstructed the president's day at the White House: he signed an executive order, spoke with Canadian Prime Minister Justin Trudeau, welcomed the Florida Panthers, and remained on site until a full lid was called. Under the methodology, official White House business with no documented recreational travel or leisure activity counts as $0.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Feb. 3, 2025: $0 leisure cost. Trump spent the day at the White House for official business, with no documented recreational travel or leisure activity.",
+  "tags": [
+    "white-house",
+    "official-business",
+    "zero-cost-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
