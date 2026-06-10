@@ -4,7 +4,7 @@
     {
       "name": "Golf outing at Trump National Golf Club Washington DC",
       "cost": 310000,
-      "description": "On May 16, 2026, the roll call documents President Trump departing the White House for Trump National Golf Club Washington DC at 10:57 AM, arriving at 11:32 AM, departing the club at 6:38 PM, and returning to the White House at 7:15 PM. Under the provided benchmarks, a same-day off-site leisure outing to a Trump golf club is estimated at $300,000 for peak off-site Secret Service and staff plus $10,000 for local round-trip motorcade transportation.",
+      "description": "On May 16, 2026, the roll call documents President Trump departing the White House for Trump National Golf Club Washington DC at 10:57 AM, arriving at 11:32 AM, departing the club at 6:38 PM, and returning to the White House at 7:15 PM. Using the provided benchmarks, this same-day off-site leisure outing is estimated at $300,000 for peak off-site Secret Service and staff plus $10,000 for local round-trip motorcade transportation.",
       "category": "golf"
     }
   ],
@@ -19,5 +19,5 @@
   ],
   "confidence_level": "high",
   "source_urls": [],
-  "social_title": "May 16, 2026: Estimated taxpayer cost for Trump’s leisure trip from the White House to Trump National Golf Club Washington DC was $310,000"
+  "social_title": "May 16, 2026 White House to Trump National Golf Club Washington DC outing estimated at $310,000"
 }
