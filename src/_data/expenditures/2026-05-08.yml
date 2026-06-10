@@ -4,7 +4,7 @@
     {
       "name": "Attendance at LIV Golf Tournament Dinner at Trump National Golf Club Washington D.C.",
       "cost": 320000,
-      "description": "The White House roll call places the President at Trump National Golf Club Washington D.C. on 2026-05-08 for a LIV Golf Tournament Dinner, departing the White House at 6:48 PM, arriving at 7:06 PM, attending the dinner at 7:15 PM, and returning to the White House at 10:10 PM. An independent in-window White House gallery page published on 2026-05-11 documents the President at the LIV Golf tournament at the Sterling club that same weekend, corroborating the leisure event. Using the benchmark method, this leisure outing is estimated as $300,000 for peak off-site Secret Service and staff coverage plus two short local motorcade legs at $10,000 each, totaling $320,000.",
+      "description": "The White House roll call shows the President departing the White House at 6:48 PM on 2026-05-08, arriving at Trump National Golf Club Washington D.C. at 7:06 PM, attending a LIV Golf Tournament Dinner at 7:15 PM, and returning to the White House at 10:10 PM. An independent in-window CNN report published May 10, 2026 says Trump hosted a LIV Golf event at his Virginia property that weekend. Using the benchmark method, this leisure outing is estimated as $300,000 for peak off-site Secret Service and staff coverage plus two short local motorcade legs at $10,000 each, totaling $320,000.",
       "category": "golf"
     }
   ],
@@ -21,7 +21,8 @@
   "confidence_level": "high",
   "source_urls": [
     "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.cnn.com/2026/05/10/politics/trump-golf-courses-conflict-of-interest",
     "https://www.whitehouse.gov/gallery/president-donald-j-trump-watches-the-liv-golf-tournament-at-trump-national-golf-club-washington-d-c/"
   ],
-  "social_title": "Trump attended a LIV Golf tournament dinner at Trump National Golf Club Washington, D.C. on May 8, 2026; estimated taxpayer cost was $320,000"
+  "social_title": "May 8, 2026: Trump attended a LIV Golf tournament dinner at Trump National Golf Club Washington D.C. in Sterling, Virginia; estimated taxpayer cost was $320,000."
 }
