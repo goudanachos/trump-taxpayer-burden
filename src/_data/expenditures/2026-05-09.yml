@@ -1,24 +1,28 @@
 {
-  "status": "NEED_MORE_RESEARCH",
-  "target_date": "2026-05-09",
-  "model_confidence": 0.6,
-  "total_source_urls_count": 6,
-  "blocking_issues": [
-    "Transportation mode for the White House ↔ Trump National Golf Club Washington, D.C. trip on 2026-05-09 is not consistently reported. The provided roll-call timing (2:07→2:20; 5:42→6:10) implies helicopter-type travel, while at least one in-window report states he ‘motorcaded’ to the course; without resolving this, federal travel outlays (Marine One vs motorcade) cannot be estimated to the required confidence threshold.",
-    "No in-window, attributable documentation found for incremental local law-enforcement activation/overtime (e.g., Loudoun County/US Park Police/USSS surge) specific to 2026-05-09 at the Sterling venue, so those costs cannot be included under the rules.",
-    "Even with multiple sources confirming attendance at the LIV event, none provide auditable, itemized federal outlays incurred on 2026-05-09; any estimate would rely heavily on assumptions, keeping confidence below the gate (0.95)."
+  "location": "Trump National Golf Club Washington D.C., Sterling, Virginia",
+  "activities": [
+    {
+      "name": "Attendance at LIV Golf tournament at Trump National Golf Club Washington D.C.",
+      "cost": 320000,
+      "description": "The roll call places the President at Trump National Golf Club Washington D.C. from 2:20 PM to 5:42 PM on 2026-05-09, and an in-window White House gallery page independently documents that he watched the LIV Golf tournament there that weekend. Under the benchmark method, this leisure outing is costed as an off-site Secret Service/staff day ($300,000) plus two short local motorcade legs between the White House and the club (estimated $10,000 each), for a total of $320,000.",
+      "category": "golf"
+    }
   ],
-  "evidence_in_window_source_urls": [
-    "https://www.usatoday.com/story/sports/golf/2026/05/09/donald-trump-liv-golf-virginia-pga-tour/89985155007/",
-    "https://www.foxnews.com/sports/trump-shows-liv-golf-event-virginia-course-calling-players-rejoin-pga-tour",
+  "total_cost": 320000,
+  "social_description": "May 9, 2026: Trump attended the LIV Golf tournament at his Sterling golf club. Estimated taxpayer leisure cost: $320,000, driven by off-site security and round-trip local motorcade movements.",
+  "tags": [
+    "golf",
+    "liv-golf",
+    "trump-property",
+    "sterling-virginia",
+    "motorcade",
+    "off-site-security"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/gallery/president-donald-j-trump-watches-the-liv-golf-tournament-at-trump-national-golf-club-washington-d-c/",
     "https://www.cnn.com/2026/05/10/politics/trump-golf-courses-conflict-of-interest",
-    "https://justthenews.com/government/white-house/trump-attends-liv-golf-tournament-trump-national-golf-club-washington",
-    "https://www.breitbart.com/politics/2026/05/09/trump-attends-liv-tournament-at-trump-national-d-c/",
-    "https://apnews.com/article/trump-reflecting-pool-golf-course-washington-renovations-e708a36ef05a5a3f96d74e53d41c2109"
+    "https://www.whitehouse.gov/briefings-statements/"
   ],
-  "next_research_targets": [
-    "White House pool report / official daily guidance for 2026-05-09 confirming whether Marine One was used and listing wheels-up/wheels-down times (or confirming a motorcade-only move).",
-    "Any public traffic advisories and after-action/overtime disclosures from Loudoun County Sheriff’s Office, Virginia State Police, or federal partners (US Park Police) that indicate activated staffing levels specifically for 2026-05-09.",
-    "Any official or independently corroborated reporting on the presidential movement route/closure footprint that would justify including the $60k local law-enforcement benchmark and the motorcade benchmark for that specific date."
-  ]
+  "social_title": "May 9, 2026: Trump attended the LIV Golf tournament at Trump National Golf Club Washington D.C. in Sterling, Virginia, at an estimated taxpayer cost of $320,000"
 }
