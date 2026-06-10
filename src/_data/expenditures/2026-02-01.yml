@@ -1,27 +1,26 @@
 {
-  "location": "NEED_MORE_RESEARCH",
+  "location": "Palm Beach, Florida — Mar-a-Lago, with return travel to Washington, D.C.",
   "activities": [
     {
-      "name": "Research gate not met for 2026-02-01",
-      "cost": 0,
-      "description": "Cannot satisfy the required evidence and confidence gate (>=6 in-window sources and model_confidence>=0.95) to estimate incremental federal outlays associated with 2026-02-01 Mar-a-Lago activities (wedding appearance, local movements) and return travel Palm Beach (PBI) → Joint Base Andrews. Critical details remain unverified with sufficient independent, in-window reporting (e.g., aircraft type/flight hours, confirmed motorcade legs, local law-enforcement activation/overtime, and whether any costs were reimbursed). Additional corroborated sources are required before producing a defensible cost estimate.",
-      "category": "meta"
+      "name": "Mar-a-Lago stay and social appearance tied to wedding event, plus return travel to Washington",
+      "cost": 620000,
+      "description": "The schedule places President Trump at Mar-a-Lago on February 1, 2026, including speaking to reporters outside the wedding of Dan Scavino and Erin Elmore, before departing Mar-a-Lago at 3:45 PM for Palm Beach International Airport and flying to Joint Base Andrews at 4:09 PM. Because the day is centered on a stay at Trump’s Palm Beach property and a social/wedding-related appearance rather than routine White House business, this is treated as a leisure/social off-site day. Using the benchmark method, I estimate the Palm Beach-to-Andrews VC-25A leg at about 1.8 flight hours based on the posted departure and arrival times (about $314,000), plus peak off-site Secret Service/staff costs for the Mar-a-Lago day ($300,000) and a local motorcade from Mar-a-Lago to the airport ($10,000), for an estimated total rounded to $620,000.",
+      "category": "trump-property-trip"
     }
   ],
-  "total_cost": 0,
-  "social_description": "NEED_MORE_RESEARCH — insufficient in-window, corroborated evidence to estimate taxpayer-funded leisure/travel outlays for Trump’s 2026-02-01 Mar-a-Lago day and return flight with >=0.95 confidence.",
+  "total_cost": 620000,
+  "social_description": "Feb. 1, 2026: Trump spent the day at Mar-a-Lago, made a social appearance outside a wedding there, then flew back to Washington. Estimated taxpayer leisure cost: $620,000.",
   "tags": [
-    "need-more-research",
-    "research-gate",
-    "insufficient-evidence"
+    "mar-a-lago",
+    "palm-beach",
+    "trump-property",
+    "wedding-event",
+    "air-force-one",
+    "motorcade",
+    "off-site-security",
+    "leisure-travel"
   ],
-  "confidence_level": "low",
-  "source_urls": [
-    "https://www.gao.gov/assets/gao-19-178.pdf",
-    "https://comptroller.defense.gov/Portals/45/documents/rates/fy2022/2022_b_c.pdf",
-    "https://time.com/4885934/white-house-helicopter-cost/",
-    "https://www.whitehouse.gov/briefings-statements/",
-    "https://www.ntu.org/foundation/tax-page/international-presidential-travel-cost-analyses-archive",
-    "https://www.dau.edu/sites/default/files/2025-02/2025%20OS%20Cost%20Estimating%20Guide.pdf"
-  ]
+  "confidence_level": "medium",
+  "source_urls": [],
+  "social_title": "Feb. 1, 2026: Trump spent the day at Mar-a-Lago, made a social appearance outside a wedding there, then flew back to Washington; estimated taxpayer leisure cost was $620,000."
 }
