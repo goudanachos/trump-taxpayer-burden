@@ -4,7 +4,7 @@
     {
       "name": "No documented leisure/recreational activity",
       "cost": 0,
-      "description": "On May 20, 2026, President Trump traveled from the White House to Joint Base Andrews and on to Groton/New London, Connecticut, to deliver the U.S. Coast Guard Academy commencement address, then returned to the White House the same afternoon. The roll call and in-window news coverage document official government travel and a military-academy commencement speech, with no in-window evidence of golf, resort time, private club visits, or other leisure/recreational activity, so no leisure outlay is counted.",
+      "description": "On May 20, 2026, President Trump traveled from the White House to Joint Base Andrews and on to Groton/New London, Connecticut, to deliver the U.S. Coast Guard Academy commencement address, then returned to the White House that afternoon. The roll call and in-window coverage document official government travel and a commencement speech, with no documented golf, resort visit, private club stop, or other leisure/recreational activity, so no leisure outlay is counted.",
       "category": "none"
     }
   ],
@@ -19,8 +19,8 @@
   ],
   "confidence_level": "high",
   "source_urls": [
-    "https://www.whitehouse.gov/videos/president-trump-delivers-commencement-speech-to-united-states-coast-guard-%F0%9F%87%BA%F0%9F%87%B8/",
-    "https://apnews.com/article/trump-coast-guard-commencement-iran-war-ef5e353cd8a2cfdfe8e5dd798eecb7f2",
-    "https://www.pbs.org/newshour/politics/watch-live-trump-delivers-u-s-coast-guard-academy-commencement-address"
+    "https://www.whitehouse.gov/videos/president-trump-delivers-a-commencement-address-to-the-united-states-coast-guard-academy/",
+    "https://www.pbs.org/newshour/politics/watch-live-trump-delivers-u-s-coast-guard-academy-commencement-address",
+    "https://www.wfsb.com/2026/05/20/president-trump-deliver-coast-guard-academy-commencement-speech-new-london/"
   ]
 }
