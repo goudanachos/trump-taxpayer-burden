@@ -1,1 +1,43 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "Trump National Doral Miami, Doral, Florida",
+  "activities": [
+    {
+      "name": "Golf outing at Trump National Doral Miami",
+      "cost": 300000,
+      "description": "The roll call places President Trump at Trump National Doral Miami on January 26, 2025 with no public events scheduled, an out-of-town pool call, and an early full lid. Given the schedule summary explicitly noting 'trump property, golf,' this is treated as an off-site leisure day incurring the benchmark peak Secret Service and staff cost for a presidential stay at a golf resort.",
+      "category": "security"
+    },
+    {
+      "name": "Local law-enforcement assist",
+      "cost": 60000,
+      "description": "Estimated local police support for a presidential leisure stay at Trump National Doral Miami, using the benchmark daily law-enforcement assist figure when local authorities are activated.",
+      "category": "security"
+    },
+    {
+      "name": "Local motorcade",
+      "cost": 10000,
+      "description": "Estimated short-trip presidential motorcade operations associated with movements on and around the Doral property during the leisure stay.",
+      "category": "transport"
+    },
+    {
+      "name": "Incidentals",
+      "cost": 55000,
+      "description": "Incidentals estimated below the 15% cap on travel and security for logistics and miscellaneous support tied to the off-site leisure day.",
+      "category": "incidental"
+    }
+  ],
+  "total_cost": 425000,
+  "social_description": "Jan. 26, 2025: Trump spent the day at Trump National Doral Miami with no public events and a schedule summary indicating golf. Estimated taxpayer leisure-related cost: $425,000.",
+  "tags": [
+    "trump-doral",
+    "golf",
+    "miami",
+    "off-site-security",
+    "local-law-enforcement"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ],
+  "social_title": "Jan. 26, 2025: Trump spent the day at Trump National Doral Miami with no public events; estimated taxpayer cost was $425,000."
+}
