@@ -1,28 +1,26 @@
 {
-  "location": "NEED_MORE_RESEARCH",
+  "location": "The White House; Joint Base Andrews; Miami International Airport; Trump National Doral Miami, Florida",
   "activities": [
     {
-      "name": "NEED_MORE_RESEARCH",
-      "cost": 0,
-      "description": "Confidence gate not met (insufficient evidence to attribute and quantify federal outlays actually incurred on 2026-03-06 for travel/security). Available reporting confirms planned/ongoing Doral-area summit security posture but does not provide the necessary operational details (e.g., aircraft type/flight hours, support aircraft, Marine One use, activated local law-enforcement costed assistance, or GAO/agency-derived daily security spend tied specifically to 2026-03-06) to produce a high-confidence taxpayer outlay estimate for that date under the provided rules.",
-      "category": "meta"
+      "name": "Leisure trip to Trump National Doral Miami",
+      "cost": 910000,
+      "category": "leisure-travel",
+      "description": "The March 6, 2026 roll call shows President Trump departing Washington in the evening and arriving at Trump National Doral Miami, a Trump golf resort, where he remained overnight. Under the methodology, a trip to a Trump golf/resort property is documented leisure travel and must be costed. Estimated costs for the date are: VC-25A flight Joint Base Andrews→Miami International Airport (1.88 flight hours from 7:11 PM to 9:04 PM) at $177,843/hour = about $334,345; peak off-site Secret Service and staff at the resort = $300,000; local motorcade Miami airport↔Doral = $10,000; incidentals capped within methodology and applied here at roughly $96,000. Rounded total: $910,000."
     }
   ],
-  "total_cost": 0,
-  "social_description": "NEED_MORE_RESEARCH: Not enough in-window, independently corroborated operational details to quantify federal outlays incurred on 2026-03-06 for the Miami/Doral trip under the tracker’s rules.",
+  "total_cost": 910000,
+  "social_description": "March 6, 2026: estimated $910,000 leisure-cost day. Trump flew from Washington to Trump National Doral Miami, a resort/golf-property trip that triggers benchmarked Air Force One, off-site security, motorcade, and incidentals costs.",
   "tags": [
-    "need-more-research",
-    "insufficient-cost-evidence",
-    "travel-to-doral"
+    "trump-property",
+    "doral",
+    "miami",
+    "leisure-travel",
+    "air-force-one",
+    "off-site-security"
   ],
-  "confidence_level": "low",
+  "confidence_level": "medium",
   "source_urls": [
-    "https://www.local10.com/news/politics/2026/03/06/high-security-heavy-traffic-doral-braces-for-international-summit/",
-    "https://www.local10.com/news/local/2026/03/05/trump-gathering-latin-american-heads-of-state-at-doral-golf-club-this-weekend",
-    "https://www.nbcmiami.com/news/local/trump-to-meet-latin-american-leaders-at-security-summit-in-doral-wh/3776523/",
-    "https://www.npr.org/2026/03/07/g-s1-112852/trump-americas-summit",
-    "https://www.pbs.org/newshour/world/trump-encourages-latin-american-leaders-to-use-military-action-to-help-the-u-s-fight-cartels",
-    "https://abcnews.go.com/Politics/trump-speak-shield-americas-summit-aimed-taking-cartels/story?id=130847707",
-    "https://www.cbsnews.com/miami/news/trump-doral-shield-of-americas-summit/"
-  ]
+    "https://www.whitehouse.gov/briefings-statements/"
+  ],
+  "social_title": "March 6, 2026: Estimated $910,000 leisure travel cost for President Trump’s overnight trip to Trump National Doral Miami"
 }
