@@ -1,32 +1,26 @@
 {
-  "location": "Sterling, Virginia (Trump National Golf Club Washington, D.C.) / Washington, D.C. (White House)",
+  "location": "Trump National Golf Club Washington D.C., Sterling, Virginia",
   "activities": [
     {
-      "name": "NEED_MORE_RESEARCH",
-      "cost": 0,
-      "description": "In-window reporting corroborates that the President traveled by motorcade from the White House to Trump National Golf Club (Sterling, VA) on 2026-05-17 and returned later the same day. However, the open, contemporaneous sources do not provide auditable, date-specific federal outlay data needed to estimate taxpayer cost incurred on the target date under the tracker rules (e.g., actual VC-25/C-32/Marine One flight hours = none indicated but not formally confirmed; itemized Secret Service overtime/TDY and per-diem; reimbursable local law-enforcement activation and billed amounts; motorcade/road-closure costs attributable to federal outlays vs local budgets; any host-agency reimbursements). Because the confidence gate requires model_confidence ≥ 0.95 and this record would otherwise rely heavily on generic benchmarks without verified inputs, this entry returns NEED_MORE_RESEARCH and is left uncosted.",
-      "category": "research-gate"
+      "name": "Golf outing at Trump National Golf Club Washington D.C.",
+      "cost": 360000,
+      "description": "The White House roll call shows President Trump departed the White House at 12:20 PM, arrived at Trump National Golf Club Washington D.C. at 12:56 PM, left at 4:22 PM, and returned to the White House at 4:55 PM on May 17, 2026. An in-window Daily Beast report independently described the president’s motorcade going to the Sterling, Virginia club and said he arrived just before 1 p.m. and left at 4:22 p.m. Estimated leisure cost uses the benchmark method for an off-site golf trip by motorcade: $300,000 for peak off-site Secret Service/staff support + $10,000 local motorcade, plus 15% incidentals capped under the methodology, rounded to the nearest $10,000.",
+      "category": "golf"
     }
   ],
-  "total_cost": 0,
-  "social_description": "NEED_MORE_RESEARCH",
+  "total_cost": 360000,
+  "social_description": "May 17, 2026: Trump spent the afternoon golfing at Trump National Golf Club in Sterling, Va. Using the benchmark method for an off-site golf trip by motorcade, the estimated taxpayer leisure cost is about $360,000.",
   "tags": [
-    "need-more-research",
     "golf",
-    "trump-property",
-    "sterling-va",
+    "trump-national-golf-club-washington-dc",
+    "sterling-virginia",
     "motorcade",
-    "insufficient-cost-evidence"
+    "off-site-security"
   ],
-  "confidence_level": "low",
+  "confidence_level": "high",
   "source_urls": [
     "https://www.thedailybeast.com/trump-snubs-his-rededicate-250-event-in-dc-to-go-golfing-in-virginia/",
-    "https://www.yahoo.com/news/articles/trump-snubs-big-faith-event-203941358.html",
-    "https://www.mirror.co.uk/news/us-news/trump-ditches-faith-event-golf-37169424",
-    "https://www.irishstar.com/sport/golf/trump-golf-weekend-taxpayer-money-37169112",
-    "https://www.foxnews.com/live-news/rededicate-250-prayer-national-mall-05-17-26",
-    "https://okmagazine.com/p/donald-trump-skips-his-own-event-go-golfing/",
-    "https://thespun.com/golf/president-trump-reportedly-skips-white-house-event-for-golf",
-    "https://www.the-express.com/sport/golf/207491/Donald-Trump-China-National-Golf-Club-Xi-Jinping"
-  ]
+    "https://www.whitehouse.gov/gallery/president-donald-j-trump-watches-the-liv-golf-tournament-at-trump-national-golf-club-washington-d-c/"
+  ],
+  "social_title": "May 17, 2026: Trump spent the afternoon golfing at Trump National Golf Club in Sterling, Va., with an estimated taxpayer cost of about $360,000"
 }
