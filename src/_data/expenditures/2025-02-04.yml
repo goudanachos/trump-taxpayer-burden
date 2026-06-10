@@ -1,1 +1,22 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The president’s day was documented at the White House for official business: signing executive orders, hosting Israeli Prime Minister Benjamin Netanyahu for meetings, a press conference, and dinner, with a full lid called that evening. Under the methodology, routine White House official activity is not counted as leisure spending.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Feb. 4, 2025: $0 leisure cost. Trump remained at the White House for official meetings and events with Israeli PM Benjamin Netanyahu; no documented recreational travel or leisure activity.",
+  "tags": [
+    "white-house",
+    "official-business",
+    "zero-cost-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
