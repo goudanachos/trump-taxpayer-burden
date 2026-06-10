@@ -1,29 +1,25 @@
 {
-  "location": "NEED_MORE_RESEARCH",
+  "location": "Trump National Doral Miami, Doral, Florida",
   "activities": [
     {
-      "name": "NEED_MORE_RESEARCH",
-      "cost": 0,
-      "description": "Confidence gate not met for 2026-03-08: while in-window sources indicate President Trump remained at/near Trump National Doral Miami and was photographed playing golf that Sunday, they do not provide enough operational/financial detail to attribute and quantify federal outlays actually incurred on that specific date (e.g., Secret Service overtime/surge posture, activated local law-enforcement reimbursement status, or any aviation legs on 3/8 if movements occurred). Under the tracker rules, a high-confidence taxpayer cost estimate cannot be produced for this day.",
-      "category": "meta"
+      "name": "Documented leisure stay at Trump National Doral Miami",
+      "cost": 310000,
+      "category": "leisure",
+      "description": "On March 8, 2026, the president’s roll call places him at Trump National Doral Miami all morning with only Executive Time, out-of-town pool call, and a 1:00 PM full lid. The roll call itself summarizes the day as 'trump property, golf,' which documents recreational activity at an off-site Trump golf resort. Using the benchmark method for a golf/resort day without separate flight legs on the date, this is costed as $300,000 for peak off-site Secret Service and staff plus $10,000 for local motorcade/short-trip movements."
     }
   ],
-  "total_cost": 0,
-  "social_description": "NEED_MORE_RESEARCH: Reports suggest Trump stayed at Doral and golfed on 2026-03-08, but there’s not enough verifiable operational detail to price federal outlays for that specific day.",
+  "total_cost": 310000,
+  "social_description": "March 8, 2026: estimated $310,000 leisure-cost day. Trump spent the day at Trump National Doral Miami, with the schedule summary identifying the date as a Trump-property golf day; benchmarked off-site security and motorcade costs apply.",
   "tags": [
-    "need-more-research",
-    "doral",
     "golf",
-    "insufficient-cost-detail"
+    "doral",
+    "trump-property",
+    "off-site-security",
+    "leisure"
   ],
-  "confidence_level": "low",
+  "confidence_level": "medium",
   "source_urls": [
-    "https://www.local10.com/news/politics/2026/03/06/high-security-heavy-traffic-doral-braces-for-international-summit/",
-    "https://www.npr.org/2026/03/07/g-s1-112852/trump-americas-summit",
-    "https://www.pbs.org/newshour/world/trump-encourages-latin-american-leaders-to-use-military-action-to-help-the-u-s-fight-cartels",
-    "https://www.opb.org/article/2026/03/08/trump-vows-to-take-care-of-cuba-praises-venezuela-cooperation-at-summit/",
-    "https://atlantablackstar.com/2026/03/09/trump-applause-at-his-golf-resort-but-woman-trailing-him-with-that-bag-has-people-zooming-in/",
-    "https://nationaltoday.com/us/fl/doral/news/2026/03/08/trump-blasted-for-golfing-as-more-die-in-his-war/",
-    "https://www.thedailybeast.com/trump-79-forgets-which-day-it-is-in-rambling-war-speech/"
-  ]
+    "https://www.whitehouse.gov/briefings-statements/"
+  ],
+  "social_title": "March 8, 2026: Estimated $310,000 leisure-cost day at Trump National Doral Miami"
 }
