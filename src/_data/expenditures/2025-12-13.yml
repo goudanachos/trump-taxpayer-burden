@@ -1,29 +1,26 @@
 {
-  "location": "NEED_MORE_RESEARCH",
+  "location": "Baltimore, Maryland (M&T Bank Stadium / Fort McHenry)",
   "activities": [
     {
-      "name": "need-more-research",
-      "cost": 0,
-      "description": "Unable to verify in-window, independently sourced federal outlays for 2025-12-13 because web-scrape tool failed (\"Node execution failed\"), preventing extraction of details needed to compute travel/security costs (e.g., whether Marine One vs. motorcade was used, flight times, and any activated local law-enforcement support).",
-      "category": "meta"
+      "name": "Army-Navy football game trip",
+      "cost": 420000,
+      "description": "The White House roll call says President Trump left the White House for Baltimore, attended the Army-Navy football game at M&T Bank Stadium, then returned that evening via Fort McHenry. Treating attendance at the football game as a documented recreational/spectator outing, the estimated federal leisure burden is benchmarked as one off-site Secret Service/staff day ($300,000), short local motorcade movements ($10,000 total), activated local law-enforcement support for the high-security event day ($60,000), plus incidentals capped at 15% of travel and security ($55,500), rounded to about $420,000.",
+      "category": "sports-leisure"
     }
   ],
-  "total_cost": 0,
-  "social_description": "NEED_MORE_RESEARCH",
+  "total_cost": 420000,
+  "social_description": "Dec. 13, 2025: Trump traveled from the White House to Baltimore to attend the Army-Navy game, a leisure/spectator outing estimated at about $420,000 in federal travel and security costs.",
   "tags": [
-    "needs-research",
-    "tool-failure",
-    "insufficient-evidence"
+    "army-navy-game",
+    "baltimore",
+    "sports-leisure",
+    "off-site-security",
+    "motorcade"
   ],
-  "confidence_level": "low",
+  "confidence_level": "medium",
   "source_urls": [
-    "https://www.whitehouse.gov/articles/2025/12/president-trump-attends-126th-army-navy-game/",
-    "https://thehill.com/homenews/administration/5648025-trump-attends-army-navy-football/",
-    "https://www.stripes.com/sports/2025-12-13/army-navy-game-2025-baltimore-set-up-20079316.html",
-    "https://www.cbsnews.com/baltimore/news/army-navy-football-game-maryland-safety-restrictions-parking/",
-    "https://wtop.com/baltimore/2025/12/federal-officials-declare-mt-bank-stadium-a-no-drone-zone-for-army-navy-game/",
-    "https://www.foxnews.com/sports/trump-returns-army-navy-showdown",
-    "https://www.newsnationnow.com/politics/army-navy-game-trump-attends-protests-planned/",
-    "https://www.thebanner.com/community/local-news/trump-army-navy-baltimore-fort-mchenry-BXOQC2GXS5DRBCYRVE34OOKATM/"
-  ]
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.dvidshub.net/video/992268/army-navy-game-2025"
+  ],
+  "social_title": "Trump’s Baltimore trip for the Army-Navy game was estimated at about $420,000 in federal travel and security costs"
 }
