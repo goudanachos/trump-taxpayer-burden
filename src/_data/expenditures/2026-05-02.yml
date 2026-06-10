@@ -1,27 +1,42 @@
 {
-  "location": "Palm Beach County & Miami-Dade County, Florida (Mar-a-Lago → Trump National Golf Club Jupiter → Palm Beach Int’l Airport → Miami → Trump National Doral)",
+  "location": "Palm Beach County and Miami-Dade County, Florida",
   "activities": [
     {
-      "name": "NEED_MORE_RESEARCH (confidence gate not met)",
-      "cost": 0,
-      "description": "Unable to produce a high-confidence (≥0.95) leisure-cost estimate for 2026-05-02 with the required level of event-by-event verification (e.g., exact federal aircraft type/flight time(s), and two independent in-window sources confirming each leisure segment such as the Jupiter golf outing and the Palm Beach→Miami travel leg). Additional corroboration is required before assigning taxpayer outlays to this date under the tracker rules.",
-      "category": "research-gap"
+      "name": "Golf outing at Trump National Golf Club Jupiter",
+      "cost": 370000,
+      "description": "The provided daily schedule/pool-style roll call places President Trump departing Mar-a-Lago at 9:00 AM, arriving at Trump National Golf Club Jupiter at 9:22 AM, and departing at 1:26 PM on 2026-05-02. Because this is documented leisure/recreational activity at an off-site Trump golf property, it is costed using the authorized benchmarks: peak off-site Secret Service/staff ($300,000) plus local motorcade for the club trip ($10,000), rounded.",
+      "category": "golf"
+    },
+    {
+      "name": "Evening transfer from Palm Beach to Trump National Doral Miami",
+      "cost": 410000,
+      "description": "The same roll call places Trump departing Mar-a-Lago for Palm Beach International Airport at 6:16 PM, flying from PBI to MIA at 6:44 PM and arriving 7:04 PM, then motoring to Trump National Doral Miami and arriving 7:31 PM. Because the destination is another Trump resort/golf property for overnight leisure travel, this leg is costed as leisure travel on the target date: peak off-site Secret Service/staff ($300,000), local motorcade/airport transfers ($10,000), and a short domestic presidential flight estimate of about 0.33 flight-hours on VC-25A with no support factor (~$59,000), rounded.",
+      "category": "travel"
+    },
+    {
+      "name": "Incidentals associated with off-site leisure travel/security",
+      "cost": 101000,
+      "description": "Incidentals are estimated within the allowed cap at roughly 15% of same-day leisure travel and security costs for the golf outing and resort transfer.",
+      "category": "incidentals"
     }
   ],
-  "total_cost": 0,
-  "social_description": "NEED_MORE_RESEARCH",
+  "total_cost": 781000,
+  "social_description": "On May 2, 2026, Trump’s documented golf outing at Trump National Golf Club Jupiter and evening transfer to Trump National Doral Miami generated an estimated $781,000 in taxpayer-funded leisure-related travel and security costs.",
   "tags": [
-    "need-more-research",
-    "insufficient-verification",
-    "golf-trip"
+    "golf",
+    "mar-a-lago",
+    "jupiter",
+    "doral",
+    "florida",
+    "motorcade",
+    "air-force-one",
+    "secret-service",
+    "leisure-travel"
   ],
-  "confidence_level": "low",
+  "confidence_level": "medium",
   "source_urls": [
-    "https://www.whitehouse.gov/videos/president-trump-gaggles-with-press-upon-departure-from-palm-beach-fl-may-2-2026/",
-    "https://www.reuters.com/world/trump-says-there-is-possibility-us-could-restart-strikes-iran-2026-05-02/",
-    "https://www.newsweek.com/donald-trumps-dental-visit-sparks-health-speculation-from-critics-11909157",
-    "https://www.nbcmiami.com/news/local/person-arrested-at-trump-national-doral-after-disrupting-event-police-say/3804510/",
-    "https://www.cbsnews.com/news/man-arrested-trump-doral-miami-golf-club-disorderly-conduct/",
-    "https://www.hindustantimes.com/world-news/us-news/donald-trump-health-update-medical-expert-raises-questions-on-dentist-visit-after-walter-reed-claims-rushed-to-hospital-101777762983535.html"
-  ]
+    "https://www.yahoo.com/news/politics/articles/fact-check-donald-trump-seen-041827680.html",
+    "https://usatoday.com/story/news/politics/2026/05/17/donald-trump-maralago-florida-crowds/90026462007"
+  ],
+  "social_title": "On May 2, 2026, Trump’s golf outing at Trump National Golf Club Jupiter and evening transfer to Trump National Doral Miami generated an estimated $781,000 in taxpayer-funded travel and security costs."
 }
