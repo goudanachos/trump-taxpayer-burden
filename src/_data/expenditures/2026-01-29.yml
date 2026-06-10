@@ -1,25 +1,24 @@
 {
-  "location": "NEED_MORE_RESEARCH",
+  "location": "Washington, D.C. — The White House and the John F. Kennedy Center for the Performing Arts",
   "activities": [
     {
-      "name": "Research gate not met for 2026-01-29",
-      "cost": 0,
-      "description": "Insufficient validated, in-window, non-paywalled source set and/or confidence below required threshold (>=0.95) to produce a defensible taxpayer outlay estimate for the Kennedy Center screening trip on 2026-01-29. More corroborated sourcing and cost-specific evidence (e.g., confirmed security posture/agency overtime activations, transportation assets used, and any reimbursed venue costs) is required.",
-      "category": "meta"
+      "name": "Evening motorcade to and from the Kennedy Center for a film screening",
+      "cost": 10000,
+      "description": "The day’s schedule shows President Trump at the White House for official duties including the intelligence briefing, Cabinet meeting, and an Oval Office announcement, then departing at 6:52 PM for the Kennedy Center, arriving at 6:59 PM, attending a screening of the film \"Melania,\" and returning to the White House at 10:51 PM. This documents a same-city leisure/cultural outing requiring a short presidential motorcade round trip; using the benchmark for a local motorcade, I apply $10,000 for the two short trips combined. I do not add off-site Secret Service day costs because the President remained based at the White House and this was a brief in-town evening event rather than a resort or travel day.",
+      "category": "local-motorcade"
     }
   ],
-  "total_cost": 0,
-  "social_description": "NEED_MORE_RESEARCH — not enough corroborated, cost-relevant evidence within the required window to estimate taxpayer-funded leisure outlays for 2026-01-29 with >=0.95 confidence.",
+  "total_cost": 10000,
+  "social_description": "Jan. 29, 2026: Trump spent most of the day on White House business, then took a short evening motorcade round trip to the Kennedy Center for a screening of \"Melania.\" Estimated taxpayer leisure cost: $10,000.",
   "tags": [
-    "need-more-research",
-    "research-gate",
-    "insufficient-evidence"
+    "kennedy-center",
+    "film-screening",
+    "local-motorcade",
+    "washington-dc",
+    "leisure-event"
   ],
-  "confidence_level": "low",
+  "confidence_level": "medium",
   "source_urls": [
-    "https://www.pbs.org/newshour/politics/trumps-attend-melania-film-premiere-at-the-kennedy-center-ahead-of-global-release",
-    "https://abcnews.go.com/GMA/Culture/melania-trump-documentary-melania-premiere-kennedy-center-ahead/story?id=129667776",
-    "https://www.usatoday.com/story/entertainment/movies/2026/01/29/melania-movie-documentary-fashion-looks/88415911007/",
-    "https://www.foxnews.com/lifestyle/melania-world-premiere-president-trump-first-lady-rfk-jr-nicki-minaj-light-up-red-carpet"
+    "https://www.cnn.com/2026/06/08/politics/kennedy-center-trump-name"
   ]
 }
