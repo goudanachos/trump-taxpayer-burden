@@ -1,1 +1,22 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The White House schedule for March 5, 2025 showed no public events for the President, with an in-town pool call, a press briefing by the press secretary, and a full lid at the White House. No in-window reporting located any leisure or recreational travel or activity on this date, so no leisure-specific federal outlay is counted.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "March 5, 2025 was a $0 leisure-cost day: Trump was at the White House with no documented golf, resort travel, or other recreational activity.",
+  "tags": [
+    "zero-cost-day",
+    "white-house",
+    "no-leisure-documented"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
