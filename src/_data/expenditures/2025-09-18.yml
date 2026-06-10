@@ -1,7 +1,22 @@
 {
-  "status": "NEED_MORE_RESEARCH",
-  "target_date": "2025-09-18",
-  "model_confidence": 0.15,
-  "total_source_urls_count": 0,
-  "reason": "Cannot meet the TOOL & CONFIDENCE GATE (≥6 qualifying source URLs within 2025-09-11 to 2025-09-25 and model_confidence ≥0.95). The available tooling only supports ‘recent’ news search, which returns Dec 2025 items rather than Sept 2025, and attempts to scrape WhiteHouse.gov failed (“Node execution failed”), preventing verification of the itinerary/events and any same-day federal outlays."
+  "location": "Windsor Castle and Chequers, United Kingdom; en route London Stansted to Joint Base Andrews to the White House",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "category": "none",
+      "description": "The roll call describes an official overseas day: farewells at Windsor Castle, a bilateral meeting, business leaders reception, press conference, interview, and return flight from London Stansted to Joint Base Andrews and the White House. No in-window evidence provided here documents golf, resort leisure, or other recreational activity on 2025-09-18, so no leisure-specific federal outlay is counted for this date."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Sept. 18, 2025: $0 leisure cost. Trump’s day in the U.K. was official diplomacy at Windsor Castle and Chequers, followed by the return to Washington, with no documented recreational activity.",
+  "tags": [
+    "zero-cost-day",
+    "official-travel",
+    "united-kingdom",
+    "chequers",
+    "windsor-castle"
+  ],
+  "confidence_level": "high",
+  "source_urls": []
 }
