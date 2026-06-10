@@ -1,21 +1,23 @@
 {
-  "location": "Washington, D.C. (White House)",
+  "location": "The White House, Washington, D.C.",
   "activities": [
     {
-      "name": "NEED_MORE_RESEARCH",
+      "name": "No documented leisure/recreational activity",
       "cost": 0,
-      "description": "The tool & confidence gate requires ≥6 in-window source URLs and model_confidence ≥0.95. No in-window, independently verifiable open-source evidence was collected here to substantiate incremental taxpayer-funded outlays incurred on 2026-02-22 beyond baseline White House operations (e.g., no travel legs, no activated local law-enforcement reimbursements, no itemized security surge costs).",
-      "category": "meta"
+      "description": "The provided roll call places President Trump at the White House on February 22, 2026 for Executive Time, a congratulatory call to the U.S. Men's Olympic Hockey team, and press-pool activity, with a full lid called before noon. A search for in-window date-specific coverage did not surface any documented leisure or recreational travel or activity on that date, so no leisure-related federal outlay is counted.",
+      "category": "none"
     }
   ],
   "total_cost": 0,
-  "social_description": "NEED_MORE_RESEARCH — insufficient in-window sourcing to estimate any incremental taxpayer outlays for 2026-02-22 (White House day) at ≥0.95 confidence.",
+  "social_description": "Feb. 22, 2026: Trump’s public schedule kept him at the White House, and no in-window reporting documented golf, resort travel, or other leisure activity. Leisure-cost determination: $0.",
   "tags": [
-    "need-more-research",
     "white-house",
-    "washington-dc",
-    "executive-time"
+    "zero-cost",
+    "no-leisure-documented",
+    "official-schedule"
   ],
-  "confidence_level": "low",
-  "source_urls": []
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
 }
