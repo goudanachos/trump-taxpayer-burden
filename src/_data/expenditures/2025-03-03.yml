@@ -1,1 +1,23 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The March 3, 2025 schedule and roll call place President Trump at the White House for an investment announcement in the Roosevelt Room, with no travel to a resort, golf club, or other recreational venue. No in-window reporting located any leisure or recreational activity on this date, so no leisure-specific federal outlay is counted.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "March 3, 2025 was a $0 leisure-cost day: Trump stayed at the White House for official business, with no documented golf, resort trip, or other recreational activity.",
+  "tags": [
+    "zero-cost-day",
+    "white-house",
+    "official-business",
+    "no-leisure-documented"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
