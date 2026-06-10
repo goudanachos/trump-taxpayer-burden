@@ -1,27 +1,45 @@
 {
-  "location": "NEED_MORE_RESEARCH",
+  "location": "Mar-a-Lago, Trump International Golf Club West Palm Beach, Palm Beach International Airport, Joint Base Andrews, and the White House",
   "activities": [
     {
-      "name": "NEED_MORE_RESEARCH",
-      "cost": 0,
-      "description": "Unable to produce a compliant cost record for 2025-11-30 because the provided roll-call items (golf trip + return flight to Washington) are not corroborated by ≥2 independent, non-paywalled sources within the required publication window (target_date ± 7 days). Without verified flight times/legs and confirmed federal outlays incurred on the date, any cost estimate would be speculative.",
-      "category": "meta"
+      "name": "Motorcade travel for golf outing",
+      "cost": 10000,
+      "description": "The provided roll call documents a recreational golf outing on 2025-11-30, with departure from Mar-a-Lago at 9:32 AM, arrival at Trump International Golf Club West Palm Beach at 9:39 AM, departure from the club at 1:41 PM, and return to Mar-a-Lago at 1:49 PM. Using the benchmark for short local presidential motorcade trips, this assigns $5,000 each way for the two golf-related ground movements.",
+      "category": "ground-transport"
+    },
+    {
+      "name": "Off-site Secret Service and staff for leisure day",
+      "cost": 300000,
+      "description": "Because the President spent a substantial part of the day off-site at Mar-a-Lago and his golf club for documented recreational activity, this record applies the methodology’s peak off-site Secret Service and staff benchmark of $300,000 for the day.",
+      "category": "security"
+    },
+    {
+      "name": "Local law-enforcement assist",
+      "cost": 60000,
+      "description": "The Palm Beach-area golf outing and associated presidential motorcade movements are consistent with local police support and traffic-control activation, so this record applies the Palm Beach benchmark of about $60,000 for local law-enforcement assistance.",
+      "category": "local-security"
+    },
+    {
+      "name": "Return flight from Palm Beach to Washington",
+      "cost": 311225,
+      "description": "The roll call shows departure from Palm Beach International Airport at 3:44 PM and arrival at Joint Base Andrews at 5:29 PM, a flight time of about 1 hour 45 minutes. Using the VC-25A benchmark of $177,843 per flight hour with no additional support factor specified for this domestic leg, the estimated flight cost is $311,225.",
+      "category": "air-travel"
     }
   ],
-  "total_cost": 0,
-  "social_description": "NEED_MORE_RESEARCH",
+  "total_cost": 681225,
+  "social_description": "Nov. 30, 2025: Trump golfed in West Palm Beach, then flew from Palm Beach back to Washington. Estimated leisure-related transport and security cost for the day: about $681,225.",
   "tags": [
-    "need-more-research",
-    "insufficient-sourcing",
-    "roll-call-unverified"
+    "mar-a-lago",
+    "golf",
+    "west-palm-beach",
+    "air-force-one",
+    "joint-base-andrews",
+    "palm-beach"
   ],
-  "confidence_level": "low",
+  "confidence_level": "medium",
   "source_urls": [
-    "https://apnews.com/article/donald-trump-mri-physical-white-house-0c66f2f9fca865d842ee94329a210a42",
-    "https://www.wpbf.com/article/florida-norad-intercepts-private-plane-over-palm-beach-during-trumps-stay/69584732",
-    "https://www.messenger-inquirer.com/ap/ap_national_news/trump/image_98ec7501-03ee-5ea4-8cbb-61d171caddcc.html",
-    "https://www.wvnews.com/newsfeed/us/trump/image_685f647e-1faa-55f8-82fd-2fea86f4543e.html",
-    "https://www.thedailybeast.com/trump-doubles-down-on-offensive-remark-against-dem-foe/",
-    "https://dnyuz.com/2025/11/30/trumps-golf-habit-is-costing-taxpayers-a-fortune-report/"
-  ]
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.newsweek.com/trump-tariffs-botox-mar-a-lago-face-prices-iran-war-12040441"
+  ],
+  "social_title": "Nov. 30, 2025: Trump golfed in West Palm Beach and flew back to Washington at an estimated cost of about $681,225"
 }
