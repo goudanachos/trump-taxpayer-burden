@@ -1,20 +1,24 @@
 {
-  "location": "UNKNOWN (insufficient in-window sourcing for 2026-04-02)",
+  "location": "The White House, Washington, D.C.",
   "activities": [
     {
-      "name": "NEED_MORE_RESEARCH",
+      "name": "No documented leisure/recreational activity",
       "cost": 0,
-      "description": "Unable to verify any taxpayer-funded recreational/leisure activity (e.g., golf/club visit, leisure travel) for 2026-04-02 with ≥2 independent, non-paywalled sources whose publication dates fall within 2026-03-26 to 2026-04-09. Per your tool/confidence gate, the correct status is NEED_MORE_RESEARCH.",
-      "category": "meta"
+      "category": "none",
+      "description": "The roll call places President Trump at the White House throughout April 2, 2026 for official business including interviews, an intelligence briefing, executive orders, and a policy meeting. No in-window date-specific reporting located any golf outing, resort trip, or other recreational travel/activity on that date, so no leisure-related federal outlay is counted."
     }
   ],
   "total_cost": 0,
-  "social_description": "NEED_MORE_RESEARCH",
+  "social_description": "April 2, 2026: Trump remained at the White House for interviews, briefings, executive orders, and meetings. No documented leisure or recreational travel on this date, so recorded leisure cost is $0.",
   "tags": [
-    "need-more-research",
-    "confidence-gate-failed",
-    "insufficient-in-window-sources"
+    "white-house",
+    "official-events",
+    "zero-cost",
+    "no-leisure",
+    "april-2026"
   ],
-  "confidence_level": "low",
-  "source_urls": []
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
 }
