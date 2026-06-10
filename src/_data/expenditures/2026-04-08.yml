@@ -5,11 +5,11 @@
       "name": "No documented leisure/recreational activity",
       "cost": 0,
       "category": "none",
-      "description": "The roll call places President Trump at the White House throughout April 8, 2026 for official events including meetings, interviews, a NATO secretary general meeting, and a Freedom250 reception. A news search within the evidence window did not surface any date-specific reporting of golf, resort travel, or other leisure activity on that date, so no leisure-related federal outlay is counted."
+      "description": "The roll call places President Trump at the White House throughout April 8, 2026 for official events including a phone interview, meetings, a press briefing, an interview, a meeting with the NATO secretary general, and a Freedom250 reception. No in-window date-specific source here documents golf, resort travel, or other recreational activity on that date, so no leisure-related federal outlay is counted."
     }
   ],
   "total_cost": 0,
-  "social_description": "April 8, 2026: Trump stayed at the White House for official meetings, interviews, and a reception. No documented leisure or recreational travel on this date, so recorded leisure cost is $0.",
+  "social_description": "April 8, 2026: Trump remained at the White House for interviews, meetings, and a reception. No documented leisure or recreational travel on this date, so recorded leisure cost is $0.",
   "tags": [
     "white-house",
     "official-events",
