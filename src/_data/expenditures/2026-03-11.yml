@@ -4,8 +4,8 @@
     {
       "name": "No documented leisure/recreational activity",
       "cost": 0,
-      "category": "none",
-      "description": "The March 11, 2026 roll call shows President Trump beginning the day at the White House, traveling to Kentucky/Ohio for a Thermo Fisher Scientific site visit, interviews, and remarks at Verst Logistics, then returning to the White House that evening. These are official travel and public-event activities, with no documented leisure or recreational travel/activity on the date, so no leisure-specific federal outlay is counted."
+      "description": "The March 11, 2026 roll call shows President Trump beginning the day at the White House, traveling to Kentucky and Ohio for a Thermo Fisher Scientific site visit, interviews, and remarks at Verst Logistics, then returning to the White House that evening. These are official travel and public-event activities, with no documented leisure or recreational activity on the date, so no leisure-specific federal outlay is counted.",
+      "category": "none"
     }
   ],
   "total_cost": 0,
