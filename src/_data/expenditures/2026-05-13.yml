@@ -1,30 +1,26 @@
 {
-  "location": "Beijing, China (Four Seasons Hotel Beijing / Great Hall of the People)",
+  "location": "Beijing, China",
   "activities": [
     {
-      "name": "NEED_MORE_RESEARCH",
+      "name": "No documented leisure/recreational activity",
       "cost": 0,
-      "description": "In-window sources confirm President Trump arrived in Beijing on May 13, 2026 (ET) and proceeded to meetings at the Great Hall of the People. However, this appears to be official international travel rather than a leisure outing, and available public sources within the window do not provide auditable, attributable U.S. federal outlays incurred specifically on 2026-05-13 (US Eastern) (e.g., flight-hours attributable to that date, support-aircraft factors, or itemized federal spending). Under the rules, a defensible taxpayer-funded leisure-cost estimate for this date cannot be produced.",
-      "category": "meta"
+      "category": "none",
+      "description": "On 2026-05-13, the President arrived in Beijing, transferred to the Four Seasons Hotel Beijing, and later proceeded to the Great Hall of the People for a greeting and bilateral meeting with China's president. The available in-window schedule and contemporaneous coverage describe official diplomatic travel and meetings, with no documented golf, resort outing, or other leisure/recreational activity on the target date."
     }
   ],
   "total_cost": 0,
-  "social_description": "May 13, 2026: Trump arrived in Beijing and began official summit movements—no verifiable, attributable taxpayer-funded leisure outlays available in-window, so this day is flagged NEED_MORE_RESEARCH.",
+  "social_description": "May 13, 2026: Trump was in Beijing for official arrival, hotel transfer, and summit events with Xi Jinping. No in-window source documents leisure or recreational activity that day, so the leisure-cost record is $0.",
   "tags": [
-    "need-more-research",
-    "international-travel",
+    "zero-cost",
+    "official-travel",
     "beijing",
-    "official-schedule",
-    "insufficient-cost-detail"
+    "china",
+    "diplomacy"
   ],
-  "confidence_level": "low",
+  "confidence_level": "high",
   "source_urls": [
-    "https://www.cnbc.com/2026/05/13/trump-china-xi-beijing-meeting-ceos.html",
-    "https://www.bbc.com/news/live/cvgz8qverzqt",
-    "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-china-trip-xi-live-updates-rcna344529",
-    "https://www.theguardian.com/world/2026/may/13/trump-china-summit-xi-jinping-talks",
-    "https://www.cnn.com/politics/live-news/trump-china-visit-xi-meeting-hnk",
-    "https://www.npr.org/2026/05/15/nx-s1-5822512/trump-china-xi-summit-takeaways",
-    "https://www.c-span.org/"
+    "https://www.whitehouse.gov/videos/president-trump-arrives-at-the-great-hall-of-the-people-in-beijing-china/",
+    "https://www.reuters.com/world/china/trump-xi-set-beijing-talks-with-trade-truce-iran-war-stake-2026-05-13/",
+    "https://www.theguardian.com/world/2026/may/13/trump-china-summit-xi-jinping-talks"
   ]
 }
