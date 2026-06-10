@@ -5,11 +5,11 @@
       "name": "No documented leisure/recreational activity",
       "cost": 0,
       "category": "none",
-      "description": "On 2026-05-13, the President arrived in Beijing, transferred to the Four Seasons Hotel Beijing, and later proceeded to the Great Hall of the People for a greeting and bilateral meeting with China's president. The available in-window schedule and contemporaneous coverage describe official diplomatic travel and meetings, with no documented golf, resort outing, or other leisure/recreational activity on the target date."
+      "description": "On 2026-05-13, the President arrived at Beijing Capital International Airport, transferred to the Four Seasons Hotel Beijing, and later traveled to the Great Hall of the People for an official greeting and bilateral meeting with the president of China. In-window schedule information and contemporaneous reporting describe official diplomatic travel and meetings only, with no documented leisure or recreational activity on the target date."
     }
   ],
   "total_cost": 0,
-  "social_description": "May 13, 2026: Trump was in Beijing for official arrival, hotel transfer, and summit events with Xi Jinping. No in-window source documents leisure or recreational activity that day, so the leisure-cost record is $0.",
+  "social_description": "May 13, 2026: Trump was in Beijing for official arrival and diplomatic meetings with Xi Jinping. No in-window source documents leisure or recreational activity that day, so the leisure-cost record is $0.",
   "tags": [
     "zero-cost",
     "official-travel",
@@ -19,8 +19,10 @@
   ],
   "confidence_level": "high",
   "source_urls": [
+    "https://www.whitehouse.gov/videos/president-trump-arrives-in-china-for-a-state-visit/",
     "https://www.whitehouse.gov/videos/president-trump-arrives-at-the-great-hall-of-the-people-in-beijing-china/",
-    "https://www.reuters.com/world/china/trump-xi-set-beijing-talks-with-trade-truce-iran-war-stake-2026-05-13/",
-    "https://www.theguardian.com/world/2026/may/13/trump-china-summit-xi-jinping-talks"
+    "https://whitehouse.gov/videos/president-trump-participates-in-a-bilateral-meeting-with-the-president-of-china",
+    "https://www.reuters.com/world/china/trump-xi-set-second-day-talks-after-taiwan-warning-2026-05-14/",
+    "https://apnews.com/live/trump-administration-updates-05-15-2026"
   ]
 }
