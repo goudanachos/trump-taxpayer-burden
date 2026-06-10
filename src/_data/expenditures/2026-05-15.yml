@@ -4,7 +4,7 @@
     {
       "name": "No documented leisure/recreational activity",
       "cost": 0,
-      "description": "On May 15, 2026, President Trump concluded an official trip in Beijing with a bilateral lunch with Xi Jinping, departed China, stopped in Anchorage, continued to Joint Base Andrews, and returned to the White House that evening. The roll call and in-window coverage describe diplomatic and return travel only, with no documented golf, resort stay, private club visit, or other leisure/recreational activity on the target date, so no leisure outlay is counted.",
+      "description": "On May 15, 2026, President Trump concluded official meetings in Beijing, departed China, stopped in Anchorage, and returned to Joint Base Andrews and the White House that evening. The roll call documents diplomatic meetings and return travel only, with no documented golf, resort stay, private club visit, or other leisure/recreational activity on the target date, so no leisure outlay is counted.",
       "category": "none"
     }
   ],
@@ -19,9 +19,5 @@
     "international-trip"
   ],
   "confidence_level": "high",
-  "source_urls": [
-    "https://www.theguardian.com/us-news/2026/may/15/what-was-achieved-trump-xi-summit-beijing",
-    "https://www.whitehouse.gov/videos/president-trump-gaggles-with-press-on-air-force-one-en-route-anchorage-ak-may-15-2026/",
-    "https://www.whitehouse.gov/gallery/president-donald-j-trump-visits-zhongnanhai-and-departs-china-may-15th-2026/"
-  ]
+  "source_urls": []
 }
