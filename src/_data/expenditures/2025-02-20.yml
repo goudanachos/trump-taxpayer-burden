@@ -1,1 +1,24 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House and National Building Museum, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The roll call shows the President at the White House for an afternoon Black History Month reception, then a short evening trip to the National Building Museum to deliver remarks at the Republican Governors Association meeting before returning to the White House. These are documented official/political events, and no in-window source reviewed documents leisure or recreational activity on February 20, 2025, so no leisure-related federal outlay is counted.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Feb. 20, 2025 included White House events and an evening Republican Governors Association appearance in Washington, with no documented leisure or recreational activity; the leisure-cost total is $0.",
+  "tags": [
+    "washington-dc",
+    "white-house",
+    "official-business",
+    "zero-cost",
+    "no-leisure"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
