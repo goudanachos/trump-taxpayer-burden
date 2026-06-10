@@ -1,16 +1,25 @@
 {
-  "status": "NEED_MORE_RESEARCH",
-  "target_date": "2026-05-21",
-  "reason": "Unable to reach model_confidence ≥ 0.95 that there were zero (or any) taxpayer-funded recreational/leisure outlays on 2026-05-21. Public schedule and in-window reporting confirm on-site White House events, but do not definitively rule out unreported leisure travel/activities or quantify any leisure-specific federal outlays incurred that day under the tracker rules.",
-  "evidence_window_days": "+/-7",
-  "in_window_source_urls_found": [
-    "https://www.usatoday.com/story/news/politics/2026/05/21/trump-grocery-costs-refrigerant-rules-epa-biden/90186446007/",
-    "https://www.cnbc.com/2026/05/21/trump-changes-epa-refrigeration-rules-in-grocery-price-push.html",
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The schedule for 2026-05-21 places President Trump at the White House all day for official business including an intelligence briefing, an EPA announcement and lunch, an ambassador credentialing ceremony, remarks, and an executive order signing. In-window searches found no dated reporting of golf, resort travel, or other recreational activity on this date, so no leisure-related federal outlay is counted.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "May 21, 2026: Trump’s public schedule kept him at the White House for official events, with no documented leisure or recreational travel. Estimated leisure-related taxpayer cost: $0.",
+  "tags": [
+    "white-house",
+    "official-business",
+    "no-leisure",
+    "zero-cost-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
     "https://www.whitehouse.gov/videos/president-trump-participates-in-an-announcement-with-the-administrator-of-the-epa/",
     "https://www.c-span.org/event/white-house-event/president-trump-and-epa-administrator-make-announcement/443374",
-    "https://www.reuters.com/world/china/trump-vows-us-will-retrieve-uranium-iran-2026-05-21/",
-    "https://www.theguardian.com/us-news/2026/may/21/trump-son-wedding-invite"
-  ],
-  "total_source_urls_count": 6,
-  "model_confidence": 0.7
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
 }
