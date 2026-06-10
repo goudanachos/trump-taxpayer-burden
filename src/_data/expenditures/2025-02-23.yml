@@ -1,1 +1,23 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The roll call indicates no public events were scheduled and a full lid was called from the White House on February 23, 2025. No in-window date-specific source documents leisure or recreational travel or activity that day, so no leisure-related federal outlay is counted.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Feb. 23, 2025 showed no public events and no documented leisure or recreational activity; the leisure-cost total is $0.",
+  "tags": [
+    "white-house",
+    "no-public-events",
+    "zero-cost",
+    "no-leisure"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
