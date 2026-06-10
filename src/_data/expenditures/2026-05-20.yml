@@ -1,19 +1,26 @@
 {
-  "location": "NEED_MORE_RESEARCH",
+  "location": "The White House; Joint Base Andrews; Groton/New London, Connecticut",
   "activities": [
     {
-      "name": "NEED_MORE_RESEARCH",
+      "name": "No documented leisure/recreational activity",
       "cost": 0,
-      "description": "Gate not satisfied: required total_source_urls_count >= 6 and model_confidence >= 0.95 before computing taxpayer-funded leisure or travel outlays for 2026-05-20 (Groton/New London, CT trip). Additional research needed to obtain at least 2 independent in-window sources with sufficient operational details (aircraft type and flight hours; motorcade/ground legs; USSS/local LE activation) to estimate federal outlays incurred on the target date.",
-      "category": "research-gate"
+      "description": "On May 20, 2026, President Trump traveled from the White House to Joint Base Andrews and on to Groton/New London, Connecticut, to deliver the U.S. Coast Guard Academy commencement address, then returned to the White House the same afternoon. The roll call and in-window news coverage document official government travel and a military-academy commencement speech, with no in-window evidence of golf, resort time, private club visits, or other leisure/recreational activity, so no leisure outlay is counted.",
+      "category": "none"
     }
   ],
   "total_cost": 0,
-  "social_description": "NEED_MORE_RESEARCH",
+  "social_description": "May 20, 2026 was a $0 leisure-cost day: Trump made an official same-day trip to Connecticut for the Coast Guard Academy commencement and returned to the White House, with no documented recreational activity.",
   "tags": [
-    "need-more-research",
-    "gate-failed"
+    "zero-cost",
+    "official-travel",
+    "coast-guard-academy",
+    "connecticut",
+    "white-house"
   ],
-  "confidence_level": "low",
-  "source_urls": []
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/videos/president-trump-delivers-commencement-speech-to-united-states-coast-guard-%F0%9F%87%BA%F0%9F%87%B8/",
+    "https://apnews.com/article/trump-coast-guard-commencement-iran-war-ef5e353cd8a2cfdfe8e5dd798eecb7f2",
+    "https://www.pbs.org/newshour/politics/watch-live-trump-delivers-u-s-coast-guard-academy-commencement-address"
+  ]
 }
