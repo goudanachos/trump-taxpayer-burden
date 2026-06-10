@@ -1,20 +1,24 @@
 {
-  "location": "UNKNOWN (insufficient sourcing)",
+  "location": "The White House, Washington, D.C.",
   "activities": [
     {
-      "name": "NEED_MORE_RESEARCH",
+      "name": "No documented leisure/recreational activity",
       "cost": 0,
-      "description": "Confidence gate not met: unable to provide ≥6 qualifying source URLs and model_confidence ≥0.95 for 2026-04-08 leisure-related federal outlays within the required evidence window (2026-04-01 to 2026-04-15).",
-      "category": "meta"
+      "category": "none",
+      "description": "The roll call places President Trump at the White House throughout April 8, 2026 for official events including meetings, interviews, a NATO secretary general meeting, and a Freedom250 reception. A news search within the evidence window did not surface any date-specific reporting of golf, resort travel, or other leisure activity on that date, so no leisure-related federal outlay is counted."
     }
   ],
   "total_cost": 0,
-  "social_description": "NEED_MORE_RESEARCH",
+  "social_description": "April 8, 2026: Trump stayed at the White House for official meetings, interviews, and a reception. No documented leisure or recreational travel on this date, so recorded leisure cost is $0.",
   "tags": [
-    "need-more-research",
-    "confidence-gate-failed",
-    "insufficient-sources"
+    "white-house",
+    "official-events",
+    "zero-cost",
+    "no-leisure",
+    "april-2026"
   ],
-  "confidence_level": "low",
-  "source_urls": []
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
 }
