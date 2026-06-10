@@ -4,7 +4,7 @@
     {
       "name": "No documented leisure/recreational activity",
       "cost": 0,
-      "description": "The public schedule for 2026-05-21 places President Trump at the White House all day for official events, including an intelligence briefing, an EPA announcement and lunch, an ambassador credentialing ceremony, remarks, and an executive order signing. In-window searches found contemporaneous White House and press coverage of those official events but no dated reporting of golf, resort travel, or other recreational activity on this date, so no leisure-related federal outlay is counted.",
+      "description": "The public schedule for 2026-05-21 places President Trump at the White House all day for official events, including an intelligence briefing, an EPA announcement and lunch, an ambassador credentialing ceremony, remarks, and an executive order signing. Contemporaneous White House and press coverage matched those official events, and no in-window dated reporting documented golf, resort travel, or other recreational activity on this date, so no leisure-related federal outlay is counted.",
       "category": "none"
     }
   ],
@@ -21,7 +21,6 @@
     "https://www.whitehouse.gov/videos/president-trump-participates-in-an-announcement-with-the-administrator-of-the-epa/",
     "https://www.c-span.org/event/white-house-event/president-trump-and-epa-administrator-make-announcement/443374",
     "https://www.pbs.org/newshour/politics/watch-live-trump-zeldin-expected-to-announce-looser-rule-on-refrigerant-greenhouse-gases",
-    "https://www.whitehouse.gov/briefings-statements/",
-    "https://theguardian.com/us-news/2026/may/21/trump-son-wedding-invite"
+    "https://www.whitehouse.gov/briefings-statements/"
   ]
 }
