@@ -1,1 +1,21 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "Mar-a-Lago and Trump International Golf Club West Palm Beach, Florida",
+  "activities": [
+    {
+      "name": "Golf outing at Trump International Golf Club West Palm Beach",
+      "cost": 0,
+      "description": "Pool reports in the provided roll call place President Trump at Mar-a-Lago and then at Trump International Golf Club West Palm Beach for golf on February 8, 2025. Under the v3.1 determination policy, only documented federal leisure outlays are counted; with no sufficiently corroborated in-window, date-specific reporting to cost transport/security for this day, the record is entered as a zero-cost determination rather than refused.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Feb. 8, 2025: Trump was at Mar-a-Lago and played golf in West Palm Beach, but no adequately corroborated, date-specific federal leisure outlay was established for that day, so this record is entered at $0.",
+  "tags": [
+    "mar-a-lago",
+    "golf",
+    "zero-cost-determination",
+    "palm-beach"
+  ],
+  "confidence_level": "medium",
+  "source_urls": []
+}
