@@ -4,12 +4,12 @@
     {
       "name": "No documented leisure/recreational activity",
       "cost": 0,
-      "description": "The schedule for 2026-05-21 places President Trump at the White House all day for official business including an intelligence briefing, an EPA announcement and lunch, an ambassador credentialing ceremony, remarks, and an executive order signing. In-window searches found no dated reporting of golf, resort travel, or other recreational activity on this date, so no leisure-related federal outlay is counted.",
+      "description": "The 2026-05-21 public schedule places President Trump at the White House throughout the day for official events, including an intelligence briefing, an EPA announcement, lunch, an ambassador credentialing ceremony, remarks, and an executive order signing. In-window coverage found White House and press reports on those official events, but no dated reporting of golf, resort travel, or other recreational activity, so no leisure-related federal outlay is counted.",
       "category": "none"
     }
   ],
   "total_cost": 0,
-  "social_description": "May 21, 2026: Trump’s public schedule kept him at the White House for official events, with no documented leisure or recreational travel. Estimated leisure-related taxpayer cost: $0.",
+  "social_description": "May 21, 2026: Trump remained at the White House for official events, with no documented leisure or recreational travel. Estimated leisure-related taxpayer cost: $0.",
   "tags": [
     "white-house",
     "official-business",
@@ -20,6 +20,7 @@
   "source_urls": [
     "https://www.whitehouse.gov/videos/president-trump-participates-in-an-announcement-with-the-administrator-of-the-epa/",
     "https://www.c-span.org/event/white-house-event/president-trump-and-epa-administrator-make-announcement/443374",
+    "https://www.pbs.org/newshour/politics/watch-live-trump-zeldin-expected-to-announce-looser-rule-on-refrigerant-greenhouse-gases",
     "https://www.whitehouse.gov/briefings-statements/"
   ]
 }
