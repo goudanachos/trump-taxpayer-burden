@@ -1,30 +1,24 @@
 {
-  "location": "NEED_MORE_RESEARCH",
+  "location": "Trump National Doral Miami; Miami International Airport; Dover Air Force Base, Delaware",
   "activities": [
     {
-      "name": "NEED_MORE_RESEARCH",
+      "name": "Official travel from Miami to Dover and back",
       "cost": 0,
-      "description": "Evidence window met for confirming that President Trump was at Trump National Doral Miami for the Shield of the Americas summit and traveled to Dover AFB for a dignified transfer on 2026-03-07, but the available in-window sources do not provide enough operational detail to quantify federal outlays actually incurred on 2026-03-07 under the tracker’s rules (e.g., confirmed aircraft type(s) and billable flight-hours for each leg, support aircraft factor, Marine One usage, and itemized/confirmed Secret Service and activated local law-enforcement costs specific to that date).",
-      "category": "meta"
+      "category": "official-business",
+      "description": "The provided March 7, 2026 roll call shows President Trump starting the day at Trump National Doral Miami, delivering remarks at the Shield of the Americas Summit, then flying from Miami to Dover Air Force Base for a Dignified Transfer Ceremony before returning to Doral that evening. These movements and events are documented as official presidential business rather than leisure/recreational activity, so no leisure-specific federal outlay is counted under the methodology."
     }
   ],
   "total_cost": 0,
-  "social_description": "NEED_MORE_RESEARCH: Sources confirm Doral summit + Dover dignified transfer on 2026-03-07, but not enough operational detail to price taxpayer outlays for that day with high confidence.",
+  "social_description": "March 7, 2026: $0 in leisure costs. Trump was at Trump National Doral and traveled Miami–Dover–Miami for summit remarks and a dignified transfer ceremony, with no documented leisure activity on the date.",
   "tags": [
-    "need-more-research",
-    "insufficient-cost-detail",
+    "zero-cost",
+    "official-travel",
     "doral",
     "dover",
-    "air-force-one"
+    "no-leisure-documented"
   ],
-  "confidence_level": "low",
+  "confidence_level": "high",
   "source_urls": [
-    "https://www.whitehouse.gov/videos/president-trump-departs-to-dover-air-force-base-to-honor-the-fallen/",
-    "https://www.whitehouse.gov/videos/president-trump-gaggles-with-press-on-air-force-one-en-route-miami-fl-mar-7-2026/",
-    "https://www.state.gov/releases/office-of-the-spokesperson/2026/03/the-united-states-to-host-the-shield-of-the-americas-summit",
-    "https://www.cbsnews.com/news/trump-shield-of-the-americas-summit/",
-    "https://www.cbsnews.com/news/dignified-transfer-soldiers-killed-iran-trump-dover/",
-    "https://abcnews.go.com/US/trump-attend-dignified-transfer-6-fallen-service-members/story?id=130838735",
-    "https://www.c-span.org/event/white-house-event/president-trump-participates-in-shield-of-the-americas-summit/441084"
+    "https://www.whitehouse.gov/briefings-statements/"
   ]
 }
