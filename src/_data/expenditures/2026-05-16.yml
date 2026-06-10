@@ -4,7 +4,7 @@
     {
       "name": "Golf outing at Trump National Golf Club Washington D.C.",
       "cost": 360000,
-      "description": "The White House roll call shows President Trump left the White House at 10:57 AM for Trump National Golf Club Washington D.C., arrived at 11:32 AM, departed at 6:38 PM, and returned to the White House at 7:15 PM on May 16, 2026. Independent in-window coverage also documented that he spent the day at his Sterling, Virginia golf club. Estimated leisure cost uses the benchmark method for an off-site golf trip by motorcade: $300,000 for peak off-site Secret Service/staff support + $10,000 for local motorcade, plus incidentals capped at 15% of travel and security, rounded to the nearest $10,000.",
+      "description": "The White House roll call shows President Trump departed the White House at 10:57 AM, arrived at Trump National Golf Club Washington D.C. at 11:32 AM, left at 6:38 PM, and returned to the White House at 7:15 PM on May 16, 2026. Independent in-window sources also documented him at the club during the LIV Golf weekend in Sterling, Virginia. Estimated leisure cost uses the benchmark method for an off-site golf trip by motorcade: $300,000 for peak off-site Secret Service and staff support, $10,000 for local motorcade, and incidentals capped at 15% of travel plus security ($46,500), totaling $356,500 and rounded to $360,000.",
       "category": "golf"
     }
   ],
@@ -19,8 +19,8 @@
   ],
   "confidence_level": "high",
   "source_urls": [
-    "https://www.thedailybeast.com/trump-snubs-his-big-faith-event-to-go-golfing/",
+    "https://thedailybeast.com/trump-snubs-his-rededicate-250-event-in-dc-to-go-golfing-in-virginia",
     "https://www.whitehouse.gov/gallery/president-donald-j-trump-watches-the-liv-golf-tournament-at-trump-national-golf-club-washington-d-c/"
   ],
-  "social_title": "May 16, 2026: Trump spent much of the day at Trump National Golf Club in Sterling, Virginia, with an estimated taxpayer leisure cost of about $360,000."
+  "social_title": "May 16, 2026: Trump spent much of the day at Trump National Golf Club in Sterling, Virginia, with an estimated taxpayer cost of about $360,000."
 }
