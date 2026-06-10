@@ -1,1 +1,26 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "Palm Beach, Florida; Trump International Golf Club West Palm Beach; return flight to Washington, D.C.",
+  "activities": [
+    {
+      "name": "Golf outing at Trump International Golf Club West Palm Beach with same-day return to Washington",
+      "cost": 904000,
+      "description": "Pool reports for March 2, 2025 place President Trump at Mar-a-Lago in the morning, traveling to Trump International Golf Club West Palm Beach for golf, then returning to Mar-a-Lago before departing Palm Beach for Joint Base Andrews and the White House that evening. Using the provided methodology for a leisure day with a Palm Beach off-site stay and same-day domestic Air Force One return, the estimate includes roughly 2.0 flight hours on VC-25A with a 0.5 support factor (about $533,529), peak off-site Secret Service/staff costs ($300,000), activated local law-enforcement assistance in Palm Beach ($60,000), and a short local motorcade estimate ($10,000), rounded to the nearest thousand.",
+      "category": "golf-travel"
+    }
+  ],
+  "total_cost": 904000,
+  "social_description": "March 2, 2025: Trump golfed at his West Palm Beach club and then flew back to Washington. Estimated leisure-related taxpayer cost: about $904K.",
+  "tags": [
+    "golf",
+    "mar-a-lago",
+    "west-palm-beach",
+    "air-force-one",
+    "leisure-travel"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.theguardian.com/us-news/2025/mar/09/trump-golf-trips",
+    "https://www.whitehouse.gov/briefings-statements/"
+  ],
+  "social_title": "March 2, 2025: Trump’s golf outing in West Palm Beach with same-day return to Washington was estimated to cost about $904,000"
+}
