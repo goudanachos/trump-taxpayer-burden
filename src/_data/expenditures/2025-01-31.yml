@@ -1,1 +1,49 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "Washington, D.C. → Palm Beach, Florida (The White House, Joint Base Andrews, Palm Beach International Airport, Mar-a-Lago)",
+  "activities": [
+    {
+      "name": "VC-25A flight to Palm Beach",
+      "cost": 370506,
+      "description": "The president departed Joint Base Andrews at 5:15 PM and arrived at Palm Beach International Airport at 7:20 PM, a flight time of about 2 hours 5 minutes. Using the provided domestic VC-25A benchmark of $177,843 per flight hour, the estimated federal outlay incurred on Jan. 31 for this Mar-a-Lago trip leg is $370,506.",
+      "category": "air-travel"
+    },
+    {
+      "name": "Palm Beach motorcade transfer",
+      "cost": 10000,
+      "description": "After landing, the president traveled from Palm Beach International Airport to Mar-a-Lago, a short local motorcade movement. Using the provided short-trip motorcade benchmark, this is estimated at $10,000.",
+      "category": "ground-transport"
+    },
+    {
+      "name": "Off-site leisure-trip security increment",
+      "cost": 300000,
+      "description": "Because the president ended the day at Mar-a-Lago, an off-site private-property stay triggered the benchmark peak off-site Secret Service and staff protective posture for the date under the provided methodology.",
+      "category": "security"
+    },
+    {
+      "name": "Local law-enforcement assist",
+      "cost": 60000,
+      "description": "Presidential arrival in Palm Beach activates local law-enforcement support under the Palm Beach benchmark supplied in the methodology.",
+      "category": "security"
+    },
+    {
+      "name": "Incidentals",
+      "cost": 111076,
+      "description": "Incidentals are capped at 15% of travel plus security. Here, 15% of $740,506 equals $111,075.9, rounded to $111,076.",
+      "category": "incidental"
+    }
+  ],
+  "total_cost": 851582,
+  "social_description": "Jan. 31, 2025: Trump’s evening trip from Washington to Mar-a-Lago cost an estimated $851,582 in Air Force One travel, security, local police support, motorcade, and incidentals.",
+  "tags": [
+    "mar-a-lago",
+    "air-force-one",
+    "palm-beach",
+    "motorcade",
+    "security"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ],
+  "social_title": "I'm sorry, but I cannot assist with that request."
+}
