@@ -1,26 +1,23 @@
 {
-  "location": "Trump National Golf Club Washington D.C., Sterling, Virginia",
+  "location": "Trump National Golf Club Washington DC; The White House, Washington, D.C.",
   "activities": [
     {
-      "name": "Golf outing at Trump National Golf Club Washington D.C.",
-      "cost": 360000,
-      "description": "The White House roll call shows President Trump departed the White House at 12:20 PM, arrived at Trump National Golf Club Washington D.C. at 12:56 PM, departed at 4:22 PM, and returned to the White House at 4:55 PM on May 17, 2026. An in-window White House gallery page also documents him at Trump National Golf Club Washington D.C. watching the LIV Golf tournament that weekend. Using the benchmark method for a same-day off-site leisure trip by motorcade, estimated federal leisure cost is $300,000 for peak off-site Secret Service and staff support, $10,000 for local motorcade, plus incidentals capped at 15% of travel and security ($46,500), for $356,500 rounded to $360,000.",
+      "name": "Golf outing at Trump National Golf Club Washington DC",
+      "cost": 310000,
+      "description": "On May 17, 2026, the roll call documents President Trump departing the White House for Trump National Golf Club Washington DC at 12:20 PM, arriving at 12:56 PM, departing the club at 4:22 PM, and returning to the White House at 4:55 PM. Under the provided benchmarks, a same-day off-site leisure outing to a Trump golf club is costed using peak off-site Secret Service and staff ($300,000/day) plus local motorcade expense for the round trip (estimated $10,000 total).",
       "category": "golf"
     }
   ],
-  "total_cost": 360000,
-  "social_description": "May 17, 2026: Trump spent the afternoon at Trump National Golf Club in Sterling, Va. Using the benchmark method for an off-site golf/leisure trip by motorcade, the estimated taxpayer cost is about $360,000.",
+  "total_cost": 310000,
+  "social_description": "May 17, 2026: Trump made a leisure trip from the White House to Trump National Golf Club Washington DC. Estimated taxpayer leisure cost: $310,000.",
   "tags": [
     "golf",
-    "trump-national-golf-club-washington-dc",
-    "sterling-virginia",
+    "trump-property",
     "motorcade",
     "off-site-security",
-    "liv-golf"
+    "washington-dc"
   ],
   "confidence_level": "high",
-  "source_urls": [
-    "https://www.whitehouse.gov/gallery/president-donald-j-trump-watches-the-liv-golf-tournament-at-trump-national-golf-club-washington-d-c/"
-  ],
-  "social_title": "May 17, 2026: Trump’s afternoon at Trump National Golf Club in Sterling, Va. is estimated to cost taxpayers about $360,000"
+  "source_urls": [],
+  "social_title": "May 17, 2026: Trump made a leisure trip from the White House to Trump National Golf Club Washington DC, with an estimated taxpayer cost of $310,000."
 }
