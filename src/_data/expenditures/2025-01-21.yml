@@ -1,1 +1,25 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House and Washington National Cathedral, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The available schedule for January 21, 2025 shows President Trump returning from the overnight inaugural ball to the White House, attending a National Cathedral service, and later making an infrastructure announcement at the White House. These were official/public duties, and no in-window source documents leisure or recreational travel or activity on this date, so no leisure-related federal outlay is counted.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Jan. 21, 2025 was a $0 leisure-cost day: Trump returned to the White House, attended a National Cathedral service, and made an infrastructure announcement—no documented recreational travel or activity.",
+  "tags": [
+    "zero-cost",
+    "official-business",
+    "white-house",
+    "national-cathedral",
+    "no-leisure-documented"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://rollcall.com/factbase/trump/topic/calendar/"
+  ]
+}
