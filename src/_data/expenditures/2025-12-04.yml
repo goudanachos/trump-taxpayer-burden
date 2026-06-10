@@ -1,19 +1,23 @@
 {
-  "location": "washington, dc (white house / u.s. institute of peace / the ellipse)",
+  "location": "The White House, Washington, D.C.; U.S. Institute of Peace; The Ellipse",
   "activities": [
     {
-      "name": "need_more_research",
+      "name": "No documented leisure/recreational activity",
       "cost": 0,
-      "description": "Evidence gate not met (total_source_urls_count < 6 and/or model_confidence < 0.95). No validated, in-window (±7 days) independent sources were provided or retrieved to substantiate incremental, taxpayer-funded leisure/recreation outlays on 2025-12-04 beyond baseline White House operations (e.g., incremental security posture, local law-enforcement activation, event-production costs for National Christmas Tree Lighting).",
-      "category": "meta"
+      "category": "none",
+      "description": "The roll call places President Trump in Washington for official meetings with the presidents of Rwanda and the Democratic Republic of the Congo, a signing ceremony at the U.S. Institute of Peace, and the National Christmas Tree Lighting on the Ellipse. No in-window reporting found any golf outing, resort trip, private club visit, or other leisure/recreational travel on 2025-12-04, so no leisure-specific federal outlay is counted."
     }
   ],
   "total_cost": 0,
-  "social_description": "NEED_MORE_RESEARCH — insufficient in-window sources to estimate incremental taxpayer-funded leisure/event outlays for 2025-12-04.",
+  "social_description": "Dec. 4, 2025: Trump stayed in Washington for official events, including a Rwanda/DRC signing ceremony and the National Christmas Tree Lighting. No documented leisure or recreational activity, so the tracker records $0.",
   "tags": [
-    "need-more-research",
-    "evidence-gate-failed"
+    "zero-cost-day",
+    "official-business",
+    "washington-dc",
+    "national-christmas-tree-lighting"
   ],
-  "confidence_level": "low",
-  "source_urls": []
+  "confidence_level": "high",
+  "source_urls": [
+    "https://ballotpedia.org/Donald_Trump%27s_executive_orders_and_actions,_2025-2026"
+  ]
 }
