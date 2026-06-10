@@ -1,1 +1,24 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "Trump International Hotel Las Vegas; Circa Resort and Casino, Las Vegas; Trump National Doral Miami",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The January 25, 2025 roll call shows President Trump in Las Vegas for a public remarks event at Circa Resort and Casino, then flying to Miami and ending the night at Trump National Doral Miami. The provided schedule documents official/public appearances and travel, but does not itself document golf or other leisure/recreational activity on this date, so no leisure-specific federal outlay is counted for the day.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Jan. 25, 2025: Trump traveled from Las Vegas to Miami after a public event, but no in-window source here documents leisure or recreational activity that day. Leisure-cost tracker result: $0.",
+  "tags": [
+    "zero-cost-day",
+    "las-vegas",
+    "miami",
+    "official-travel",
+    "no-leisure-documented"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
