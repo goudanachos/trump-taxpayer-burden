@@ -4,12 +4,12 @@
     {
       "name": "Attendance at LIV Golf tournament at Trump National Golf Club Washington D.C.",
       "cost": 320000,
-      "description": "The White House roll call shows the President departing the White House at 2:07 PM on 2026-05-09, arriving at Trump National Golf Club Washington D.C. at 2:20 PM, remaining there for the LIV Golf tournament, and returning to the White House at 6:10 PM. An in-window White House gallery page independently documents that he watched the LIV Golf tournament at the club that weekend. Under the benchmark method, this leisure outing is estimated as peak off-site Secret Service/staff costs of $300,000 plus two short local motorcade legs at $10,000 each, totaling $320,000.",
+      "description": "The White House roll call shows the President departing the White House at 2:07 PM on 2026-05-09, arriving at Trump National Golf Club Washington D.C. at 2:20 PM, remaining there to attend the LIV Golf tournament, and returning to the White House at 6:10 PM. An independent in-window news report and a White House gallery page both document his presence at the LIV Golf event at the Sterling club that weekend. Using the benchmark method, this leisure outing is estimated as $300,000 for peak off-site Secret Service/staff coverage plus two short local motorcade legs at $10,000 each, totaling $320,000.",
       "category": "golf"
     }
   ],
   "total_cost": 320000,
-  "social_description": "May 9, 2026: Trump attended the LIV Golf tournament at his Sterling golf club. Estimated taxpayer leisure cost: $320,000, driven by off-site security and round-trip motorcade travel.",
+  "social_description": "May 9, 2026: Trump attended the LIV Golf tournament at his Sterling, Virginia club. Estimated taxpayer leisure cost: $320,000 for off-site security and round-trip motorcade travel.",
   "tags": [
     "golf",
     "liv-golf",
@@ -21,7 +21,8 @@
   "confidence_level": "high",
   "source_urls": [
     "https://www.whitehouse.gov/briefings-statements/",
-    "https://www.whitehouse.gov/gallery/president-donald-j-trump-watches-the-liv-golf-tournament-at-trump-national-golf-club-washington-d-c/"
+    "https://www.whitehouse.gov/gallery/president-donald-j-trump-watches-the-liv-golf-tournament-at-trump-national-golf-club-washington-d-c/",
+    "https://m.economictimes.com/news/international/world-news/trump-and-son-eric-seen-at-liv-golf-tournament-at-trump-national-golf-club-amid-west-asia-tensions/videoshow/131001791.cms"
   ],
-  "social_title": "May 9, 2026: Trump attended the LIV Golf tournament at Trump National Golf Club Washington D.C. in Sterling, Virginia, with estimated taxpayer costs of $320,000"
+  "social_title": "May 9, 2026: Trump attended the LIV Golf tournament at Trump National Golf Club Washington D.C. in Sterling, Virginia; estimated taxpayer cost was $320,000"
 }
