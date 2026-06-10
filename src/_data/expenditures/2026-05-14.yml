@@ -1,29 +1,26 @@
 {
-  "location": "Beijing, China (Four Seasons Hotel / Great Hall of the People / Temple of Heaven)",
+  "location": "Beijing, China",
   "activities": [
     {
-      "name": "NEED_MORE_RESEARCH",
+      "name": "No documented leisure/recreational activity",
       "cost": 0,
-      "description": "Available in-window reporting confirms the President’s movements in Beijing (Great Hall of the People meetings and state banquet; Temple of Heaven visit; media interviews), but does not provide enough sourced, date-specific evidence to attribute taxpayer-funded *outlays actually incurred on 2026-05-14* (e.g., flight hours, U.S.-funded vs host-nation-provided motorcade/security, per-diem/hotel charges, reimbursable law-enforcement costs). Under the evidence-window and ‘federal outlays incurred on target_date’ rules, this entry is therefore left at $0 pending additional documentation (e.g., official travel logs, DoD/USSS cost data, contracting/invoice records, or contemporaneous White House disclosure).",
-      "category": "research-gate"
+      "description": "On May 14, 2026, President Trump was in Beijing for official state-visit events including a tour of the Temple of Heaven with Xi Jinping, a media interview at the Four Seasons Hotel Beijing, and a state banquet at the Great Hall of the People. The roll call and in-window coverage document diplomatic and ceremonial activities only, with no evidence of golf, resort leisure, private club use, or other recreational activity, so no leisure outlay is counted.",
+      "category": "none"
     }
   ],
   "total_cost": 0,
-  "social_description": "NEED_MORE_RESEARCH",
+  "social_description": "May 14, 2026 was a $0 leisure-cost day: Trump spent the day in Beijing on official state-visit events, with no documented recreational activity.",
   "tags": [
-    "need-more-research",
-    "insufficient-cost-evidence",
-    "international-trip",
-    "beijing"
+    "zero-cost",
+    "official-travel",
+    "beijing",
+    "state-visit",
+    "china"
   ],
-  "confidence_level": "low",
+  "confidence_level": "high",
   "source_urls": [
-    "https://www.bbc.com/news/articles/cdxp0g4q3q2o",
-    "https://www.channelnewsasia.com/east-asia/trump-xi-china-summit-beijing-temple-heaven-symbolism-6120621",
-    "https://www.cnbc.com/2026/05/14/trump-xi-beijing-summit-trade-taiwan-ai-iran-rare-earths-tariffs.html",
-    "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-china-trip-xi-live-updates-rcna344529",
-    "https://www.cnn.com/politics/live-news/trump-china-visit-xi-meeting-hnk",
-    "https://apnews.com/live/trump-administration-updates-05-15-2026",
-    "https://hannity.com/media-room/full-interview-sean-hannity-sits-down-with-president-trump-in-beijing-watch-now"
+    "https://www.whitehouse.gov/videos/president-trump-visits-the-temple-of-heaven-with-the-president-of-the-peoples-republic-of-china/",
+    "https://www.whitehouse.gov/videos/president-trump-participates-in-a-state-banquet-with-the-president-of-the-peoples-republic-of-china/",
+    "https://www.bbc.com/news/articles/cdxp0g4q3q2o"
   ]
 }
