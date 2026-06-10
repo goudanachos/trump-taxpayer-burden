@@ -1,7 +1,22 @@
 {
-  "status": "NEED_MORE_RESEARCH",
-  "target_date": "2025-12-05",
-  "reason": "Confidence gate not met: the record requires ≥6 in-window (±7 days) source URLs and model_confidence ≥0.95. No validated, independently corroborated, in-window sources have been collected for the FIFA World Cup Drawing/‘FIFA Peace Prize’ event, the Kennedy Center tour/meeting, or the Andrea Bocelli East Room concert, nor for any itemized incremental federal outlays (motorcade/security/event-production) incurred specifically on 2025-12-05. Any cost estimate would be speculative under the ‘actual outlays on the target_date’ rule.",
-  "total_source_urls_count": 0,
-  "model_confidence": 0.6
+  "location": "The White House and John F. Kennedy Center for the Performing Arts, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "category": "none",
+      "description": "The roll call places President Trump in Washington for an intelligence briefing, a FIFA-related event and meetings at the Kennedy Center, executive orders at the White House, and an Andrea Bocelli concert in the East Room. No in-window source or schedule detail documents a golf outing, resort trip, private club visit, or other leisure/recreational travel that would trigger countable leisure-specific federal outlays."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Dec. 5, 2025: Trump remained in Washington for White House and Kennedy Center events. No documented leisure or recreational travel, so the tracker records $0.",
+  "tags": [
+    "zero-cost-day",
+    "official-business",
+    "washington-dc",
+    "kennedy-center",
+    "white-house"
+  ],
+  "confidence_level": "high",
+  "source_urls": []
 }
