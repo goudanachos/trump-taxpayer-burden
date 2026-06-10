@@ -1,29 +1,23 @@
 {
-  "location": "Rome, Georgia (day trip from Washington, D.C.)",
+  "location": "Rome, Georgia; Washington, D.C.",
   "activities": [
     {
-      "name": "NEED_MORE_RESEARCH",
+      "name": "Official domestic travel to Rome, Georgia event",
       "cost": 0,
-      "description": "Insufficient verified, in-window documentation to estimate taxpayer-funded outlays on 2026-02-19 at ≥0.95 confidence. While multiple in-window news reports confirm President Trump traveled to Rome, GA and spoke at Coosa Steel (including arriving aboard Air Force One), the sources scraped do not provide the operational details needed to price same-day federal outlays (e.g., verified flight hours by tail/route, support aircraft/support_factor, use of Marine One vs. motorcade legs, Secret Service off-site surge level, and whether/extent local law-enforcement activation costs were incurred and reimbursed on the target date).",
-      "category": "meta"
+      "description": "The schedule shows President Trump traveling from the White House to the U.S. Institute of Peace, then by air to Rome, Georgia for a local business visit, podcast interview, factory tour, and economic remarks before returning to Washington that evening. These are documented official/public events rather than leisure or recreational activity, so no leisure-related federal outlay is counted for this tracker.",
+      "category": "none"
     }
   ],
   "total_cost": 0,
-  "social_description": "NEED_MORE_RESEARCH — confirmed Rome, GA trip and Coosa Steel stop on 2026-02-19, but not enough verified operational detail to compute federal leisure/travel outlays with ≥0.95 confidence.",
+  "social_description": "Feb. 19, 2026: Trump made an official trip to Rome, Georgia for public events and remarks, then returned to the White House. No documented leisure or recreational activity, so leisure-cost determination: $0.",
   "tags": [
-    "need-more-research",
-    "insufficient-data",
-    "rome-ga",
-    "coosa-steel",
-    "air-force-one"
+    "official-travel",
+    "rome-georgia",
+    "zero-cost",
+    "no-leisure-documented"
   ],
-  "confidence_level": "low",
+  "confidence_level": "high",
   "source_urls": [
-    "https://www.11alive.com/article/news/politics/president-donald-trump-georgia-visit-thursday-remarks-coosa-steel/85-6ede24f6-2983-4384-b5db-fab92300af39",
-    "https://www.fox5atlanta.com/news/president-donald-trump-rome-economy-elections-mtg",
-    "https://www.gpb.org/news/2026/02/20/trump-visits-georgia-target-of-his-election-falsehoods-republicans-look-for-midterm",
-    "https://thehill.com/homenews/administration/5746655-trump-defends-tariffs-georgia/",
-    "https://www.cnn.com/politics/live-news/trump-administration-news-02-19-26",
-    "https://www.cbsnews.com/atlanta/news/trump-in-rome-touts-affordability-fix-as-local-democrats-business-owners-push-back/"
+    "https://www.whitehouse.gov/briefings-statements/"
   ]
 }
