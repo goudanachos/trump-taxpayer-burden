@@ -1,1 +1,23 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The roll call places the President at the White House on February 21, 2025 for a governors working session, a lunch with the Vice President, a ceremonial swearing-in, and executive orders before a full lid. No in-window date-specific source documents leisure or recreational travel or activity on this date, so no leisure-related federal outlay is counted.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Feb. 21, 2025 was a White House workday with meetings, a swearing-in, and executive orders; no documented leisure or recreational activity, so the leisure-cost total is $0.",
+  "tags": [
+    "white-house",
+    "official-business",
+    "zero-cost",
+    "no-leisure"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
