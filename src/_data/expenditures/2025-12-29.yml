@@ -1,21 +1,24 @@
 {
-  "location": "Palm Beach, Florida (Mar-a-Lago)",
+  "location": "Mar-a-Lago, Palm Beach, Florida",
   "activities": [
     {
-      "name": "NEED_MORE_RESEARCH",
+      "name": "No documented leisure/recreational activity",
       "cost": 0,
-      "description": "Evidence gate not satisfied: unable to confirm ≥6 independent, in-window (2025-12-22 to 2026-01-05) non-paywalled sources documenting the 2025-12-29 Mar-a-Lago bilateral with Israel’s prime minister and any same-day leisure-related movements, and therefore cannot estimate federal outlays incurred on 2025-12-29 under the tracker’s rules.",
-      "category": "research-gate"
+      "description": "The day’s schedule and roll call place President Trump at Mar-a-Lago for a telephone interview, a bilateral meeting with the prime minister of Israel, remarks to reporters, and a joint press event, followed by a full lid at 4:31 PM. No in-window source located here documents a golf outing, resort transfer, flight leg, or other leisure/recreational activity on 2025-12-29, so no leisure-specific federal outlay is counted for this date.",
+      "category": "none"
     }
   ],
   "total_cost": 0,
-  "social_description": "NEED_MORE_RESEARCH — insufficient in-window sourcing to cost 2025-12-29 Mar-a-Lago schedule under tracker rules.",
+  "social_description": "Dec. 29, 2025: Trump was at Mar-a-Lago for interviews and diplomatic events with Israel’s prime minister, with no documented leisure outing, so the tracker records a $0 leisure-cost day.",
   "tags": [
-    "need-more-research",
-    "insufficient-sourcing",
     "mar-a-lago",
-    "bilateral-meeting"
+    "zero-cost-day",
+    "official-business",
+    "palm-beach"
   ],
-  "confidence_level": "low",
-  "source_urls": []
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.firstpost.com/world/trump-netanyahu-warning-israel-iran-war-west-asia-conflict-nuclear-deal-peace-talks-14020325.html"
+  ]
 }
