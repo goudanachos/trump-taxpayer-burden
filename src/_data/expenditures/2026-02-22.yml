@@ -4,12 +4,12 @@
     {
       "name": "No documented leisure/recreational activity",
       "cost": 0,
-      "description": "The provided roll call places President Trump at the White House on February 22, 2026 for Executive Time, a congratulatory call to the U.S. Men's Olympic Hockey team, and press-pool activity, with a full lid called before noon. A search for in-window date-specific coverage did not surface any documented leisure or recreational travel or activity on that date, so no leisure-related federal outlay is counted.",
+      "description": "The provided roll call places President Trump at the White House on February 22, 2026 for Executive Time, a congratulatory call to the U.S. Men's Olympic Hockey team, and press-pool activity, with a full lid called before noon. No in-window date-specific source documents any leisure or recreational travel or activity on that date, so no leisure-related federal outlay is counted.",
       "category": "none"
     }
   ],
   "total_cost": 0,
-  "social_description": "Feb. 22, 2026: Trump’s public schedule kept him at the White House, and no in-window reporting documented golf, resort travel, or other leisure activity. Leisure-cost determination: $0.",
+  "social_description": "Feb. 22, 2026: Trump remained at the White House for executive time and calls, with no documented leisure or recreational activity. Leisure-cost determination: $0.",
   "tags": [
     "white-house",
     "zero-cost",
