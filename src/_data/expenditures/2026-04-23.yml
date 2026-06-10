@@ -5,14 +5,15 @@
       "name": "No documented leisure/recreational activity",
       "cost": 0,
       "category": "none",
-      "description": "The day’s roll call places President Trump at the White House for executive time, an intelligence briefing, signing time, a health care event, a policy meeting, and an Oval Office announcement, followed by a private dinner at the United States Institute of Peace and return to the White House. These are documented official or non-recreational movements in Washington, with no in-window source showing golf, resort travel, or other leisure activity that would trigger a leisure-cost estimate."
+      "description": "The provided roll call shows President Trump at the White House for executive time, an intelligence briefing, signing time, a health care event, a policy meeting, and an Oval Office announcement, followed by an evening private dinner at the United States Institute of Peace and a return to the White House. No in-window source located any golf outing, resort trip, or other leisure/recreational activity on April 23, 2026, so no leisure-related federal outlay is counted."
     }
   ],
   "total_cost": 0,
-  "social_description": "April 23, 2026: no documented leisure or recreational travel. Trump remained on an official Washington schedule centered on the White House and an evening event at the U.S. Institute of Peace, so counted leisure cost is $0.",
+  "social_description": "April 23, 2026 was a zero-cost leisure day: Trump’s documented schedule stayed in Washington for White House business and an evening event at the U.S. Institute of Peace, with no reported recreational travel or activity.",
   "tags": [
     "white-house",
     "washington-dc",
+    "united-states-institute-of-peace",
     "no-leisure-documented",
     "zero-cost-day"
   ],
