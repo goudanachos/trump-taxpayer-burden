@@ -1,1 +1,25 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "Washington, North Carolina, California, and Las Vegas official travel itinerary ending at Trump International Hotel Las Vegas",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The January 24, 2025 roll call shows President Trump traveling on official business: departing the White House, receiving a Hurricane Helene recovery briefing in North Carolina, touring Pacific Palisades fire damage in California, then ending the evening at Trump International Hotel Las Vegas. Although the overnight location was a Trump property, the in-window schedule provided documents official disaster-response travel rather than golf or other leisure/recreational activity on this date, so no leisure-specific federal outlay is counted.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Jan. 24, 2025: Trump spent the day on official disaster-response travel in North Carolina and California before ending the evening in Las Vegas. No documented leisure activity that day, so the leisure-cost finding is $0.",
+  "tags": [
+    "zero-cost-day",
+    "official-travel",
+    "north-carolina",
+    "california",
+    "las-vegas",
+    "no-leisure-documented"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
