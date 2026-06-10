@@ -2,23 +2,25 @@
   "location": "Trump National Doral Miami; Miami International Airport; Dover Air Force Base, Delaware",
   "activities": [
     {
-      "name": "Official travel from Miami to Dover and back",
-      "cost": 0,
-      "category": "official-business",
-      "description": "The provided March 7, 2026 roll call shows President Trump starting the day at Trump National Doral Miami, delivering remarks at the Shield of the Americas Summit, then flying from Miami to Dover Air Force Base for a Dignified Transfer Ceremony before returning to Doral that evening. These movements and events are documented as official presidential business rather than leisure/recreational activity, so no leisure-specific federal outlay is counted under the methodology."
+      "name": "Leisure stay at Trump National Doral Miami with official side trip to Dover",
+      "cost": 320000,
+      "description": "On March 7, 2026, the president’s roll call places him based at Trump National Doral Miami, a Trump resort property, before and after an official round-trip flight to Dover Air Force Base for a dignified transfer ceremony. Because the day is anchored at an off-site Trump leisure property ('Summary: trump property') and includes resort-to-airport and return motorcade movements, the methodology counts the leisure-specific burden actually incurred on this date as off-site Secret Service and staff ($300,000) plus local motorcade costs ($10,000). The Miami↔Dover flight legs are tied to the official Dover ceremony rather than leisure activity, so they are not included as leisure outlays for this date.",
+      "category": "leisure"
     }
   ],
-  "total_cost": 0,
-  "social_description": "March 7, 2026: $0 in leisure costs. Trump was at Trump National Doral and traveled Miami–Dover–Miami for summit remarks and a dignified transfer ceremony, with no documented leisure activity on the date.",
+  "total_cost": 320000,
+  "social_description": "March 7, 2026: estimated $320,000 leisure-cost day. Trump remained based at Trump National Doral Miami, so benchmarked off-site security and local motorcade costs apply, even though his Miami–Dover–Miami flight was for an official ceremony.",
   "tags": [
-    "zero-cost",
-    "official-travel",
+    "trump-property",
     "doral",
-    "dover",
-    "no-leisure-documented"
+    "leisure",
+    "off-site-security",
+    "motorcade",
+    "mixed-official-and-leisure"
   ],
-  "confidence_level": "high",
+  "confidence_level": "medium",
   "source_urls": [
     "https://www.whitehouse.gov/briefings-statements/"
-  ]
+  ],
+  "social_title": "March 7, 2026: estimated $320,000 leisure-cost day at Trump National Doral Miami, with off-site security and local motorcade costs included"
 }
