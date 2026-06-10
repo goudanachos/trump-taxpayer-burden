@@ -1,1 +1,26 @@
-"NEED_MORE_RESEARCH"
+{
+  "location": "Mar-a-Lago and Trump International Golf Club West Palm Beach, Palm Beach, Florida",
+  "activities": [
+    {
+      "name": "Golf outing at Trump International Golf Club West Palm Beach",
+      "cost": 370000,
+      "description": "The March 1, 2025 pool schedule places President Trump at Mar-a-Lago, traveling by motorcade to Trump International Golf Club West Palm Beach at 9:02 a.m., remaining there for golf until 3:32 p.m., and returning to Mar-a-Lago. Under the provided leisure-cost methodology, this Palm Beach off-site golf day is estimated from peak off-site Secret Service/staff protection ($300,000), activated local law-enforcement assistance ($60,000), and short-trip local motorcade costs ($10,000). The evening MAGA Inc. finance dinner is not counted because private or donor expenditures are excluded.",
+      "category": "golf"
+    }
+  ],
+  "total_cost": 370000,
+  "social_description": "March 1, 2025: Trump spent the day golfing at his West Palm Beach club while staying at Mar-a-Lago. Estimated leisure-related federal cost: about $370K.",
+  "tags": [
+    "golf",
+    "mar-a-lago",
+    "west-palm-beach",
+    "palm-beach",
+    "leisure-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.theguardian.com/us-news/2025/mar/09/trump-golf-trips"
+  ],
+  "social_title": "March 1, 2025: Estimated federal cost of Trump’s golf outing at Trump International Golf Club West Palm Beach was about $370,000"
+}
