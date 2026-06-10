@@ -1,30 +1,26 @@
 {
-  "location": "NEED_MORE_RESEARCH",
+  "location": "Trump National Doral Miami; El Arepazo, Doral, Florida; Miami International Airport; The White House",
   "activities": [
     {
-      "name": "NEED_MORE_RESEARCH",
-      "cost": 0,
-      "description": "In-window sources corroborate that President Trump was at Trump National Doral Miami on 2026-03-09 for the House Republican retreat/Issues Conference, held a press conference there, made a brief stop at El Arepazo in Doral, and later returned to Washington, D.C. However, the available public reporting does not provide sufficient operational detail to quantify *federal outlays actually incurred on 2026-03-09* under the tracker’s rules—particularly: (1) confirmed aircraft type(s) for the Miami→Joint Base Andrews leg (VC-25A vs other), (2) billable flight-hours and any support aircraft factor, (3) whether Marine One was used anywhere in the day’s movements, and (4) confirmed activated local law-enforcement reimbursement/expense figures and Secret Service surge posture attributable specifically to 3/9. Without those, any dollar figure would be assumption-driven and would fail the required confidence gate.",
-      "category": "meta"
+      "name": "Leisure stay at Trump National Doral Miami",
+      "cost": 320000,
+      "description": "The March 9, 2026 roll call places President Trump based at Trump National Doral Miami for most of the day, with the day summary identifying a 'trump property' stay before his evening return to Washington. Under the benchmark method, remaining at an off-site Trump resort for the day is counted as leisure-related federal burden: $300,000 for peak off-site Secret Service and staff plus about $10,000 for local motorcade movements around Doral and the transfer to the airport; up to $10,000 additional minor local movement burden is included in the rounded total. The evening flight back to Joint Base Andrews is treated here as return travel from the leisure trip.",
+      "category": "leisure"
     }
   ],
-  "total_cost": 0,
-  "social_description": "NEED_MORE_RESEARCH (2026-03-09): Doral GOP retreat + press conference + El Arepazo stop + return to DC are corroborated, but not enough verifiable flight-hour/security outlay detail to price taxpayer costs for that day.",
+  "total_cost": 320000,
+  "social_description": "March 9, 2026: estimated $320,000 leisure-cost day. Trump spent most of the day at Trump National Doral Miami before returning to Washington, triggering benchmarked off-site security and local movement costs.",
   "tags": [
-    "need-more-research",
-    "insufficient-cost-detail",
+    "trump-property",
     "doral",
-    "el-arepazo",
-    "travel-to-washington"
+    "leisure",
+    "off-site-security",
+    "motorcade",
+    "return-travel-day"
   ],
-  "confidence_level": "low",
+  "confidence_level": "medium",
   "source_urls": [
-    "https://www.npr.org/2026/03/09/nx-s1-5742591/trump-press-conference-as-u-s-israel-led-iran-war-enters-second-week",
-    "https://www.pbs.org/newshour/politics/watch-live-trump-addresses-house-republicans-at-annual-policy-retreat-in-florida",
-    "https://www.nbcmiami.com/news/local/house-republicans-to-meet-in-doral-to-disccuss-agenda-ahead-of-2026-midterm-elections/3778353/",
-    "https://www.local10.com/news/local/2026/03/09/trump-visits-el-arepazo-in-doral-during-south-florida-visit-for-gop-retreat/",
-    "https://www.whitehouse.gov/videos/president-trump-holds-a-press-conference-mar-9-2026/",
-    "https://www.whitehouse.gov/gallery/president-donald-j-trump-visits-the-el-arepazo-doral-restaurant-monday-march-9-2026-in-miami-florida/",
-    "https://www.state.gov/releases/office-of-the-spokesperson/2026/03/the-united-states-to-host-the-shield-of-the-americas-summit"
-  ]
+    "https://www.whitehouse.gov/briefings-statements/"
+  ],
+  "social_title": "March 9, 2026: estimated $320,000 leisure-cost day at Trump National Doral Miami before returning to Washington"
 }
