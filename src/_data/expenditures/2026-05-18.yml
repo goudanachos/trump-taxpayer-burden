@@ -2,19 +2,24 @@
   "location": "The White House, Washington, D.C.",
   "activities": [
     {
-      "name": "NEED_MORE_RESEARCH",
+      "name": "No documented leisure/recreational activity",
       "cost": 0,
-      "description": "Insufficient in-window, independently verifiable sourcing (target_date ±7 days) to (a) confirm any leisure/recreational activity on 2026-05-18 beyond routine White House ‘Executive Time’ blocks, and (b) attribute any taxpayer-funded leisure-specific outlays incurred on the target date. Per the tool & confidence gate ((total_source_urls_count ≥ 6) && (model_confidence ≥ 0.95)), this record returns NEED_MORE_RESEARCH.",
-      "category": "research-gate"
+      "description": "On May 18, 2026, President Trump remained at the White House for executive time and a healthcare affordability event in the South Court Auditorium. The provided roll call and in-window coverage show official White House activity only, with no documented golf outing, resort visit, club trip, or other leisure/recreational activity, so no leisure outlay is counted.",
+      "category": "none"
     }
   ],
   "total_cost": 0,
-  "social_description": "NEED_MORE_RESEARCH",
+  "social_description": "May 18, 2026 was a $0 leisure-cost day: Trump stayed at the White House for executive time and a healthcare affordability event, with no documented recreational travel or activity.",
   "tags": [
-    "need-more-research",
+    "zero-cost",
     "white-house",
-    "insufficient-in-window-sourcing"
+    "official-business",
+    "healthcare-event"
   ],
-  "confidence_level": "low",
-  "source_urls": []
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/videos/president-trump-participates-in-a-healthcare-affordability-event-may-18-2026/",
+    "https://www.reuters.com/business/healthcare-pharmaceuticals/trump-announce-discount-drug-pricing-expansion-white-house-official-says-2026-05-18/",
+    "https://thehill.com/video-clips/5882693-watch-live-donald-trump-healthcare-affordability-event/"
+  ]
 }
