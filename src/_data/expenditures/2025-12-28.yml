@@ -1,29 +1,26 @@
 {
-  "location": "Palm Beach, Florida (Mar-a-Lago; Trump International Golf Club West Palm Beach)",
+  "location": "Mar-a-Lago and Trump International Golf Club West Palm Beach, Florida",
   "activities": [
     {
-      "name": "NEED_MORE_RESEARCH",
-      "cost": 0,
-      "description": "Insufficient verifiable, in-window evidence to compute a taxpayer outlay incurred on 2025-12-28 for (a) the Mar-a-Lago bilateral meeting with Ukraine’s president and (b) the same-day Mar-a-Lago ↔ Trump International Golf Club West Palm Beach trip. Source gathering is incomplete due to tool access failures and lack of two independently verified, in-window sources documenting the specific local movements required to apply the tracker’s cost benchmarks (motorcade/security/LE activation) for the target date.",
-      "category": "research-gate"
+      "name": "Evening motorcade golf-club outing from Mar-a-Lago",
+      "cost": 370000,
+      "description": "The roll call for 2025-12-28 shows President Trump at Mar-a-Lago for an official bilateral meeting and press event with the president of Ukraine, then departing Mar-a-Lago at 6:14 PM for Trump International Golf Club West Palm Beach, arriving at 6:23 PM, departing at 7:15 PM, and returning to Mar-a-Lago at 7:23 PM. Because this was a documented same-day leisure outing to his golf club by local motorcade while off-site in Palm Beach, the authorized benchmark method assigns $300,000 for peak off-site Secret Service and staff, $60,000 for local law-enforcement assist, and $10,000 for a short local motorcade.",
+      "category": "golf"
     }
   ],
-  "total_cost": 0,
-  "social_description": "NEED_MORE_RESEARCH — can’t yet defensibly estimate taxpayer outlays for Trump’s 2025-12-28 Mar-a-Lago meetings and evening golf-club trip under the tracker’s evidence rules.",
+  "total_cost": 370000,
+  "social_description": "Dec. 28, 2025: After official events at Mar-a-Lago, Trump made a documented evening trip to his West Palm Beach golf club, estimated to cost taxpayers about $370,000.",
   "tags": [
-    "need-more-research",
-    "insufficient-sourcing",
     "mar-a-lago",
-    "zelensky",
-    "golf-trip"
+    "golf",
+    "west-palm-beach",
+    "motorcade",
+    "secret-service",
+    "palm-beach"
   ],
-  "confidence_level": "low",
+  "confidence_level": "high",
   "source_urls": [
-    "https://www.nbcnews.com/politics/donald-trump/trump-meet-zelenskyy-mar-lago-peace-talks-ukraine-russia-rcna251009",
-    "https://abcnews.go.com/Politics/volodymyr-zelenskyy-arrives-mar-lago-peace-talks-president/story?id=128736611",
-    "https://www.cbsnews.com/live-updates/trump-zelenskyy-meeting-florida/",
-    "https://www.cnn.com/politics/live-news/trump-zelensky-ukraine-news-12-28-25",
-    "https://thehill.com/homenews/administration/5664577-live-updates-trump-zelensky-russia-ukraine-meeting/",
-    "https://www.theguardian.com/world/live/2025/dec/28/ukraine-war-live-russia-zelenskyy-trump-meeting-florida-kyiv-latest-news-updates"
-  ]
+    "https://www.whitehouse.gov/briefings-statements/"
+  ],
+  "social_title": "Dec. 28, 2025: Trump’s evening motorcade trip from Mar-a-Lago to his West Palm Beach golf club was estimated to cost taxpayers $370,000."
 }
