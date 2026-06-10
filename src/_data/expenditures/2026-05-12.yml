@@ -5,7 +5,7 @@
       "name": "No documented leisure/recreational activity",
       "cost": 0,
       "category": "none",
-      "description": "On 2026-05-12, the President held a print interview at the White House, departed for Joint Base Andrews, and flew on official international travel to Anchorage en route to Beijing. The roll call and contemporaneous reporting indicate official diplomatic travel only, with no documented leisure or recreational activity on the target date."
+      "description": "On 2026-05-12, the President held a print interview at the White House, traveled to Joint Base Andrews, and flew on official international travel to Anchorage en route to Beijing. The provided roll call documents official diplomatic travel only, with no documented leisure or recreational activity on the target date."
     }
   ],
   "total_cost": 0,
@@ -19,7 +19,6 @@
   ],
   "confidence_level": "high",
   "source_urls": [
-    "https://whitehouse.gov/videos/president-trump-gaggles-with-press-before-departing-the-white-house-may-12-2026",
-    "https://www.reuters.com/business/aerospace-defense/stung-by-iran-war-trump-heads-china-need-wins-2026-05-12/"
+    "https://www.whitehouse.gov/briefings-statements/"
   ]
 }
