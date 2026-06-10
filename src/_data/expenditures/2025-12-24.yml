@@ -1,20 +1,28 @@
 {
-  "location": "NEED_MORE_RESEARCH",
+  "location": "Mar-a-Lago, Palm Beach, Florida; Trump International Golf Club West Palm Beach",
   "activities": [
     {
-      "name": "Research required to estimate taxpayer-funded leisure costs for 2025-12-24",
-      "cost": 0,
-      "description": "Insufficient in-window, independently verifiable sources (target_date ±7 days) documenting the President’s movements and any incurred federal outlays (travel, Secret Service, local law-enforcement activation, etc.) for 2025-12-24. Provide additional contemporaneous, non-paywalled source URLs (e.g., White House pool reports, local government cost statements, credible news reports) so costs can be computed using the provided benchmarks.",
-      "category": "meta"
+      "name": "Golf outing from Mar-a-Lago to Trump International Golf Club West Palm Beach",
+      "cost": 370000,
+      "description": "The roll call documents a leisure golf trip on Dec. 24: departure from Mar-a-Lago at 9:24 a.m., arrival at Trump International Golf Club West Palm Beach at 9:31 a.m., departure at 2:23 p.m., and return to Mar-a-Lago at 2:32 p.m. Under the benchmark method for a documented off-site leisure day in Palm Beach, this is estimated as peak off-site Secret Service/staff ($300,000) + one short round-trip motorcade ($10,000) + local law-enforcement assistance ($60,000). Later NORAD Santa calls, service-member calls, and Christmas Eve dinner at Mar-a-Lago are not counted as leisure travel outlays.",
+      "category": "leisure-security-transport"
     }
   ],
-  "total_cost": 0,
-  "social_description": "NEED_MORE_RESEARCH: not enough in-window independent sources to verify 2025-12-24 Mar-a-Lago/golf movements and attributable federal outlays, so no cost estimate issued.",
+  "total_cost": 370000,
+  "social_description": "Dec. 24, 2025: estimated leisure-related taxpayer cost $370,000 for Trump’s Mar-a-Lago ↔ West Palm Beach golf-club outing, including motorcade, off-site security, and local law-enforcement support.",
   "tags": [
-    "needs-more-research",
-    "insufficient-sources",
-    "evidence-window"
+    "mar-a-lago",
+    "golf",
+    "palm-beach",
+    "west-palm-beach",
+    "motorcade",
+    "off-site-security",
+    "christmas-eve"
   ],
-  "confidence_level": "low",
-  "source_urls": []
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.palmbeachpost.com/story/news/trump/2025/12/24/how-president-trump-spent-christmas-eve-in-mar-a-lago-palm-beach/87906162007/"
+  ],
+  "social_title": "Dec. 24, 2025: estimated taxpayer cost of $370,000 for Trump’s Mar-a-Lago to West Palm Beach golf-club outing"
 }
