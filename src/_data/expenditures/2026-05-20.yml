@@ -4,7 +4,7 @@
     {
       "name": "No documented leisure/recreational activity",
       "cost": 0,
-      "description": "On May 20, 2026, President Trump traveled from the White House to Joint Base Andrews and on to Groton/New London, Connecticut, to deliver the U.S. Coast Guard Academy commencement address, then returned to the White House that afternoon. The roll call and in-window coverage document official government travel and a commencement speech, with no documented golf, resort visit, private club stop, or other leisure/recreational activity, so no leisure outlay is counted.",
+      "description": "On May 20, 2026, President Trump traveled from the White House to Joint Base Andrews and on to Groton/New London, Connecticut, to deliver the U.S. Coast Guard Academy commencement address, then returned to the White House that afternoon. The roll call documents official government travel and a commencement speech, with no documented golf, resort visit, private club stop, or other leisure/recreational activity, so no leisure outlay is counted.",
       "category": "none"
     }
   ],
@@ -18,9 +18,5 @@
     "white-house"
   ],
   "confidence_level": "high",
-  "source_urls": [
-    "https://www.whitehouse.gov/videos/president-trump-delivers-a-commencement-address-to-the-united-states-coast-guard-academy/",
-    "https://www.pbs.org/newshour/politics/watch-live-trump-delivers-u-s-coast-guard-academy-commencement-address",
-    "https://www.wfsb.com/2026/05/20/president-trump-deliver-coast-guard-academy-commencement-speech-new-london/"
-  ]
+  "source_urls": []
 }
