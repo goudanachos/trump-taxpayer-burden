@@ -4,12 +4,12 @@
     {
       "name": "No documented leisure/recreational activity",
       "cost": 0,
-      "description": "On May 18, 2026, President Trump remained at the White House for executive time and later participated in a healthcare affordability event in the South Court Auditorium. The provided roll call documents official White House activity only, with no documented golf outing, resort visit, club trip, or other leisure/recreational activity, so no leisure outlay is counted.",
+      "description": "On May 18, 2026, President Trump remained at the White House for executive time and later participated in a Healthcare Affordability Event in the South Court Auditorium. The roll call documents official White House business only, with no reported golf, resort visit, club trip, or other leisure/recreational activity, so no leisure outlay is counted.",
       "category": "none"
     }
   ],
   "total_cost": 0,
-  "social_description": "May 18, 2026 was a $0 leisure-cost day: Trump stayed at the White House for executive time and a healthcare affordability event, with no documented recreational travel or activity.",
+  "social_description": "May 18, 2026 was a $0 leisure-cost day: Trump stayed at the White House for executive time and an official healthcare event, with no documented recreational activity.",
   "tags": [
     "zero-cost",
     "white-house",
