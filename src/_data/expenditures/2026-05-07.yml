@@ -4,12 +4,12 @@
     {
       "name": "No documented leisure/recreational activity",
       "cost": 0,
-      "category": "none",
-      "description": "On 2026-05-07, the President’s schedule shows official White House business including a greeting, bilateral meeting, and lunch with Brazil’s president, plus policy meetings and executive order signing. The visit to the Lincoln Memorial Reflecting Pool was documented as a public-facing stop where he spoke to reporters, not a leisure or recreational outing, so no leisure-related federal outlay is counted for this date."
+      "description": "On 2026-05-07, the President’s schedule shows official White House business including a greeting, bilateral meeting, and lunch with Brazil’s president, plus policy meetings and executive order signing. The Lincoln Memorial Reflecting Pool stop was documented as a public-facing visit where he spoke to reporters, not a leisure or recreational outing, so no leisure-related federal outlay is counted for this date.",
+      "category": "none"
     }
   ],
   "total_cost": 0,
-  "social_description": "May 7, 2026: Trump spent the day on official duties at the White House and made a public-facing stop at the Lincoln Memorial Reflecting Pool. No documented leisure or recreational activity appears on the target date, so the leisure-cost record is $0.",
+  "social_description": "May 7, 2026: Trump spent the day on official White House duties and made a public-facing stop at the Lincoln Memorial Reflecting Pool. No documented leisure or recreational activity appears on the target date, so the leisure-cost record is $0.",
   "tags": [
     "zero-cost",
     "white-house",
