@@ -1,27 +1,27 @@
 {
-  "status": "NEED_MORE_RESEARCH",
-  "target_date": "2026-05-08",
-  "model_confidence": 0.6,
-  "total_source_urls_count": 8,
-  "blocking_issues": [
-    "No in-window, independent reporting found that specifically confirms the President’s 2026-05-08 evening trip from the White House to Trump National Golf Club Washington, D.C. (Sterling, VA) as stated in the provided roll call; most coverage documents his presence on 2026-05-09 at the LIV Golf Virginia tournament instead.",
-    "Unable to verify transportation mode (Marine One vs motorcade) and timings (departure/arrival/return) for 2026-05-08; without this, federal outlays for travel hours and local law-enforcement activation cannot be reliably estimated.",
-    "Evidence available in-window discusses broader D.C. parks/golf-course disputes or other events, but does not provide itemized or attributable federal outlays incurred on 2026-05-08 for this specific off-site leisure event."
+  "location": "Trump National Golf Club Washington D.C., Sterling, Virginia",
+  "activities": [
+    {
+      "name": "Attendance at LIV Golf Tournament Dinner at Trump National Golf Club Washington D.C.",
+      "cost": 320000,
+      "description": "The roll call places the President at Trump National Golf Club Washington D.C. on 2026-05-08 for a LIV Golf Tournament Dinner, departing the White House at 6:48 PM, arriving at 7:06 PM, attending the dinner at 7:15 PM, and returning at 10:10 PM. This is documented leisure/recreational activity at a Trump golf property, so under the benchmark method it is costed as an off-site Secret Service/staff day ($300,000) plus two short local motorcade legs between the White House and the club (estimated $10,000 each), totaling $320,000.",
+      "category": "golf"
+    }
   ],
-  "evidence_in_window_source_urls": [
-    "https://www.usatoday.com/story/sports/golf/2026/05/09/donald-trump-liv-golf-virginia-pga-tour/89985155007/",
-    "https://www.cnn.com/2026/05/10/politics/trump-golf-courses-conflict-of-interest",
-    "https://apnews.com/article/trump-reflecting-pool-golf-course-washington-renovations-e708a36ef05a5a3f96d74e53d41c2109",
-    "https://thehill.com/policy/keeping-score/5870134-dc-golf-trump-controversy/",
-    "https://www.foxnews.com/sports/trump-shows-liv-golf-event-virginia-course-calling-players-rejoin-pga-tour",
-    "https://justthenews.com/government/white-house/trump-attends-liv-golf-tournament-trump-national-golf-club-washington",
-    "https://www.breitbart.com/politics/2026/05/09/trump-attends-liv-tournament-at-trump-national-d-c/",
-    "https://nbcwashington.com/news/local/dcs-public-golf-courses-will-remain-open-under-new-deal/4102379/"
+  "total_cost": 320000,
+  "social_description": "May 8, 2026: Trump attended a LIV Golf dinner at his Sterling golf club. Estimated taxpayer leisure cost: $320,000, mainly for off-site security and round-trip motorcade travel.",
+  "tags": [
+    "golf",
+    "liv-golf",
+    "trump-property",
+    "sterling-virginia",
+    "motorcade",
+    "off-site-security"
   ],
-  "next_research_targets": [
-    "White House pool report / travel log for 2026-05-08 showing destination, transportation mode (Marine One vs motorcade), and wheels-up/wheels-down times (or motorcade movement times).",
-    "FAA/DoD/WH movement confirmations (e.g., public helicopter/NOTAM logs) that can corroborate Marine One use on 2026-05-08.",
-    "Local law-enforcement (MPD, U.S. Park Police, Loudoun County Sheriff) traffic advisories or overtime activation notices for 2026-05-08 connected to the presidential visit to Trump National Golf Club.",
-    "Any independent, in-window news report explicitly stating that Trump attended an evening event at Trump National Golf Club Washington, D.C. on 2026-05-08 (not May 9), including arrival/return details."
-  ]
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/",
+    "https://www.whitehouse.gov/gallery/president-donald-j-trump-watches-the-liv-golf-tournament-at-trump-national-golf-club-washington-d-c/"
+  ],
+  "social_title": "May 8, 2026 LIV Golf dinner at Trump National Golf Club Washington D.C. cost an estimated $320,000"
 }
