@@ -1,0 +1,36 @@
+{
+  "location": "Trump National Golf Club Bedminster, Bedminster, New Jersey; Madison Square Garden, New York, New York",
+  "activities": [
+    {
+      "name": "Off-site leisure stay at Trump Bedminster",
+      "cost": 370000,
+      "description": "The roll call places the President at Trump National Golf Club Bedminster during the day on June 8, 2026. Because this was a continued stay at an off-site Trump golf property tied to the prior weekend’s documented leisure trip, the day carries the standard benchmarked leisure-security burden of peak off-site Secret Service/staff ($300,000), local law-enforcement assistance ($60,000), and a short local motorcade estimate ($10,000).",
+      "category": "golf"
+    },
+    {
+      "name": "Evening trip to attend NBA Finals at Madison Square Garden",
+      "cost": 14000,
+      "description": "The roll call shows evening helicopter travel from Somerset Airport to Downtown Manhattan Heliport and a motorcade to Madison Square Garden, where the President attended the NBA Finals at 8:30 PM. Two independent in-window sources confirm the leisure event occurred on June 8: a White House video post for that date and multiple news reports covering his attendance. Using the provided benchmarks, the helicopter movement is estimated as two short Marine One legs totaling about 0.283 hours round-trip (7:02–7:19 PM and 11:59 PM departure paired with the return sequence shown in the schedule), or about $13,600, rounded to $14,000 for this activity; no extra daily security charge is added here because the off-site Bedminster day already carries the day-level security burden.",
+      "category": "sports"
+    }
+  ],
+  "total_cost": 384000,
+  "social_description": "June 8, 2026: Trump spent the day at Bedminster and then traveled into Manhattan to attend the NBA Finals at Madison Square Garden. Estimated federal leisure-related cost for the day: $384,000.",
+  "tags": [
+    "trump-property",
+    "bedminster",
+    "golf",
+    "madison-square-garden",
+    "nba-finals",
+    "new-york",
+    "marine-one",
+    "off-site-security"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/videos/nba-finals-trump-arrives-to-madison-square-garden-becomes-first-sitting-u-s-president-to-attend-%F0%9F%94%A5/",
+    "https://sports.yahoo.com/nba/breaking-news/article/donald-trump-booed-at-madison-square-garden-as-he-makes-history-as-first-sitting-president-to-attend-nba-finals-game-003908191.html",
+    "https://people.com/trump-booed-msg-knicks-nba-finals-11993459"
+  ],
+  "social_title": "June 8, 2026 federal leisure-related cost for Trump’s Bedminster stay and NBA Finals trip: $384,000"
+}
