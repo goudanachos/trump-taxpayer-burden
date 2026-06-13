@@ -1,0 +1,22 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The roll call shows the President returning to the White House in the early hours of June 9, 2026, then spending the day there in executive time and policy meetings in the Oval Office. No in-window source provided here documents any leisure or recreational travel or activity on June 9 itself, so under the stated methodology the day is recorded as a $0 leisure-cost day.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "June 9, 2026: Trump was back at the White House for executive time and policy meetings, with no documented leisure activity on the day. Leisure-related federal outlay counted: $0.",
+  "tags": [
+    "white-house",
+    "official-business",
+    "zero-cost-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
