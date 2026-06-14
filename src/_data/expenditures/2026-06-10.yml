@@ -1,0 +1,22 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The roll call places the President at the White House on June 10, 2026 for executive time, a bill signing in the Oval Office, a greeting with Presidential 1776 Award finalists, and a policy meeting. No in-window date-specific source or schedule item documents any leisure or recreational travel or activity on this date, so the day is recorded as a $0 leisure-cost day under the stated methodology.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "June 10, 2026: Trump remained at the White House for official events and meetings, with no documented leisure activity. Leisure-related federal outlay counted: $0.",
+  "tags": [
+    "white-house",
+    "official-business",
+    "zero-cost-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/"
+  ]
+}
