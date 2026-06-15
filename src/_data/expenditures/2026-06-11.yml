@@ -1,0 +1,25 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "category": "none",
+      "description": "The provided daily schedule places President Trump at the White House throughout June 11, 2026 for executive time, a phone interview, a proclamation signing, a policy meeting, and evening tele-rallies from the Oval Office. In-window White House and schedule coverage reviewed for this date did not document any leisure or recreational travel or activity, so no leisure-related federal outlay is counted."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "June 11, 2026: Trump appears to have remained at the White House for official duties and political calls, with no documented leisure or recreational travel. Leisure cost to taxpayers: $0.",
+  "tags": [
+    "white-house",
+    "official-business",
+    "no-documented-leisure",
+    "zero-cost-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://conservativedailynews.com/2026/06/president-donald-trumps-schedule-for-thursday-june-11-2026",
+    "https://www.whitehouse.gov/videos/president-trump-signs-a-proclamation-jun-11-2026/",
+    "https://whitehouse.gov/presidential-actions/2026/06/75th-anniversary-of-the-white-house-navy-mess-2026"
+  ]
+}
