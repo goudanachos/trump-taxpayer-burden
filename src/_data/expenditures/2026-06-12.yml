@@ -1,0 +1,25 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "category": "none",
+      "description": "The provided daily schedule keeps President Trump at the White House on June 12, 2026 for executive time, a podcast pre-tape, signing time, and a pre-taped interview. In-window White House materials for that date show official presidential actions and messaging, and no date-specific source reviewed documented leisure or recreational travel or activity."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "June 12, 2026: Trump appears to have remained at the White House for official events and recorded interviews, with no documented leisure or recreational travel. Leisure cost to taxpayers: $0.",
+  "tags": [
+    "white-house",
+    "official-business",
+    "no-documented-leisure",
+    "zero-cost-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-defends-americas-warfighters-and-intelligence-officers-against-cyber-threats/",
+    "https://www.whitehouse.gov/briefings-statements/2026/06/america-250-presidential-message-on-the-250th-anniversary-of-the-virginia-declaration-of-rights/",
+    "https://whitehouse.gov/videos/president-donald-j-trump-signs-the-secure-america-act"
+  ]
+}
