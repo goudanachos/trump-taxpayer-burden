@@ -1,0 +1,25 @@
+{
+  "location": "Trump National Golf Club Washington DC, Sterling, Virginia",
+  "activities": [
+    {
+      "name": "Golf outing and extended stay at Trump National Golf Club Washington DC",
+      "cost": 310000,
+      "category": "golf",
+      "description": "The roll call for June 13, 2026 places President Trump departing the White House at 11:31 AM for Trump National Golf Club Washington DC, arriving at 12:04 PM, with the day summarized as 'trump property, golf' and an evening MAGA Inc. dinner at the club. An in-window independent news report also states Trump went to Trump National Golf Club in Washington, DC to play golf that weekend. Using the authorized benchmark method for documented off-site leisure at a Trump golf club, this record estimates $300,000 for peak off-site Secret Service and staff plus $10,000 for local motorcade travel."
+    }
+  ],
+  "total_cost": 310000,
+  "social_description": "June 13, 2026: Trump traveled from the White House to Trump National Golf Club Washington DC for a documented golf outing and remained there for an evening dinner. Estimated leisure-related taxpayer cost: $310,000.",
+  "tags": [
+    "golf",
+    "trump-property",
+    "off-site-security",
+    "motorcade",
+    "virginia"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.irishstar.com/sport/golf/donald-trump-hits-golf-course-37231983"
+  ],
+  "social_title": "June 13, 2026: Trump golf outing and dinner at Trump National Golf Club Washington DC estimated at $310,000"
+}
