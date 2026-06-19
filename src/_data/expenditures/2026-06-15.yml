@@ -1,0 +1,25 @@
+{
+  "location": "Évian-les-Bains, France (Evian Resort / Hôtel Royal)",
+  "activities": [
+    {
+      "name": "Official travel to G7 summit in France",
+      "cost": 0,
+      "category": "none",
+      "description": "The June 15, 2026 roll call and in-window coverage place President Trump traveling from the White House to Joint Base Andrews, flying to Geneva, and proceeding to Évian-les-Bains for bilateral and G7 summit events, including a meeting with France's president, the official greeting with G7 leaders, and the leaders' working dinner. Because the documented travel and activities on this date were official governmental business rather than leisure or recreation, no leisure-related federal outlay is counted for this tracker."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "June 15, 2026: Trump traveled to France for the G7 summit and related official meetings. Because the trip was documented official business, leisure cost to taxpayers for this tracker is $0.",
+  "tags": [
+    "official-travel",
+    "g7",
+    "france",
+    "international",
+    "zero-cost-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://abcnews.com/Politics/trump-heads-france-1st-g7-summit-us-iran/story?id=133798771",
+    "https://www.nytimes.com/live/2026/06/15/us/trump-news"
+  ]
+}
