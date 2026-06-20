@@ -1,0 +1,24 @@
+{
+  "location": "Évian-les-Bains, France (Evian Resort / Hôtel Royal)",
+  "activities": [
+    {
+      "name": "Official G7 summit activities in France",
+      "cost": 0,
+      "category": "none",
+      "description": "The June 16, 2026 roll call places President Trump in Évian-les-Bains for G7 working sessions, bilateral meetings, a working lunch, and a leaders' social dinner tied to the summit program. Although the schedule includes a cultural performance and concert, the day is documented as part of the official G7 summit itinerary rather than personal leisure or recreational travel, so no leisure-related federal outlay is counted under this tracker."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "June 16, 2026: Trump was in France for G7 summit meetings and official summit events. Because the documented activities were part of official travel, leisure cost for this tracker is $0.",
+  "tags": [
+    "official-travel",
+    "g7",
+    "france",
+    "international",
+    "zero-cost-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://sdg.iisd.org/events/g7-summit-2026/"
+  ]
+}
