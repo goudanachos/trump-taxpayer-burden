@@ -1,0 +1,24 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The provided roll call and same-week schedule coverage place President Trump at the White House on June 18, 2026 for executive time, a taped Axios interview, an intelligence briefing, and a Medal of Honor ceremony. No in-window source documents golf, resort travel, or other leisure/recreational activity on the target date, so no leisure-related federal outlay is counted.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "June 18, 2026: Trump appears to have remained at the White House for scheduled official business, with no documented leisure or recreational travel/activity. Estimated taxpayer leisure cost: $0.",
+  "tags": [
+    "white-house",
+    "official-business",
+    "no-documented-leisure",
+    "zero-cost-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://conservativedailynews.com/2026/06/president-donald-trumps-schedule-for-thursday-june-18-2026",
+    "https://people.com/donald-trump-ties-congressional-medal-of-honor-for-one-recipient-after-struggling-to-clasp-it-in-viral-moment-12003068"
+  ]
+}
