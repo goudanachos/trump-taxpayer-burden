@@ -1,0 +1,26 @@
+{
+  "location": "The White House, Joint Base Andrews, and Camp David, Maryland",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The roll call shows President Trump at the White House for executive time, then traveling to Joint Base Andrews to greet service members and tour the new 'Bridge' Air Force One before departing for Camp David. In-window reporting describes the Camp David trip in the context of Iran-related talks and presidential meetings, not golf, resort recreation, or other leisure activity, so no leisure-related federal outlay is counted for June 19, 2026.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "June 19, 2026: Trump traveled from the White House to Joint Base Andrews and then to Camp David for reported official meetings, with no documented leisure or recreational activity. Estimated taxpayer leisure cost: $0.",
+  "tags": [
+    "camp-david",
+    "joint-base-andrews",
+    "official-travel",
+    "no-documented-leisure",
+    "zero-cost-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.usatoday.com/story/news/politics/2026/06/19/trump-camp-david-iran-talks-final-agreement/90619253007/",
+    "https://www.reuters.com/world/middle-east/trump-heads-camp-david-iran-talks-falter-2026-06-19/",
+    "https://www.whitehouse.gov/videos/president-trump-greets-u-s-air-force-service-members/"
+  ]
+}
