@@ -1,0 +1,26 @@
+{
+  "location": "Camp David, Maryland, and the White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The roll call places President Trump at Camp David for executive time before returning that afternoon via Joint Base Andrews to the White House. In-window coverage describes the Camp David weekend as tied to Iran-related talks and administration business, and no source within the evidence window documents golf, resort use, or other leisure/recreational activity on June 21, 2026.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "June 21, 2026: Trump returned from Camp David to the White House, with contemporaneous coverage framing the trip as official business rather than leisure. Estimated taxpayer leisure cost: $0.",
+  "tags": [
+    "camp-david",
+    "white-house",
+    "official-travel",
+    "no-documented-leisure",
+    "zero-cost-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.tradingview.com/news/macenews:ce5d521d3094b:0-friday-sunday-white-house-schedule-president-trump-spends-the-weekend-at-camp-david/",
+    "https://www.usatoday.com/story/news/politics/2026/06/19/trump-camp-david-iran-talks-final-agreement/90619253007/",
+    "https://www.reuters.com/world/middle-east/trump-heads-camp-david-iran-talks-falter-2026-06-19/"
+  ]
+}
