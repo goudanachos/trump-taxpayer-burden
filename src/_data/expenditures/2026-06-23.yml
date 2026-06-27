@@ -1,0 +1,26 @@
+{
+  "location": "The White House, Joint Base Andrews, Reading/Macungie, Pennsylvania, and return to the White House",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The roll call and same-week coverage show President Trump traveling from the White House to Reading, Pennsylvania, then by motorcade to Mack Trucks Lehigh Valley Operations in Macungie for remarks on the economy before returning to Washington. The in-window sources describe an official presidential event and press remarks, with no documentation of golf, resort time, or other leisure/recreational activity on June 23, 2026.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "June 23, 2026: Trump made an official Pennsylvania trip to Mack Trucks and returned to the White House; no contemporaneous source documents leisure or recreational activity. Estimated taxpayer leisure cost: $0.",
+  "tags": [
+    "pennsylvania-trip",
+    "mack-trucks",
+    "official-travel",
+    "no-documented-leisure",
+    "zero-cost-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/videos/president-trump-gaggles-with-press-upon-arrival-at-reading-pa-jun-23-2026/",
+    "https://www.whitehouse.gov/videos/president-trump-delivers-remarks-at-mack-trucks-in-pennsylvania/",
+    "https://thehill.com/homenews/administration/5934527-live-updates-trump-iran-supreme-court-new-york-maryland-utah-primary-elections/"
+  ]
+}
