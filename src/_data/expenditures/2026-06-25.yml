@@ -1,0 +1,26 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The in-town schedule and contemporaneous coverage place President Trump at the White House on June 25, 2026 for executive time, meetings in the Oval Office, a tele-rally, and an evening Rose Garden dinner with American farmers. These were official or political White House events, and no in-window source documents golf, resort travel, or other leisure/recreational travel or activity on the target date, so no leisure-specific federal outlay is counted.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "June 25, 2026: Trump appears to have remained at the White House for meetings and an evening farmers dinner. No documented leisure or recreational travel/activity was found, so the leisure-cost total is $0.",
+  "tags": [
+    "white-house",
+    "official-business",
+    "no-leisure-documented",
+    "zero-cost-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://apnews.com/live/trump-administration-updates-06-25-2026",
+    "https://thehill.com/video-clips/5941166-trump-farmers-dinner-white-house/",
+    "https://www.theepochtimes.com/us/trump-hosts-rose-garden-club-dinner-for-american-farmers-6053639",
+    "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-advances-regenerative-agriculture-and-strengthens-american-farm-resilience/"
+  ]
+}
