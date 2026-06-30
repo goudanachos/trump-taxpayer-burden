@@ -1,0 +1,23 @@
+{
+  "location": "The White House and Washington Hilton, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The provided schedule places President Trump in Washington, D.C. on June 26, 2026 for White House meetings, an intelligence briefing, remarks at the Faith & Freedom Coalition's Policy Conference at the Washington Hilton, signing time, and an evening RNC reception at the White House. These are official or political events rather than leisure or recreational activity, and no in-window source documents golf, resort travel, or other recreational travel on the target date.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "June 26, 2026: Trump stayed in Washington for White House business, a Washington Hilton speech, and an evening RNC reception. No documented leisure or recreational activity was found, so the leisure-cost total is $0.",
+  "tags": [
+    "washington-dc",
+    "white-house",
+    "official-business",
+    "political-event",
+    "no-leisure-documented",
+    "zero-cost-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": []
+}
