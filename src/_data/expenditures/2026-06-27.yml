@@ -1,0 +1,27 @@
+{
+  "location": "Trump National Golf Club Washington, D.C., Sterling, Virginia",
+  "activities": [
+    {
+      "name": "Golf outing at Trump National Golf Club Washington, D.C.",
+      "cost": 310000,
+      "description": "The White House roll call places President Trump traveling from the White House to Trump National Golf Club Washington, D.C. in Sterling at 9:43 a.m., arriving at 10:18 a.m., and departing at 3:09 p.m. before returning to the White House. Independent in-window reporting also documented Trump at a golf-related outing that weekend. Under the benchmark method, a same-day off-site leisure trip by motorcade is costed using peak off-site Secret Service and staff ($300,000) plus a local motorcade estimate ($10,000). No flight legs are documented for June 27, so none are included.",
+      "category": "golf"
+    }
+  ],
+  "total_cost": 310000,
+  "social_description": "June 27, 2026: Trump made a golf trip by motorcade to Trump National Golf Club in Sterling, Virginia. Estimated taxpayer leisure cost: $310,000.",
+  "tags": [
+    "golf",
+    "trump-property",
+    "sterling-virginia",
+    "motorcade",
+    "off-site-security",
+    "weekend-leisure"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://apnews.com/article/trump-dc-golf-course-mayor-lewis-george-b6b32b4a989728ed15e3cb2dab19a113",
+    "https://abcnews.com/Politics/trump-work-begin-dc-golf-despite-judges-warning/story?id=134293591"
+  ],
+  "social_title": "June 27, 2026: Trump’s golf trip to Trump National Golf Club in Sterling, Virginia was estimated to cost taxpayers $310,000"
+}
