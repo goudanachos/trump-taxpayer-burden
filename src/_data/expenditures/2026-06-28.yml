@@ -1,0 +1,28 @@
+{
+  "location": "East Potomac Golf Links and Trump National Golf Club Washington, D.C.; Washington, D.C. and Sterling, Virginia",
+  "activities": [
+    {
+      "name": "Golf-related tour and stop at Trump National Golf Club Washington, D.C.",
+      "cost": 310000,
+      "description": "The White House roll call places President Trump leaving the White House at 8:58 a.m., stopping at East Potomac Golf Links at 9:04 a.m., then arriving at Trump National Golf Club Washington, D.C. in Sterling at 11:41 a.m. before returning to the White House at 1:50 p.m. Independent in-window reporting from AP and ABC confirms he toured East Potomac Golf Course on June 28 with Doug Burgum and traveled by presidential motorcade around Washington and Arlington that morning. Because the target-date schedule also documents a leisure stop at Trump National Golf Club Washington, D.C., this day is costed as an off-site golf/trump-property outing using peak off-site Secret Service and staff ($300,000) plus a local motorcade estimate ($10,000); no flight legs are documented, so none are included.",
+      "category": "golf"
+    }
+  ],
+  "total_cost": 310000,
+  "social_description": "June 28, 2026: Trump made a golf-related off-site outing that included East Potomac Golf Links and Trump National Golf Club in Sterling. Estimated taxpayer leisure cost: $310,000.",
+  "tags": [
+    "golf",
+    "trump-property",
+    "east-potomac",
+    "sterling-virginia",
+    "motorcade",
+    "off-site-security",
+    "weekend-leisure"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://apnews.com/article/trump-dc-golf-course-mayor-lewis-george-b6b32b4a989728ed15e3cb2dab19a113",
+    "https://abcnews.com/Politics/trump-work-begin-dc-golf-despite-judges-warning/story?id=134293591"
+  ],
+  "social_title": "June 28, 2026: Trump’s golf-related outing to East Potomac Golf Links and Trump National Golf Club in Sterling cost an estimated $310,000"
+}
