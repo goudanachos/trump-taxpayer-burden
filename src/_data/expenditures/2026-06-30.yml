@@ -1,0 +1,21 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The schedule places President Trump at the White House on June 30, 2026 for executive time, a policy meeting, a print interview in the Oval Office, and an evening Rose Garden Club Dinner. No in-window source or schedule item documents golf, resort travel, or any other leisure/recreational activity on the target date, so no leisure-specific federal outlay is counted.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "June 30, 2026: Trump remained at the White House for meetings, an interview, and a Rose Garden dinner. No documented leisure or recreational activity was found, so the leisure-cost total is $0.",
+  "tags": [
+    "white-house",
+    "official-business",
+    "no-leisure-documented",
+    "zero-cost-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": []
+}
