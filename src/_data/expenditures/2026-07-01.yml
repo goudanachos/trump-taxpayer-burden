@@ -1,0 +1,22 @@
+{
+  "location": "Medora, North Dakota; Theodore Roosevelt Presidential Library and Burning Hills Amphitheater",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The schedule shows President Trump making a same-day official trip from the White House to North Dakota for a Freedom 250 train ride and welcome ceremony, a tour of the Theodore Roosevelt Presidential Library, and public remarks in Medora before returning to Washington that night. Although the roll-call summary includes the word \"golf,\" the detailed itinerary documents only official travel and events, with no in-window evidence of golf, resort travel, or other leisure/recreational activity on July 1, 2026, so no leisure-specific federal outlay is counted.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "July 1, 2026: Trump made an official same-day trip to Medora, North Dakota for ceremonies, a library tour, and speeches. No documented leisure or recreational activity was found, so the leisure-cost total is $0.",
+  "tags": [
+    "north-dakota",
+    "official-travel",
+    "medora",
+    "no-leisure-documented",
+    "zero-cost-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": []
+}
