@@ -1,0 +1,24 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "category": "none",
+      "description": "The provided July 2, 2026 roll call places President Trump at the White House throughout the day for executive time, policy meetings, an intelligence briefing, and a pre-taped interview, with lunch and full lids called from the White House. No in-window source located any leisure or recreational travel or activity on the target date, so no leisure-related federal outlay is counted."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "July 2, 2026 appears to have been a White House workday with meetings and no documented leisure or recreational travel, so the tracked leisure cost for the day is $0.",
+  "tags": [
+    "white-house",
+    "official-schedule",
+    "no-documented-leisure",
+    "zero-cost-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/videos/president-trump-delivers-remarks-jul-1-2026/",
+    "https://www.cnn.com/2026/07/04/us/live-news/july-4-trump-speech-america-250"
+  ]
+}
