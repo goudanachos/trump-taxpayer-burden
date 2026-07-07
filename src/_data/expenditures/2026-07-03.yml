@@ -1,0 +1,26 @@
+{
+  "location": "Travel from Washington, D.C., to Keystone, South Dakota, for Mount Rushmore",
+  "activities": [
+    {
+      "name": "Official travel to Mount Rushmore event",
+      "cost": 0,
+      "category": "official-travel",
+      "description": "On July 3, 2026, President Trump spent most of the day at the White House in meetings, then flew from Joint Base Andrews to Ellsworth Air Force Base and continued to Mount Rushmore in Keystone, South Dakota, to deliver remarks kicking off America’s 250th celebration. The trip was documented by the White House schedule and contemporaneous news coverage, but the event was an official presidential appearance rather than leisure or recreation, so no leisure-related federal outlay is counted for this tracker."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "July 3, 2026 included presidential travel to South Dakota for an official Mount Rushmore speech, not a leisure outing, so the tracked leisure cost for the day is $0.",
+  "tags": [
+    "official-travel",
+    "mount-rushmore",
+    "south-dakota",
+    "white-house-schedule",
+    "zero-cost-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/videos/president-trump-delivers-remarks-at-mount-rushmore-jul-3-2026/",
+    "https://southdakotasearchlight.com/2026/07/03/trump-uses-mount-rushmore-speech-to-allege-mortal-threat-from-communism/",
+    "https://abcnews.com/Politics/trump-heads-mount-rushmore-kick-off-america-250/story?id=134443201"
+  ]
+}
