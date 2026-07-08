@@ -1,0 +1,26 @@
+{
+  "location": "The White House and the National Mall, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "category": "none",
+      "description": "The July 4, 2026 roll call shows President Trump returned overnight from South Dakota to the White House, spent the day in Executive Time there, and later traveled to the National Mall to deliver remarks at the Salute to America Celebration. In-window White House and news coverage describe an official Independence Day appearance, not a leisure or recreational outing, so no leisure-related federal outlay is counted."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "On July 4, 2026, Trump returned to the White House and later went to the National Mall for an official Salute to America speech; no documented leisure activity means the day’s tracked leisure cost is $0.",
+  "tags": [
+    "white-house",
+    "national-mall",
+    "official-event",
+    "salute-to-america",
+    "zero-cost-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/videos/president-trump-delivers-remarks-at-the-salute-to-america-celebration/",
+    "https://abcnews.com/Politics/trump-hold-rally-celebrate-july-fourth-washington/story?id=134374334",
+    "https://www.cnn.com/2026/07/04/us/live-news/july-4-trump-speech-america-250"
+  ]
+}
