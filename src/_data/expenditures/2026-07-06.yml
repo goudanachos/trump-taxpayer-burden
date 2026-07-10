@@ -1,0 +1,27 @@
+{
+  "location": "The White House and in transit to Ankara, Turkey",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "category": "none",
+      "description": "The July 6, 2026 roll call shows President Trump at the White House for executive time, meetings, a Rose Garden lunch, and other official events before departing that evening from Joint Base Andrews for Etimesgut Air Base in Ankara, Turkey. In-window news coverage identifies the trip as travel to a NATO summit and related official business, not a leisure or recreational outing, so no leisure-related federal outlay is counted for this tracker."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "On July 6, 2026, Trump spent the day on official White House business and departed that night for Ankara for NATO-related travel, with no documented leisure activity; tracked leisure cost: $0.",
+  "tags": [
+    "white-house",
+    "official-travel",
+    "ankara",
+    "turkey",
+    "nato",
+    "zero-cost-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.cnbc.com/2026/07/07/trump-nato-turkey-russia-ukraine-spending.html",
+    "https://www.aljazeera.com/news/liveblog/2026/7/7/natos-turkiye-summit-live-trump-leaders-to-meet-in-ankara",
+    "https://apnews.com/live/trump-administration-nato-summit-updates-07-07-2026"
+  ]
+}
