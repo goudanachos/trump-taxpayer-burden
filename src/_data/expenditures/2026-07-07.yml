@@ -1,0 +1,26 @@
+{
+  "location": "Ankara, Turkey",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "category": "none",
+      "description": "The July 7, 2026 roll call places President Trump in Ankara for official arrival ceremonies, a bilateral meeting with Turkey’s president, and NATO summit events, including the NATO Leaders' Social Dinner at the presidential compound. In-window coverage identifies the trip as official diplomatic and summit business rather than leisure or recreation, so no leisure-related federal outlay is counted."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "On July 7, 2026, Trump was in Ankara for official NATO and bilateral events, not leisure travel, so the tracked leisure cost for the day is $0.",
+  "tags": [
+    "ankara",
+    "turkey",
+    "nato",
+    "official-travel",
+    "zero-cost-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.aljazeera.com/news/liveblog/2026/7/7/natos-turkiye-summit-live-trump-leaders-to-meet-in-ankara",
+    "https://apnews.com/article/nato-summit-takeaways-trump-ukraine-iran-albania-4821e7c6f2ab0b8a729d0e798bfe6359",
+    "https://www.theguardian.com/world/2026/jul/07/nato-braces-for-difficult-summit-as-trump-puts-pressure-on-spending"
+  ]
+}
