@@ -1,0 +1,27 @@
+{
+  "location": "Ankara, Turkey; RAF Mildenhall, United Kingdom; in transit to Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "category": "none",
+      "description": "The July 8, 2026 roll call places President Trump in Ankara for official NATO events, including a working session, bilateral meetings, and a press conference, before departing Ankara Esenboğa Airport for Joint Base Andrews via RAF Mildenhall. In-window White House and AP coverage describe the day as summit and return travel on official business, not leisure or recreation, so no leisure-related federal outlay is counted."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "On July 8, 2026, Trump spent the day at official NATO meetings in Ankara and then flew home via RAF Mildenhall, with no documented leisure activity; tracked leisure cost: $0.",
+  "tags": [
+    "ankara",
+    "raf-mildenhall",
+    "official-travel",
+    "nato",
+    "international",
+    "zero-cost-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://whitehouse.gov/videos/president-trump-participates-in-a-nato-leaders-working-session",
+    "https://whitehouse.gov/videos/president-trump-participates-in-a-press-conference-jul-8-2026",
+    "https://apnews.com/article/trump-air-force-one-nato-iran-qatar-6cb08dcb613a2d7f77d3b0a143f3b216"
+  ]
+}
