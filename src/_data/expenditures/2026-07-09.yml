@@ -1,0 +1,24 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The roll call places President Trump back at the White House at 1:48 AM on July 9, followed by a full lid and then only official White House events: Executive Time, the intelligence briefing, Signing Time, and policy meetings in the Oval Office. A news search within the allowed ±7-day window found no date-specific reporting of golf, resort travel, club motorcades, or other recreational activity on July 9, so no leisure-related federal outlay is counted for this date.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "July 9, 2026: a $0 leisure-cost day. Trump was at the White House for executive time, briefing, signing time, and policy meetings, with no documented golf, resort trip, or other recreational activity.",
+  "tags": [
+    "white-house",
+    "official-business",
+    "zero-cost",
+    "no-documented-leisure"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-secures-historic-defense-investment-from-nato-allies-powering-american-industry",
+    "https://whitehouse.gov/presidential-actions/2026/07/adjusting-imports-of-commercial-aircraft-jet-engines-and-aircraft-and-engine-parts-into-the-united-states"
+  ]
+}
