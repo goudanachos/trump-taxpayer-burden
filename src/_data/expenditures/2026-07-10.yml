@@ -1,0 +1,24 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The roll call for July 10, 2026 places President Trump at the White House for Executive Time, a policy meeting, a swearing-in ceremony in the Oval Office, and then a full lid in the evening. Within the allowed ±7-day evidence window, no date-specific source documented golf, resort travel, club motorcades, or any other recreational activity on July 10, so no leisure-related federal outlay is counted for this date.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "July 10, 2026 was a $0 leisure-cost day: Trump remained at the White House for executive time, meetings, and a swearing-in ceremony, with no documented golf or resort travel.",
+  "tags": [
+    "white-house",
+    "official-business",
+    "zero-cost",
+    "no-documented-leisure"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-secures-historic-defense-investment-from-nato-allies-powering-american-industry",
+    "https://whitehouse.gov/presidential-actions/2026/07/adjusting-imports-of-commercial-aircraft-jet-engines-and-aircraft-and-engine-parts-into-the-united-states"
+  ]
+}
