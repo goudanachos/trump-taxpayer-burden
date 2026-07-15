@@ -1,0 +1,25 @@
+{
+  "location": "Trump National Golf Club Washington, D.C. / The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Golf outing at Trump National Golf Club Washington, D.C.",
+      "cost": 310000,
+      "description": "The roll call for July 11, 2026 explicitly shows President Trump departing the White House at 9:54 AM for Trump National Golf Club Washington, D.C., arriving at 10:27 AM, remaining there for several hours, and returning to the White House at 5:04 PM. Under the benchmark method, a documented off-site leisure outing to a Trump golf club is costed using peak off-site Secret Service and staff protection ($300,000/day) plus a local motorcade estimate ($10,000) for the round trip; no flight legs are documented for this date.",
+      "category": "golf"
+    }
+  ],
+  "total_cost": 310000,
+  "social_description": "July 11, 2026: Trump made a golf trip from the White House to Trump National Golf Club Washington, D.C. Estimated taxpayer leisure cost: $310,000 for off-site security and motorcade operations.",
+  "tags": [
+    "golf",
+    "trump-national-golf-club-washington-dc",
+    "motorcade",
+    "off-site-security",
+    "leisure-travel"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.the-independent.com/news/world/americas/trump-golf-club-restaurant-health-violations-b3014591.html"
+  ],
+  "social_title": "July 11, 2026 Trump golf trip from the White House to Trump National Golf Club Washington, D.C. was estimated at $310,000 in taxpayer costs"
+}
