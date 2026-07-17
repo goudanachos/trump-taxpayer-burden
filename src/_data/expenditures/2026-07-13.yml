@@ -1,0 +1,24 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The July 13, 2026 roll call places President Trump at the White House for executive time, media interviews, a Freedom 250 Grand Prix showcase, an Oval Office meeting, and signing executive orders, with a full lid called that evening. In-window date-specific sources align with an official-business White House day and do not document golf, resort travel, club motorcades, or other recreational activity on July 13, so no leisure-related federal outlay is counted.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "July 13, 2026 was a $0 leisure-cost day: Trump stayed at the White House for interviews, meetings, a showcase event, and executive-order signing, with no documented golf or resort travel.",
+  "tags": [
+    "white-house",
+    "official-business",
+    "zero-cost",
+    "no-documented-leisure"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/videos/president-trump-signs-an-executive-order-jul-13-2026/",
+    "https://conservativedailynews.com/2026/07/president-donald-trumps-schedule-for-monday-july-13-2026"
+  ]
+}
