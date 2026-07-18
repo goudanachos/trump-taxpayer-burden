@@ -1,0 +1,24 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The July 14, 2026 roll call places President Trump at the White House for executive time, a meeting and bilateral with the prime minister of Iraq, a policy meeting, a swearing-in ceremony, and a taped interview before a full lid. A search of date-specific coverage within the allowed ±7-day window did not identify any golf outing, resort travel, club motorcade, or other recreational activity on July 14, so no leisure-related federal outlay is counted for this date.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "July 14, 2026 was a $0 leisure-cost day: Trump remained at the White House for meetings and ceremonies, with no documented golf, resort trip, or other recreational activity.",
+  "tags": [
+    "white-house",
+    "official-business",
+    "zero-cost",
+    "no-documented-leisure"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://apnews.com/live/trump-address-elections-updates-07-16-2026",
+    "https://www.npr.org/2026/07/15/nx-s1-5894580/trump-elections-primetime-address"
+  ]
+}
