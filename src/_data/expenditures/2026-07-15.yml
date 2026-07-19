@@ -1,0 +1,28 @@
+{
+  "location": "The White House, Washington, D.C. / Carlisle, Pennsylvania",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The July 15, 2026 roll call shows President Trump traveling by Marine One from the White House to Carlisle, Pennsylvania for the Pennsylvania Defense and Innovation Summit at the U.S. Army War College, then returning to the White House the same evening. In-window coverage from PBS, AP, WGAL, and C-SPAN describes the trip as an official policy and defense event, and no date-specific source within the allowed window documents golf, resort travel, club motorcades for recreation, or any other leisure activity on this date.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "July 15, 2026 was a $0 leisure-cost day: Trump traveled to Carlisle, Pennsylvania for an official defense summit and returned to the White House, with no documented recreational activity.",
+  "tags": [
+    "official-travel",
+    "army-war-college",
+    "carlisle",
+    "marine-one",
+    "zero-cost",
+    "no-documented-leisure"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.pbs.org/newshour/politics/watch-live-trump-touts-battlefield-technology-investments-at-army-war-college-in-pennsylvania",
+    "https://apnews.com/article/trump-pennsylvania-defense-summit-mccormick-iran-b848f9a016d6ffd9c8b9ada45f120a8d",
+    "https://www.wgal.com/article/trump-pennsylvania-defense-innovation-summit-mccormick-carlisle/71926998",
+    "https://www.c-span.org/event/white-house-event/president-trump-remarks-at-defense-roundtable-in-carlisle-pa/445088"
+  ]
+}
