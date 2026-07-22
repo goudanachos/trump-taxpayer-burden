@@ -1,0 +1,25 @@
+{
+  "location": "Trump National Golf Club Bedminster, Bedminster, New Jersey",
+  "activities": [
+    {
+      "name": "Golf day at Trump National Golf Club Bedminster",
+      "cost": 310000,
+      "description": "In-window coverage and the day’s public schedule place the President at Trump National Golf Club Bedminster on July 18, 2026, with executive time beginning at 8:00 AM and a full lid at 2:39 PM. Independent contemporaneous reporting states he spent Saturday at his Bedminster golf course and that public schedule time was set aside for the course, so this qualifies as documented leisure/recreational activity. Estimated taxpayer cost applies the benchmark for peak off-site Secret Service and staff ($300,000) plus a local motorcade allowance ($10,000) for on-property/off-site movement; no flight leg is documented on the target date itself in the provided evidence."
+    }
+  ],
+  "total_cost": 310000,
+  "social_description": "July 18, 2026: Trump spent the day at Trump National Golf Club Bedminster, a documented golf/leisure day. Estimated taxpayer leisure-related cost: about $310,000.",
+  "tags": [
+    "bedminster",
+    "golf",
+    "trump-property",
+    "leisure-day",
+    "off-site-security"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://thepavlovictoday.com/trumps-day-in-office-july-18-2026",
+    "https://irishstar.com/news/politics/trump-golf-new-jersey-health-37448390"
+  ],
+  "social_title": "July 18, 2026: Trump spent the day at Trump National Golf Club Bedminster, with an estimated taxpayer cost of about $310,000."
+}
