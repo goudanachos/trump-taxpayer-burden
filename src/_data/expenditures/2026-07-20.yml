@@ -1,0 +1,25 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "category": "none",
+      "description": "The President’s published schedule for July 20, 2026 kept him at the White House for executive time, multiple Oval Office policy meetings, signing time, and an official greeting for the 2025 Little League Softball World Series Champions. In-window schedule coverage reviewed shows official White House business and no documented golf, resort visit, leisure trip, or other recreational activity on the target date, so no leisure-related federal outlay is counted."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "July 20, 2026: Trump appears to have remained at the White House for policy meetings, signing time, and other official business, with no documented leisure or recreational travel. Leisure-cost estimate: $0.",
+  "tags": [
+    "white-house",
+    "official-business",
+    "no-documented-leisure",
+    "zero-cost-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://conservativedailynews.com/2026/07/president-donald-trumps-schedule-for-monday-july-20-2026",
+    "https://thepavlovictoday.com/trumps-day-in-office-july-20-2026",
+    "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-imposes-additional-tariffs-on-canada/"
+  ]
+}
