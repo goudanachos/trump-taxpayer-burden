@@ -1,0 +1,24 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "category": "none",
+      "description": "The President’s published schedule for July 21, 2026 kept him at the White House for executive time, greetings with Denison University student athletes and House GOP members, and official meetings including a bilateral meeting with the President of Lebanon. The in-window schedule evidence shows official White House business and no documented golf, resort visit, leisure trip, or other recreational activity on the target date, so no leisure-related federal outlay is counted."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "July 21, 2026: Trump appears to have remained at the White House for meetings and other official business, with no documented leisure or recreational travel. Leisure-cost estimate: $0.",
+  "tags": [
+    "white-house",
+    "official-business",
+    "no-documented-leisure",
+    "zero-cost-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/",
+    "roll_call"
+  ]
+}
