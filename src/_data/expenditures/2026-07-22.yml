@@ -1,0 +1,27 @@
+{
+  "location": "The White House, Washington, D.C.; Dover Air Force Base, Delaware; Marietta, Georgia",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "category": "none",
+      "description": "The President’s July 22, 2026 schedule shows official travel and government activity: departure from the White House, attendance at a dignified transfer at Dover Air Force Base, remarks at Wheeler High School in Marietta, and return to Washington that evening. In-window reporting reviewed describes the Georgia stop as a policy/economic event and the Dover stop as an official military ceremony, with no documented golf, resort visit, Trump-property stay, or other recreational activity on the target date, so no leisure-related federal outlay is counted."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "July 22, 2026: Trump traveled to Dover for a dignified transfer and to Georgia for official remarks, then returned to Washington. No documented leisure or recreational activity was found, so the leisure-cost estimate is $0.",
+  "tags": [
+    "official-travel",
+    "dignified-transfer",
+    "marietta",
+    "white-house",
+    "zero-cost-day",
+    "no-documented-leisure"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.cbsnews.com/atlanta/live-updates/donald-trump-georgia-visit-atlanta-marietta-july-22-2026/",
+    "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-dignified-transfer-service-members-iran-congress-election-rcna588638",
+    "roll_call"
+  ]
+}
