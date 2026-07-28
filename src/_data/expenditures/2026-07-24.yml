@@ -1,0 +1,25 @@
+{
+  "location": "The White House and Waldorf Astoria Washington DC, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "category": "none",
+      "description": "The in-town schedule shows President Trump at the White House for executive time, a 3:00 PM Oval Office announcement on American nuclear innovation, and an evening round-trip to the Waldorf Astoria for the rescheduled White House Correspondents' Association Dinner before returning to the White House. The dinner was an official press/First Amendment event rather than leisure or recreational travel, so under the methodology no leisure-specific federal outlay is counted for July 24, 2026."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "July 24, 2026: $0 in documented taxpayer-funded leisure costs. Trump spent the day on White House business and attended the rescheduled WHCA dinner in Washington, an official event—not recreational travel or leisure.",
+  "tags": [
+    "zero-cost",
+    "white-house",
+    "waldorf-astoria",
+    "official-event",
+    "no-documented-leisure"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://abcnews.com/Politics/trump-attend-rescheduled-white-house-correspondents-dinner-friday/story?id=135027808",
+    "https://www.cnn.com/2026/07/24/media/trump-white-house-correspondents-dinner-do-over"
+  ]
+}
