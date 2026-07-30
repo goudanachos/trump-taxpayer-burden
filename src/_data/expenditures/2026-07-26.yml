@@ -1,0 +1,26 @@
+{
+  "location": "Trump National Golf Club Bedminster and the White House",
+  "activities": [
+    {
+      "name": "Golf outing at Trump National Golf Club Bedminster",
+      "cost": 310000,
+      "category": "golf",
+      "description": "The schedule places President Trump on a same-day round trip from the White House to Trump National Golf Club Bedminster from 9:07 AM to 4:13 PM, with the day explicitly summarized as 'trump property, golf.' Under the benchmark method, a documented off-site leisure outing to a Trump golf club is costed using peak off-site Secret Service and staff ($300,000/day) plus a local motorcade estimate for the short trip segment ($10,000), for an estimated July 26 federal leisure burden of $310,000."
+    }
+  ],
+  "total_cost": 310000,
+  "social_description": "July 26, 2026: estimated $310,000 in taxpayer-funded leisure costs for Trump’s golf outing at Trump National Golf Club Bedminster, using benchmarked off-site security plus local motorcade costs.",
+  "tags": [
+    "golf",
+    "bedminster",
+    "trump-property",
+    "motorcade",
+    "off-site-security",
+    "leisure-travel"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://whitehouse.gov/videos/president-trump-delivers-remarks-jul-27-2026"
+  ],
+  "social_title": "Estimated $310,000 taxpayer-funded cost for Trump’s July 26 golf outing at Trump National Golf Club Bedminster"
+}
