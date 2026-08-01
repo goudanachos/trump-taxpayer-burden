@@ -1,0 +1,23 @@
+{
+  "location": "The White House and Washington National Cathedral, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "category": "none",
+      "description": "The schedule shows President Trump at the White House for executive time, a Fox & Friends interview, meetings with the leaders of Ukraine and Israel, a trip to Washington National Cathedral for Senator Lindsey Graham’s funeral, and an evening political tele-rally from the Oval Office. These are official, ceremonial, or political activities rather than leisure or recreational travel, so no leisure-specific federal outlay is counted for July 28, 2026."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "July 28, 2026: $0 in documented taxpayer-funded leisure costs. Trump’s day was filled with White House meetings, a funeral at the National Cathedral, and an evening tele-rally—not recreational travel or leisure.",
+  "tags": [
+    "zero-cost",
+    "white-house",
+    "national-cathedral",
+    "official-business",
+    "funeral",
+    "no-documented-leisure"
+  ],
+  "confidence_level": "high",
+  "source_urls": []
+}
