@@ -1,0 +1,21 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "category": "none",
+      "description": "The schedule places President Trump at the White House throughout the day for executive time, an intelligence briefing, policy meetings, an announcement with the Secretary of Transportation, and evening tele-rallies from the Oval Office. No in-window source or schedule item documents leisure or recreational travel or activity on July 29, 2026, so no leisure-specific federal outlay is counted."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "July 29, 2026: $0 in documented taxpayer-funded leisure costs. Trump remained at the White House for official meetings, briefings, and tele-rallies, with no documented recreational travel or leisure activity.",
+  "tags": [
+    "zero-cost",
+    "white-house",
+    "official-business",
+    "no-documented-leisure"
+  ],
+  "confidence_level": "high",
+  "source_urls": []
+}
