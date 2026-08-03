@@ -1,0 +1,24 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The White House schedule for July 30, 2026 places President Trump at the White House throughout the day for executive time, greeting interns, policy meetings, an announcement, signing time, and a press briefing by staff. A search of in-window coverage found no contemporaneous reporting of golf, resort travel, or other recreational activity on the target date, so no leisure-related federal outlay is counted.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "July 30, 2026: Trump appears to have remained at the White House for official events, with no documented leisure or recreational travel that day. Estimated taxpayer leisure cost: $0.",
+  "tags": [
+    "white-house",
+    "official-business",
+    "zero-cost",
+    "no-documented-leisure"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/videos/president-trump-makes-an-announcement-with-the-secretary-of-transportation/",
+    "https://aol.com/articles/trump-announces-another-golf-club-153722000.html"
+  ]
+}
