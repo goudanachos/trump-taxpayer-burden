@@ -1,0 +1,27 @@
+{
+  "location": "Camp David, Maryland; Hagerstown Regional Airport, Maryland; Morristown Municipal Airport, New Jersey; Trump National Golf Club Bedminster, Bedminster, New Jersey",
+  "activities": [
+    {
+      "name": "Travel to Trump National Golf Club Bedminster for an overnight stay at a Trump property",
+      "cost": 445000,
+      "description": "The day began with official business at Camp David, including a Cabinet meeting, but by late afternoon President Trump flew from Hagerstown Regional Airport to Morristown Municipal Airport and then motorcaded to Trump National Golf Club Bedminster, where the White House called a full lid after his arrival. Because the destination was his private golf club/resort property rather than the White House or another government facility, this is treated as off-site leisure/recreational property travel on the target date. Estimated cost uses the provided benchmarks: VC-25A flight Hagerstown→Morristown (~0.65 hr × $177,843 = ~$115,598), short local motorcade to Bedminster ($10,000), Marine One helicopter legs from the Washington area/Camp David corridor to Hagerstown (~0.8 hr total × $24,000 = $19,200), and peak off-site Secret Service/staff for the day ($300,000), rounded to the nearest thousand.",
+      "category": "trump-property-travel"
+    }
+  ],
+  "total_cost": 445000,
+  "social_description": "July 31, 2026: After a Cabinet meeting at Camp David, Trump traveled to his Bedminster golf club and ended the day there. Estimated taxpayer leisure-related cost for the Trump-property trip: $445,000.",
+  "tags": [
+    "bedminster",
+    "trump-property",
+    "golf-club",
+    "off-site-security",
+    "air-travel",
+    "motorcade"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.whitehouse.gov/releases/2026/07/president-trump-hosts-historic-cabinet-meeting-at-camp-david/",
+    "https://www.cnn.com/2026/07/31/politics/camp-david-trump-cabinet-iran"
+  ],
+  "social_title": "Trump’s Bedminster overnight trip after a Camp David Cabinet meeting cost an estimated $445,000"
+}
