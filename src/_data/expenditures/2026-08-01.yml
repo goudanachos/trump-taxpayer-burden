@@ -1,0 +1,26 @@
+{
+  "location": "Trump National Golf Club Bedminster, Bedminster, New Jersey",
+  "activities": [
+    {
+      "name": "Golf at Trump National Golf Club Bedminster",
+      "cost": 310000,
+      "description": "The White House roll call places President Trump at Trump National Golf Club Bedminster all day on August 1, 2026, with executive time and a full lid from the property. In-window reporting published the next two days states that Trump won the Bedminster Senior and Super Senior Club Championship, indicating he played golf at the club over the weekend, which includes the target date. Using the authorized benchmark method for a documented local golf outing at an off-site Trump property, this record applies peak off-site Secret Service and staff costs ($300,000/day) plus a short local motorcade estimate ($10,000), with no flight leg evidenced on the target date.",
+      "category": "golf"
+    }
+  ],
+  "total_cost": 310000,
+  "social_description": "Aug. 1, 2026: Trump was at Bedminster and in-window coverage says he played in and won the club championship there over the weekend. Estimated taxpayer leisure cost for the golf day: $310,000.",
+  "tags": [
+    "bedminster",
+    "golf",
+    "trump-property",
+    "off-site-security",
+    "motorcade"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.foxnews.com/outkick-sports/president-trump-celebrates-bedminster-club-championship-brags-little-practice-needed-score-70",
+    "https://www.skysports.com/golf/news/12176/13569322/donald-trump-us-president-wins-bedminster-senior-club-championship-and-taunts-opponents-in-truth-social-post"
+  ],
+  "social_title": "Trump’s Aug. 1, 2026 Bedminster golf day is estimated at $310,000 in taxpayer cost"
+}
