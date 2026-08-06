@@ -1,0 +1,26 @@
+{
+  "location": "Trump National Golf Club Bedminster, Bedminster, New Jersey; Morristown Municipal Airport, New Jersey; Joint Base Andrews, Maryland; The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Golf and off-site stay at Trump National Golf Club Bedminster",
+      "cost": 310000,
+      "description": "The White House roll call places President Trump at Trump National Golf Club Bedminster for executive time through midday on August 2, 2026 before his late-afternoon return to Washington. Independent in-window coverage published on August 2 and August 3 reported that Trump won the Bedminster club championship over the weekend at his Bedminster course, supporting that he played golf at the club during this stay, including the target date. Using the authorized benchmark method for a documented golf day at an off-site Trump property, the estimate applies peak off-site Secret Service and staff costs ($300,000) plus a short local motorcade allowance ($10,000). Flight costs for the return to Washington are not included here because the same-day evidence more clearly documents the leisure activity and off-site security burden at Bedminster itself rather than a separate leisure travel leg.",
+      "category": "golf"
+    }
+  ],
+  "total_cost": 310000,
+  "social_description": "Aug. 2, 2026: Trump remained at Bedminster into the afternoon, and in-window coverage says he won the club championship there over the weekend. Estimated taxpayer leisure cost for the golf day: $310,000.",
+  "tags": [
+    "bedminster",
+    "golf",
+    "trump-property",
+    "off-site-security",
+    "motorcade"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.foxnews.com/outkick-sports/president-trump-celebrates-bedminster-club-championship-brags-little-practice-needed-score-70",
+    "https://www.skysports.com/golf/news/12176/13569322/donald-trump-us-president-wins-bedminster-senior-club-championship-and-taunts-opponents-in-truth-social-post"
+  ],
+  "social_title": "Aug. 2, 2026: Trump’s Bedminster golf day is estimated to have cost taxpayers $310,000"
+}
