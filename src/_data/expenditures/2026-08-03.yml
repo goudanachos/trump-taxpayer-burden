@@ -1,0 +1,24 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The White House roll call for August 3, 2026 places President Trump at the White House throughout the day for executive time, multiple policy meetings, and the signing of an executive order. Although in-window news discussed his Bedminster club-championship win over the prior weekend, no source documents any leisure travel or recreational activity by him on August 3 itself, so no leisure-related federal outlay is counted for this date.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Aug. 3, 2026: Trump was scheduled at the White House for meetings and an executive-order signing, with no documented leisure or recreational travel that day. Estimated taxpayer leisure cost: $0.",
+  "tags": [
+    "white-house",
+    "official-business",
+    "zero-cost",
+    "no-documented-leisure"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/videos/president-trump-signs-an-executive-order-aug-3-2026/",
+    "https://sports.yahoo.com/articles/trump-declares-win-bedminster-club-193707813.html"
+  ]
+}
