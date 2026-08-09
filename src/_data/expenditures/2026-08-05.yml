@@ -1,0 +1,33 @@
+{
+  "location": "Trump International Hotel, Las Vegas, Nevada; Red Rock Casino Resort and Spa, Las Vegas, Nevada; Harry Reid International Airport, Las Vegas, Nevada; Joint Base Andrews, Maryland; The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Overnight stay at Trump International Hotel Las Vegas",
+      "cost": 310000,
+      "description": "President Trump spent the overnight and morning of August 5, 2026 at Trump International Hotel Las Vegas before departing for an afternoon political event elsewhere in Las Vegas. In-window reporting and the White House roll call both place him at the Trump hotel, an off-site Trump property, for the overnight stay and morning executive time. Using the authorized benchmark method for a documented off-site Trump-property stay, this estimate applies peak off-site Secret Service and staff costs ($300,000) plus a short local motorcade allowance ($10,000).",
+      "category": "trump-property-stay"
+    },
+    {
+      "name": "Return flight from Las Vegas to Washington after Trump-property stay",
+      "cost": 443000,
+      "description": "Later that day, President Trump departed Las Vegas for Joint Base Andrews after beginning the day at Trump International Hotel Las Vegas. The same-day return leg from Harry Reid International Airport to Joint Base Andrews is estimated as a domestic VC-25A flight of about 0.75 hours based on the schedule’s 7:25 PM to 11:16 PM Eastern timing net of time-zone difference, plus peak off-site Secret Service/staff already required by the off-site Las Vegas stay and a short local motorcade allowance; rounded to the nearest thousand. To avoid double-counting security already assigned to the hotel stay, this line should be read as the day’s leisure-related return travel burden stemming from the off-site Trump-property stay.",
+      "category": "air-travel"
+    }
+  ],
+  "total_cost": 753000,
+  "social_description": "Aug. 5, 2026: Trump spent the morning at Trump International Hotel Las Vegas before returning to Washington. Estimated taxpayer leisure/property-related cost for the off-site Trump-property day: $753,000.",
+  "tags": [
+    "las-vegas",
+    "trump-property",
+    "hotel-stay",
+    "off-site-security",
+    "air-force-one",
+    "motorcade"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.reviewjournal.com/local/local-las-vegas/trump-to-spend-the-night-in-las-vegas-before-wednesday-event-at-red-rock-resort-3859357/",
+    "https://reviewjournal.com/news/politics-and-government/trump-las-vegas-visit-schedule-tickets-traffic-airport-delays-and-what-to-expect-3859096"
+  ],
+  "social_title": "Aug. 5, 2026: Trump spent the morning at Trump International Hotel Las Vegas before returning to Washington, with estimated taxpayer cost of $753,000"
+}
