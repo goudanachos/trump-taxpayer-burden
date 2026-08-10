@@ -1,0 +1,25 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The in-town schedule and same-week White House materials place President Trump at the White House for executive time, policy meetings, an intelligence briefing, signing time, a pre-taped interview, a tele-rally, and a Team USA reception on August 6, 2026. I found no in-window reporting of golf, resort travel, Bedminster/Mar-a-Lago/Doral travel, or other leisure activity on the target date, so no leisure-specific federal outlay is counted.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Aug. 6, 2026: Trump appears to have remained at the White House for meetings and events, with no documented leisure or recreational travel/activity. Estimated taxpayer leisure cost: $0.",
+  "tags": [
+    "white-house",
+    "zero-cost",
+    "no-documented-leisure",
+    "official-schedule"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/videos/president-trump-participates-in-signing-time-aug-6-2026/",
+    "https://whitehouse.gov/gallery/president-donald-j-trump-signs-executive-orders-august-6-2026",
+    "https://conservativedailynews.com/2026/08/president-donald-trumps-schedule-for-friday-august-7-2026"
+  ]
+}
