@@ -1,0 +1,29 @@
+{
+  "location": "Trump National Golf Club Bedminster, Bedminster, New Jersey",
+  "activities": [
+    {
+      "name": "Travel to Bedminster for leisure stay at Trump golf property",
+      "cost": 420000,
+      "description": "The White House schedule for August 7, 2026 shows President Trump departing the White House after official events, flying from Joint Base Andrews to Newark Liberty International Airport, and then motorcading to Trump National Golf Club Bedminster, where a full lid was called. Because the destination was his golf club/resort property and the overnight/off-site stay itself is documented on the target date, this is costed as leisure travel using the benchmark method: estimated VC-25A flight of about 0.6 hours from Andrews to Newark (~$106,706), peak off-site Secret Service and staff for the Bedminster stay ($300,000), and a local motorcade ($10,000), rounded to about $420,000.",
+      "category": "leisure-travel"
+    }
+  ],
+  "total_cost": 420000,
+  "social_description": "Aug. 7, 2026: Trump traveled from Washington to his Bedminster golf club after official events. Estimated taxpayer leisure-related cost for the Bedminster trip that day: $420,000.",
+  "tags": [
+    "bedminster",
+    "trump-property",
+    "golf-club",
+    "leisure-travel",
+    "air-force-one",
+    "motorcade",
+    "secret-service"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-announces-billions-in-new-deals-and-investments-to-power-american-mining",
+    "https://whitehouse.gov/videos/president-trump-hosts-a-roundtable-on-american-mining",
+    "https://meidasplus.com/p/saturday-news-updates-iran-delivers"
+  ],
+  "social_title": "Aug. 7, 2026: Trump traveled from Washington to Trump National Golf Club Bedminster after official events, with an estimated taxpayer cost of $420,000"
+}
