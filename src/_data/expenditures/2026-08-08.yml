@@ -1,0 +1,28 @@
+{
+  "location": "Trump National Golf Club Bedminster, Bedminster, New Jersey",
+  "activities": [
+    {
+      "name": "Golf/leisure day at Trump National Golf Club Bedminster",
+      "cost": 310000,
+      "description": "The White House roll call places President Trump at Trump National Golf Club Bedminster on August 8, 2026, and same-window news reports describe him at the LIV Golf event at his New Jersey club, including accounts that he was on the course in a golf cart and that airspace protections were active while he was golfing/attending the tournament. Under the benchmark method, a documented off-site leisure day at a Trump golf property is costed using peak off-site Secret Service and staff ($300,000) plus a local motorcade estimate ($10,000), for an estimated $310,000 on the target date.",
+      "category": "golf"
+    }
+  ],
+  "total_cost": 310000,
+  "social_description": "Aug. 8, 2026: Trump spent the day at his Bedminster golf club with documented golf/LIV event attendance. Estimated taxpayer leisure cost for that off-site day: $310,000.",
+  "tags": [
+    "bedminster",
+    "golf",
+    "trump-property",
+    "liv-golf",
+    "secret-service",
+    "motorcade",
+    "leisure-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://thehill.com/homenews/administration/6020808-norad-intercepts-aircraft-bedminster-trump/",
+    "https://www.foxnews.com/outkick-sports/president-trump-receives-big-cheers-spectators-liv-golf-event-new-jersey-club"
+  ],
+  "social_title": "Trump’s Aug. 8, 2026 Bedminster golf club day is estimated to have cost taxpayers $310,000"
+}
