@@ -1,0 +1,29 @@
+{
+  "location": "Trump National Golf Club Bedminster, Bedminster, New Jersey; later The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Golf/leisure stay at Trump National Golf Club Bedminster before return to Washington",
+      "cost": 430000,
+      "description": "The White House roll call places President Trump at Trump National Golf Club Bedminster through the afternoon on August 9, 2026 before departing New Jersey for Washington. Independent in-window coverage reports that he was at the final round of the LIV Golf Bedminster tournament at his New Jersey golf course that day, including while NORAD enforced temporary flight restrictions over Bedminster as he watched the tournament. Using the benchmark method, the target-date leisure cost is estimated as a domestic VC-25A flight from Morristown to Joint Base Andrews of about 40 minutes (~$118,621), peak off-site Secret Service and staff for the off-site Bedminster leisure day ($300,000), and a local motorcade ($10,000), rounded to $430,000.",
+      "category": "golf"
+    }
+  ],
+  "total_cost": 430000,
+  "social_description": "Aug. 9, 2026: Trump remained at his Bedminster golf club for the LIV Golf final round before flying back to Washington. Estimated taxpayer leisure cost for that day: $430,000.",
+  "tags": [
+    "bedminster",
+    "golf",
+    "trump-property",
+    "liv-golf",
+    "air-force-one",
+    "secret-service",
+    "motorcade",
+    "return-travel"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://thehill.com/homenews/administration/6020808-norad-intercepts-aircraft-bedminster-trump/",
+    "https://www.twz.com/land/avenger-surface-to-air-missile-system-protected-trump-while-golfing"
+  ],
+  "social_title": "Trump’s Aug. 9, 2026 Bedminster golf day and return to Washington cost an estimated $430,000"
+}
