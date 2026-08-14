@@ -1,0 +1,25 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The August 10, 2026 schedule places President Trump at the White House for executive time, a pre-taped interview, a policy meeting, a swearing-in ceremony, an executive-order signing, and evening tele-rallies. Same-window White House materials document official events that day, and I found no in-window reporting of golf, resort travel, or other leisure activity on the target date, so no leisure-specific federal outlay is counted.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Aug. 10, 2026: Trump appears to have remained at the White House for official meetings and events, with no documented leisure or recreational travel/activity. Estimated taxpayer leisure cost: $0.",
+  "tags": [
+    "white-house",
+    "zero-cost",
+    "no-documented-leisure",
+    "official-business"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/videos/president-trump-signs-an-executive-order-aug-10-2026/",
+    "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-delivers-gold-standard-childhood-vaccine-recommendations-for-americans/",
+    "https://www.whitehouse.gov/presidential-actions/2026/08/delivering-gold-standard-childhood-vaccine-recommendations-for-americans/"
+  ]
+}
