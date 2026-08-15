@@ -1,0 +1,26 @@
+{
+  "location": "Spire Academy, Geneva, Ohio; later The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "On August 11, 2026, President Trump followed an official travel schedule from the White House to Geneva, Ohio for the Patriot Games finale at Spire Academy and then returned to Washington that evening. In-window White House and news coverage describe the Ohio trip as attendance at the administration-sponsored Patriot Games finals, and I found no in-window evidence of golf, resort travel, or other leisure/recreational activity on the target date, so no leisure-specific federal outlay is counted.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Aug. 11, 2026: Trump traveled to Ohio for the official Patriot Games finale and returned to the White House the same night. No documented leisure or recreational activity, so estimated taxpayer leisure cost: $0.",
+  "tags": [
+    "zero-cost",
+    "official-travel",
+    "ohio",
+    "patriot-games",
+    "white-house"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://whitehouse.gov/releases/2026/08/america-first-means-ohio-first-president-trump-republicans-deliver-for-ohio",
+    "https://thehill.com/homenews/administration/6024100-trump-patriot-games-winners/",
+    "https://www.whitehouse.gov/videos/president-trump-attends-the-patriot-games-2026/"
+  ]
+}
