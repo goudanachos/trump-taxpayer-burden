@@ -1,0 +1,23 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The August 12, 2026 schedule places President Trump at the White House for executive time, a greeting with law enforcement and military service members, policy meetings, and signing time. Same-window White House materials document presidential action from that day, and I found no in-window reporting of golf, resort travel, or other leisure activity on the target date, so no leisure-specific federal outlay is counted.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Aug. 12, 2026: Trump appears to have remained at the White House for official meetings and signing activity, with no documented leisure or recreational travel/activity. Estimated taxpayer leisure cost: $0.",
+  "tags": [
+    "white-house",
+    "zero-cost",
+    "no-documented-leisure",
+    "official-business"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/presidential-actions/2026/08/expanding-capabilities-to-combat-transnational-cyber-enabled-crime/"
+  ]
+}
