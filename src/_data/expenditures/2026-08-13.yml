@@ -1,0 +1,23 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "category": "none",
+      "description": "The provided daily schedule places President Trump at the White House for Executive Time, the intelligence briefing, Signing Time, and a policy meeting, with a full lid at 6:01 PM. In-window searches surfaced no date-specific reporting of golf, resort travel, motorcade leisure outing, or other recreational activity on 2026-08-13, so no leisure-specific federal outlay is counted."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "On Aug. 13, 2026, Trump appears to have remained at the White House for scheduled official business, with no documented leisure or recreational travel/activity. Estimated taxpayer leisure cost: $0.",
+  "tags": [
+    "white-house",
+    "official-business",
+    "no-documented-leisure",
+    "zero-cost-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-rebuilds-the-u-s-navy-and-americas-shipbuilding-industrial-base"
+  ]
+}
