@@ -1,0 +1,27 @@
+{
+  "location": "Trump National Golf Club Bedminster, Bedminster, New Jersey; later returned to the White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Golf/leisure stay at Bedminster before return to Washington",
+      "cost": 417000,
+      "category": "golf-trip",
+      "description": "The schedule places President Trump at Trump National Golf Club Bedminster for the morning and early afternoon before departing for Morristown and flying back to Joint Base Andrews. In-window reporting independently documents that he was at Bedminster for golf-related leisure activity that weekend, so the Aug. 16 leisure burden is estimated using the authorized benchmarks as about $417,000: peak off-site Secret Service/staff at Bedminster ($300,000), a short local motorcade transfer to Morristown Municipal Airport ($10,000), and roughly 0.6 flight-hours on VC-25A from Morristown/Bedminster back to the Washington area ($106,706), rounded."
+    }
+  ],
+  "total_cost": 417000,
+  "social_description": "On Aug. 16, 2026, Trump spent much of the day at his Bedminster golf club before returning to Washington. Estimated taxpayer leisure cost for that day: $417,000.",
+  "tags": [
+    "bedminster",
+    "golf",
+    "trump-property",
+    "off-site-security",
+    "air-force-one",
+    "return-travel"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.thedailybeast.com/trump-shadowed-by-blonde-companion-natalie-harp-35-on-bedminster-golf-outing/",
+    "https://www.yahoo.com/news/politics/articles/trump-executive-assistant-natalie-harp-004422279.html"
+  ],
+  "social_title": "Trump’s Aug. 16 Bedminster golf day and return to Washington cost an estimated $417,000"
+}
