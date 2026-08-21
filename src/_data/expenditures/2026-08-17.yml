@@ -1,0 +1,23 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "category": "none",
+      "description": "The provided daily schedule places President Trump at the White House for Executive Time, an intelligence briefing, a greeting in the Oval Office, and a policy meeting, with a full lid called in the evening. In-window searching surfaced no date-specific reporting of golf, resort travel, motorcade leisure outing, or other recreational activity on 2026-08-17, so no leisure-specific federal outlay is counted."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "On Aug. 17, 2026, Trump appears to have remained at the White House for scheduled official business, with no documented leisure or recreational travel/activity. Estimated taxpayer leisure cost: $0.",
+  "tags": [
+    "white-house",
+    "official-business",
+    "no-documented-leisure",
+    "zero-cost-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://thehill.com/homenews/administration/6020808-norad-intercepts-aircraft-bedminster-trump/"
+  ]
+}
