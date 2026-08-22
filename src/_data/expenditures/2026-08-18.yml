@@ -1,0 +1,21 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "category": "none",
+      "description": "The provided daily schedule places President Trump at the White House for Executive Time and multiple policy meetings in the Oval Office, with a full lid called at 6:00 PM. No in-window, date-specific source documents golf, resort travel, a leisure motorcade, or other recreational activity on 2026-08-18, so no leisure-specific federal outlay is counted."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "On Aug. 18, 2026, Trump appears to have remained at the White House for official business, with no documented leisure or recreational travel/activity. Estimated taxpayer leisure cost: $0.",
+  "tags": [
+    "white-house",
+    "official-business",
+    "no-documented-leisure",
+    "zero-cost-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": []
+}
