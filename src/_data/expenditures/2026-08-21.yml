@@ -1,0 +1,28 @@
+{
+  "location": "Myrtle Beach Convention Center, Myrtle Beach, South Carolina; same-day round trip from the White House/Joint Base Andrews",
+  "activities": [
+    {
+      "name": "Campaign rally travel to Myrtle Beach",
+      "cost": 442000,
+      "description": "On Aug. 21, 2026, the President made a same-day trip from Joint Base Andrews to Myrtle Beach for a political rally at the Myrtle Beach Convention Center in support of Sen. Darline Graham. The roll call shows departures and returns the same evening; local reporting independently confirms Air Force One arrived at Myrtle Beach International Airport, a motorcade went to the convention center, and the event was a campaign rally. Estimated federal leisure/political-event outlays use the provided benchmarks: about 1.02 flight-hours each way on VC-25A (roughly 2.03 total hours × $177,843/hr), plus two local motorcade legs at $10,000 each and activated local law-enforcement assistance at $60,000. Because this was same-day travel for a rally rather than an overnight resort/golf stay, no off-site $300,000/day Secret Service lodging burden was added.",
+      "category": "political-rally-travel"
+    }
+  ],
+  "total_cost": 442000,
+  "social_description": "Aug. 21, 2026: Trump made a same-day Air Force One trip to Myrtle Beach for a campaign rally at the convention center. Using the benchmark method, estimated taxpayer leisure/political-event travel cost: about $442,000.",
+  "tags": [
+    "campaign-rally",
+    "air-force-one",
+    "motorcade",
+    "myrtle-beach",
+    "south-carolina",
+    "same-day-trip"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.wmbfnews.com/2026/08/21/live-blog-trump-visits-rally-myrtle-beach-convention-center/",
+    "https://wpde.com/news/local/trump-rally-live-updates-traffic-and-more-from-myrtle-beach-republican-traffic-delays-developments-maga",
+    "https://www.foxnews.com/politics/trump-fires-back-protester-interrupts-myrtle-beach-rally-graham-mom-voting-us"
+  ],
+  "social_title": "Aug. 21, 2026: Trump made a same-day Air Force One trip to Myrtle Beach for a campaign rally, with estimated taxpayer travel cost of about $442,000."
+}
