@@ -1,0 +1,26 @@
+{
+  "location": "Trump National Golf Club Washington, D.C., Sterling, Virginia",
+  "activities": [
+    {
+      "name": "Golf outing at Trump National Golf Club Washington, D.C.",
+      "cost": 310000,
+      "description": "The roll call for Aug. 22, 2026 shows the President traveling from the White House to Trump National Golf Club Washington, D.C. in Sterling, Virginia at 9:21 a.m., remaining there for hours, and returning to the White House at 4:41 p.m. The schedule summary explicitly labels the day 'trump property, golf,' and an independent in-window report on Aug. 23 says he was spotted Saturday at his Virginia golf course. Under the benchmark method, a documented golf trip to an off-site Trump property is costed using peak off-site Secret Service and staff at $300,000/day plus local motorcade travel estimated at $10,000 for the round trip.",
+      "category": "golf"
+    }
+  ],
+  "total_cost": 310000,
+  "social_description": "Aug. 22, 2026: Trump made a golf trip from the White House to Trump National Golf Club in Sterling, Va. Estimated taxpayer leisure cost: about $310,000 for off-site security and motorcade travel.",
+  "tags": [
+    "golf",
+    "trump-property",
+    "sterling-virginia",
+    "motorcade",
+    "secret-service"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://conservativedailynews.com/2026/08/president-donald-trumps-schedule-for-saturday-august-22-2026",
+    "https://yahoo.com/news/politics/articles/trump-aide-natalie-harp-back-140822682.html"
+  ],
+  "social_title": "Aug. 22, 2026: Trump made a golf trip from the White House to Trump National Golf Club in Sterling, Va., with estimated taxpayer cost of about $310,000"
+}
