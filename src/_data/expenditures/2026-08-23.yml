@@ -1,0 +1,26 @@
+{
+  "location": "National Mall, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Attendance at the Freedom 250 Grand Prix",
+      "cost": 70000,
+      "description": "The roll call for Aug. 23, 2026 shows the President and First Lady leaving the White House for the National Mall, attending the Freedom 250 Grand Prix from about noon until mid-afternoon, and returning the same day. Multiple in-window reports independently confirm Trump attended and hosted the IndyCar race around the National Mall. Because this was a local recreational/spectator outing within Washington rather than overnight travel, the benchmarked federal leisure burden is limited to local motorcade transportation estimated at $10,000 plus activated local law-enforcement assistance at about $60,000 for the event day.",
+      "category": "spectator-event"
+    }
+  ],
+  "total_cost": 70000,
+  "social_description": "Aug. 23, 2026: Trump attended the Freedom 250 Grand Prix on the National Mall. Estimated taxpayer leisure/event cost: about $70,000 for local motorcade and activated policing.",
+  "tags": [
+    "spectator-event",
+    "national-mall",
+    "motorcade",
+    "washington-dc",
+    "grand-prix"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://abcnews.com/Sports/weekends-indycar-race-streets-nations-capital/story?id=135743374",
+    "https://www.usatoday.com/story/news/usa250/2026/08/23/trump-dc-grand-prix-race-updates--live/91393835007/",
+    "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-indycar-race-dc"
+  ]
+}
