@@ -1,0 +1,24 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The roll call places the President at the White House throughout Aug. 24, 2026 for executive time, policy meetings, a Rose Garden event, and two tele-rallies from the Oval Office. In-window coverage matches an official-business day at the White House, with no documented golf, resort visit, off-site leisure trip, or other recreational activity that would count as a leisure outlay under the methodology.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Aug. 24, 2026: Trump appears to have remained at the White House for meetings, a Rose Garden event, and tele-rallies. No documented leisure or recreational travel, so estimated taxpayer leisure cost: $0.",
+  "tags": [
+    "white-house",
+    "official-business",
+    "no-documented-leisure",
+    "zero-cost-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://conservativedailynews.com/2026/08/president-donald-trumps-schedule-for-monday-august-24-2026",
+    "https://www.whitehouse.gov/videos/president-trump-participates-in-a-rose-garden-event-aug-24-2026"
+  ]
+}
