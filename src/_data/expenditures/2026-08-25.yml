@@ -1,0 +1,23 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The roll call places the President at the White House all day on Aug. 25, 2026 for executive time, policy meetings, a pre-taped interview, and signing time, with no off-site travel. In-window reporting and the schedule show an on-site workday and do not document any golf, resort visit, spectator event, or other recreational activity that would count as a leisure outlay.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Aug. 25, 2026: Trump appears to have remained at the White House for meetings, an interview, and signing time. No documented leisure or recreational travel, so estimated taxpayer leisure cost: $0.",
+  "tags": [
+    "white-house",
+    "official-business",
+    "no-documented-leisure",
+    "zero-cost-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://conservativedailynews.com/2026/08/president-donald-trumps-schedule-for-tuesday-august-25-2026"
+  ]
+}
