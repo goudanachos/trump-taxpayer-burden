@@ -1,0 +1,28 @@
+{
+  "location": "Houston, Texas",
+  "activities": [
+    {
+      "name": "Political/fundraising trip to Houston (non-leisure)",
+      "cost": 0,
+      "description": "The in-window White House schedule and multiple local news reports show President Trump spent the day on official White House activities in Washington before flying to Houston for an evening RNC engagement at the Post Oak Hotel. Although the roll call summary mentioned 'golf,' the date-specific schedule and news coverage for Aug. 27 document travel for a fundraiser and next-day NASA event, not any golf or other recreational activity on the target date; under the methodology, non-leisure presidential travel is not counted.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Aug. 27, 2026: $0. Trump was documented at White House meetings/signing time, then flew to Houston for an RNC event and next-day NASA appearance. No in-window source documents golf or other leisure activity on the target date.",
+  "tags": [
+    "zero-cost",
+    "official-travel",
+    "houston",
+    "rnc-event",
+    "no-documented-leisure"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.khou.com/article/news/local/president-trump-houston-visit-nasa/285-dffa276c-259b-4b64-b055-f076e29a467b",
+    "https://www.khou.com/article/news/local/trump-houston-fundraiser-nasa-artemis/285-f03bb949-edd6-4361-8e84-c09c217963c5",
+    "https://www.click2houston.com/news/local/2026/08/27/president-trump-headed-to-houston-for-rnc-event-before-honoring-artemis-ii-astronauts/",
+    "https://www.fox26houston.com/news/president-trump-houston-thursday-aug-27-2026",
+    "https://www.whitehouse.gov/videos/president-trump-participates-in-signing-time-aug-27-2026/"
+  ]
+}
