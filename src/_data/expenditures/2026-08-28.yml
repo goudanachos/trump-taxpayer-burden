@@ -1,0 +1,29 @@
+{
+  "location": "Houston, Texas and the White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The President was documented at the Post Oak Hotel in Houston, then at NASA Johnson Space Center for a Congressional Space Medal of Honor presentation and a call to the International Space Station, before returning to the White House that evening. In-window schedule/news coverage shows official and political travel only; no source documents golf or any other recreational activity on Aug. 28, 2026, so no leisure outlay is counted.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Aug. 28, 2026: $0. Trump spent the day in Houston for a NASA event and ISS call, then returned to the White House. No in-window source documents golf or other leisure activity on the target date.",
+  "tags": [
+    "zero-cost",
+    "official-travel",
+    "houston",
+    "nasa",
+    "white-house",
+    "no-documented-leisure"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.khou.com/article/news/local/president-trump-houston-nasa-johnson-space-center-artemis-astronauts/285-7b726e19-3843-4f24-8db4-dff5d2426e72",
+    "https://www.click2houston.com/news/local/2026/08/28/traffic-alert-trump-at-nasa-friday-road-closures-expected-as-president-heads-back-to-ellington/",
+    "https://www.pbs.org/newshour/politics/watch-live-trump-bestows-artemis-ii-crew-with-congressional-space-medal-of-honor",
+    "https://whitehouse.gov/videos/president-trump-participates-in-the-congressional-space-medal-of-honor-presentation",
+    "https://whitehouse.gov/videos/president-trump-calls-the-international-space-station"
+  ]
+}
