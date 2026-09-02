@@ -1,0 +1,27 @@
+{
+  "location": "Trump National Golf Club Washington, D.C., Sterling, Virginia",
+  "activities": [
+    {
+      "name": "Golf outing at Trump National Golf Club Washington, D.C.",
+      "cost": 310000,
+      "description": "The White House roll call places President Trump at Trump National Golf Club Washington, D.C. in Sterling from 10:01 AM until 8:55 PM on Aug. 29, 2026, and the day summary explicitly flags 'trump property, golf.' An independent in-window report after the weekend states that Trump 'spent the weekend at his golf course in Sterling, Virginia,' hosting a MAGA Inc. dinner on Saturday night. Using the benchmark method for a same-day off-site golf outing reached by motorcade, this record applies $300,000 for peak off-site Secret Service/staff plus $10,000 for local motorcade travel to and from the club.",
+      "category": "golf"
+    }
+  ],
+  "total_cost": 310000,
+  "social_description": "Aug. 29, 2026: an estimated $310,000 in taxpayer-funded leisure costs for Trump’s golf outing at Trump National Golf Club in Sterling, Virginia, using benchmark off-site security and motorcade costs.",
+  "tags": [
+    "golf",
+    "trump-property",
+    "sterling-virginia",
+    "motorcade",
+    "secret-service",
+    "weekend"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://thedailybeast.com/natalie-harp-spotted-with-trump-after-golf-weekend",
+    "https://fogolf.com/1372785/president-donald-j-trump-at-trump-national-golf-club-washington-d-c-%E2%9D%A4%EF%B8%8F-god-bless-president-trump"
+  ],
+  "social_title": "Estimated $310,000 in taxpayer-funded costs for Trump’s Aug. 29, 2026 golf outing in Sterling, Virginia"
+}
