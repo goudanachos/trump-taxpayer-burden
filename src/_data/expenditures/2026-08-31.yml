@@ -1,0 +1,25 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The President was scheduled at the White House throughout Aug. 31, 2026 for executive time, an Oval Office policy meeting, a healthcare affordability announcement, and signing time. In-window sources support official White House business and do not document any golf outing, resort trip, or other recreational activity on the target date, so no leisure-related federal outlay is counted.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Aug. 31, 2026: $0. Trump remained at the White House for meetings, a healthcare announcement, and signing time. No in-window source documents golf or other leisure activity that day.",
+  "tags": [
+    "zero-cost",
+    "white-house",
+    "official-business",
+    "oval-office",
+    "no-documented-leisure"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/videos/president-trump-makes-an-announcement-on-healthcare-affordability-aug-31-2026/",
+    "https://thehill.com/video-clips/6061382-watch-live-donald-trump-healthcare-affordability-drug-pricing-announcement"
+  ]
+}
