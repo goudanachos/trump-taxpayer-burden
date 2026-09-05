@@ -1,0 +1,26 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The President was scheduled at the White House throughout Sept. 1, 2026 for a pre-taped phone interview, policy meetings in the Oval Office, and a Cabinet Room meeting with oil and gas retailers and refineries. In-window reporting describes official White House energy-policy business and does not document any golf outing, resort trip, or other recreational activity on the target date, so no leisure-related federal outlay is counted.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Sept. 1, 2026: $0. Trump remained at the White House for interviews and policy meetings, including an energy meeting with refiners. No in-window source documents golf or other leisure activity that day.",
+  "tags": [
+    "zero-cost",
+    "white-house",
+    "official-business",
+    "energy-policy",
+    "no-documented-leisure"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.cnbc.com/2026/08/31/trump-refiners-gas-prices-refining-capacity.html",
+    "https://thehill.com/policy/energy-environment/6061687-trump-refineries-capacity-gas-prices-iran",
+    "https://newsnationnow.com/politics/trump-oil-execs-white-house"
+  ]
+}
