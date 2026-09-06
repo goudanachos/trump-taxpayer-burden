@@ -1,0 +1,26 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The President was scheduled at the White House throughout Sept. 2, 2026 for Oval Office policy meetings, a meeting with U.S. Travel executives, a pre-taped interview, and an evening Rose Garden dinner. In-window sources corroborate White House-hosted official and political activities and do not document any golf outing, resort trip, or other recreational activity on the target date, so no leisure-related federal outlay is counted.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Sept. 2, 2026: $0. Trump remained at the White House for policy meetings, a meeting with U.S. Travel executives, an interview, and a Rose Garden dinner. No in-window source documents golf or other leisure activity that day.",
+  "tags": [
+    "zero-cost",
+    "white-house",
+    "official-business",
+    "rose-garden",
+    "no-documented-leisure"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://whitehouse.gov/videos/president-trump-meets-with-u-s-travel-executives",
+    "https://www.whitehouse.gov/videos/president-trump-participates-in-a-rose-garden-dinner/",
+    "https://thehill.com/homenews/administration/6066484-trump-republican-lawmakers-rose-garden-dinner/"
+  ]
+}
