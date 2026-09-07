@@ -1,0 +1,23 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The provided roll call places President Trump at the White House throughout September 3, 2026 for executive time, an intelligence briefing, policy meetings, and signing time, with a travel/photo lid at 6:00 PM but no listed destination or leisure event that day. In-window reporting indicates travel to Trump National Golf Club Bedminster was scheduled for September 4, not September 3, so no leisure-related federal outlay is counted for the target date.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Sept. 3, 2026: $0 in documented presidential leisure costs. Trump’s public schedule shows White House meetings and signing time; Bedminster leisure travel appears scheduled for Sept. 4, not Sept. 3.",
+  "tags": [
+    "white-house",
+    "no-documented-leisure",
+    "zero-cost-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://conservativedailynews.com/2026/09/president-donald-trumps-schedule-for-friday-september-4-2026",
+    "https://yahoo.com/news/politics/articles/trump-embarks-4-day-golf-212237183.html"
+  ]
+}
