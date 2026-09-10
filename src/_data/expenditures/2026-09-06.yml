@@ -1,0 +1,27 @@
+{
+  "location": "Trump National Golf Club Bedminster, Bedminster, New Jersey",
+  "activities": [
+    {
+      "name": "Golf weekend stay at Trump National Golf Club Bedminster",
+      "cost": 310000,
+      "description": "The roll call places President Trump at Trump National Golf Club Bedminster on September 6, 2026, and in-window news coverage describes the Labor Day weekend as a four-day golf resort getaway at his Bedminster club. Under the benchmark method for a documented off-site leisure day, this day is costed at $300,000 for peak off-site Secret Service and staff plus an estimated $10,000 for local motorcade movements, totaling about $310,000.",
+      "category": "golf"
+    }
+  ],
+  "total_cost": 310000,
+  "social_description": "Sept. 6, 2026: about $310,000 in taxpayer-funded leisure costs for Trump’s Bedminster golf weekend, driven by off-site Secret Service and motorcade expenses.",
+  "tags": [
+    "bedminster",
+    "golf",
+    "trump-property",
+    "secret-service",
+    "motorcade",
+    "leisure-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.yahoo.com/news/politics/articles/trump-embarks-4-day-golf-212237183.html",
+    "https://yahoo.com/news/politics/articles/donald-trump-labor-day-golf-061105113.html"
+  ],
+  "social_title": "Sept. 6, 2026: about $310,000 in taxpayer-funded leisure costs for Trump’s Bedminster golf weekend"
+}
