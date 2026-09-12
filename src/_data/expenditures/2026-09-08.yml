@@ -1,0 +1,23 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The roll call places President Trump at the White House and the Ellipse on September 8, 2026 for executive time, a Steel Across America event, executive orders, and policy meetings. These are official on-site activities, and no in-window source documents golf, resort travel, or other leisure/recreational activity on the target date, so no leisure-related federal outlay is counted.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Sept. 8, 2026: $0 in documented presidential leisure costs. Trump’s public schedule shows White House and Ellipse official events, not golf or other recreational travel.",
+  "tags": [
+    "white-house",
+    "official-business",
+    "no-documented-leisure",
+    "zero-cost-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://x.com/WHPressPool/status/2097120271937290702"
+  ]
+}
