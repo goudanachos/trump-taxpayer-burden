@@ -1,0 +1,26 @@
+{
+  "location": "Dallas, Texas",
+  "activities": [
+    {
+      "name": "Official presidential travel to Dallas for political events",
+      "cost": 0,
+      "description": "The roll call and in-window coverage show President Trump traveled from Washington to Dallas on September 9, 2026 for a MAGA Inc. meeting and the RNC Midterm Convention at the American Airlines Center. Those are political/official appearances rather than documented leisure or recreational activities such as golf, resort time, or a visit to a Trump property, so no leisure-related federal outlay is counted for the target date under the stated methodology.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Sept. 9, 2026: $0 in documented presidential leisure costs. Trump flew to Dallas for MAGA Inc. and RNC convention events, not for golf or other recreational activity.",
+  "tags": [
+    "dallas",
+    "official-travel",
+    "political-event",
+    "no-documented-leisure",
+    "zero-cost-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.aljazeera.com/news/2026/9/9/republican-midterm-convention-2026-what-to-know-about-trumps-dallas-event",
+    "https://www.nbcdfw.com/elections/trump-a-palooza-republican-midterm-convention-dallas-day-1/4074435/",
+    "https://whitehouse.gov/gallery/president-donald-j-trump-participates-in-a-meeting-in-the-oval-office-september-9-2026"
+  ]
+}
