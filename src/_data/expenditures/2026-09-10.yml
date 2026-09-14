@@ -1,0 +1,29 @@
+{
+  "location": "Dallas, Texas, and overnight return flight to the White House/Joint Base Andrews",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "category": "none",
+      "description": "The in-window schedule and contemporaneous coverage show President Trump in Dallas for official and political events: a Fox News interview, a tour and remarks at the National Medal of Honor Museum, an RNC roundtable, and the RNC Midterm Convention, followed by a late-night departure for Joint Base Andrews. None of the date-specific sources reviewed document golf, resort time, or other leisure/recreational activity on 2026-09-10, so no leisure-related federal outlay is counted for this date."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "On 2026-09-10, Trump was in Dallas for interviews, a Medal of Honor Museum visit, and RNC convention events before flying back to Washington. No in-window source documented leisure or recreational activity, so the leisure-cost total for the day is $0.",
+  "tags": [
+    "zero-cost",
+    "no-documented-leisure",
+    "dallas",
+    "official-travel",
+    "rnc-convention"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.tradingview.com/news/macenews:d2549e623094b:0-wednesday-thursday-white-house-schedule-president-trump-travels-to-dallas-for-the-rnc-midterm-convention/",
+    "https://rollcall.com/section/white-house/?pos=oblo",
+    "https://www.fox4news.com/news/trump-visit-national-medal-honor-museum-arlington",
+    "https://www.pbs.org/newshour/politics/watch-live-2026-republican-midterm-convention-night-2",
+    "https://whitehouse.gov/videos/president-donald-j-trump-at-the-national-medal-of-honor-museum-in-arlington-texas",
+    "https://whitehouse.gov/videos/president-trump-gaggles-with-press-at-dallas-fort-worth-international-airport-sep-10-2026"
+  ]
+}
