@@ -1,0 +1,26 @@
+{
+  "location": "The White House and the Pentagon, Washington area; overnight departure from Joint Base Andrews for Dublin, Ireland",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "category": "none",
+      "description": "The schedule and contemporaneous coverage show President Trump returning to the White House shortly after midnight, attending the 9/11 observance and wreath-laying ceremonies at the Pentagon with the First Lady, holding White House meetings in the afternoon, and departing Joint Base Andrews late at night for Dublin. Although the Ireland trip was later described as golf-centered, the in-window sources for 2026-09-11 document only official commemorative events and the departure flight itself, not any leisure or recreational activity occurring on this date, so no leisure outlay is counted for 2026-09-11."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "On 2026-09-11, Trump spent the day at the White House and Pentagon for 9/11 observances and meetings, then departed late for Ireland. No in-window source documents leisure or recreation on that date, so the leisure-cost total is $0.",
+  "tags": [
+    "zero-cost",
+    "no-documented-leisure",
+    "white-house",
+    "pentagon",
+    "dublin-departure"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://apnews.com/article/trump-sept-11-pentagon-2366fe3bb4948c068eaceb392ddbd948",
+    "https://www.nbcnews.com/news/us-news/live-blog/9-11-attacks-memorial-ceremony-nyc-trump-mamdani-live-updates-rcna597049",
+    "https://www.theguardian.com/us-news/live/2026/sep/11/september-11-anniversary-memorials-world-trade-center-pentagon-vance-trump-us-politics-live"
+  ]
+}
