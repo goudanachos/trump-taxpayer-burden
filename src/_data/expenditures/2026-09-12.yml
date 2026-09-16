@@ -1,0 +1,28 @@
+{
+  "location": "Dublin and Doonbeg, Ireland (Trump International Golf Links and Hotel Ireland)",
+  "activities": [
+    {
+      "name": "International trip to Trump Doonbeg resort and attendance at the Irish Open",
+      "cost": 3139000,
+      "category": "leisure",
+      "description": "In-window sources and the White House schedule show President Trump flew overnight from Joint Base Andrews to Dublin, conducted official meetings in Dublin, then flew onward to Shannon and traveled to Trump International Golf Links and Hotel Ireland in Doonbeg, where the schedule states he attended the 2026 Amgen Irish Open. Because the destination was his golf resort and the event was a golf tournament at that property, this qualifies as documented leisure/recreational activity on 2026-09-12. Estimated federal outlay uses the benchmark method: VC-25A international flight Andrews→Dublin at about 6.75 flight-hours with international support factor 1 (~$2,400,881), off-site Secret Service/staff for the day ($300,000), local motorcade/ground movement ($10,000), short Dublin→Shannon helicopter/air lift estimated at ~0.78 hours of Marine One-equivalent cost ($18,720), plus incidentals capped at 15% ($409,440), rounded to $3,139,000."
+    }
+  ],
+  "total_cost": 3139000,
+  "social_description": "On 2026-09-12, Trump flew to Ireland, then continued to his Doonbeg golf resort and attended the Irish Open there. Using the benchmark method for international presidential leisure travel, the estimated taxpayer-funded leisure cost for the day is $3.139 million.",
+  "tags": [
+    "doonbeg",
+    "golf",
+    "irish-open",
+    "international-travel",
+    "trump-property",
+    "leisure"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://apnews.com/article/trump-ireland-golf-doonbeg-d27255f69646d08f45e1d3fb2ec01fc9",
+    "https://www.theguardian.com/us-news/live/2026/sep/12/donald-trump-ireland-golf-catherine-connolly-us-politics-latest-news-updates",
+    "https://www.nytimes.com/2026/09/12/world/europe/trump-irish-open-ireland-doonbeg.html"
+  ],
+  "social_title": "Trump’s Ireland trip to Doonbeg and the Irish Open cost an estimated $3.139 million"
+}
