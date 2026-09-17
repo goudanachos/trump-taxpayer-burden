@@ -1,0 +1,29 @@
+{
+  "location": "Trump International Golf Links and Hotel Ireland, Doonbeg, Ireland; later Shannon Airport and return to the White House",
+  "activities": [
+    {
+      "name": "Attendance at Irish Open final round at Trump Doonbeg and return travel from resort",
+      "cost": 5345000,
+      "category": "leisure",
+      "description": "The White House schedule places President Trump at Trump International Golf Links and Hotel Ireland in Doonbeg for the 2026 Amgen Irish Open Final Round, including an appearance at the first tee and presentation of the tournament trophy, before departing the resort for Shannon and then flying back to Joint Base Andrews. Independent in-window coverage also reported that he attended the Irish Open at his Doonbeg golf property and left Ireland afterward. Using the benchmark method, the leisure cost for 2026-09-13 is estimated from the international VC-25A return leg Shannon→Joint Base Andrews at about 5.5 flight-hours with support factor 1 (~$1,956,273), plus the same-day international inbound portion already occurring on the target date from the prior overnight Ireland trip attributable to the leisure stay (~6.5 flight-hours on target date at ~$2,311,959), off-site Secret Service/staff ($300,000), local motorcades/ground transfers in Doonbeg and Shannon ($20,000 total), local law-enforcement assist ($60,000), and incidentals capped at 15%, rounded to $5,345,000."
+    }
+  ],
+  "total_cost": 5345000,
+  "social_description": "On 2026-09-13, Trump attended the Irish Open final round at his Doonbeg golf resort, appeared at the first tee, presented the trophy, and flew home from Shannon. Estimated taxpayer-funded leisure cost for that day: $5.345 million.",
+  "tags": [
+    "doonbeg",
+    "golf",
+    "irish-open",
+    "international-travel",
+    "trump-property",
+    "leisure"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://whitehouse.gov/videos/president-trump-gaggles-with-press-at-first-tee-box-doonbeg-sep-13-2026",
+    "https://apnews.com/article/trump-golf-ireland-doonbeg-mcillroy-irish-open-ca1d352e6d84c3ac1500fedf70ae180e",
+    "https://www.irishtimes.com/ireland/2026/09/13/donald-trump-doonbeg-irish-open-visit/",
+    "https://whitehouse.gov/videos/president-trump-gaggles-with-press-upon-departure-from-shannon-ireland-sep-13-2026"
+  ],
+  "social_title": "Trump’s 2026 Irish Open trip to Doonbeg and return from Shannon was estimated at $5.345 million"
+}
