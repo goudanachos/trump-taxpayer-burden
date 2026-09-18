@@ -1,0 +1,24 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "category": "none",
+      "description": "The roll call places President Trump at the White House throughout 2026-09-14 for executive time, a live call into the All-In Summit, and multiple Oval Office policy meetings. No in-window date-specific source reviewed documents golf, resort travel, or any other leisure/recreational activity on this date, so no leisure-related federal outlay is counted."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "On 2026-09-14, Trump remained at the White House for executive time and policy meetings. No in-window source documented leisure or recreational activity, so the leisure-cost total for the day is $0.",
+  "tags": [
+    "zero-cost",
+    "no-documented-leisure",
+    "white-house",
+    "policy-meetings"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://beforeitsnews.com/u-s-politics/2026/09/president-donald-trumps-schedule-for-monday-september-14-2026-2631111.html",
+    "https://washingtonpolicyreview.substack.com/p/washington-policy-review-september-fd3"
+  ]
+}
