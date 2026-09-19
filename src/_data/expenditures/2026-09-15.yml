@@ -1,0 +1,21 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "category": "none",
+      "description": "The roll call places President Trump at the White House throughout 2026-09-15 for executive time, a Rose Garden photo opportunity, an ambassador credentialing ceremony, and policy meetings in the Oval Office. No in-window date-specific source documents golf, resort travel, or any other leisure/recreational activity on this date, so no leisure-related federal outlay is counted."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "On 2026-09-15, Trump remained at the White House for official events and meetings. No in-window source documented leisure or recreational activity, so the leisure-cost total for the day is $0.",
+  "tags": [
+    "zero-cost",
+    "no-documented-leisure",
+    "white-house",
+    "official-events"
+  ],
+  "confidence_level": "high",
+  "source_urls": []
+}
