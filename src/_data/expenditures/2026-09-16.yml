@@ -1,0 +1,22 @@
+{
+  "location": "The White House, Washington, D.C., and Gastonia, North Carolina",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "category": "none",
+      "description": "The roll call shows President Trump at the White House for executive time, policy meetings, photo opportunities, and signing time before an evening round trip to Gastonia, North Carolina, to deliver remarks, then returning to the White House the same night. No in-window date-specific source or schedule item documents golf, resort travel, or any other leisure/recreational activity on 2026-09-16, so no leisure-related federal outlay is counted."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "On 2026-09-16, Trump spent the day at the White House and made an evening round trip to Gastonia, North Carolina, for remarks. No in-window source documented leisure or recreational activity, so the leisure-cost total is $0.",
+  "tags": [
+    "zero-cost",
+    "no-documented-leisure",
+    "white-house",
+    "gastonia",
+    "official-travel"
+  ],
+  "confidence_level": "high",
+  "source_urls": []
+}
