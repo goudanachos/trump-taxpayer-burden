@@ -1,0 +1,23 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The available in-window evidence places President Trump at the White House on September 17, 2026 for executive time, an intelligence briefing, a policy meeting, executive-order signing, a tele-rally, and a Rose Garden dinner tied to official announcements. No in-window source documents golf, resort travel, recreational motorcade travel, or other leisure activity that would trigger taxpayer-funded leisure-cost benchmarks.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Sep. 17, 2026: Trump appears to have remained at the White House for meetings, executive orders, a tele-rally, and a Rose Garden dinner; no documented leisure or recreational travel/activity, so tracked leisure cost is $0.",
+  "tags": [
+    "white-house",
+    "official-business",
+    "no-documented-leisure",
+    "zero-cost-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://whitehouse.gov/gallery/president-donald-j-trump-hosts-a-rose-garden-dinner-for-americas-hunters-and-fishermen-while-announcing-new-executive-orders-september-17-2026"
+  ]
+}
