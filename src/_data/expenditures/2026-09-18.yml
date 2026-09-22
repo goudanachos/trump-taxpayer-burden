@@ -1,0 +1,33 @@
+{
+  "location": "Trump National Golf Club Washington DC, Sterling, Virginia; later Camp David, Maryland",
+  "activities": [
+    {
+      "name": "Evening travel to Trump National Golf Club Washington DC for MAGA Inc. meeting and dinner",
+      "cost": 310000,
+      "description": "On September 18, 2026, the president’s public schedule shows departure from the Ellipse at 6:04 PM, arrival at Trump National Golf Club Washington DC at 6:18 PM, participation in a MAGA Inc. meeting at 6:30 PM and a MAGA Inc. dinner at 7:15 PM, then departure at 9:07 PM. Because this was off-site travel to a Trump golf property, the leisure-cost methodology requires costing the federal outlay using benchmark estimates: local motorcade ($10,000) plus peak off-site Secret Service/staff ($300,000). No flight leg is documented for this segment on the target date.",
+      "category": "trump-property"
+    },
+    {
+      "name": "Transfer from Trump National Golf Club Washington DC to Camp David",
+      "cost": 0,
+      "description": "The president departed the golf club at 9:07 PM and arrived at Camp David at 9:53 PM. This onward movement is documented, but with no date-specific evidence here of a leisure activity at Camp David on September 18 itself, and no documented aircraft leg in the provided in-window evidence, no additional leisure outlay beyond the already-counted off-site golf-club detail is added for this item.",
+      "category": "travel"
+    }
+  ],
+  "total_cost": 310000,
+  "social_description": "Sep. 18, 2026: Trump traveled by motorcade to Trump National Golf Club Washington DC for a MAGA Inc. meeting/dinner, then continued to Camp David. Using benchmark off-site security and motorcade costs, tracked leisure-related taxpayer cost is estimated at $310,000.",
+  "tags": [
+    "trump-property",
+    "golf-club",
+    "motorcade",
+    "off-site-security",
+    "camp-david"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://whitehouse.gov/videos/president-trump-makes-an-announcement-on-healthcare-sep-18-2026",
+    "https://thehill.com/homenews/administration/6100118-trump-returns-camp-david-early/",
+    "https://thehill.com/homenews/6099431-live-updates-trump-iran-camp-david/"
+  ],
+  "social_title": "Sep. 18, 2026: Trump National Golf Club Washington DC trip for MAGA Inc. meeting and dinner cost an estimated $310,000"
+}
