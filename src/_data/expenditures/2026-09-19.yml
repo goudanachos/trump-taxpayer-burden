@@ -1,0 +1,24 @@
+{
+  "location": "Camp David, Maryland; later The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The available in-window evidence places President Trump at Camp David during the day on September 19, 2026 and back at the Ellipse/White House that evening after returning early. While Camp David can host downtime, the provided schedule and in-window coverage for this date do not document golf, resort travel, or another specific leisure/recreational activity occurring on September 19 itself, so no leisure outlay is counted for the day.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Sep. 19, 2026: Trump was at Camp David and returned early to Washington that evening; no in-window source documents a specific leisure or recreational activity on that date, so tracked leisure cost is $0.",
+  "tags": [
+    "camp-david",
+    "white-house",
+    "returned-early",
+    "no-documented-leisure",
+    "zero-cost-day"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://thehill.com/homenews/administration/6100118-trump-returns-camp-david-early"
+  ]
+}
