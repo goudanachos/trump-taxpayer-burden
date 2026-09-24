@@ -1,0 +1,32 @@
+{
+  "location": "Trump National Golf Club Washington DC, Sterling, Virginia; later The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Golf outing at Trump National Golf Club Washington DC",
+      "cost": 310000,
+      "description": "The September 20, 2026 public schedule places President Trump at Trump National Golf Club Washington DC from 9:30 AM to 4:35 PM after departing the White House at 8:53 AM, and the roll call explicitly labels the day as involving a Trump property and golf. Under the provided methodology, a documented golf trip by motorcade to a Trump golf club is costed using benchmark estimates for a short local motorcade ($10,000) plus peak off-site Secret Service and staff coverage ($300,000).",
+      "category": "golf"
+    },
+    {
+      "name": "Return motorcade from Trump National Golf Club Washington DC to the White House",
+      "cost": 0,
+      "description": "The return to the White House is part of the same already-costed same-day golf outing and is not added as a separate line item to avoid double counting; the benchmark motorcade amount above covers the local off-site trip burden for the outing.",
+      "category": "travel"
+    }
+  ],
+  "total_cost": 310000,
+  "social_description": "Sep. 20, 2026: Trump spent the day at Trump National Golf Club Washington DC for a documented golf outing before returning to the White House. Using benchmark off-site security and motorcade costs, tracked leisure cost is estimated at $310,000.",
+  "tags": [
+    "golf",
+    "trump-property",
+    "motorcade",
+    "off-site-security",
+    "sterling-virginia"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://tradingview.com/news/macenews:970ab8d65094b:0-friday-sunday-white-house-schedule-president-trump-travels-to-sterling-virginia-for-a-maga-event-then-to-camp-david",
+    "https://ibtimes.co.uk/trumps-secret-camp-david-escape-7-hour-golf-club-run-sparks-global-fury-1820951"
+  ],
+  "social_title": "Sep. 20, 2026: Trump’s golf outing at Trump National Golf Club Washington DC was estimated to cost $310,000"
+}
