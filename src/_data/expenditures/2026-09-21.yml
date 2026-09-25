@@ -1,0 +1,25 @@
+{
+  "location": "New York City, New York — Gracie Mansion and Trump Tower",
+  "activities": [
+    {
+      "name": "Travel to Trump Tower for political events",
+      "cost": 0,
+      "description": "The September 21, 2026 schedule shows President Trump traveling from Washington to New York, meeting Mayor Zohran Mamdani at Gracie Mansion, then meeting French President Emmanuel Macron and attending an RNC reception and MAGA Inc. dinner at Trump Tower. These are documented political, diplomatic, and campaign-related events rather than leisure or recreational activity, so no leisure-cost benchmark applies for this date.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Sep. 21, 2026: Trump traveled to New York for meetings at Gracie Mansion and Trump Tower, including an RNC reception and MAGA Inc. dinner. No documented leisure or recreational activity, so tracked leisure cost is $0.",
+  "tags": [
+    "new-york-city",
+    "trump-tower",
+    "official-travel",
+    "political-events",
+    "zero-cost-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://conservativedailynews.com/2026/09/president-donald-trumps-schedule-for-monday-september-21-2026",
+    "https://usa.news-pravda.com/usa/2026/09/21/890957.html"
+  ]
+}
