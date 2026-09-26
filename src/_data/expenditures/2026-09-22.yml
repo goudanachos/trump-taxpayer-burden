@@ -1,0 +1,27 @@
+{
+  "location": "New York City, New York — Trump Tower, the United Nations, and Lotte New York Palace Hotel",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The available in-window schedule and news coverage place President Trump in New York on September 22, 2026 for United Nations General Assembly remarks, bilateral and multilateral meetings, a leaders’ reception, and related official travel between Trump Tower, the U.N., and the Lotte New York Palace Hotel. Although he stayed at Trump Tower between official events, no in-window source documents golf, resort activity, or any other leisure/recreational activity on the target date, so no leisure outlay is counted.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Sep. 22, 2026: Trump was in New York for UNGA speeches, diplomatic meetings, and an official leaders’ reception, with movements via Trump Tower. No documented leisure or recreational activity, so tracked leisure cost is $0.",
+  "tags": [
+    "new-york-city",
+    "trump-tower",
+    "unga",
+    "official-travel",
+    "zero-cost-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/releases/2026/09/president-trump-at-the-united-nations-while-others-have-talked-i-have-acted/",
+    "https://bnonews.com/whpool/Ku4n1_Al",
+    "https://conservativedailynews.com/2026/09/president-donald-trumps-schedule-for-tuesday-september-22-2026",
+    "https://apnews.com/live/trump-unga-xi-ai-news-updates-9-22-2026"
+  ]
+}
