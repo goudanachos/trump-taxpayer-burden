@@ -1,0 +1,22 @@
+{
+  "location": "The White House, Washington, D.C.; brief movements via Joint Base Andrews",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The schedule places President Trump at the White House on September 23, 2026 for executive time and multiple policy meetings, with brief travel to and from Joint Base Andrews tied to the arrival of the president of the People's Republic of China. No in-window source documents golf, resort travel, recreational motorcade use, or other leisure activity on the target date, so no leisure outlay is counted.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Sep. 23, 2026: Trump was at the White House for meetings and official travel tied to a foreign-leader arrival; no documented leisure or recreational activity, so tracked leisure cost is $0.",
+  "tags": [
+    "white-house",
+    "joint-base-andrews",
+    "official-business",
+    "foreign-leader-visit",
+    "zero-cost-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": []
+}
