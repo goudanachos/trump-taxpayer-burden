@@ -1,0 +1,24 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The President remained at the White House for executive time and a full day of official state-visit events with Chinese President Xi Jinping, including an arrival ceremony, bilateral meetings, remarks, and a state dinner. The in-window schedule and coverage document official diplomatic business in Washington, with no reported golf, resort travel, or other recreational outing on September 24, 2026.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Sept. 24, 2026: Trump was at the White House all day for official China state-visit events and a state dinner; no documented leisure or recreational travel, so counted leisure cost is $0.",
+  "tags": [
+    "white-house",
+    "official-business",
+    "state-visit",
+    "zero-cost"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://conservativedailynews.com/2026/09/president-donald-trumps-schedule-for-thursday-september-24-2026",
+    "https://time.com/article/2026/09/24/Trump-Xi-meeting-White-House-2026-AI-trade-Iran/"
+  ]
+}
