@@ -1,0 +1,25 @@
+{
+  "location": "The White House and National Archives, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The President spent September 25, 2026 at the White House for tea and other official events with Chinese President Xi Jinping, then made a short official motorcade visit to the National Archives before returning to the White House for meetings and signing time. These were diplomatic and governmental activities tied to the China state visit, not leisure or recreational travel, so no leisure-cost outlay is counted.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Sept. 25, 2026: Trump’s day was official White House and National Archives business tied to Xi Jinping’s state visit, with no documented leisure or recreational activity, so counted leisure cost is $0.",
+  "tags": [
+    "white-house",
+    "national-archives",
+    "official-business",
+    "state-visit",
+    "zero-cost"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/releases/2026/09/president-trump-first-lady-conclude-historic-china-state-visit/",
+    "https://edition.cnn.com/2026/09/24/politics/live-news/trump-meeting-china-xi-us-visit"
+  ]
+}
