@@ -1,0 +1,29 @@
+{
+  "location": "Knoxville, Tennessee (via Joint Base Andrews and McGhee Tyson Airport)",
+  "activities": [
+    {
+      "name": "Trip to University of Tennessee vs. University of Texas football game",
+      "cost": 560000,
+      "description": "The President flew from Joint Base Andrews to McGhee Tyson Airport, motorcaded to Neyland Stadium, and attended the Tennessee–Texas college football game before returning to Washington the same day. The football game was a recreational outing, so the estimate applies the authorized benchmarks for roughly 1.05 flight-hours of VC-25A travel on the outbound leg actually incurred before/through the leisure event (~$186,735), peak off-site Secret Service and staff for the day ($300,000), local motorcade ($10,000), and activated local law-enforcement assistance (~$60,000), rounded to about $560,000.",
+      "category": "sports-leisure"
+    }
+  ],
+  "total_cost": 560000,
+  "social_description": "Sept. 26, 2026: Trump traveled to Knoxville to attend the Tennessee–Texas football game at Neyland Stadium. Using the benchmark method, the leisure-related federal cost for that day is estimated at about $560,000.",
+  "tags": [
+    "football",
+    "knoxville",
+    "neyland-stadium",
+    "air-force-one",
+    "motorcade",
+    "secret-service",
+    "sports-leisure"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.foxnews.com/outkick-sports/sec-crowd-greets-trump-massive-cheers-ahead-tennessee-texas-showdown",
+    "https://www.theguardian.com/sport/2026/sep/26/donald-trump-tennessee-texas-college-football-air-force-one",
+    "https://thehill.com/homenews/6112836-live-updates-trump-college-football-gop/"
+  ],
+  "social_title": "Trump Knoxville trip for Tennessee-Texas football game cost about $560,000"
+}
