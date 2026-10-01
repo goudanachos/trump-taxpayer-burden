@@ -1,0 +1,30 @@
+{
+  "location": "Medinah Country Club, Medinah, Illinois (via Joint Base Andrews, O'Hare International Airport, and motorcade)",
+  "activities": [
+    {
+      "name": "Attendance at the Presidents Cup golf tournament",
+      "cost": 650000,
+      "description": "The President flew from Joint Base Andrews to O'Hare, motorcaded to Medinah Country Club, and attended the Presidents Cup before returning to Washington that evening. This was a recreational golf-tournament outing, so the estimate applies the authorized benchmarks for about 1 hour 34 minutes of domestic VC-25A flying on the outbound leg incurred to reach the leisure event (~$278,621), peak off-site Secret Service and staff for the day ($300,000), local motorcade ($10,000), and local law-enforcement assistance activated for the visit (~$60,000), rounded to about $650,000.",
+      "category": "golf-leisure"
+    }
+  ],
+  "total_cost": 650000,
+  "social_description": "Sept. 27, 2026: Trump traveled to Medinah, Illinois for the Presidents Cup golf tournament. Using the benchmark method, the leisure-related federal cost for that day is estimated at about $650,000.",
+  "tags": [
+    "golf",
+    "presidents-cup",
+    "medinah",
+    "illinois",
+    "air-force-one",
+    "motorcade",
+    "secret-service",
+    "golf-leisure"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://apnews.com/article/president-donald-trump-presidents-cup-golf-e38806ec1d6905569c20b5ea48d983d0",
+    "https://abc7chicago.com/post/presidents-cup-2026-sunday-rally-protest-planned-security-heightened-donald-trump-expected-chicago-ohare-airport/19879791/",
+    "https://wgntv.com/western-suburbs/trump-attends-presidents-cup-at-medinah-country-club/"
+  ],
+  "social_title": "Sept. 27, 2026: Trump attended the Presidents Cup golf tournament at Medinah Country Club in Illinois; estimated federal cost was about $650,000"
+}
