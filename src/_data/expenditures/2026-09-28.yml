@@ -1,0 +1,24 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The President remained at the White House on September 28, 2026 for executive time, multiple policy meetings, and an official announcement, according to the daily schedule and White House posting. No in-window source documents golf, resort travel, or any other leisure or recreational activity that day, so counted leisure cost is $0.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Sept. 28, 2026: Trump stayed at the White House for policy meetings and an official announcement, with no documented leisure or recreational activity, so counted leisure cost is $0.",
+  "tags": [
+    "white-house",
+    "official-business",
+    "policy-meetings",
+    "zero-cost"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://thepavlovictoday.com/trumps-day-in-office-september-28-2026",
+    "https://www.whitehouse.gov/videos/president-trump-makes-an-announcement-sep-28-2026/"
+  ]
+}
