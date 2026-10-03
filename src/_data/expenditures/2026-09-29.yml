@@ -1,0 +1,26 @@
+{
+  "location": "The White House and Andrew W. Mellon Auditorium, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The President spent September 29, 2026 in Washington for official events, including an announcement on America.gov at the Andrew W. Mellon Auditorium, a White House luncheon and meeting on artificial intelligence, policy meetings, and executive-order signing. The schedule and in-window coverage show official government business only, with no documented golf, resort visit, or other leisure/recreational activity that day.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Sept. 29, 2026: Trump remained in Washington for an America.gov event, White House meetings, and executive orders; no documented leisure activity, so counted leisure cost is $0.",
+  "tags": [
+    "white-house",
+    "washington-dc",
+    "official-business",
+    "america-gov",
+    "zero-cost"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://tradingview.com/news/macenews:f3438d28e094b:0-tuesday-white-house-schedule-president-trump-makes-an-announcement-on-america-gov-at-10a-et",
+    "https://whitehouse.gov/videos/announcement-on-america-gov",
+    "https://thehill.com/homenews/administration/6116963-watch-live-donald-trump-ai-push-america-dot-gov-launch"
+  ]
+}
