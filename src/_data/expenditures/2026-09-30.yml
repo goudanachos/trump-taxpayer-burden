@@ -1,0 +1,25 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The President remained at the White House on September 30, 2026 for executive time, policy meetings, a Hispanic Heritage Month celebration, and an official announcement with the Secretary of Commerce. In-window schedule and news coverage show official White House business only, with no documented golf, resort travel, or other leisure or recreational activity that day.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Sept. 30, 2026: Trump stayed at the White House for policy meetings, a Hispanic Heritage Month event, and an official announcement; no documented leisure activity, so counted leisure cost is $0.",
+  "tags": [
+    "white-house",
+    "official-business",
+    "hispanic-heritage-month",
+    "zero-cost"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://thepavlovictoday.com/president-trump-schedule-september-30-2026/",
+    "https://www.c-span.org/event/white-house-event/president-trump-hosts-hispanic-heritage-month-celebration/447738",
+    "https://thehill.com/homenews/administration/6121943-trump-white-house-ballroom-hispanic-heritage-month/"
+  ]
+}
