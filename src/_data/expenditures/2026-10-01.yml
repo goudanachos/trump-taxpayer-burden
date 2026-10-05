@@ -1,0 +1,27 @@
+{
+  "location": "Washington, D.C.; Denton, Texas; Durant, Oklahoma; Dallas, Texas",
+  "activities": [
+    {
+      "name": "Official travel for site visit and political remarks; no documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The official schedule and contemporaneous local/national coverage place the President traveling from the White House to Denton, Texas for a Peterbilt site visit and then to Durant, Oklahoma for remarks at the Choctaw Event Center before returning via Dallas. These were official/political events, not documented leisure or recreational activity such as golf, resort time, or private club visits, so no leisure-attributable federal outlay is counted for this date.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Oct. 1, 2026: Trump traveled to Texas and Oklahoma for a site visit and remarks, with no in-window evidence of golf, resort time, or other leisure activity. Under the tracker’s methodology, that makes this a $0 leisure-cost day.",
+  "tags": [
+    "zero-cost-day",
+    "official-travel",
+    "no-documented-leisure",
+    "texas",
+    "oklahoma"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/videos/president-trump-participates-in-a-site-visit-oct-1-2026/",
+    "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-2026-midterm-elections-congress-iran-live-updates-rcna600823",
+    "https://kxii.com/2026/10/01/president-donald-trump-visit-durant-republican-midterm-rally",
+    "https://audacy.com/krld/news/local/trump-stops-at-a-denton-truck-plant-then-rallies-in-durant"
+  ]
+}
