@@ -1,0 +1,27 @@
+{
+  "location": "The White House, Washington, D.C.; Mobile, Alabama",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The official schedule shows the President at the White House for executive time, an intelligence briefing, and a policy meeting, followed by same-day travel to Mobile, Alabama for remarks at the Mitchell Center and return to Washington that night. In-window reporting describes a political rally/remarks in Mobile, not golf, resort time, or any other leisure or recreational activity, so no leisure-attributable federal outlay is counted for this date.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Oct. 2, 2026 was a $0 leisure-cost day: Trump spent the day in official White House meetings and traveled to Mobile for remarks, with no documented recreational activity.",
+  "tags": [
+    "zero-cost-day",
+    "official-travel",
+    "no-documented-leisure",
+    "white-house",
+    "mobile-alabama"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://whitehouse.gov/videos/president-trump-gaggles-with-press-upon-departure-from-the-white-house-oct-2-2026",
+    "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-vance-2026-midterm-elections-congress-live-updates-rcna601069",
+    "https://www.wkrg.com/mobile-county/trump-mobile-rally-mitchell-center-2/",
+    "https://www.al.com/news/2026/10/donald-trump-returns-to-alabama-what-to-expect-from-mobile-visit-live-updates.html"
+  ]
+}
