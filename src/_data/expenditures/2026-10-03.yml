@@ -1,0 +1,35 @@
+{
+  "location": "Trump National Golf Club Washington DC, Virginia; The White House, Washington, D.C.; Dayton/Vandalia, Ohio",
+  "activities": [
+    {
+      "name": "Golf outing at Trump National Golf Club Washington DC",
+      "cost": 310000,
+      "description": "The schedule places the President at Trump National Golf Club Washington DC from the morning until mid-afternoon before returning to the White House. In-window coverage independently confirms he visited his Virginia golf club that day before traveling to Ohio. Under the benchmark method, a same-day local golf trip is costed using peak off-site Secret Service and staff ($300,000) plus a short local motorcade estimate ($10,000).",
+      "category": "golf"
+    },
+    {
+      "name": "Campaign trip to Ohio remarks",
+      "cost": 0,
+      "description": "The evening trip to Vandalia/Dayton, Ohio was for political remarks at Vandalia-Butler High School Student Activity Center, not leisure or recreation, so it is not counted under the leisure-cost methodology.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 310000,
+  "social_description": "Oct. 3, 2026: Trump made a documented golf trip to Trump National Golf Club Washington DC before an Ohio campaign rally. Estimated taxpayer leisure cost: $310,000.",
+  "tags": [
+    "golf",
+    "trump-property",
+    "virginia",
+    "dayton-ohio",
+    "motorcade",
+    "off-site-security"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://reutersconnect.com/item/us-president-donald-j-trump-departs-golf-club/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFCQ1BSMTAyMTI5OTAwNQ",
+    "https://whitehouse.gov/gallery/departure-arrival-october-3-2026",
+    "https://www.nbcnews.com/politics/2026-election/trump-campaigning-ohio-says-midterms-will-bring-big-surprise-rcna601150",
+    "https://www.pbs.org/newshour/politics/trump-rallies-in-ohio-to-boost-jon-husted-in-a-tight-senate-race-against-sherrod-brown"
+  ],
+  "social_title": "Oct. 3, 2026: Trump made a documented golf trip to Trump National Golf Club Washington DC before an Ohio campaign rally; estimated taxpayer leisure cost was $310,000."
+}
