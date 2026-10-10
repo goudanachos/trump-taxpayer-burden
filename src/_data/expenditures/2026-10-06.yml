@@ -1,0 +1,27 @@
+{
+  "location": "The White House, Washington, D.C.; Sparrows Point Shipyard, Baltimore, Maryland",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The schedule places the President at the White House for executive time, policy meetings, and a Gold Star Families reception before a same-day trip to Sparrows Point Shipyard in Baltimore for remarks and a return to the White House. In-window coverage describes a shipyard announcement and manufacturing event, with no documentation of golf, resort time, or any other leisure or recreational activity on this date.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Oct. 6, 2026 was a $0 leisure-cost day: Trump spent the day in White House meetings and a Baltimore shipyard event, with no documented recreational activity.",
+  "tags": [
+    "zero-cost-day",
+    "official-travel",
+    "no-documented-leisure",
+    "white-house",
+    "baltimore-maryland"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://marylandmatters.org/2026/10/07/sparrows-point-shipyard-could-bring-thousands-of-jobs-promises-billions-in-investments/",
+    "https://www.wmar2news.com/news/region/baltimore-county/anduril-plans-3-7b-submarine-shipyard-at-sparrows-point-bringing-3-100-jobs-to-baltimore-county",
+    "https://www.pbs.org/newshour/politics/watch-live-trump-announces-manufacturing-site-for-submarine-components-in-baltimore",
+    "https://whitehouse.gov/videos/president-trump-delivers-remarks-oct-6-2026"
+  ]
+}
