@@ -1,0 +1,26 @@
+{
+  "location": "The White House, Washington, D.C.; San Antonio, Texas",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The schedule places the President at the White House for executive time, policy meetings, and an announcement before same-day travel to San Antonio for remarks at Freeman Coliseum. In-window reporting describes a political rally/trip, with no documentation of golf, resort time, or other leisure or recreational activity on this date.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Oct. 7, 2026 was a $0 leisure-cost day: Trump held White House meetings and traveled to San Antonio for remarks, with no documented recreational activity.",
+  "tags": [
+    "zero-cost-day",
+    "official-travel",
+    "no-documented-leisure",
+    "white-house",
+    "san-antonio-texas"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://news4sanantonio.com/news/local/today-trump-returns-to-san-antonio-for-freeman-coliseum-rally-with-ken-paxton-bexar-county-advertising-campaign-voters",
+    "https://www.ksat.com/news/local/2026/10/08/takeaways-from-president-donald-trumps-rally-in-san-antonio/",
+    "https://sanantonioreport.org/trump-rally-freeman-coliseum-san-antonio-texas/"
+  ]
+}
