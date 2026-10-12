@@ -1,0 +1,25 @@
+{
+  "location": "The White House and the United States Institute of Peace, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The schedule places President Trump at the White House for executive time, an intelligence briefing, a policy meeting, and a tele-rally, with a short in-town trip to the United States Institute of Peace for the 'A New Golden Age Summit.' In-window White House materials and news results document official events only; there is no in-window evidence of golf, resort travel, or other leisure/recreational activity on 2026-10-08, so no leisure outlay is counted.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "On 2026-10-08, Trump was documented at the White House and the U.S. Institute of Peace for official events, with no documented leisure or recreational travel. Daily leisure cost: $0.",
+  "tags": [
+    "white-house",
+    "official-business",
+    "washington-dc",
+    "zero-cost-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-trump-administration-announces-the-most-ambitious-set-of-science-initiatives-this-century/",
+    "https://www.whitehouse.gov/releases/2026/10/president-trump-presents-national-medals-of-science-and-national-medals-of-technology-and-innovation/",
+    "https://whitehouse.gov/videos/president-trump-participates-in-a-new-golden-age-summit"
+  ]
+}
