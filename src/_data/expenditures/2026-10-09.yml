@@ -1,0 +1,21 @@
+{
+  "location": "The White House, Joint Base Andrews, and The OnCenter in Syracuse, New York",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The schedule shows President Trump at the White House for executive time, official ceremonies, and policy meetings before a same-day trip to Syracuse, New York, to deliver remarks at The OnCenter, then returning to Washington that night. The documented travel and events are official in nature, and the provided roll call contains no evidence of golf, resort time, or other leisure/recreational activity on 2026-10-09, so no leisure outlay is counted.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "On 2026-10-09, Trump’s documented activity was official White House business plus a same-day official trip to Syracuse for remarks. No leisure or recreational activity was documented, so daily leisure cost is $0.",
+  "tags": [
+    "white-house",
+    "official-travel",
+    "syracuse",
+    "zero-cost-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": []
+}
