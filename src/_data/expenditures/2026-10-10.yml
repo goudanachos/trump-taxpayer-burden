@@ -1,0 +1,25 @@
+{
+  "location": "The White House, Joint Base Andrews, Campbell Army Airfield, and F&M Bank Arena in Clarksville, Tennessee",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The schedule and in-window coverage show President Trump spending the day in executive time at the White House, then taking an official political trip to Clarksville, Tennessee, to deliver remarks at F&M Bank Arena before returning to Washington that evening. Although a later stop at the Georgia-Alabama football game in Tuscaloosa had been contemplated, in-window reporting says that appearance was canceled on Oct. 9 because of Hurricane Isaias, so there is no documented leisure or recreational activity actually incurred on 2026-10-10.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "On 2026-10-10, Trump’s documented activity was a same-day official/political trip to Clarksville for a rally, then back to the White House. The planned Alabama football-game stop was canceled, so no leisure activity was documented and the daily leisure cost is $0.",
+  "tags": [
+    "white-house",
+    "official-travel",
+    "clarksville",
+    "tennessee",
+    "zero-cost-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://thehill.com/homenews/administration/6139679-trump-cancels-tuscaloosa-trip/",
+    "https://www.tennessean.com/story/news/politics/elections/2026/10/10/trump-rally-clarksville-live-updates/92168605007/"
+  ]
+}
