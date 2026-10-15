@@ -1,0 +1,24 @@
+{
+  "location": "Trump National Golf Club Washington, D.C., Sterling, Virginia",
+  "activities": [
+    {
+      "name": "Visit to Trump National Golf Club Washington, D.C.",
+      "cost": 310000,
+      "description": "The provided roll call places President Trump at Trump National Golf Club Washington, D.C. in Sterling for a MAGA Inc. lunch on 2026-10-11, and in-window reporting described it as an unannounced trip to his golf club with the motorcade arriving that morning. Under the benchmark methodology, a documented leisure visit to a Trump golf club is costed using local motorcade expenses plus peak off-site Secret Service/staff coverage; using $10,000 for local motorcade and $300,000 for off-site security yields an estimated $310,000 for the day.",
+      "category": "leisure"
+    }
+  ],
+  "total_cost": 310000,
+  "social_description": "On 2026-10-11, Trump made a documented trip to his golf club in Sterling, Virginia. Using the benchmark method for a local golf-club visit, the estimated taxpayer-funded leisure cost is $310,000.",
+  "tags": [
+    "golf-club",
+    "sterling-virginia",
+    "trump-property",
+    "leisure-travel"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://thedailybeast.com/donald-trump-80-marks-three-weeks-to-must-win-elections-with-golf-club-visit"
+  ],
+  "social_title": "Trump golf club visit in Sterling, Virginia estimated at $310,000"
+}
