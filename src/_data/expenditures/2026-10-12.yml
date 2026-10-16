@@ -1,0 +1,27 @@
+{
+  "location": "Trump National Golf Club Washington, D.C., Sterling, Virginia; later Youngstown, Ohio",
+  "activities": [
+    {
+      "name": "Morning visit to Trump National Golf Club Washington, D.C.",
+      "cost": 310000,
+      "description": "The roll call shows President Trump departing the White House at 9:08 AM for Trump National Golf Club Washington, D.C. in Sterling, arriving at 9:40 AM, before returning to the White House in mid-afternoon. An in-window Daily Beast report published on 2026-10-12 independently reported an unannounced trip to his Sterling golf club and cited the travel-pool report that the motorcade arrived at 9:40 a.m. Under the benchmark methodology, a documented golf-club leisure visit by local motorcade is costed as peak off-site Secret Service/staff coverage ($300,000) plus a short local motorcade ($10,000), for an estimated $310,000.",
+      "category": "leisure"
+    }
+  ],
+  "total_cost": 310000,
+  "social_description": "On 2026-10-12, Trump made a documented morning trip to his golf club in Sterling, Virginia before later traveling to Ohio for a rally. Using the benchmark method for a local golf-club visit, the estimated taxpayer-funded leisure cost is $310,000.",
+  "tags": [
+    "golf",
+    "trump-property",
+    "sterling-virginia",
+    "local-motorcade",
+    "leisure-travel"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.thedailybeast.com/donald-trump-80-marks-three-weeks-to-must-win-elections-with-golf-club-visit",
+    "https://www.cnn.com/2026/10/12/politics/trump-rally-ohio",
+    "https://whitehouse.gov/videos/president-trump-gaggles-with-press-upon-departure-from-the-white-house-oct-12-2026"
+  ],
+  "social_title": "Trump golf club visit in Sterling, Virginia estimated at $310,000 in taxpayer-funded leisure costs"
+}
