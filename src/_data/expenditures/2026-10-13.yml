@@ -1,0 +1,27 @@
+{
+  "location": "En route from Washington, D.C. to Wasilla, Alaska, then overnight in Las Vegas, Nevada at Trump International Hotel Las Vegas",
+  "activities": [
+    {
+      "name": "Overnight stay at Trump International Hotel Las Vegas",
+      "cost": 4470000,
+      "description": "The White House schedule and gallery for 2026-10-13 show President Trump traveling from Joint Base Andrews to Alaska for a rally in Wasilla, then departing Joint Base Elmendorf-Richardson that evening for Harry Reid International Airport in Las Vegas, with the official White House gallery captioning his subsequent departure from Harry Reid 'en route Trump International Hotel Las Vegas.' In-window local reporting independently confirmed he arrived in Las Vegas for an overnight stay ahead of the next day’s rally in Bullhead City. Because the overnight destination was his private Trump hotel rather than a White House or routine official facility, this is treated as a documented off-site leisure/personal-property stay. Estimated federal outlay: VC-25A Andrews→Anchorage about 7.9 flight-hours with international-style support factor 1 (about $2.81M) plus Anchorage→Las Vegas about 3.83 flight-hours with domestic support factor 0.5 (about $1.02M), plus peak off-site Secret Service/staff $300,000, local Las Vegas motorcade $10,000, local law-enforcement activation $60,000, and capped incidentals of about $570,000; rounded total ≈ $4,470,000.",
+      "category": "leisure"
+    }
+  ],
+  "total_cost": 4470000,
+  "social_description": "On 2026-10-13, Trump ended the day with a documented overnight trip to Trump International Hotel Las Vegas after campaign stops in Alaska. Using the benchmark method, the estimated taxpayer-funded leisure/property-stay cost is $4.47 million.",
+  "tags": [
+    "trump-property",
+    "las-vegas",
+    "overnight-stay",
+    "air-force-one",
+    "leisure-travel"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://whitehouse.gov/gallery/departure-arrival-october-13-2026",
+    "https://www.reviewjournal.com/local/traffic/trump-las-vegas-overnight-stay-to-lead-to-air-road-traffic-impacts-3899196/",
+    "https://alaskabeacon.com/2026/10/13/trump-rally-puts-wasilla-in-national-campaign-spotlight/"
+  ],
+  "social_title": "Trump overnight at Trump International Hotel Las Vegas cost an estimated $4.47 million"
+}
