@@ -1,0 +1,27 @@
+{
+  "location": "Trump International Hotel, Las Vegas, Nevada; later Bullhead City, Arizona, and Kalispell, Montana",
+  "activities": [
+    {
+      "name": "Overnight stay at Trump International Hotel Las Vegas",
+      "cost": 310000,
+      "description": "The roll call places President Trump at Trump International Hotel Las Vegas from shortly after midnight local time until his midday departure on 2026-10-14. In-window local coverage independently reported that he had arrived in Las Vegas for an overnight stay ahead of the Bullhead City rally, and separate same-day coverage stated he was waking up in Las Vegas before the Arizona trip. Under the benchmark methodology, a documented off-site stay at a Trump property is costed using peak off-site Secret Service/staff coverage ($300,000) plus a short local motorcade between Harry Reid International Airport and the hotel ($10,000), for an estimated $310,000.",
+      "category": "leisure"
+    }
+  ],
+  "total_cost": 310000,
+  "social_description": "On 2026-10-14, Trump was documented spending the morning at Trump International Hotel Las Vegas before campaign travel to Arizona and Montana. Using the benchmark method for an off-site Trump-property stay, the estimated taxpayer-funded leisure cost is $310,000.",
+  "tags": [
+    "trump-property",
+    "las-vegas",
+    "overnight-stay",
+    "local-motorcade",
+    "leisure-travel"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.reviewjournal.com/local/traffic/trump-las-vegas-overnight-stay-to-lead-to-air-road-traffic-impacts-3899196/",
+    "https://news3lv.com/news/local/president-donald-trump-rally-bullhead-city-arizona-laughlin-las-vegas-nevada-politics-midterm-elections-gop-republican-party-voting",
+    "https://www.whitehouse.gov/videos/president-trump-gaggles-with-press-at-bullhead-city-az-oct-14-2026/"
+  ],
+  "social_title": "Trump International Hotel Las Vegas overnight stay cost an estimated $310,000"
+}
