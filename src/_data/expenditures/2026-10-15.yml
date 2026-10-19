@@ -1,0 +1,23 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The President returned to the White House early on October 15, 2026 after overnight travel from Montana, then remained at the White House for executive time, a Rose Garden lunch, a policy meeting, an interview, and tele-rallies. No in-window source documents any golf outing, resort visit, private-club motorcade, or other leisure/recreational activity on the target date, so no leisure-specific federal outlay is counted.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Oct. 15, 2026: $0 in documented Trump leisure costs. The schedule shows him at the White House for official activities after returning overnight from Montana, with no documented golf, resort trip, or other recreational travel that day.",
+  "tags": [
+    "white-house",
+    "official-business",
+    "zero-cost",
+    "no-documented-leisure"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/2026/10/congressional-bills-s-240-s-283-and-s-2403-signed-into-law/"
+  ]
+}
