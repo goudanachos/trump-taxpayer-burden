@@ -1,0 +1,27 @@
+{
+  "location": "Mar-a-Lago, Palm Beach, Florida",
+  "activities": [
+    {
+      "name": "Travel to Mar-a-Lago after Georgia rally",
+      "cost": 710000,
+      "description": "On October 16, 2026, the President flew from Joint Base Andrews to Georgia for a political rally in Dalton, then continued that evening to Palm Beach and arrived at Mar-a-Lago at 8:38 PM. Because the target date includes documented travel to and arrival at his private resort, the leisure/recreational portion is costed using the benchmark method: estimated VC-25A flight time of about 1.27 hours from Andrews to the Atlanta area plus about 0.97 hours from Georgia to West Palm Beach, one off-site Secret Service day at $300,000 for the Mar-a-Lago stay, and a short local motorcade at $10,000. Political-rally activity itself is not leisure, but the same-day resort trip and off-site protection burden are counted.",
+      "category": "trump-property-trip"
+    }
+  ],
+  "total_cost": 710000,
+  "social_description": "Oct. 16, 2026: estimated $710,000 in Trump leisure-related federal costs, driven by same-day travel to and overnight stay at Mar-a-Lago after a Georgia rally.",
+  "tags": [
+    "mar-a-lago",
+    "trump-property",
+    "off-site-security",
+    "air-travel",
+    "motorcade"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://www.local3news.com/local-news/watch-live-president-trump-to-campaign-for-gops-collins-jackson-in-dalton-friday/article_0d0833b9-bfa2-4599-ad55-35b8c30d0d5c.html",
+    "https://cbs12.com/news/local/president-trump-departs-palm-beach-for-kentucky-rally-after-mar-a-lago-rnc-fundraiser-donald-trump-mar-a-lago-palm-beach-florida-rnc-fundraiser-republican-national-committee-gop-fundraiser-republican-party-kentucky-rally-northern-kentucky",
+    "https://www.whitehouse.gov/releases/2026/10/president-trump-returns-to-georgia-with-a-record-of-results/"
+  ],
+  "social_title": "Estimated $710,000 in federal costs for same-day travel to Mar-a-Lago after a Georgia rally"
+}
