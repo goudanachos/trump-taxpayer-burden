@@ -1,0 +1,27 @@
+{
+  "location": "Mar-a-Lago, Palm Beach, Florida",
+  "activities": [
+    {
+      "name": "Trip to and stay at Mar-a-Lago",
+      "cost": 670000,
+      "description": "The schedule shows the President starting the day at Mar-a-Lago, departing for a political rally in Highland Heights, Kentucky, and returning to Mar-a-Lago that evening, arriving at 6:35 PM before evening MAGA Inc. events there. Under the benchmark method, the leisure-related burden for the target date is the off-site Trump-property stay and associated same-day travel: about 2.04 flight hours between West Palm Beach and northern Kentucky on VC-25A (~$362,800), plus one peak off-site Secret Service day at $300,000 and a short local motorcade at $10,000, rounded to about $670,000. The rally itself is political rather than leisure, but the Mar-a-Lago stay is a documented Trump-property trip and is costed.",
+      "category": "trump-property-trip"
+    }
+  ],
+  "total_cost": 670000,
+  "social_description": "Oct. 17, 2026: estimated $670,000 in Trump leisure-related federal costs for the Mar-a-Lago trip and off-site protection, alongside same-day travel to a Kentucky rally and back.",
+  "tags": [
+    "mar-a-lago",
+    "trump-property",
+    "off-site-security",
+    "air-travel",
+    "motorcade"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://whitehouse.gov/videos/president-trump-gaggles-with-press-upon-arrival-at-hebron-ky-oct-17-2026",
+    "https://www.cincinnati.com/story/news/politics/2026/10/17/president-trump-holds-midterm-rally-in-highland-heights-kentucky--live/92265338007/",
+    "https://kentuckylantern.com/2026/10/17/trump-parachutes-to-ky-to-stump-for-republicans-in-safe-seats-give-gop-nod-in-tight-race/"
+  ],
+  "social_title": "Oct. 17, 2026: estimated $670,000 in federal costs for a Mar-a-Lago trip and same-day travel to a Kentucky rally"
+}
