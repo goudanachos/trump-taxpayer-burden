@@ -1,0 +1,22 @@
+{
+  "location": "The White House, Washington, D.C. / en route to and from Wichita, Kansas",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The President spent the day at the White House for executive time, an executive order signing, and policy meetings before traveling to Wichita, Kansas for a political rally in Park City. The in-window record provided documents official and political activity only, with no golf outing, resort stay, private-club motorcade, or other leisure/recreational activity on October 19, 2026, so no leisure-specific federal outlay is counted.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Oct. 19, 2026: $0 in documented Trump leisure costs. The day shows White House business and a Kansas political rally, with no documented golf, resort trip, or other recreational activity.",
+  "tags": [
+    "white-house",
+    "political-rally",
+    "official-business",
+    "zero-cost",
+    "no-documented-leisure"
+  ],
+  "confidence_level": "high",
+  "source_urls": []
+}
