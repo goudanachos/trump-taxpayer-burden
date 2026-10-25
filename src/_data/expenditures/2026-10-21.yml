@@ -1,0 +1,22 @@
+{
+  "location": "The White House, Washington, D.C. / Pendleton, South Carolina",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The President spent October 21, 2026 at the White House for executive time, policy meetings, and a roundtable before traveling to Pendleton, South Carolina for a political rally and returning to the White House that night. The provided in-window record documents official and political activity only, with no golf outing, resort stay, club visit, or other leisure/recreational activity on the target date, so no leisure-specific federal outlay is counted.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Oct. 21, 2026: $0 in documented Trump leisure costs. The day shows White House business and a South Carolina political rally, with no documented golf, resort trip, or other recreational activity.",
+  "tags": [
+    "white-house",
+    "political-rally",
+    "official-business",
+    "zero-cost",
+    "no-documented-leisure"
+  ],
+  "confidence_level": "high",
+  "source_urls": []
+}
