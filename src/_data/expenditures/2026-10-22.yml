@@ -1,0 +1,28 @@
+{
+  "location": "Travel from the White House and Joint Base Andrews to Sioux Gateway Airport, Sioux City, Iowa",
+  "activities": [
+    {
+      "name": "Political rally trip to Sioux City, Iowa",
+      "cost": 523000,
+      "description": "The White House schedule shows President Trump departing the White House, flying from Joint Base Andrews to Sioux City, holding a political rally at Sioux Gateway Airport, and departing Iowa later that night. KCCI and C-SPAN independently document that the Sioux City event occurred on Oct. 22, 2026. Using the authorized benchmarks, this is costed as same-day domestic VC-25A round-trip flying of about 0.4 hours each way with a 0.5 support factor, plus peak off-site Secret Service/staff for an off-site political event day and a local motorcade estimate.",
+      "category": "political-travel"
+    }
+  ],
+  "total_cost": 523000,
+  "social_description": "On 2026-10-22, Trump traveled from Washington to Sioux City for a political rally at Sioux Gateway Airport and returned the same night. Using the benchmark method, the taxpayer-funded leisure/political-travel burden is estimated at about $523,000.",
+  "tags": [
+    "political-rally",
+    "sioux-city",
+    "iowa",
+    "vc-25a",
+    "off-site-security",
+    "motorcade"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.kcci.com/article/trump-in-iowa-thursday-oct-22-sioux-city-airport-gop-rally/74217314",
+    "https://www.c-span.org/program/campaign-2026/trump-delivers-remarks-at-sioux-city-iowa-rally/686882",
+    "https://whitehouse.gov/releases/2026/10/iowa-wins-big-under-president-trump-lower-taxes-new-investment-and-stronger-rural-communities"
+  ],
+  "social_title": "Trump’s Oct. 22, 2026 political rally trip to Sioux City, Iowa, was estimated at $523,000"
+}
