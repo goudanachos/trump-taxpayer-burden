@@ -1,0 +1,29 @@
+{
+  "location": "Travel from the White House to Fort Myers, Florida, then onward to Mar-a-Lago in Palm Beach, Florida",
+  "activities": [
+    {
+      "name": "Political rally and same-day transfer to Mar-a-Lago",
+      "cost": 1057000,
+      "description": "The schedule shows President Trump leaving Washington for Fort Myers, holding a political rally at Alico Arena, then flying onward to Palm Beach and arriving at Mar-a-Lago that evening. Independent in-window sources confirm the Fort Myers stop and the Palm Beach arrival on Oct. 23, 2026. Using the benchmark method, the day is costed as domestic VC-25A flying of roughly 1.85 hours from Andrews to Fort Myers plus about 0.95 hours from Fort Myers to West Palm Beach, each with a 0.5 domestic support factor, plus peak off-site Secret Service/staff for the off-site travel day and a local motorcade estimate to/from venues and Mar-a-Lago.",
+      "category": "political-travel"
+    }
+  ],
+  "total_cost": 1057000,
+  "social_description": "On 2026-10-23, Trump flew to Fort Myers for a political rally and then continued to Mar-a-Lago in Palm Beach. Using the authorized benchmark method, the taxpayer-funded travel/security burden for that day is estimated at about $1.057 million.",
+  "tags": [
+    "political-rally",
+    "fort-myers",
+    "florida",
+    "mar-a-lago",
+    "vc-25a",
+    "off-site-security",
+    "motorcade"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.usatoday.com/story/news/politics/elections/2026/10/23/trump-fort-myers-rally-fgcu-florida--live/92336007007/",
+    "https://www.whitehouse.gov/videos/president-trump-gaggles-with-press-upon-arrival-at-fort-myers-fl-oct-23-2026/",
+    "https://whitehouse.gov/videos/president-trump-gaggles-with-press-upon-arrival-at-palm-beach-fl-oct-23-2026"
+  ],
+  "social_title": "Trump travel to Fort Myers rally and Mar-a-Lago on Oct. 23, 2026 estimated at $1.057 million"
+}
