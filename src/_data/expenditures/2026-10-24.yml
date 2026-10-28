@@ -1,0 +1,37 @@
+{
+  "location": "Mar-a-Lago and Trump International Golf Club West Palm Beach, then travel to Perry, Georgia, and back to the White House",
+  "activities": [
+    {
+      "name": "Golf outing at Trump International Golf Club West Palm Beach",
+      "cost": 373000,
+      "description": "The White House pool schedule shows President Trump departing Mar-a-Lago at 8:51 AM, arriving at Trump International Golf Club West Palm Beach at 8:59 AM, staying until 1:08 PM, and returning to Mar-a-Lago at 1:15 PM. The Palm Beach Post independently reported that the presidential motorcade arrived at Trump International Golf Club that morning. Using the benchmark method, this leisure outing is costed as short local motorcade travel, roughly 8 minutes each way of Marine One-equivalent rotary transport time if aviation support was used locally, peak off-site Secret Service/staff for an off-site leisure day segment, and activated local law-enforcement assistance in Palm Beach.",
+      "category": "golf"
+    },
+    {
+      "name": "Political rally travel from Palm Beach to Perry, Georgia, and return to Washington",
+      "cost": 950000,
+      "description": "Later the same day, the schedule shows President Trump flying from West Palm Beach to Robins Air Force Base, traveling to Guardian Centers in Perry for a 7:00 PM political rally, then returning that night via Robins Air Force Base to Joint Base Andrews and the White House. C-SPAN and 41NBC independently document the Perry rally on Oct. 24, 2026. Using the benchmark method, this same-day domestic travel is costed as about 1.05 flight hours from West Palm Beach to central Georgia plus about 1.35 flight hours from central Georgia to Andrews on VC-25A with a 0.5 domestic support factor, plus peak off-site Secret Service/staff and local motorcade travel.",
+      "category": "political-travel"
+    }
+  ],
+  "total_cost": 1323000,
+  "social_description": "On 2026-10-24, Trump spent the morning at his West Palm Beach golf club, then flew to Perry, Georgia for a political rally before returning to Washington. Using the authorized benchmarks, the day’s taxpayer-funded leisure/political-travel burden is estimated at about $1.323 million.",
+  "tags": [
+    "mar-a-lago",
+    "golf",
+    "trump-international-golf-club-west-palm-beach",
+    "palm-beach",
+    "perry-georgia",
+    "political-rally",
+    "vc-25a",
+    "off-site-security",
+    "motorcade"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.palmbeachpost.com/story/news/trump/2026/10/24/trump-palm-beacht-hannity-party-fort-myers-rally-and-voting-too/92400763007/",
+    "https://www.c-span.org/event/campaign-2026/president-trump-speaks-at-gop-miderm-rally-in-perry-ga/448712",
+    "https://www.41nbc.com/live-updates-president-donald-trump-holds-rally-in-perry-ahead-of-election-day/"
+  ],
+  "social_title": "Trump’s West Palm Beach golf outing and Perry, Georgia rally travel cost an estimated $1.323 million"
+}
