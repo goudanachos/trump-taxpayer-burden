@@ -1,0 +1,28 @@
+{
+  "location": "Travel from the White House to Port Huron, Michigan, and back to the White House",
+  "activities": [
+    {
+      "name": "Political rally trip to Port Huron, Michigan",
+      "cost": 866000,
+      "description": "The White House schedule shows President Trump departing the White House, flying from Joint Base Andrews to Selfridge Air National Guard Base, traveling to McMorran Place Arena in Port Huron for a 3:00 PM political rally, and returning to Washington that evening. USA Today and C-SPAN independently document that the Port Huron rally occurred on Oct. 25, 2026. Using the authorized benchmarks, this is costed as same-day domestic VC-25A round-trip flying of about 1.02 hours outbound and 1.07 hours return with a 0.5 domestic support factor, plus peak off-site Secret Service/staff for an off-site political event day and a local motorcade estimate.",
+      "category": "political-travel"
+    }
+  ],
+  "total_cost": 866000,
+  "social_description": "On 2026-10-25, Trump flew from Washington to Michigan for a political rally in Port Huron and returned the same evening. Using the benchmark method, the taxpayer-funded travel/security burden is estimated at about $866,000.",
+  "tags": [
+    "political-rally",
+    "port-huron",
+    "michigan",
+    "vc-25a",
+    "off-site-security",
+    "motorcade"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.usatoday.com/story/news/politics/elections/2026/10/25/trump-rally-port-huron-michigan-midterms/92376457007/",
+    "https://www.c-span.org/event/campaign-2026/trump-speaks-at-gop-midterm-rally-in-port-huron-michigan/448710",
+    "https://whitehouse.gov/gallery/arrival-departure-october-25-2026"
+  ],
+  "social_title": "Estimated taxpayer-funded cost of Trump’s Oct. 25, 2026 Port Huron, Michigan rally trip: $866,000"
+}
