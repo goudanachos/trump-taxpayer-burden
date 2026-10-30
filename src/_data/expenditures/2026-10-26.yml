@@ -1,0 +1,28 @@
+{
+  "location": "Travel from the White House to Corinth, Mississippi, and back to the White House",
+  "activities": [
+    {
+      "name": "Political rally trip to Corinth, Mississippi",
+      "cost": 1133000,
+      "description": "The White House schedule shows President Trump departing the White House, flying from Joint Base Andrews to Memphis, transferring to Corinth for a 7:00 PM political rally at Crossroads Arena, and returning to Washington that night. Clarion Ledger and WMC Action News 5 independently documented that the Corinth rally occurred on Oct. 26, 2026. Using the authorized benchmarks, this is costed as same-day domestic VC-25A flying of about 1 hour 38 minutes outbound and 1 hour 27 minutes return with a 0.5 domestic support factor, plus peak off-site Secret Service/staff for an off-site political event day and a local motorcade estimate.",
+      "category": "political-travel"
+    }
+  ],
+  "total_cost": 1133000,
+  "social_description": "On 2026-10-26, Trump flew from Washington to the Memphis/Corinth area for a political rally in Corinth, Mississippi, and returned the same night. Using the benchmark method, the taxpayer-funded travel/security burden is estimated at about $1.133 million.",
+  "tags": [
+    "political-rally",
+    "corinth",
+    "mississippi",
+    "vc-25a",
+    "off-site-security",
+    "motorcade"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.clarionledger.com/story/news/politics/2026/10/26/trump-in-corinth-mississippi-live-updates-from-campaign-event-today--live/92441975007/",
+    "https://www.actionnews5.com/2026/10/26/trump-rally-hyde-smith-kelly-corinth-ahead-midterms/",
+    "https://whitehouse.gov/gallery/departure-and-press-gaggle-october-26-2026"
+  ],
+  "social_title": "Trump’s White House to Corinth, Mississippi rally trip cost an estimated $1.133 million"
+}
