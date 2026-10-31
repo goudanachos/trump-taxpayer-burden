@@ -1,0 +1,30 @@
+{
+  "location": "Travel from the White House to Corpus Christi and Lubbock, Texas",
+  "activities": [
+    {
+      "name": "Political rally travel to Corpus Christi and Lubbock, Texas",
+      "cost": 2204000,
+      "description": "The White House schedule shows President Trump departing the White House for Texas, holding a political rally in Corpus Christi, flying onward to Lubbock for a second political rally, and beginning his return to Washington that night. PBS NewsHour and USA Today independently documented the Oct. 27 rallies in both Corpus Christi and Lubbock. Using the authorized benchmarks, this is costed as same-day domestic VC-25A flying of about 2 hours 56 minutes from Andrews to Corpus Christi, about 1 hour 10 minutes from Corpus Christi to Lubbock, and about 3 hours from Lubbock toward Andrews on the target date, with a 0.5 domestic support factor, plus peak off-site Secret Service/staff for an off-site political travel day and a local motorcade estimate.",
+      "category": "political-travel"
+    }
+  ],
+  "total_cost": 2204000,
+  "social_description": "On 2026-10-27, Trump flew from Washington to Corpus Christi and Lubbock for two Texas political rallies and began his return that night. Using the benchmark method, the taxpayer-funded travel/security burden incurred on that day is estimated at about $2.204 million.",
+  "tags": [
+    "political-rally",
+    "corpus-christi",
+    "lubbock",
+    "texas",
+    "vc-25a",
+    "off-site-security",
+    "motorcade"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.pbs.org/newshour/politics/watch-live-trump-campaigns-for-ken-paxton-at-rallies-in-texas",
+    "https://www.usatoday.com/story/news/politics/elections/2026/10/27/trump-talarico-paxton-texas-corpus-christi-lubbock-live-updates--live/92448990007/",
+    "https://www.kristv.com/news/local-news/live-updates-president-trump-campaigns-in-corpus-christi-ahead-of-election",
+    "https://www.texastribune.org/2026/10/27/donald-trump-james-talarico-lubbock-texas-election-2026/"
+  ],
+  "social_title": "Trump Texas rally travel to Corpus Christi and Lubbock estimated at $2.204 million"
+}
