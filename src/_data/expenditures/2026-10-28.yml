@@ -1,0 +1,27 @@
+{
+  "location": "Travel from the White House to Chillicothe, Ohio, and back to the White House",
+  "activities": [
+    {
+      "name": "Political rally trip to Chillicothe, Ohio",
+      "cost": 741000,
+      "description": "The White House schedule shows President Trump departing the White House, flying from Joint Base Andrews to Rickenbacker International Airport, traveling on to Chillicothe for a 7:00 PM political rally at the Shoemaker Center, and returning to Washington that night. NBC4 Columbus and the White House independently document that the Chillicothe rally occurred on Oct. 28, 2026. Using the authorized benchmarks, this is costed as same-day domestic VC-25A round-trip flying of about 51 minutes outbound and 46 minutes return with a 0.5 domestic support factor, plus peak off-site Secret Service/staff for an off-site political event day and a local motorcade estimate.",
+      "category": "political-travel"
+    }
+  ],
+  "total_cost": 741000,
+  "social_description": "On 2026-10-28, Trump flew from Washington to Chillicothe, Ohio for a political rally and returned the same night. Using the benchmark method, the taxpayer-funded travel/security burden is estimated at about $741,000.",
+  "tags": [
+    "political-rally",
+    "chillicothe",
+    "ohio",
+    "vc-25a",
+    "off-site-security",
+    "motorcade"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.nbc4i.com/news/your-local-election-hq/trump-visits-ohio-live-updates-from-chillicothe-midterm-rally/",
+    "https://www.whitehouse.gov/releases/2026/10/president-trump-returns-to-ohio-with-a-record-of-results/"
+  ],
+  "social_title": "Trump’s Chillicothe, Ohio rally trip from the White House is estimated at $741,000"
+}
