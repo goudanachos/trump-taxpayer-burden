@@ -1,0 +1,27 @@
+{
+  "location": "Rock Hill, South Carolina, with same-day travel from and back to the White House via Joint Base Andrews and Charlotte Douglas International Airport",
+  "activities": [
+    {
+      "name": "Political rally travel to Rock Hill, South Carolina",
+      "cost": 642000,
+      "description": "The President’s schedule and contemporaneous coverage show a same-day trip from Washington to Rock Hill for a political rally, then return to the White House. Because this was campaign/political travel rather than leisure or recreational activity, no leisure-specific benchmark category applies under the methodology; however, the published tracker rules require a determination and only leisure/recreational outlays are counted, so this day is recorded at $0 leisure cost despite substantial official/political travel occurring. Estimated non-leisure travel footprint, if noted contextually, would be roughly $642,000 using benchmark flight time plus off-site security and motorcade, but it is excluded from the leisure total.",
+      "category": "political-travel-excluded"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Oct. 29, 2026: Trump traveled to Rock Hill, S.C. for a political rally and returned to the White House. No documented leisure or recreational activity, so the tracker records a $0 leisure-cost day.",
+  "tags": [
+    "zero-cost-day",
+    "no-documented-leisure",
+    "political-rally",
+    "rock-hill-south-carolina",
+    "white-house"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.c-span.org/event/campaign-2026/president-trump-campaigns-at-midterm-rally-in-rock-hill-sc/448882",
+    "https://apnews.com/article/darline-graham-annie-andrews-trump-south-carolina-01f4f35da63d63385777dd2238226842",
+    "https://www.wbtv.com/2026/10/29/live-stream-trump-holds-midterm-rally-rock-hill/",
+    "https://whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-announces-halloween-at-the-white-house-2026"
+  ]
+}
