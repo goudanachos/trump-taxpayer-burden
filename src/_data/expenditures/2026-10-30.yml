@@ -1,0 +1,26 @@
+{
+  "location": "Daytona Beach, Florida, then Mar-a-Lago in Palm Beach, Florida",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity on the target date",
+      "cost": 0,
+      "description": "The President’s schedule shows a day of White House meetings, a campaign rally in Daytona Beach, and late-night arrival at Mar-a-Lago. In-window sources document the Daytona Beach trip as a campaign/political event and show only that he arrived at Mar-a-Lago shortly before midnight; they do not document any leisure or recreational activity on October 30 itself, so no leisure outlay is counted.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Oct. 30, 2026: Trump traveled to Daytona Beach for a political rally and arrived at Mar-a-Lago late that night, but no in-window source documents leisure or recreational activity on the date itself, so this is a $0 leisure-cost day.",
+  "tags": [
+    "zero-cost-day",
+    "no-documented-leisure",
+    "daytona-beach",
+    "mar-a-lago",
+    "political-rally"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://mynews13.com/fl/orlando/news/2026/10/29/president-donald-trump-to-hold-midterm-rally-in-daytona-beach-on-friday",
+    "https://whitehouse.gov/gallery/departure-october-30-2026",
+    "https://whitehouse.gov/videos/president-trump-gaggles-with-press-at-a-halloween-party-at-mar-a-lago-oct-31-2026"
+  ]
+}
