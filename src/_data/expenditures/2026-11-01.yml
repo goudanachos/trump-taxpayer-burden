@@ -1,0 +1,29 @@
+{
+  "location": "Mar-a-Lago in Palm Beach, Florida; then Dubuque, Iowa; then Salina, Kansas, with late return travel toward Washington",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The President began the day at Mar-a-Lago, then traveled to Dubuque and Salina for political rallies before departing Kansas for Joint Base Andrews late that night. Although he was physically at Mar-a-Lago in the morning, the in-window schedule and news coverage document campaign travel and rally activity, not golf or other leisure/recreational activity on November 1 itself, so no leisure outlay is counted.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Nov. 1, 2026: Trump started the day at Mar-a-Lago, then flew to campaign rallies in Iowa and Kansas. No documented leisure or recreational activity on the date, so this is a $0 leisure-cost day.",
+  "tags": [
+    "zero-cost-day",
+    "no-documented-leisure",
+    "mar-a-lago",
+    "dubuque",
+    "salina",
+    "political-rallies"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://whitehouse.gov/gallery/arrival-departure-november-1-2026",
+    "https://whitehouse.gov/videos/president-trump-gaggles-with-press-upon-arrival-at-dubuque-ia-nov-1-2026",
+    "https://www.nbcnews.com/politics/2026-election/trump-final-rally-28-stop-midterm-blitz-election-day-kansas-rcna606941",
+    "https://iowacapitaldispatch.com/2026/11/01/two-days-out-from-election-day-trump-rallies-for-iowa-republicans-in-dubuque/",
+    "https://www.kwch.com/2026/11/01/watch-president-trump-speaks-midterm-rally-salina-kansas/"
+  ]
+}
