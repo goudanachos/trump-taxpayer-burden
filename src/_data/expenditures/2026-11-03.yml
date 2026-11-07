@@ -1,0 +1,21 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The President remained at the White House throughout the day for interviews, policy meetings, signing time, and an Election Night viewing reception. The schedule documents official and political activity only, with no in-window evidence of golf, resort travel, or other leisure/recreational activity on November 3, so no leisure outlay is counted.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Nov. 3, 2026: Trump stayed at the White House for meetings, interviews, and an Election Night reception. No documented leisure or recreational activity, so this is a $0 leisure-cost day.",
+  "tags": [
+    "zero-cost-day",
+    "no-documented-leisure",
+    "white-house",
+    "election-night"
+  ],
+  "confidence_level": "high",
+  "source_urls": []
+}
