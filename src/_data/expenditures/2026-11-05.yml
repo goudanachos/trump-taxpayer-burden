@@ -1,0 +1,24 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "category": "none",
+      "description": "The public schedule places President Trump at the White House all day on November 5, 2026 for executive time, an intelligence briefing, policy meetings, and signing time in the Oval Office. In-window White House and news results reviewed do not document any golf, resort travel, or other leisure/recreational activity on the target date, so no leisure-specific federal outlay is counted."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Nov. 5, 2026: Trump was scheduled at the White House for briefings, policy meetings, and signing time, with no documented leisure or recreational travel. Estimated taxpayer leisure cost: $0.",
+  "tags": [
+    "white-house",
+    "official-business",
+    "zero-cost-day",
+    "no-documented-leisure"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://whitehouse.gov/videos/president-trump-participates-in-signing-time-nov-5-2026",
+    "https://whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-to-convene-russian-and-ukrainian-representatives-at-the-white-house"
+  ]
+}
