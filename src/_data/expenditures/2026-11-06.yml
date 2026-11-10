@@ -1,0 +1,27 @@
+{
+  "location": "Mar-a-Lago, Palm Beach, Florida",
+  "activities": [
+    {
+      "name": "Drop-by appearance at CPAC Circle Retreat and Gala at Mar-a-Lago",
+      "cost": 314000,
+      "category": "leisure",
+      "description": "After official events in Washington and at Kennedy Space Center, President Trump arrived at Mar-a-Lago at 7:50 PM and dropped by the CPAC Circle Retreat and Gala at 8:15 PM at his Palm Beach club. Two independent in-window sources document the Mar-a-Lago gala appearance and remarks; using the benchmark method, the leisure-related federal outlay for the off-site evening stop is estimated as peak off-site Secret Service/staff ($300,000) plus local transport/motorcade and short Florida helicopter movements associated with reaching and circulating between venues (~$14,000, rounded)."
+    }
+  ],
+  "total_cost": 314000,
+  "social_description": "Nov. 6, 2026: After official Kennedy Space Center events, Trump went to Mar-a-Lago and dropped by the CPAC Circle Retreat and Gala. Estimated taxpayer leisure cost for the Mar-a-Lago stop: $314,000.",
+  "tags": [
+    "mar-a-lago",
+    "cpac",
+    "leisure-travel",
+    "off-site-security",
+    "palm-beach"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://cbs12.com/news/local/miller-says-america-wouldnt-exist-without-trump-pledges-total-devotion-at-mar-a-lago-30-keywords-stephen-miller-donald-trump-mar-a-lago-cpac-palm-beach-white-house-chief-of-staff-deputy-chief-of-staff-susie-wiles-cpac-gala-cpac-circle-retreat",
+    "https://rollcall.com/factbase/trump/transcript/donald-trump-remarks-cpac-retreat-mar-a-lago-november-6-2026/",
+    "https://whitehouse.gov/gallery/president-donald-j-trump-delivers-remarks-at-nasas-kennedy-space-center-at-cape-canaveral-florida-november-6-2026"
+  ],
+  "social_title": "Estimated taxpayer leisure cost for Trump’s Mar-a-Lago CPAC stop: $314,000"
+}
