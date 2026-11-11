@@ -1,0 +1,26 @@
+{
+  "location": "Trump International Golf Club West Palm Beach / Mar-a-Lago, Palm Beach, Florida",
+  "activities": [
+    {
+      "name": "Golf outing at Trump International Golf Club West Palm Beach",
+      "cost": 370000,
+      "category": "golf",
+      "description": "The roll call places President Trump departing Mar-a-Lago at 8:53 AM, arriving at Trump International Golf Club West Palm Beach at 9:00 AM, remaining there until 2:48 PM, and returning to Mar-a-Lago at 2:54 PM. An in-window Palm Beach Post/Miami Herald report independently confirms he spent the weekend in Palm Beach and concluded Nov. 8 with a visit to Trump International Golf Club, consistent with a leisure golf stay on Nov. 7–8; applying the benchmark method for a same-day off-site golf outing yields peak off-site Secret Service/staff ($300,000) + local motorcade ($10,000) + activated local law-enforcement assist in Palm Beach ($60,000) = $370,000."
+    }
+  ],
+  "total_cost": 370000,
+  "social_description": "Nov. 7, 2026: Trump spent much of the day at Trump International Golf Club West Palm Beach after leaving Mar-a-Lago. Estimated taxpayer leisure cost for the golf outing: $370,000.",
+  "tags": [
+    "golf",
+    "trump-international-golf-club",
+    "mar-a-lago",
+    "palm-beach",
+    "off-site-security"
+  ],
+  "confidence_level": "medium",
+  "source_urls": [
+    "https://miamiherald.com/news/article317984526.html",
+    "https://yahoo.com/news/politics/articles/trump-likely-returning-mar-lago-204437961.html"
+  ],
+  "social_title": "Nov. 7, 2026 Trump golf outing at Trump International Golf Club West Palm Beach estimated at $370,000"
+}
