@@ -1,0 +1,27 @@
+{
+  "location": "Trump International Golf Club West Palm Beach / Mar-a-Lago, Palm Beach, Florida",
+  "activities": [
+    {
+      "name": "Golf outing at Trump International Golf Club West Palm Beach",
+      "cost": 370000,
+      "category": "golf",
+      "description": "The daily schedule places President Trump departing Mar-a-Lago at 8:41 AM, arriving at Trump International Golf Club West Palm Beach at 8:49 AM, staying there until 2:40 PM, and returning to Mar-a-Lago at 2:47 PM. An in-window Miami Herald/Palm Beach Post report also describes him being at Mar-a-Lago in Palm Beach that weekend; under the benchmark method, a same-day off-site golf outing is estimated at peak off-site Secret Service and staff ($300,000) plus local motorcade ($10,000) plus Palm Beach local law-enforcement assistance ($60,000)."
+    }
+  ],
+  "total_cost": 370000,
+  "social_description": "Nov. 8, 2026: Trump spent much of the day at Trump International Golf Club West Palm Beach before flying back to Washington. Estimated taxpayer leisure cost for the golf outing: $370,000.",
+  "tags": [
+    "golf",
+    "trump-international-golf-club",
+    "mar-a-lago",
+    "palm-beach",
+    "off-site-security"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://miamiherald.com/news/article317984526.html",
+    "https://whitehouse.gov/videos/president-trump-gaggles-with-press-upon-departure-from-palm-beach-fl-nov-8-2026",
+    "https://whitehouse.gov/gallery/president-donald-j-trump-speaks-to-members-of-the-media-before-boarding-air-force-one-at-donald-j-trump-international-airport-november-8-2026"
+  ],
+  "social_title": "Trump golf outing at Trump International Golf Club West Palm Beach cost an estimated $370,000"
+}
