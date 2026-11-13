@@ -1,0 +1,24 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "category": "none",
+      "description": "The public schedule places President Trump at the White House on November 9, 2026 for executive time, policy meetings, an Oval Office meeting with Qatar’s prime minister, an unscheduled press conference, and a television call-in later that evening. In-window results reviewed show official White House activity but no documented golf, resort travel, or other leisure/recreational activity on the target date, so no leisure-specific federal outlay is counted."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Nov. 9, 2026: Trump remained at the White House for meetings, a press conference, and a TV call-in, with no documented leisure or recreational travel. Estimated taxpayer leisure cost: $0.",
+  "tags": [
+    "white-house",
+    "official-business",
+    "zero-cost-day",
+    "no-documented-leisure"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://thepavlovictoday.com/trumps-day-in-office-november-9-2026",
+    "https://www.whitehouse.gov/videos/president-trump-delivers-remarks-nov-9-2026/"
+  ]
+}
