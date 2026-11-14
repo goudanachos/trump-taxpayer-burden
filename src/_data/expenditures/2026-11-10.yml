@@ -1,0 +1,23 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "category": "none",
+      "description": "The public schedule places President Trump at the White House on November 10, 2026 for executive time, a photo opportunity, policy meetings, signing time, and no announced off-site travel. In-window White House material reviewed reflects official business, and no in-window source documents any golf, resort trip, or other leisure/recreational activity on the target date, so no leisure-specific federal outlay is counted."
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Nov. 10, 2026: Trump remained at the White House for meetings, a photo op, and signing time, with no documented leisure or recreational travel. Estimated taxpayer leisure cost: $0.",
+  "tags": [
+    "white-house",
+    "official-business",
+    "zero-cost-day",
+    "no-documented-leisure"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.whitehouse.gov/briefings-statements/2026/11/congressional-bills-h-r-997-h-r-1703-h-r-1945-and-h-r-7730-signed-into-law/"
+  ]
+}
