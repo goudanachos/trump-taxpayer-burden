@@ -1,0 +1,26 @@
+{
+  "location": "Trump National Golf Club Washington DC / The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Golf outing at Trump National Golf Club Washington DC",
+      "cost": 310000,
+      "description": "After participating in official Veterans Day events at Arlington National Cemetery, President Trump departed Arlington at 12:33 PM, arrived at Trump National Golf Club Washington DC at 1:08 PM, stayed there until 4:59 PM, and then returned to the White House at 5:38 PM. The roll call and an independent in-window news report both document that he spent part of Veterans Day golfing at his Virginia club; under the benchmark method, this same-day off-site leisure outing is estimated at peak off-site Secret Service/staff ($300,000) plus local motorcade ($10,000).",
+      "category": "golf"
+    }
+  ],
+  "total_cost": 310000,
+  "social_description": "Nov. 11, 2026: After Arlington Veterans Day events, Trump went to Trump National Golf Club Washington DC for a golf outing before returning to the White House. Estimated taxpayer leisure cost: $310,000.",
+  "tags": [
+    "golf",
+    "trump-national-golf-club",
+    "virginia",
+    "veterans-day",
+    "off-site-security"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://yahoo.com/news/politics/articles/trump-golfed-veterans-day-50-200840911.html",
+    "https://whitehouse.gov/videos/president-trump-participates-in-the-2026-national-veterans-day-ceremony"
+  ],
+  "social_title": "Trump Veterans Day golf outing at Trump National Golf Club Washington DC estimated at $310,000"
+}
