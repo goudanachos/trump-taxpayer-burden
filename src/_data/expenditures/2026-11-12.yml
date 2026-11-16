@@ -1,0 +1,24 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The daily schedule places President Trump at the White House throughout November 12, 2026 for executive time, policy meetings, intelligence briefing, and recorded interviews, with a travel/photo lid called at 6:00 PM. Within the evidence window, I found no in-window source documenting golf, a resort trip, a leisure motorcade, or other recreational activity on the target date, so no leisure-related federal outlay is counted.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Nov. 12, 2026: Trump appears to have remained at the White House for meetings and interviews, with no documented leisure or recreational travel/activity. Leisure cost to taxpayers: $0.",
+  "tags": [
+    "white-house",
+    "zero-cost",
+    "no-documented-leisure",
+    "official-schedule"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://forth.news/stories/CgyCmZzh2TMkhQMKdoadS",
+    "https://tradingview.com/news/macenews:9bc0b2a27094b:0-friday-sunday-white-house-schedule-president-trump-spends-friday-through-sunday-at-the-white-house"
+  ]
+}
