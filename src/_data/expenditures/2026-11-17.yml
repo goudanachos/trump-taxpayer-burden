@@ -1,0 +1,27 @@
+{
+  "location": "Manila, Philippines",
+  "activities": [
+    {
+      "name": "Official international travel and summit meetings only",
+      "cost": 0,
+      "description": "On November 17, 2026, President Trump was in Manila for official meetings tied to the ASEAN and Quad summits, including a multilateral meeting with Quad leaders, a U.S.-Thai trade deal signing, an ASEAN-U.S. summit event, a U.S.-ASEAN dinner, and later bilateral events with Philippine officials. Although he was lodged and staged through Solaire Resort, the in-window schedule and news results document diplomatic and governmental activity rather than leisure or recreational activity, so no leisure-related taxpayer cost is counted for this date.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Nov. 17, 2026: Trump was in Manila for ASEAN/Quad diplomacy and bilateral meetings; no in-window source documents leisure or recreational activity that day, so leisure cost is $0.",
+  "tags": [
+    "international-trip",
+    "manila",
+    "official-business",
+    "zero-cost",
+    "no-documented-leisure"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://whitehouse.gov/briefings-statements/2026/11/quad-leaders-summit-joint-press-release",
+    "https://whitehouse.gov/briefings-statements/2026/11/joint-statement-on-an-agreement-between-the-united-states-of-america-and-the-kingdom-of-thailand-on-reciprocal-trade",
+    "https://whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-secures-historic-economic-deals-for-american-workers-and-strengthens-americas-leadership-in-asia",
+    "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit"
+  ]
+}
