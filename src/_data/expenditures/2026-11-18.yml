@@ -1,0 +1,28 @@
+{
+  "location": "Manila, Philippines and Shenzhen, China",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The schedule shows President Trump departing Manila for Shenzhen, then attending official APEC-related events including transit to The Langham, a leaders’ family photo, and an APEC banquet, with later executive time and interviews tied to the summit trip. Within the target-date evidence window, the documented activity is diplomatic travel and summit business rather than golf, resort leisure, or other recreational activity, so no leisure-related federal outlay is counted for November 18, 2026.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Nov. 18, 2026: Trump traveled from Manila to Shenzhen for APEC events and related meetings; no in-window source documents leisure or recreational activity, so leisure cost is $0.",
+  "tags": [
+    "international-trip",
+    "manila",
+    "shenzhen",
+    "apec",
+    "official-business",
+    "zero-cost",
+    "no-documented-leisure"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec",
+    "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-xi-putin-china-apec-congress-2026-live-updates-rcna609888",
+    "https://abcnews.com/Politics/live-updates/trump-asia-trip-2026/?id=138187702"
+  ]
+}
