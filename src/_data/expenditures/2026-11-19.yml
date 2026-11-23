@@ -1,0 +1,24 @@
+{
+  "location": "Shenzhen, China; en route to Joint Base Andrews; The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "Official international summit meetings and return travel",
+      "cost": 0,
+      "description": "The daily schedule places the President in Shenzhen for a trilateral meeting and lunch with China's president, then departing Shenzhen Bao'an International Airport for Joint Base Andrews and returning to the White House that evening. These were official government activities and routine presidential travel, with no in-window source documenting any leisure or recreational activity on Nov. 19, 2026.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Nov. 19, 2026: Trump spent the day on official summit business in Shenzhen and then returned to Washington. No documented leisure or recreational activity was found, so the daily leisure cost is $0.",
+  "tags": [
+    "official-travel",
+    "international-trip",
+    "white-house",
+    "zero-cost-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://washingtonpost.com/politics/2026/11/19/white-house-offers-little-information-summit-outcome",
+    "https://www.cnn.com/2026/11/17/politics/live-news/trump-visit-china-philippines"
+  ]
+}
