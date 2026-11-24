@@ -1,0 +1,25 @@
+{
+  "location": "The White House, Washington, D.C.",
+  "activities": [
+    {
+      "name": "No documented leisure/recreational activity",
+      "cost": 0,
+      "description": "The schedule places the President at the White House all day for executive time, a policy meeting, a news conference, signing time, and a reception on the White House helipad. In-window coverage from CNN and The Hill describes the helipad event as an official White House reception honoring the United States Marine Band, with any announced donation characterized as personal rather than taxpayer-funded, so no leisure/recreational federal outlay is counted.",
+      "category": "none"
+    }
+  ],
+  "total_cost": 0,
+  "social_description": "Nov. 20, 2026: Trump remained at the White House for meetings, a press conference, signing time, and an official helipad reception honoring the Marine Band. No documented leisure or recreational activity, so the leisure cost is $0.",
+  "tags": [
+    "white-house",
+    "official-business",
+    "press-conference",
+    "zero-cost-day"
+  ],
+  "confidence_level": "high",
+  "source_urls": [
+    "https://edition.cnn.com/2026/11/20/politics/live-news/trump-white-house-press-conference",
+    "https://thehill.com/homenews/administration/6233969-live-dana-white-trump-helipad-reception/",
+    "https://whitehouse.gov/videos/president-trump-hosts-a-reception-nov-20-2026"
+  ]
+}
